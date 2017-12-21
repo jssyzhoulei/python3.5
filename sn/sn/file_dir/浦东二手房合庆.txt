@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价35604元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740862.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/6b3662ea-0f73-4dd8-bf05-165d26afa195.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，高区景观房，毛坯房",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|61.79平|高区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海湾新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "220万"
+}{
+  "singel_price": "单价34996元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/b2bf16c6-4d60-4ca5-b50c-2edd1a71a5a9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅朝南，楼层好，毛坯房",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|78.58平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "地纬家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "275万"
+}{
+  "singel_price": "单价35039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4393259166.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/99f937f6-62fa-4637-bc4f-d809684ce30c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区采光好，中等装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|51.37平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "前哨路288弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "180万"
+}{
+  "singel_price": "单价35783元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4722235.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/a4bf0eb9-1bc9-4659-9993-c02358d2c8be.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，采光无遮挡，毛坯房",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|83.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海湾新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "297万"
+}{
+  "singel_price": "单价32137元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4595233.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/60c80c3b-0c88-4727-97fb-41c0b2020e2f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室1厅|74.68平|低区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "前哨路288弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "240万"
+}{
+  "singel_price": "单价33209元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4617294.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/6b3019c7-92e0-468c-a199-cde6f62b5cda.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅朝南，上下楼方便，品质装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|88.53平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "294万"
+}{
+  "singel_price": "单价32675元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4266948.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/3f2acf5f-897c-4118-b7cc-7110f23dd7a7.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，低楼层，毛坯房",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|87.22平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海湾新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "285万"
+}{
+  "singel_price": "单价37478元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840192.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/12d7c68b-0a99-469d-a85d-c555dc32d8fa.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，卧室全南，低区出入方便，简单装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|58.7平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "220万"
+}{
+  "singel_price": "单价53973元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593424.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/3f1f5096-3e2d-4284-877f-70caef3f70e1.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，好楼层，装修精致",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|86.71平|中区/16层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "农房唐镇壹号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "468万"
+}{
+  "singel_price": "单价35039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764926.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/dc281784-0bd0-49c3-aa0f-eeafcb92c35b.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区景观好，简单装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|51.37平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "前哨路288弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "180万"
+}{
+  "singel_price": "单价25800元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760030.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/12e7eb6d-947a-4244-84a7-b0f0a9cd022d.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "带飘窗，卧室全南，高区景观房，精装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室1厅|102.71平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "华夏东路2895弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "265万"
+}{
+  "singel_price": "单价36764元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756539.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/db123d0f-a058-4b6d-b2a8-b426f9634706.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低区出入方便，毛坯房",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|57.12平|低区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海湾新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "210万"
+}{
+  "singel_price": "单价38649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712898.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/ff5b5784-ac58-473e-b88a-137742e7cadf.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，厨卫全明，采光无遮挡，简单装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|49.16平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "环庆新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "190万"
+}{
+  "singel_price": "单价53571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796527.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/cea74bbf-c657-41d9-b26d-2897e67a7310.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "房型正气，客厅朝南，视野很好，省装修费",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|84.0平|高区/16层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "农房唐镇壹号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "450万"
+}{
+  "singel_price": "单价54400元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727504.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/52af5544-06cf-43eb-bf23-044cc0475273.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，黄金楼层，精装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室2厅|125.0平|中区/16层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "农房唐镇壹号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "680万"
+}{
+  "singel_price": "单价56206元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4301777.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/1df2253e-0344-4807-87e4-c2cb405efdf1.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北户型，厨卫全明，黄金楼层，拎包入住",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室2厅|126.32平|中区/16层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "农房唐镇壹号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "710万"
+}{
+  "singel_price": "单价34783元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852138.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/4dbcd305-df5f-4627-af39-aaf2a95ed282.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，带飘窗，黄金楼层，品味装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室1厅|88.26平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "307万"
+}{
+  "singel_price": "单价33337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839796.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/06c7824a-c1f9-4d96-bf32-ae83a1494fda.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，好楼层，简单装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室1厅|71.99平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "前哨路198弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "240万"
+}{
+  "singel_price": "单价35169元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812417.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/3e95503a-bf67-48e0-ae64-252dbb72661a.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，厨卫全明，黄金楼层，品味装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室1厅|83.31平|中区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海湾新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "293万"
+}{
+  "singel_price": "单价28030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4754619.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/66f546b8-d269-46a7-bb34-bb83442a6bb6.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "房型正气，客厅朝南，低区出入方便，装修精美",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室2厅|132.0平|低区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "荣华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "370万"
+}{
+  "singel_price": "单价26218元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741224.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/abda9125-5df1-4d51-9158-bf85cee2ebfb.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区景观好，毛坯房",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室2厅|148.75平|高区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "荣华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "390万"
+}{
+  "singel_price": "单价27867元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738758.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/f9d2c625-6ab8-41c6-ada3-c7c3f8517a55.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "黄金楼层，装修精致，满五减税，热门带看",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室2厅|136.0平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "荣华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "379万"
+}{
+  "singel_price": "单价25921元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4521926.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/3c1b1f08-78d2-4ed9-8259-153c5a936714.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北直通，厨卫全明，光线充足，中等装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "3室2厅|121.52平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "前哨路231弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "315万"
+}{
+  "singel_price": "单价36638元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667659.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/41cfc3fc-4798-423d-bc74-ea066e4a75bd.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，低区出入方便，毛坯房",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|59.5平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "218万"
+}{
+  "singel_price": "单价31891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871337.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/cdb33083-e37a-45d9-a970-51d17cffd5cc.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，上下楼方便，简单装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|86.23平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "275万"
+}{
+  "singel_price": "单价40650元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781130.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/b3fddc79-abd3-4523-b3e1-3e1801d12bf0.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，客厅朝南，好楼层，装修精美",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|57.81平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "地纬家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "235万"
+}{
+  "singel_price": "单价37075元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780241.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/5de6456d-4a11-4cea-bec9-9eb30190558e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，上下楼方便，简单装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|57.99平|低区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "永旭家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "215万"
+}{
+  "singel_price": "单价38742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741068.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/ba11594c-cc04-4a6f-9adf-3112b13adada.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，厨卫全明，低楼层，装修精致",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|58.85平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海湾新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "228万"
+}{
+  "singel_price": "单价50375元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682071.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/84633c33-3c7f-433b-95e6-1c1b79a066d1.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，低楼层，品质装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "2室2厅|89.33平|低区/16层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "农房唐镇壹号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "450万"
+}{
+  "singel_price": "单价37377元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537738.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170309/6f6988d2-a586-4129-8825-d95f7c122aa8.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，品味装修",
+  "s_cate": "合庆",
+  "house_desc": [
+    "1室1厅|61.0平|低区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海湾新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/geqing",
+  "house_price": "228万"
+}

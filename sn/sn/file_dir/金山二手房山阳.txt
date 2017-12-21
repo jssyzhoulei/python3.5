@@ -1,0 +1,69 @@
+{
+  "singel_price": "单价18371元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/4be52495-5391-47c3-88f0-15dedada447f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，光线充足，简单装修，满五年",
+  "s_cate": "山阳",
+  "house_desc": [
+    "3室2厅|126.28平|中区/3层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "世纪城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shanyang",
+  "house_price": "232万"
+}{
+  "singel_price": "单价25589元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804071.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/b73a68a2-0cf3-4198-8410-a18a4c0b1918.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "低区出入方便，精装修，满两年，上门实勘",
+  "s_cate": "山阳",
+  "house_desc": [
+    "1室1厅|59.4平|低区/11层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "蓝色收获",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shanyang",
+  "house_price": "152万"
+}{
+  "singel_price": "单价20595元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809246.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/5b178e29-eaec-404a-993d-3b89a50c10e2.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "玉兰新村，采光好，装修精致，上门实勘",
+  "s_cate": "山阳",
+  "house_desc": [
+    "3室1厅|84.0平|高区/4层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "玉兰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shanyang",
+  "house_price": "173万"
+}{
+  "singel_price": "单价37443元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4562788.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/4f5d10c8-3694-4f86-ac52-7ceedfff6313.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "清风别墅，毛坯房，上门实拍，链家好房",
+  "s_cate": "山阳",
+  "house_desc": [
+    "5室3厅|261.73平|地上2层|(进门)东南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "清风别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shanyang",
+  "house_price": "980万"
+}

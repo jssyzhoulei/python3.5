@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价77177元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4366648.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170105/b11bef0f-da92-4e2e-a0a5-fb110495617d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，客厅朝南，地铁直达，楼层好",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|145.12平|中区/27层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南文大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1120万"
+}{
+  "singel_price": "单价79831元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2114098.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170120/c5dc4048-470b-48be-b800-1cf37163b748.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光好",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室1厅|66.39平|高区/6层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "肇周路417号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "530万"
+}{
+  "singel_price": "单价84068元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799283.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/5b6755d9-d058-4016-965e-b475eea75449.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，交通方便，光线充足，豪华装修",
+  "s_cate": "老西门",
+  "house_desc": [
+    "5室2厅|145.12平|中区/27层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南文大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1220万"
+}{
+  "singel_price": "单价80471元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4550649.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/0ed50838-69f6-43d5-b99c-8a7b60977906.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁房，上下楼方便",
+  "s_cate": "老西门",
+  "house_desc": [
+    "4室2厅|288.3平|低区/44层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "2320万"
+}{
+  "singel_price": "单价75584元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4857456.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/6508f53f-3141-4331-a01b-6203b205ee71.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，出行方便，上下楼方便",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|130.45平|低区/16层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "惠德公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "986万"
+}{
+  "singel_price": "单价66242元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836782.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/24b4076c-3e0f-413c-ad3f-d6d039448746.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|116.24平|低区/21层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中华东波小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "770万"
+}{
+  "singel_price": "单价73913元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641362.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/a0c1b155-c4ea-4d6b-a4f8-e199960897ef.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|115.0平|中区/21层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中华东波小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "850万"
+}{
+  "singel_price": "单价84127元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4170418.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/ff7217d4-729b-4502-ab9b-96af2de44384.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室1厅|71.32平|中区/15层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "陆家浜大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "600万"
+}{
+  "singel_price": "单价85017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4163040.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/675defe2-eba6-4fa1-ba20-69adb530adf8.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，出行方便，好楼层",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|158.79平|中区/29层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "黄浦众鑫城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价92139元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788840.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/1070b25b-1bfe-448b-b43f-f7fdead2359c.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "出行方便，高区景观好，装修精美，房本满两年",
+  "s_cate": "老西门",
+  "house_desc": [
+    "4室2厅|282.18平|高区/29层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "黄浦众鑫城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "2600万"
+}{
+  "singel_price": "单价95205元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850154.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/1d526985-035e-4f04-be09-1de41bb7a6a7.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带卫，地铁直达，好楼层，精装修",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|118.69平|中区/34层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1130万"
+}{
+  "singel_price": "单价73423元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4350331.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/874f39bb-4029-4f2a-beb4-77292bcca73f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "地铁房，黄金楼层，毛坯房，有钥匙房源",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|132.11平|中区/26层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金色黄浦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "970万"
+}{
+  "singel_price": "单价86327元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859351.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/e67fe4fb-a301-4509-ac8c-1ce165b9473d.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，出行方便，好楼层",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|121.63平|中区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "黄浦众鑫城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价69863元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/d9e382d5-d7af-4e25-b366-fe77cc416b41.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "客厅朝南，交通方便，楼层好，品质装修",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|135.98平|中区/32层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "幸运福邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "950万"
+}{
+  "singel_price": "单价81532元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794712.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/d3529361-6f82-4065-9810-4218274be203.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "南北直通，厨卫全明，出行方便，楼层好",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室0厅|36.55平|中区/5层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "牌楼小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "298万"
+}{
+  "singel_price": "单价90591元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737003.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/019cac3e-45fa-4bdd-a667-6cc8995dc331.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通便利，楼层好",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|149.02平|中区/27层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "开元坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价100922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718367.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/ddcde527-3443-45ff-bd88-22f8ef43f4b0.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁房，视野很好，装修经典，满5年",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|114.94平|高区/44层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1160万"
+}{
+  "singel_price": "单价95205元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710325.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/361e64de-04ed-47c8-9b27-38bb0e16e710.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁直达，低楼层，拎包入住，满五年",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|118.69平|低区/34层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1130万"
+}{
+  "singel_price": "单价85393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674961.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/4fa924f9-5dc7-4ae3-82d6-6e1446e04228.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，楼层好，装修精美",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|89.0平|中区/7层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "惠德公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "760万"
+}{
+  "singel_price": "单价86194元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647960.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/741136fa-2cc4-4b57-8235-5efd4a02cbb3.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，光线充足",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室0厅|67.29平|中区/16层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "林荫大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "580万"
+}{
+  "singel_price": "单价95602元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619496.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170503/b9b820c5-905b-43e1-904f-f13f222f41c0.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区阳光房",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室1厅|52.3平|高区/13层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "北方公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "500万"
+}{
+  "singel_price": "单价81512元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545129.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160906/a4e56d8f-fe81-4cd5-b00f-44e48bbebd4a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，交通方便，高区阳光房，装修经典",
+  "s_cate": "老西门",
+  "house_desc": [
+    "4室2厅|288.3平|高区/40层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "2350万"
+}{
+  "singel_price": "单价73540元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4532316.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160903/6e4e7e2a-58ca-4321-bfde-6f7a274fe08d.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通方便，采光无遮挡",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|135.98平|高区/32层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "幸运福邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价82797元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4513206.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/9887f610-7f51-4c7e-be25-3f77c2999a2f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|91.79平|中区/7层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "惠德公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "760万"
+}{
+  "singel_price": "单价79778元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4457347.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/e75d6260-82d1-4674-ac65-358095035e34.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁直达，好楼层，精装修，房本满五年",
+  "s_cate": "老西门",
+  "house_desc": [
+    "4室2厅|288.3平|中区/40层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价84405元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629205.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/f74dd6d6-69db-4e73-ad1e-b39b2de2bfd0.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "老西门",
+  "house_desc": [
+    "6室4厅|284.34平|高区/32层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "黄浦众鑫城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "2400万"
+}{
+  "singel_price": "单价83246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4565972.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/dd9ef6c2-3167-4f90-908d-85d03984dcd0.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "老西门",
+  "house_desc": [
+    "4室2厅|288.3平|低区/44层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "2400万"
+}{
+  "singel_price": "单价83246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852897.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/afb7efb4-6ca9-41dc-a570-c480f24027a4.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，地铁直达，好楼层",
+  "s_cate": "老西门",
+  "house_desc": [
+    "4室2厅|288.3平|中区/44层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "老西门新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "2400万"
+}{
+  "singel_price": "单价81128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783744.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/b6fe4b81-4ecd-4645-a4b4-74e0b6b2cded.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，出行方便，视野很好",
+  "s_cate": "老西门",
+  "house_desc": [
+    "3室2厅|160.24平|高区/16层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "惠德公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价80332元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757971.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/2c3589ad-140a-47a7-aec5-d2630e1fa705.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，地铁房，好楼层",
+  "s_cate": "老西门",
+  "house_desc": [
+    "2室2厅|110.79平|中区/15层|朝西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "惠达大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laoximen",
+  "house_price": "890万"
+}

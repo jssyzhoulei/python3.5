@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价45519元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4616763.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161227/bb81401b-a57a-48c2-8455-7e4cc6912bbd.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，低区出入方便，简单装修",
+  "s_cate": "真光",
+  "house_desc": [
+    "3室2厅|112.04平|低区/26层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "510万"
+}{
+  "singel_price": "单价48606元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4642365.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/c57d2226-d580-461a-a724-5448522d0502.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，高区景观房",
+  "s_cate": "真光",
+  "house_desc": [
+    "3室2厅|99.78平|高区/19层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "485万"
+}{
+  "singel_price": "单价48543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801389.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/2796efd0-c73f-456f-9a40-f46076195b61.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，采光无遮挡",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|65.92平|高区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "320万"
+}{
+  "singel_price": "单价51365元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612811.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/1de18921-5c7f-4de5-a2b2-a4342300055c.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "交通方便，好楼层，简单装修，满5年",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|71.06平|中区/6层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价54110元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4387249.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/e2d324eb-7a1a-4f14-8336-3cd4ab2b47a5.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "带落地窗，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室2厅|105.34平|中区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中鼎豪园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "570万"
+}{
+  "singel_price": "单价50263元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783621.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/414244de-e188-478b-8ed8-b9dcfce821e8.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，简单装修",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室1厅|47.35平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "香樟苑(普陀)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "238万"
+}{
+  "singel_price": "单价52290元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780827.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/5b9e4772-fae3-45d3-b5ec-d996e98a5023.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，好楼层，装修精美",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室2厅|75.54平|中区/26层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "395万"
+}{
+  "singel_price": "单价50869元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775518.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/63c5de72-5c36-4a98-88ab-afd03c5758be.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观好，毛坯房",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室1厅|47.18平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "真光新村第二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "240万"
+}{
+  "singel_price": "单价55399元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751657.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/1701cb54-7a92-4f86-8a6e-4e8da112f762.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "光线充足，简单装修，满5年，马上看房",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|64.08平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "355万"
+}{
+  "singel_price": "单价51612元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741488.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/7266a71d-b941-4044-9496-2e93fbc3b983.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，客厅带阳台，视野很好，装修精致",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室2厅|116.25平|高区/24层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "600万"
+}{
+  "singel_price": "单价54209元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711136.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/833e35d3-ea94-4882-aaff-311d6d2c4533.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "楼层好，毛坯房，满五减税，有钥匙房源",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室1厅|47.04平|中区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧六街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "255万"
+}{
+  "singel_price": "单价57259元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4649308.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/13365802-f7e2-45b4-9156-e803ee9af596.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室1厅|48.9平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价56698元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4588418.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170414/b03cfa93-b015-4f18-ba33-9cb85ef9e7ec.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室1厅|47.62平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧七街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价52065元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4518444.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/acb0e951-341d-426f-8bd0-895fc4b70c7b.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，客厅朝南，光线非常好，简单装修",
+  "s_cate": "真光",
+  "house_desc": [
+    "3室2厅|119.08平|高区/18层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价57331元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508412.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/347526d8-09c7-4f01-95de-b50890baab21.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，采光好，中等装修",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室1厅|36.28平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "真光七街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "208万"
+}{
+  "singel_price": "单价51744元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4431567.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161207/093001f4-c295-43bb-958e-3b53fa5c5ed8.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低楼层，装修精致",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|86.0平|低区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "真情公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "445万"
+}{
+  "singel_price": "单价50754元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1806666.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161212/abc4f3fa-ab42-4147-bf7b-18a81d12dbc0.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "带飘窗，卧室全南，黄金楼层，毛坯房",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室2厅|74.87平|中区/26层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "380万"
+}{
+  "singel_price": "单价47966元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610107.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/6335fe47-28e1-4099-a01b-b62099ae5ca8.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，黄金楼层",
+  "s_cate": "真光",
+  "house_desc": [
+    "3室2厅|117.79平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "565万"
+}{
+  "singel_price": "单价58555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4649785.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/50793699-208c-433f-9f5c-db6101629db2.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通便利，上下楼方便",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室2厅|96.49平|低区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中鼎豪园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "565万"
+}{
+  "singel_price": "单价50039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4426726.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161205/67388237-ee9b-49b1-88e4-03896242e553.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "视野开阔，简单装修，满5年，实地看房",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室2厅|75.54平|高区/26层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "378万"
+}{
+  "singel_price": "单价65253元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852478.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/0e7e4a79-2aff-402d-9180-7c935e58e774.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，低楼层，中等装修",
+  "s_cate": "真光",
+  "house_desc": [
+    "3室2厅|114.17平|低区/14层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "时代星园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "745万"
+}{
+  "singel_price": "单价48719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/66e5be6c-2348-41d8-b458-04267461071a.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，光线充足，房本满五年",
+  "s_cate": "真光",
+  "house_desc": [
+    "3室2厅|119.05平|中区/24层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "580万"
+}{
+  "singel_price": "单价46470元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707382.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/f5a15cdc-792a-4f51-9520-23dda8456f30.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野开阔，毛坯房",
+  "s_cate": "真光",
+  "house_desc": [
+    "1室1厅|45.19平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "真光九街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "210万"
+}{
+  "singel_price": "单价48240元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1129008.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/7a98ddfb-0d88-4c6d-a4d7-49dc8b6327ae.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，客厅朝南，低楼层，省装修费",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室2厅|120.23平|低区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "阳光威尼斯（四期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "580万"
+}{
+  "singel_price": "单价55664元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850932.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/00f96312-e03b-4173-9397-dbb11cb0b764.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，出行方便，上下楼方便",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|71.5平|低区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "398万"
+}{
+  "singel_price": "单价54644元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4746042.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/ba585905-c5be-41ed-8771-0900081c6c49.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，黄金楼层",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|71.37平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "390万"
+}{
+  "singel_price": "单价55611元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4745067.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/21a7180c-e359-4d51-b2aa-f3afc9f7cc96.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "交通方便，好楼层，精装修，房本满五年",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|79.12平|中区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "440万"
+}{
+  "singel_price": "单价53094元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712587.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/4e2d04a0-a8d2-461f-9bc9-b97bdf173203.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "地铁沿线，低区出入方便，中等装修，满五减税",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|65.92平|低区/24层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "350万"
+}{
+  "singel_price": "单价44135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704259.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/205cb181-0cbd-41fb-bc3f-3156d59a8031.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|82.7平|低区/24层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价51070元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561080.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/f16df0b2-2b01-4c10-8bdb-1db04b1c3c5e.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光无遮挡",
+  "s_cate": "真光",
+  "house_desc": [
+    "2室1厅|85.96平|高区/20层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "清涧三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhenguang",
+  "house_price": "439万"
+}

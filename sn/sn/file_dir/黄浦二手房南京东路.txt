@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价83472元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861840.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/ecf7fe41-f4c1-44f3-8997-cf5e1baec333.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "厨卫全明，地铁沿线，光线充足，简单装修",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室1厅|53.91平|中区/5层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "昭通路17号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "450万"
+}{
+  "singel_price": "单价81833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4838655.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/dade51d4-4cde-4ccb-a2da-fe8c8cf75631.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，上下楼方便",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|36.66平|低区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "北京东路345号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价84807元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685841.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/63375152-a986-48e7-9e6c-3aad53454d27.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，好楼层，中等装修",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室0厅|68.39平|中区/10层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "同兴大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "580万"
+}{
+  "singel_price": "单价107305元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4665784.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/69bf6ff6-44b7-4dc5-9c1f-2ca34bac734b.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁房，高区景观好",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室1厅|43.8平|高区/6层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "浙江中路185号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "470万"
+}{
+  "singel_price": "单价95035元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4467919.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/15dcb435-2248-4d53-b382-b3657c02b2f5.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "带落地窗，带飘窗，交通方便，好楼层",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室1厅|79.97平|中区/18层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "河畔明珠",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "760万"
+}{
+  "singel_price": "单价82169元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683345.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/15254d8a-bbf9-4d57-b5ae-90b868cf9936.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室0厅|60.85平|低区/19层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "银河公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "500万"
+}{
+  "singel_price": "单价105825元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650082.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/d4ba85d9-1ae7-4490-8850-34876c7b09ec.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "地铁沿线，光线充足，简单装修，房本满五年",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室1厅|93.55平|中区/21层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "990万"
+}{
+  "singel_price": "单价87759元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603800.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/40d02d30-9e52-4550-ac28-a8817ac3890c.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线非常好",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|43.3平|高区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "山北小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "380万"
+}{
+  "singel_price": "单价89952元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594901.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/71036824-58c3-4036-b7a9-205f8fcf3a73.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|52.25平|中区/21层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "松柏公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "470万"
+}{
+  "singel_price": "单价93103元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4857892.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/8f138f20-f592-42a4-ac96-866900dafdbd.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "出行方便，黄金楼层，简单装修，满5年",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室0厅|29.0平|中区/6层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "同兴大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "270万"
+}{
+  "singel_price": "单价61682元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4752487.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/badc1c94-2518-490b-8885-7f94d0c9d1ef.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，高区景观房",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "3室2厅|134.56平|高区/19层|朝东西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中信福申大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "830万"
+}{
+  "singel_price": "单价79202元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501208.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170211/f60ac2a9-c0ca-47f6-8f4a-2076e08ec30d.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，地铁直达，低楼层，省装修费",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室1厅|68.18平|低区/21层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "松柏公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "540万"
+}{
+  "singel_price": "单价70518元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788711.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/39d236e1-6ac0-4b87-aefc-965ec782f8e4.jpg_200x150.jpg",
+  "house_time": [
+    "1911年建"
+  ],
+  "house_title": "交通方便，高区景观好，精装修，房本满五年",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|36.87平|高区/6层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "恒丰大楼（黄浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价102009元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/d48e4331-279c-4b3a-9798-56cca475572d.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通便利，低区出入方便",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室2厅|98.03平|低区/16层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价93556元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662845.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/5735d462-40f8-460d-abd3-c03b79b3cef3.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁直达，高区阳光房",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|53.23平|高区/10层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "同兴大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "498万"
+}{
+  "singel_price": "单价89555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603566.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/80a507ee-4562-46b8-a767-69eead9070b2.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "地铁直达，楼层好，品质装修，满五年",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|53.04平|中区/10层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "同兴大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "475万"
+}{
+  "singel_price": "单价63299元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4569859.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/7bd11c54-019c-4d0d-85c9-8309225da40f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁房，视野很好",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "3室3厅|150.08平|高区/6层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "宁波路561号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "950万"
+}{
+  "singel_price": "单价76983元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4853904.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/854d455e-2cb8-4417-a6af-c90f4072157a.jpg_200x150.jpg",
+  "house_time": [
+    "1911年建"
+  ],
+  "house_title": "地铁沿线，采光好，省装修费，满五年",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|38.32平|高区/6层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "恒丰大楼（黄浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "295万"
+}{
+  "singel_price": "单价84724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823467.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/2f2574aa-5ba7-4ba5-a965-1fe6d5fba8a6.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁直达，高区景观房",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|38.95平|高区/5层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "昭通路59号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价85945元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712941.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/49cce931-a88e-4ff9-8388-bd1726a47dc0.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通方便，采光好",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室0厅|37.0平|高区/7层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "宁新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "318万"
+}{
+  "singel_price": "单价88252元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4477482.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170108/38b0d367-2594-4037-84bd-ef218bbd178a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "交通便利，采光好，精装修，实地看房",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "3室1厅|101.98平|高区/16层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南川大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "900万"
+}{
+  "singel_price": "单价89953元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848661.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/cdf0cf51-6bad-43eb-9d84-fa290ce9c530.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，好楼层",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|40.91平|中区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "汉口路407号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "368万"
+}{
+  "singel_price": "单价85435元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828921.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/7c2a99a8-0a5d-42b6-a795-66d3bce39ff8.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，楼层好",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室1厅|73.74平|中区/19层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "银河公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "630万"
+}{
+  "singel_price": "单价87265元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/709a0d27-fea9-4876-bedc-64e67ae20eb3.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，低楼层",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室1厅|73.11平|低区/21层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "松柏公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "638万"
+}{
+  "singel_price": "单价94594元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861404.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/61ba3896-5b71-4580-b17d-8f6bc43f68a8.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通便利，楼层好",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室0厅|37.0平|中区/7层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "宁新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "350万"
+}{
+  "singel_price": "单价105564元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739490.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/b3af28c0-0a40-4025-a22c-469b707b3e15.jpg_200x150.jpg",
+  "house_time": [
+    "1931年建"
+  ],
+  "house_title": "客厅带阳台，出行方便，低区出入方便，省装修费",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室2厅|66.31平|低区/21层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "福州大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "700万"
+}{
+  "singel_price": "单价81447元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676002.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161111/a8cc7beb-089f-4d57-aebb-d7f92b9bb889.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，交通方便，上下楼方便，简单装修",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室0厅|44.2平|低区/7层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "北京东路375号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "360万"
+}{
+  "singel_price": "单价90209元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564811.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170519/1941d193-9ad0-4fea-85d0-dbb996b0b23f.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁房，黄金楼层",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室0厅|67.62平|中区/10层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "同兴大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "610万"
+}{
+  "singel_price": "单价99838元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4377691.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161125/0b533d15-638e-4b0e-9cab-1ba256d23a76.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，出行方便，高区景观房，拎包入住",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "1室1厅|37.06平|高区/7层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "宁新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "370万"
+}{
+  "singel_price": "单价101363元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715569.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160511/98c64d42-f391-4213-acc9-09996d629db8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，低楼层",
+  "s_cate": "南京东路",
+  "house_desc": [
+    "2室2厅|108.52平|低区/18层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanjingdonglu",
+  "house_price": "1100万"
+}

@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价80500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788889.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/25e07ef5-5761-4831-836d-d6eb9a3bdfe3.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室1厅|55.9平|低区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "斜土新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "450万"
+}{
+  "singel_price": "单价76720元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774671.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/59311b92-f234-414b-acaa-90678657862c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，光线充足，简单装修",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室1厅|64.52平|中区/29层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南园小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "495万"
+}{
+  "singel_price": "单价72619元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761159.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/67b41916-74b7-479d-a0fc-4c601da2227b.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，视野开阔，省装修费",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "1室1厅|42.0平|高区/5层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "打浦路210弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "305万"
+}{
+  "singel_price": "单价79017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738884.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/ab177f8b-024d-41da-831b-abf1f067527f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，上下楼方便",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|105.04平|低区/28层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "富源公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "830万"
+}{
+  "singel_price": "单价95428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4717328.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/9c395248-e601-4262-aed6-40081bb573a1.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通，客厅带阳台，交通方便，光线充足",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "3室2厅|155.09平|中区/39层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海悦花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "1480万"
+}{
+  "singel_price": "单价87276元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706395.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/265cf01d-7a54-4d92-b66f-ec9457bc6664.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "1室1厅|38.04平|中区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南园新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "332万"
+}{
+  "singel_price": "单价77243元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698883.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/7fa45b55-187d-4882-823b-be76d4226fda.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，低区出入方便",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "3室2厅|115.22平|低区/33层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海华花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "890万"
+}{
+  "singel_price": "单价85855元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4625256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/4ca5302d-e7b3-420d-b5e8-b2a091daf75b.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "出行方便，低楼层，中等装修，满五年",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "1室1厅|38.32平|低区/20层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "康瞿小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "329万"
+}{
+  "singel_price": "单价71751元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4512741.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170620/5832859e-7e98-4615-98b6-8b51093bfdba.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "地铁房，采光好，简单装修，房本满五年",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|137.28平|高区/32层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "天天花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "985万"
+}{
+  "singel_price": "单价63878元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4401274.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161126/2c1a7750-bf6f-4262-8cdb-9c21926cf2b3.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通便利，高区景观好",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室0厅|48.53平|高区/5层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "打浦路480弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "310万"
+}{
+  "singel_price": "单价81081元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859954.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/451d21e6-9244-45ff-b58c-f1e02bdf7945.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "出行方便，黄金楼层，装修精致，满五年",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室1厅|68.45平|中区/20层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "康瞿小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "555万"
+}{
+  "singel_price": "单价70404元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844945.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/136b7e30-3165-47ca-b753-b773c36f068f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁房，上下楼方便",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "3室2厅|117.89平|低区/35层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海华花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "830万"
+}{
+  "singel_price": "单价78374元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833684.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/d6762794-6b48-4869-8eff-c967bbb79158.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，交通便利，视野开阔，简单装修",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "1室1厅|34.45平|高区/6层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南园新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价90748元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808709.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/716f81c8-0002-4869-943f-2c1d51eae2a3.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，出行方便，黄金楼层",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|90.36平|中区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "东晖花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "820万"
+}{
+  "singel_price": "单价84558元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798680.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/9fb54449-55f5-4782-89bd-f76d4a58376d.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，卧室带卫，地铁房，黄金楼层",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "3室2厅|153.74平|中区/35层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "大同花园南区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价84356元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784548.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/b01faf3c-d603-47af-a9e4-74fcb9b21af8.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "南北户型，卧室带卫，交通便利，低区出入方便",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "3室1厅|70.89平|低区/16层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "打浦大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "598万"
+}{
+  "singel_price": "单价77777元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767806.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/6f955099-952a-4e90-a018-397d03e2798e.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低楼层",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "1室1厅|45.0平|低区/29层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南园小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "350万"
+}{
+  "singel_price": "单价96426元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749727.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/8407bbf5-f4f5-4313-bce0-525ff3ff25e1.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，光线非常好",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室1厅|88.98平|高区/33层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海华花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "858万"
+}{
+  "singel_price": "单价80524元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4723959.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/bafac8cd-08ea-46b2-a752-643c73c40c8d.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光好",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|100.59平|高区/24层|朝西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "江南造船大厦(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "810万"
+}{
+  "singel_price": "单价110947元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647390.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/731dd0a6-0159-4cbd-b955-759f2b3a3ede.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "出行方便，视野开阔，品质装修，满五减税",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|88.33平|高区/26层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海悦花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "980万"
+}{
+  "singel_price": "单价93731元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4286804.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160923/0266a7b8-788a-49d6-a3cc-a55d1f7feff3.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，交通便利，上下楼方便，精装修",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|133.36平|低区/39层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海悦花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价68971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1079199.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170412/997e08a2-9234-48da-baa8-06c46edcd761.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|118.89平|低区/30层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "双钱公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "820万"
+}{
+  "singel_price": "单价103055元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/64b6264f-9c91-43f7-afd8-a7e8b71a9890.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北直通，交通方便，楼层好，拎包入住",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|111.59平|中区/12层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "郁金香花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价80684元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872238.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170114/6427f814-bc23-4a3f-b768-60af56888a22.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，黄金楼层，中等装修",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "1室1厅|40.9平|中区/7层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "斜土新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "330万"
+}{
+  "singel_price": "单价79529元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/f20a4273-2117-4453-8bdc-aee9895b78b0.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，楼层好，简单装修",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室1厅|71.42平|中区/5层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瞿溪路1032弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "568万"
+}{
+  "singel_price": "单价89590元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836531.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/b9d68251-95f2-4651-8688-873b3233e90b.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，视野开阔",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "1室1厅|35.16平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南塘浜路93弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "315万"
+}{
+  "singel_price": "单价67494元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4857896.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/95103ff7-612f-4d66-aaa4-db1af1ba9d2b.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，出行方便，低楼层",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "3室2厅|157.05平|低区/24层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "江南造船大厦(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "1060万"
+}{
+  "singel_price": "单价96203元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844067.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/b1bd6170-4fe5-4905-98cb-bd3d613e17be.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室0厅|38.46平|低区/7层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "思南路115弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "370万"
+}{
+  "singel_price": "单价58441元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652101.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/6489ae43-ec8c-4872-83f8-d55134fd7897.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通便利，低楼层",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "3室2厅|167.69平|低区/32层|朝西北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "天天花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "980万"
+}{
+  "singel_price": "单价82419元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4510965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170123/8ee4cf1e-6dba-49b0-967a-28751a80f57e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，地铁沿线，上下楼方便，精装修",
+  "s_cate": "打浦桥",
+  "house_desc": [
+    "2室2厅|139.53平|低区/35层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "绿洲仕格维花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dapuqiao",
+  "house_price": "1150万"
+}

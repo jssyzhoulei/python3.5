@@ -1,0 +1,501 @@
+{
+  "singel_price": "单价60720元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4388361.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161113/59f63823-081f-446a-ae25-233f0ccde50b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "毛坯房，满二年，随时可看，热销房源",
+  "s_cate": "周浦",
+  "house_desc": [
+    "4室2厅|205.86平|地上3层|(进门)南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "御沁园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价55656元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830161.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/cedd89b0-7a48-4e10-88b6-5fdc0f29961a.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北直通，带飘窗，光线充足，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|88.04平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东上海",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "490万"
+}{
+  "singel_price": "单价50111元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811530.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/7ac29ed6-3d6a-4a0a-8f10-86c0892704ba.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，光线非常好，简单装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|89.8平|高区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "印象春城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "450万"
+}{
+  "singel_price": "单价41393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/bbe00d96-4a68-4a89-ae7f-3fbc6ba6357b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，低楼层，装修精美",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|122.0平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "505万"
+}{
+  "singel_price": "单价50251元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4752381.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/374c37cc-662c-4d4b-b5be-d991746b3d2c.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "低楼层，毛坯房，满五减税，钥匙房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|89.55平|低区/16层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "明天华城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "450万"
+}{
+  "singel_price": "单价40095元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4746293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/02fc8ffa-06fc-4621-a2bb-0bae3241d08c.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "稀缺南北通，视野开阔，中等装修，满五年",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|54.37平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "公元新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "218万"
+}{
+  "singel_price": "单价49561元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740495.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/aa72c054-e8eb-4303-8659-7efbe87e8a84.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，低楼层，中等装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|114.0平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东上海",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "565万"
+}{
+  "singel_price": "单价38194元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711547.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/b7ec306d-2228-4943-a702-768ff5675151.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅带阳台，低区出入方便，简单装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|72.0平|低区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欧风家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "275万"
+}{
+  "singel_price": "单价38000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170714/eb5c8eaa-2b1a-4dd9-9cdf-7dd00a4c1a17.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，黄金楼层，品质装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|75.0平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "瑞和苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "285万"
+}{
+  "singel_price": "单价38107元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4632900.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/067b8a74-e2e3-40cb-aa3c-40b82b092768.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，卧室带阳台，黄金楼层，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|139.08平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "川周公路4485号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "530万"
+}{
+  "singel_price": "单价38603元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605547.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/c81309fc-ed18-482a-8966-aa650a4c275b.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅朝南，采光好，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "1室1厅|59.58平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃园新城中城苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价46020元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4598343.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170419/94feb064-2c87-42b9-a970-edbe5c90bc98.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低区出入方便，中等装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "1室1厅|58.67平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "逸亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "270万"
+}{
+  "singel_price": "单价37076元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4560739.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/7753af92-c210-4b78-862f-fcd874090884.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，厨卫全明，楼层好，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|103.84平|中区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欧风家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "385万"
+}{
+  "singel_price": "单价40000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4557649.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170322/06309d3a-414b-4949-a585-2b020c9c4d2d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，好楼层，品味装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "1室1厅|55.0平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "瑞和苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价41604元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4528463.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170228/427b64f3-93c7-42c0-9740-b2b1b2938396.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，好楼层，省装修费",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室1厅|86.53平|中区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "粤亮湾景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "360万"
+}{
+  "singel_price": "单价49494元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2026094.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161209/cd26a915-bc2c-44ef-868f-d3721a1a1fca.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，带飘窗，光线充足，拎包入住",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|94.96平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "菱翔苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "470万"
+}{
+  "singel_price": "单价37268元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814581.html",
+  "house_img": "",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "好楼层，满5年，新出好房，马上看房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|102.5平|中区/11层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欧风家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "382万"
+}{
+  "singel_price": "单价43430元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822584.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/2042c289-3c97-431e-9ed0-2d929756b52f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，厨卫全明，楼层好，品味装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|109.37平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "475万"
+}{
+  "singel_price": "单价40277元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821735.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/d663db36-294a-48f7-bfb2-2af40b2d6f20.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，视野开阔，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室1厅|72.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃园新城中城苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "290万"
+}{
+  "singel_price": "单价41602元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785847.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/44856afb-24f7-42cf-856a-fa578e16577a.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观房，简单装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "1室1厅|51.68平|高区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃园新城中虹佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "215万"
+}{
+  "singel_price": "单价51174元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782923.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/91daacae-3713-4ef4-ba46-73e63210b74f.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低区出入方便，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "1室1厅|57.06平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "小上海新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "292万"
+}{
+  "singel_price": "单价41904元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4746637.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/89d42475-954b-41a3-b89d-d6538b931836.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "黄金楼层，简单装修，满5年，有钥匙",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室1厅|105.0平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "圣鑫苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "440万"
+}{
+  "singel_price": "单价41271元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605962.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/ccd5f400-189a-4628-8cad-43042e78e7bb.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，客厅朝南，低区出入方便，中等装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室2厅|98.13平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "405万"
+}{
+  "singel_price": "单价45563元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4528876.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170121/c51b3d99-92af-4ee3-9cad-514ca7730ce0.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，光线充足，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "1室1厅|58.16平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "繁荣安居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "265万"
+}{
+  "singel_price": "单价41515元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4337855.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160415/f1c7cbaa-3d75-442d-922e-c4143b338e7b.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低区出入方便，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|93.94平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "瑞阳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "390万"
+}{
+  "singel_price": "单价39519元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837086.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/b6e1c5d3-1a5c-43ee-961c-a7dfb976590c.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，楼层好，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|94.89平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欧风家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "375万"
+}{
+  "singel_price": "单价35671元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825221.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161102/16390288-8636-4b1c-9840-0adc0e33ad93.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，上下楼方便，品味装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "3室2厅|100.92平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "月桂苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "360万"
+}{
+  "singel_price": "单价37091元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796693.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/0e749c5a-3aa5-40de-b104-d7071e90d3ad.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北户型，厨卫全明，楼层好，毛坯房",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室1厅|75.49平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "瑞和苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价39575元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793267.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/43b96653-3145-436c-adb5-01b469125e59.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "南北通，卧室全南，光线充足，满五年",
+  "s_cate": "周浦",
+  "house_desc": [
+    "2室1厅|51.8平|中区/4层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "公元新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "205万"
+}{
+  "singel_price": "单价44077元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/47bde747-a053-40ef-9c95-61e8e6f3b731.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅带阳台，光线充足，简单装修",
+  "s_cate": "周浦",
+  "house_desc": [
+    "1室1厅|54.45平|中区/14层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "瑞和苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhoupu",
+  "house_price": "240万"
+}

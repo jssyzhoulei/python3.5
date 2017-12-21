@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价68027元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597558.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/16f5ad65-adea-4399-94c4-e39c96db7c62.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，中等装修，满五减税",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室1厅|48.51平|低区/18层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "双宝小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价91093元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819385.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/6c30912b-fc8c-493d-ac77-ce8b2e1df2c0.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通便利，光线充足",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室2厅|108.46平|中区/25层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新潮时代大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "988万"
+}{
+  "singel_price": "单价62965元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832041.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/bf7603c3-4091-4eed-ba78-8d9ba47e1e77.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室2厅|116.73平|低区/30层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹叶花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "735万"
+}{
+  "singel_price": "单价68752元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730645.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/6c8586c1-c6d9-49bb-93c2-3e66f6a92ab2.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，客厅带阳台，地铁直达，采光无遮挡",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室1厅|100.36平|高区/20层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虬龙公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "690万"
+}{
+  "singel_price": "单价68389元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681048.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/d390c7f6-d697-44e6-9eb1-918ce1855c52.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "1室1厅|39.48平|中区/7层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "天通庵路663号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "270万"
+}{
+  "singel_price": "单价64709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4611087.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/a9398f9c-1168-426f-9927-1acbc303216d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，地铁房，采光无遮挡，品质装修",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|173.08平|高区/8层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹叶花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "1120万"
+}{
+  "singel_price": "单价73933元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852731.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/864c3a95-4722-45ac-b57e-139b18708e10.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，交通便利，低楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|105.5平|低区/24层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "泰业公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "780万"
+}{
+  "singel_price": "单价73151元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835765.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/1fa6acd0-92c5-4c19-8ae1-4bed0e1685ca.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室1厅|77.92平|低区/18层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新亚公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "570万"
+}{
+  "singel_price": "单价80344元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719048.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/ccfa9c3d-6052-446e-9fb0-41270d01b201.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，楼层好",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "1室1厅|34.85平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "南克俭小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价93457元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782374.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/d4f1ce12-191f-43f2-b586-6bac379d974f.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，交通方便，低区出入方便，品质装修",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|139.1平|低区/12层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "嘉杰国际广场（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价75156元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4595258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170417/edc62f84-e4d1-41cf-8980-be345e425042.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，交通便利，低楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室2厅|95.8平|低区/18层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "华昌公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "720万"
+}{
+  "singel_price": "单价62047元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4416828.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161130/5d79288e-aa85-465f-9eca-a2e4aa95e66f.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|145.05平|中区/32层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹祺花苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "900万"
+}{
+  "singel_price": "单价57636元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/8a8bda8c-3313-476b-808f-11169e70f752.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁直达，采光无遮挡",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|156.15平|高区/30层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹叶花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "900万"
+}{
+  "singel_price": "单价74268元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828806.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/eb145b9c-7346-4675-8ffe-7898667a1117.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，客厅朝南，出行方便，好楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室2厅|110.41平|中区/8层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "隆达公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "820万"
+}{
+  "singel_price": "单价82456元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827232.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/16a9dff9-222a-44bd-8a3c-88eb305160b1.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，带落地窗，地铁沿线，好楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|167.36平|中区/22层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "嘉杰国际广场（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "1380万"
+}{
+  "singel_price": "单价71052元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/f06b9812-9ad4-4055-ba39-7a6b8c825a88.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，出行方便，低楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室2厅|114.0平|低区/30层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹祺花苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "810万"
+}{
+  "singel_price": "单价102564元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817352.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/0acdef58-ca62-4c47-877b-7b8183f62964.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，低楼层",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "1室2厅|78.0平|低区/28层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "玫瑰广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "800万"
+}{
+  "singel_price": "单价99421元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806237.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/b3a172d7-da94-4a84-abe5-da60462d1cb5.jpg_200x150.jpg",
+  "house_time": [
+    "1922年建"
+  ],
+  "house_title": "南北户型，地铁房，上下楼方便，简单装修",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "4室2厅|134.78平|低区/3层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "横浜路63弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "1340万"
+}{
+  "singel_price": "单价67351元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759901.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/1e67029e-61c5-4b03-81fa-c1a533aaef23.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，地铁房，高区采光好",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室2厅|115.81平|高区/30层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹叶花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "780万"
+}{
+  "singel_price": "单价66797元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4752377.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/9078fb27-923a-4b70-baf7-2bca5e43c767.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁房，上下楼方便",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室2厅|122.76平|低区/26层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "金宝大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "820万"
+}{
+  "singel_price": "单价68276元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728024.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/3ed2605f-4ded-4ab4-9637-ca00efba4428.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区景观好",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "1室1厅|41.01平|高区/6层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "溧阳路1040号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价57836元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641779.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160717/e7ca43b7-7d06-482f-8af9-62a1505c6ea9.jpg_200x150.jpg",
+  "house_time": [
+    "1936年建"
+  ],
+  "house_title": "南北通透，地铁沿线，上下楼方便，精装修",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|172.9平|低区/9层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "浦西小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价67866元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4532960.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170308/80501611-c130-4ac1-a60c-dfc1ed964386.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "出行方便，采光无遮挡，装修精致，房本满五年",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室1厅|63.36平|高区/7层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "弘丰新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "430万"
+}{
+  "singel_price": "单价71065元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4504382.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170330/89dd8f3b-09d9-4c09-b620-2c0792caf9b2.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，交通方便，上下楼方便，品味装修",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|173.08平|低区/8层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹叶花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "1230万"
+}{
+  "singel_price": "单价65452元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4439703.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161214/508e2612-5435-4711-9fc3-df62db4cac00.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "房型正气，交通方便，高区景观好，拎包入住",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|140.56平|高区/32层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹祺花苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "920万"
+}{
+  "singel_price": "单价83703元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4434131.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161211/055c03c2-d264-45da-bc98-032258b0967f.jpg_200x150.jpg",
+  "house_time": [
+    "1936年建"
+  ],
+  "house_title": "交通方便，视野很好，省装修费，满5年",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "1室1厅|29.27平|高区/11层|朝北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "河滨大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "245万"
+}{
+  "singel_price": "单价75295元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1631974.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160826/341d20e8-b13c-4e0c-bbc5-f86050060fbe.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，卧室带卫，交通方便，低区出入方便",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室2厅|139.45平|低区/16层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "海伦新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价72342元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818819.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/3b4f3e30-be46-4a62-a875-6ed7de46bab2.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，好楼层，简单装修",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "2室1厅|53.91平|中区/18层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "双宝小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "390万"
+}{
+  "singel_price": "单价67084元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712160.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/3ec2bf9b-3cad-4369-a3af-31a0c62e383b.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，楼层好",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "1室1厅|57.39平|中区/7层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "弘丰新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "385万"
+}{
+  "singel_price": "单价68633元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740408.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170801/4a558a62-235e-4fdd-811f-6be43753199f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "客厅带阳台，交通方便，好楼层，装修精致",
+  "s_cate": "四川北路",
+  "house_desc": [
+    "3室1厅|107.09平|中区/26层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "国贸花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sichuanbeilu",
+  "house_price": "735万"
+}

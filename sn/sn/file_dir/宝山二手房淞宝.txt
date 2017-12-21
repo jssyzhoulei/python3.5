@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价47667元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807163.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/ced2ff6f-a54c-4899-b72b-2f740272fc89.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，采光好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "1室0厅|29.79平|高区/5层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "牡丹江路182弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "142万"
+}{
+  "singel_price": "单价40439元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756782.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/d1226424-786f-44f1-b3e0-3a15a970d59f.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "1室1厅|48.22平|高区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "金泰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "195万"
+}{
+  "singel_price": "单价37727元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733579.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/9d9c0bb9-6d75-4b06-b4f2-9451be1b11d7.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观房",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "1室1厅|45.06平|高区/5层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "同济路60弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "170万"
+}{
+  "singel_price": "单价39046元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683135.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160917/05804e7a-d418-4964-b108-a660bcc0430e.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通便利，视野很好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|47.38平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨二村（宝山）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "185万"
+}{
+  "singel_price": "单价45079元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683107.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170614/5b2921c2-7181-4c5e-ad9e-4017012e0e61.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通便利，低楼层",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "3室1厅|78.75平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "355万"
+}{
+  "singel_price": "单价46577元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667615.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/82b3e0e0-0b52-4bb4-a2a7-60a5afa09127.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，交通便利，光线充足",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|49.38平|中区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价43678元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4592148.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/44e19cf7-d68f-4b70-b95f-d40377051afa.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，交通便利，好楼层",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "3室0厅|65.25平|中区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价42372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584807.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170409/1f127805-4292-4272-9025-afc0e3867928.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，楼层好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "1室1厅|42.48平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "180万"
+}{
+  "singel_price": "单价39184元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4530152.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170310/72c2d224-f8c7-4d19-8b5e-8046d4013844.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，楼层好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|51.04平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨二村（宝山）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "200万"
+}{
+  "singel_price": "单价44543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4427364.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161209/97b3b2bc-758a-4327-aa1f-4b4f23bffacb.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，好楼层",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|49.39平|中区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "220万"
+}{
+  "singel_price": "单价45204元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4375464.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/a23be2f0-a184-4fc9-91e3-6e078b9865aa.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通方便，视野开阔",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|49.11平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "222万"
+}{
+  "singel_price": "单价42715元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865824.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/51d52a3a-44b6-4fe1-84b4-76e2e82c3435.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|64.38平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "泰和路309弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "275万"
+}{
+  "singel_price": "单价42063元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4857428.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/ce525cf1-7639-49c8-9301-16a7e899ff99.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，视野很好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|63.0平|高区/13层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "265万"
+}{
+  "singel_price": "单价45562元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825148.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/a53f189a-ad67-4cfe-82ee-bb6386a58238.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁房，楼层好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|50.48平|中区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价59367元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764566.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/c7fd0979-fc81-4784-a37c-3d3fd4be7bf3.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，带落地窗，地铁沿线，高区阳光房",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "4室2厅|232.45平|高区/16层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "璟都新园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "1380万"
+}{
+  "singel_price": "单价61709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762684.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/d697a036-d68e-43b4-b362-647ce64491c2.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，带落地窗，地铁沿线，低楼层",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室2厅|98.04平|低区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "住友宝莲",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "605万"
+}{
+  "singel_price": "单价40093元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740176.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/8af1463d-48e6-4f10-b560-48cdb0acb2da.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，视野很好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "1室1厅|38.66平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "长征新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "155万"
+}{
+  "singel_price": "单价44011元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4500939.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170212/6aaf6f3a-b9b5-417a-bc91-7e1c3fb63a7c.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低楼层",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|74.98平|低区/16层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞滨路165弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "330万"
+}{
+  "singel_price": "单价41692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829663.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/7ae10380-5beb-4c81-95da-3e746a040b14.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "南北通，厨卫全明，出行方便，黄金楼层",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|47.97平|中区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨二村（宝山）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "200万"
+}{
+  "singel_price": "单价42660元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788654.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/24e431d6-7fe0-407a-ad19-08b7b2589776.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|63.29平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝林春天苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价45785元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755001.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/d7e019ed-7023-4eba-909b-fdaa1e05ab91.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|48.05平|低区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "220万"
+}{
+  "singel_price": "单价41428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730063.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/647a8741-181f-43fd-a51a-391857297e5c.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "稀罕南北通，交通便利，光线非常好，简单装修",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "1室0厅|35.0平|高区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "145万"
+}{
+  "singel_price": "单价42918元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604342.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/630a480c-5ed4-4089-bc4b-5fb751891d7b.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|46.6平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨二村（宝山）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "200万"
+}{
+  "singel_price": "单价42577元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4578458.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170404/1727817f-fb59-4408-aace-2da8146a840d.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "1室1厅|51.67平|低区/15层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "220万"
+}{
+  "singel_price": "单价38767元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537924.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/d1f904ec-fc2f-4592-a528-b7e2655f6bd5.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|51.59平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "西朱新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "200万"
+}{
+  "singel_price": "单价36900元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4525094.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/901d248e-6670-4b34-8a17-b4db9d90830f.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|62.33平|高区/12层|朝西北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "西朱新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价50538元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4327019.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161009/ad384571-b3f0-446f-a5b6-4f75a3a14daf.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，楼层好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室0厅|45.51平|中区/5层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价45671元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4274432.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160915/faf45d26-879f-418e-8040-56d26c12984b.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，光线充足",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室2厅|94.15平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "430万"
+}{
+  "singel_price": "单价41344元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735835.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/7df77676-21e7-440c-bc52-4371f27bc225.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁直达，光线非常好",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|49.1平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝钢三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "203万"
+}{
+  "singel_price": "单价45373元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584696.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/5e6c2fea-d5b8-4070-9035-b28b9e840b27.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁房，高区景观房",
+  "s_cate": "淞宝",
+  "house_desc": [
+    "2室1厅|50.25平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "海滨八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songbao",
+  "house_price": "228万"
+}

@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价44126元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4638614.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/18c53495-3314-4e3b-9cb3-6f807015a6f9.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，卧室带阳台，地铁直达，高区景观房",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|69.12平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "驰骋小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "305万"
+}{
+  "singel_price": "单价63227元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826172.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/131b583f-6f51-46ea-903d-035c836f771f.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，厨卫全明，出行方便，黄金楼层",
+  "s_cate": "航华",
+  "house_desc": [
+    "3室2厅|118.62平|中区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "七韵美地苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "750万"
+}{
+  "singel_price": "单价51850元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767076.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/2e22746f-6010-45f3-bea7-6432d6798b9c.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，上下楼方便",
+  "s_cate": "航华",
+  "house_desc": [
+    "1室1厅|42.43平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航华四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "220万"
+}{
+  "singel_price": "单价45625元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628313.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/9e0c6ba7-c5d6-4118-92c7-6df44c19da2e.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|80.0平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "信利苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "365万"
+}{
+  "singel_price": "单价42016元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4575237.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/963ddbe3-f400-4c6b-b2a1-f55a29b2ac36.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通，卧室带阳台，交通便利，视野很好",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|65.45平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春晖小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "275万"
+}{
+  "singel_price": "单价49645元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4562841.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160831/7023ad1e-bb2d-43d3-b8c2-681c1cd6dde3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通方便，高区阳光房",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|70.5平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航华三村一街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "350万"
+}{
+  "singel_price": "单价41841元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728931.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170216/a9866e01-73b8-4d4e-9ab7-397dc8a97c49.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带卫，卧室全南，出行方便，光线非常好",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室2厅|93.21平|高区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "京润花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "390万"
+}{
+  "singel_price": "单价44830元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756349.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/d0b908d9-59b9-44b1-9c15-32d6c77b2200.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|71.38平|低区/13层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "华菁公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "320万"
+}{
+  "singel_price": "单价52631元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729150.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170121/67f72bf8-fe9e-475d-92a6-02e834c71f35.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野很好，中等装修",
+  "s_cate": "航华",
+  "house_desc": [
+    "1室1厅|40.85平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航华一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "215万"
+}{
+  "singel_price": "单价42293元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4616559.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/cca423fc-2355-4a88-a77a-d80e3972aefe.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "航华",
+  "house_desc": [
+    "3室1厅|85.12平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永兴小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "360万"
+}{
+  "singel_price": "单价47164元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854705.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/8786fd1c-467f-4b7a-86d3-86a10e5f024a.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，出行方便，高区景观房",
+  "s_cate": "航华",
+  "house_desc": [
+    "3室2厅|94.35平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新明星花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "445万"
+}{
+  "singel_price": "单价50505元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799813.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/05727604-b61d-4532-899b-ec915f8265f8.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，好楼层",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室2厅|108.9平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "丹桂南苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "550万"
+}{
+  "singel_price": "单价51868元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779701.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/032e6b85-07d5-4d23-b4ce-e095587a4e1a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，出行方便，好楼层",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室2厅|75.19平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "信利苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "390万"
+}{
+  "singel_price": "单价51356元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760808.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/b0633120-d13b-4560-8a87-e2b32d5af5b6.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁沿线，上下楼方便",
+  "s_cate": "航华",
+  "house_desc": [
+    "3室2厅|100.28平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新明星花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "515万"
+}{
+  "singel_price": "单价46338元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737721.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170801/a9f6df80-ff59-44e2-8ae3-f86e46b4ae0c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，上下楼方便",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|88.48平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "华景花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "410万"
+}{
+  "singel_price": "单价48719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674495.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161121/e6a7d9d5-3ff3-4e97-ba0c-05803045d3f3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|52.34平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航华四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "255万"
+}{
+  "singel_price": "单价52896元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571157.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/68ccc77f-9cb0-4b97-9889-d727d8beb377.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁沿线，楼层好",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室2厅|99.25平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "嘉丰新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "525万"
+}{
+  "singel_price": "单价48906元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4535105.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/96ad1722-ef64-4938-99dd-4083512cf21b.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|52.14平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航华四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "255万"
+}{
+  "singel_price": "单价47438元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655700.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/29cecc7f-1a35-4c7e-b5a7-23d72b154686.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，视野开阔",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|68.51平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航华二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "325万"
+}{
+  "singel_price": "单价41776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4874199.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/1e3032f3-61c6-44ce-b870-4205a5098fc8.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，卧室带阳台，地铁房，上下楼方便",
+  "s_cate": "航华",
+  "house_desc": [
+    "3室1厅|117.29平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "三佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "490万"
+}{
+  "singel_price": "单价38249元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4499616.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170418/4c1817c4-da3f-421b-a9d6-58ca73773d78.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观好，毛坯房",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|65.36平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航东路750弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "250万"
+}{
+  "singel_price": "单价62836元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850747.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/1219800c-ba41-4c23-b37d-4aa2ac57b78f.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|55.7平|中区/12层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "七韵美地苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "350万"
+}{
+  "singel_price": "单价64888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845941.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/962603f6-d664-4cc0-8683-d6299115993f.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，视野很好",
+  "s_cate": "航华",
+  "house_desc": [
+    "1室1厅|56.25平|高区/12层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "七韵美地苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "365万"
+}{
+  "singel_price": "单价46456元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4864110.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/a817042c-ba6f-485c-b909-2f3a17ea3871.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，卧室带卫，地铁直达，好楼层",
+  "s_cate": "航华",
+  "house_desc": [
+    "3室2厅|127.0平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "广达新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "590万"
+}{
+  "singel_price": "单价50731元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863495.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/bf68c37a-13d1-4015-b220-8dfcf5cedb2d.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，楼层好",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|67.02平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "丹桂花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "340万"
+}{
+  "singel_price": "单价47364元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856222.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/01197e35-30d1-4c8d-9f2e-7636bdedbf39.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，视野开阔",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|65.45平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "驰骋小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "310万"
+}{
+  "singel_price": "单价53649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854943.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/89117eae-5ce9-4b3e-8f30-a4d50073d34f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，低区出入方便",
+  "s_cate": "航华",
+  "house_desc": [
+    "1室1厅|56.85平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新明星花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "305万"
+}{
+  "singel_price": "单价46940元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844385.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/46dc8928-edbd-4192-aed8-5dd3fa2b3076.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，光线充足",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室2厅|78.61平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "航华三村三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "369万"
+}{
+  "singel_price": "单价47151元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843536.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/43bdb648-c5b4-4dfb-80c0-942bf5123e52.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，交通便利，黄金楼层",
+  "s_cate": "航华",
+  "house_desc": [
+    "2室1厅|76.35平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "嘉丰公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "360万"
+}{
+  "singel_price": "单价48742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/adf6da72-3a53-4429-bd1d-55441feeff01.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "航华",
+  "house_desc": [
+    "1室1厅|51.29平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "驰骋小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hanghua",
+  "house_price": "250万"
+}

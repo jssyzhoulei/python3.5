@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价40941元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/0963e8f2-4ffa-4026-9553-ec05f123655e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，地铁沿线，好楼层",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|75.23平|中区/5层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "水岸秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "308万"
+}{
+  "singel_price": "单价50747元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762512.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/e711e2c8-c7fb-4602-8791-b90445681aaa.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁沿线，黄金楼层",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|72.91平|中区/7层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "缘圆宝邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "370万"
+}{
+  "singel_price": "单价42649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760693.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160901/9de7749f-1a83-4d76-952a-8e3e73bf3a87.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁直达，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|75.03平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "水岸秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "320万"
+}{
+  "singel_price": "单价47912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708350.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/90d51553-2d18-4c22-86c9-5fde91186fd1.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通便利，低区出入方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "1室2厅|58.44平|低区/7层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "中房公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "280万"
+}{
+  "singel_price": "单价43058元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4576589.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/d0c34e55-3eca-4a34-87a1-eb18e050f3f9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，视野很好",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室1厅|81.75平|高区/7层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "中房公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "352万"
+}{
+  "singel_price": "单价41535元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3845784.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/71c23c0c-bab0-4c1e-80ae-91563d7666b3.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，好楼层",
+  "s_cate": "江桥",
+  "house_desc": [
+    "3室2厅|98.71平|中区/5层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "中虹华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "410万"
+}{
+  "singel_price": "单价48000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730130.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170724/e119b31b-4411-4932-8c48-b230497d5dc8.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光好",
+  "s_cate": "江桥",
+  "house_desc": [
+    "3室2厅|125.0平|高区/3层|朝东"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰盛雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "600万"
+}{
+  "singel_price": "单价44030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828454.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/d0306fa5-c268-434d-855f-40f7f4c0af93.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，出行方便，好楼层",
+  "s_cate": "江桥",
+  "house_desc": [
+    "1室1厅|55.87平|中区/15层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿地新江桥城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "246万"
+}{
+  "singel_price": "单价51317元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826800.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/a6b92ab7-216e-483f-8e4a-cc809ee56eab.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|78.92平|低区/17层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "万达城市公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "405万"
+}{
+  "singel_price": "单价41666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781578.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/a5fb4da9-4f17-4384-8e22-2504faaa8691.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，交通便利，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "3室2厅|120.0平|低区/13层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "大宅风范城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "500万"
+}{
+  "singel_price": "单价44155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780586.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/02532236-5772-4d02-8ef5-6890c2c5f98d.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区采光好",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|77.0平|高区/15层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿地新江桥城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "340万"
+}{
+  "singel_price": "单价42049元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775507.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/2c0ef1a5-e28f-4ed0-ba3f-4ea85cf6decb.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室1厅|77.29平|低区/13层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "水岸金桥苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "325万"
+}{
+  "singel_price": "单价41266元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773210.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/ee8916da-12ec-4403-a7b4-75571c6c9855.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，出行方便，高区景观好",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|73.91平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "水岸秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "305万"
+}{
+  "singel_price": "单价54732元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4725635.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/214085aa-be0e-4044-8edf-b8a5eb17aa9b.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，地铁直达，黄金楼层，毛坯房",
+  "s_cate": "江桥",
+  "house_desc": [
+    "3室2厅|93.18平|中区/7层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "缘圆宝邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "510万"
+}{
+  "singel_price": "单价41921元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4722402.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/e8ece762-bc86-4bf0-8ce6-7ca806be363a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通方便，低区出入方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "1室1厅|57.25平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "中虹华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "240万"
+}{
+  "singel_price": "单价47028元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711711.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/e6f594a5-0927-463e-9d0b-19db8a5f6187.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通方便，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|76.55平|低区/7层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "缘圆宝邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "360万"
+}{
+  "singel_price": "单价46604元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4703814.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/3b12babf-7f46-4d55-b7ad-ae609ced2dad.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室1厅|67.59平|低区/13层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "大宅风范城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "315万"
+}{
+  "singel_price": "单价50390元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/56d5fd67-30d6-48ff-b8ba-3cfb645f5d7d.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，带飘窗，出行方便，好楼层",
+  "s_cate": "江桥",
+  "house_desc": [
+    "1室1厅|57.55平|中区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "大宅风范城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价44746元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776918.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/21f72127-c437-46ff-9e4c-5edd992b5d3a.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁沿线，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "3室1厅|90.51平|低区/15层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿地新江桥城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "405万"
+}{
+  "singel_price": "单价47237元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/ed9fa8c3-432d-4b29-ad49-88f45fa109fd.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，地铁房，楼层好",
+  "s_cate": "江桥",
+  "house_desc": [
+    "1室1厅|56.1平|中区/11层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "澜茵华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "265万"
+}{
+  "singel_price": "单价42540元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4689565.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170427/8c9027cb-b91a-4126-8380-b0e903cce0f5.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "地铁沿线，低区出入方便，简单装修，满二年",
+  "s_cate": "江桥",
+  "house_desc": [
+    "1室1厅|65.82平|低区/11层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "爱德佳苑(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "280万"
+}{
+  "singel_price": "单价40188元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4640858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/19d87056-858f-4bff-bf2a-1ab32a31df3b.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，地铁房，好楼层，毛坯房",
+  "s_cate": "江桥",
+  "house_desc": [
+    "3室2厅|120.68平|中区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "爱德佳苑(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "485万"
+}{
+  "singel_price": "单价39770元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629652.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/8d200004-c65e-40a9-8f7c-1e3a9b56c12f.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通便利，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|76.69平|低区/15层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿地新江桥城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "305万"
+}{
+  "singel_price": "单价45668元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4520644.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/8d2a85fd-2b2c-4a48-9305-159d8091fb54.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室1厅|67.88平|低区/13层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "大宅风范城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "310万"
+}{
+  "singel_price": "单价46216元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851080.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/c85dc39c-0b61-4b50-aa85-704240919001.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁沿线，高区阳光房",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|74.0平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金鹤新城双佳翠庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "342万"
+}{
+  "singel_price": "单价41489元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844521.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/d274b52d-2add-404a-8686-8862f9ea61e8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，卧室全南，地铁直达，光线非常好",
+  "s_cate": "江桥",
+  "house_desc": [
+    "3室2厅|98.82平|高区/11层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "水岸秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "410万"
+}{
+  "singel_price": "单价46447元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825230.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/5d0519b1-33bb-45c5-9954-20d2ceb22720.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，带飘窗，地铁直达，高区景观房",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|76.0平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "中虹华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "353万"
+}{
+  "singel_price": "单价41792元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825228.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/980fa269-a523-4b6c-b3c8-541513ddab3a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁房，上下楼方便",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|72.98平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "中虹华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "305万"
+}{
+  "singel_price": "单价51278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737698.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/f3d146e9-199c-4daa-ab97-de4e60e6e009.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "交通便利，精装修，满5年，钥匙房",
+  "s_cate": "江桥",
+  "house_desc": [
+    "5室2厅|302.27平|地上2层|(进门)南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "加州花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "1550万"
+}{
+  "singel_price": "单价44028元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705384.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/39988d00-eb83-47af-97b4-20397a1922ad.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁直达，视野开阔",
+  "s_cate": "江桥",
+  "house_desc": [
+    "2室2厅|72.68平|高区/4层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "水岸秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangqiao",
+  "house_price": "320万"
+}

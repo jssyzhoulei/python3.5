@@ -1,0 +1,69 @@
+{
+  "singel_price": "单价11475元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736533.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/d3de27eb-065f-432d-97a2-11ced72b5383.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "万春苑，采光好，热门房源，上门实勘",
+  "s_cate": "金山",
+  "house_desc": [
+    "3室2厅|122.0平|高区/5层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "万春苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinshan1",
+  "house_price": "140万"
+}{
+  "singel_price": "单价22341元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786124.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/0424b861-e626-4aaa-a789-8694d059b601.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "上下楼方便，品质装修，满五年，上门实拍",
+  "s_cate": "金山",
+  "house_desc": [
+    "2室2厅|89.52平|低区/18层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "御景龙庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinshan1",
+  "house_price": "200万"
+}{
+  "singel_price": "单价16091元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822026.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/ec332fec-bc0b-4c5b-affc-bc62bd3303ed.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "万寿新村，高区采光好，品味装修，上门实勘",
+  "s_cate": "金山",
+  "house_desc": [
+    "3室1厅|87.0平|高区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "万寿新村（金山）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinshan1",
+  "house_price": "140万"
+}{
+  "singel_price": "单价17000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757797.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/5683cc4c-fe68-450d-b1ae-5672c7cb741a.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，采光无遮挡，品质装修，上门实拍",
+  "s_cate": "金山",
+  "house_desc": [
+    "2室2厅|100.0平|高区/6层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "金房花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinshan1",
+  "house_price": "170万"
+}

@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价18009元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712484.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/0426ac45-6afb-4a33-af44-20049e0a5eed.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "采光好，毛坯房，满2年，随时看房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|91.62平|高区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "165万"
+}{
+  "singel_price": "单价21444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710120.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/2bbe03ce-9a25-44d6-af82-a869343dd7cc.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀罕南北通，高区采光好，精装修，满五年",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|88.6平|高区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "190万"
+}{
+  "singel_price": "单价24357元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/7ceaf965-d3b7-4822-824b-b15e605d3b92.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通透，厨卫全明，采光好，装修精美",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|90.32平|高区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "220万"
+}{
+  "singel_price": "单价21491元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715708.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/d8ec5e44-0fce-4f3b-9496-6aa66ee19a62.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "好楼层，毛坯房，看房有钥匙，高清摄影",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|114.0平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "245万"
+}{
+  "singel_price": "单价24778元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666075.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/4040dc8e-4003-4031-a5e4-bd0bcdc19313.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通，客厅朝南，采光无遮挡，豪华装修",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|113.0平|高区/7层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "280万"
+}{
+  "singel_price": "单价16907元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832531.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/51048028-105f-45b9-9fc7-5cc4ca18c9da.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，厨卫全明，楼层好，满二年",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|100.55平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "170万"
+}{
+  "singel_price": "单价24195元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768065.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/9169e24b-1972-4e8d-8f0e-39212b74e861.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，客厅朝南，黄金楼层，省装修费",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|90.1平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "218万"
+}{
+  "singel_price": "单价18142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4665856.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/0a748e05-2c3a-4cf7-a537-51fec928dbfe.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，高区景观房，品质装修",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|96.46平|高区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "175万"
+}{
+  "singel_price": "单价17821元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796302.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/771972e2-69d6-470e-beee-358ad1e438d7.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，卧室带卫，黄金楼层，品质装修",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|101.0平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "180万"
+}{
+  "singel_price": "单价19203元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801266.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/ea6d77a2-e53c-489c-8d35-2b9ac80b1532.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，好楼层，装修精美",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|119.77平|中区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "230万"
+}{
+  "singel_price": "单价19187元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710123.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/cb10efaa-77ac-4cdc-8b6f-0938b1c029ed.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，高区阳光房，毛坯房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|88.6平|高区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "170万"
+}{
+  "singel_price": "单价24471元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865022.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/539318e2-8fdb-4ec3-bcdb-3a57b60269eb.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "旭辉朗悦庭，低区出入方便，满二减税，上门实勘",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室1厅|89.9平|低区/14层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "220万"
+}{
+  "singel_price": "单价21681元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823967.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/add8bea1-7b18-499d-93b4-f9bf5c495fca.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，客厅朝南，楼层好，毛坯房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|113.0平|中区/7层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "245万"
+}{
+  "singel_price": "单价24358元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821307.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/e990c540-97fc-43f6-a643-c94a37476027.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，上下楼方便，精装修",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|78.0平|低区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "190万"
+}{
+  "singel_price": "单价22123元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815737.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/33cde50d-4236-4263-852f-964d049404b4.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "高区景观房，装修精致，满2年，上门实勘",
+  "s_cate": "练塘",
+  "house_desc": [
+    "6室3厅|113.0平|高区/7层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "250万"
+}{
+  "singel_price": "单价25056元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808439.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/98e1823e-cfee-4dc8-a84a-403510129d85.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀罕南北通，光线充足，品质装修，房本满两年",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|89.0平|中区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "223万"
+}{
+  "singel_price": "单价24778元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779866.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/6385cafb-8310-410f-a3b0-bafb0003f648.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "采光无遮挡，品质装修，满二减税，高清摄影",
+  "s_cate": "练塘",
+  "house_desc": [
+    "6室3厅|113.0平|高区/7层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "280万"
+}{
+  "singel_price": "单价26460元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/714b1038-f6ef-493b-9ba3-f4aaeb81fc35.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，好楼层，品质装修，满二年",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室1厅|90.7平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "240万"
+}{
+  "singel_price": "单价24553元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762250.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/af1315bc-1753-463e-8c12-58f5aa82a88e.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，带飘窗，好楼层，拎包入住",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|89.6平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "220万"
+}{
+  "singel_price": "单价22749元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749297.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/dcbdab87-0db8-42bd-b2f6-1114cfb42686.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，上下楼方便，满二年",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|90.11平|低区/14层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "205万"
+}{
+  "singel_price": "单价26991元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704040.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/22c3d5bc-2897-4776-828e-5c533b6731df.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，低楼层，毛坯房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|113.0平|低区/7层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "305万"
+}{
+  "singel_price": "单价23154元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682610.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/b28df42f-7ac2-4556-b238-02ab2e38cf8b.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|89.83平|低区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "208万"
+}{
+  "singel_price": "单价25524元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4642000.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/1ca33a13-0ce1-4dc4-8a56-bb2a3264c4b7.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，客厅朝南，光线充足，品味装修",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|90.11平|中区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "230万"
+}{
+  "singel_price": "单价27713元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4562678.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/bff3e0fc-fd43-48c7-967e-20350052414e.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，厨卫全明，采光无遮挡，满两年",
+  "s_cate": "练塘",
+  "house_desc": [
+    "4室2厅|86.6平|高区/14层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "240万"
+}{
+  "singel_price": "单价25000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859778.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/174c8b99-8ff0-4132-a98c-216b221d978d.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低楼层，上门实拍",
+  "s_cate": "练塘",
+  "house_desc": [
+    "1室1厅|60.0平|低区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练民新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "150万"
+}{
+  "singel_price": "单价23849元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845242.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/a4c8aea2-bf2f-4771-a441-b563f8f317d2.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，好楼层，毛坯房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|138.37平|中区/7层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "330万"
+}{
+  "singel_price": "单价26460元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844475.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/0ff813ae-ab90-4d67-b960-1437d804e6a2.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "旭辉朗悦庭，低楼层，上门实拍，放心好房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室1厅|90.7平|低区/14层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "240万"
+}{
+  "singel_price": "单价27848元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816635.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/16fdf6d3-a01c-474f-a152-cf809e1ce890.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通透，客厅朝南，上下楼方便，毛坯房",
+  "s_cate": "练塘",
+  "house_desc": [
+    "2室2厅|79.0平|低区/14层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "220万"
+}{
+  "singel_price": "单价21196元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813468.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/27d5ae49-7bcf-40ca-aeda-d8328477da62.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低区出入方便，装修精美",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室2厅|122.66平|低区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "练北新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "260万"
+}{
+  "singel_price": "单价25558元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807371.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/ecb6f5c9-0567-401b-a459-a417c91b2274.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，光线充足，高清实拍",
+  "s_cate": "练塘",
+  "house_desc": [
+    "3室1厅|89.99平|中区/14层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉朗悦庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liantang1",
+  "house_price": "230万"
+}

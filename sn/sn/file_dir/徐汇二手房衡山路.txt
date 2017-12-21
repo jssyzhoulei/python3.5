@@ -1,0 +1,501 @@
+{
+  "singel_price": "单价126489元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724907.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170720/baa54058-dce1-4986-ace5-4f403476fcad.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，光线充足",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室2厅|67.99平|中区/6层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "吴兴路30弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "860万"
+}{
+  "singel_price": "单价105960元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629009.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/07cd25f2-3a7d-4f0c-b36b-b51cc9dd71b7.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，楼层好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "4室2厅|158.55平|中区/37层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东方巴黎",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "1680万"
+}{
+  "singel_price": "单价113603元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597228.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/e883523a-51b9-4608-a05d-5078288bd08d.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通便利，好楼层",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室0厅|34.77平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长乐路683号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "395万"
+}{
+  "singel_price": "单价116836元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4264825.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160912/037b93a8-43a0-4f4c-b55f-eb073be695b7.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线充足",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室1厅|39.2平|中区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "永福路147弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "458万"
+}{
+  "singel_price": "单价122448元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4866721.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/ed4e9b75-818f-4c04-a98d-53e580614d5c.jpg_200x150.jpg",
+  "house_time": [
+    "1974年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，地铁沿线，黄金楼层",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室2厅|49.0平|中区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "中南新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "600万"
+}{
+  "singel_price": "单价98527元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826993.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/6978ffe6-b1ea-4f94-b7e3-1d4355b0bd05.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，厨卫全明，交通便利，楼层好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "3室1厅|100.48平|中区/32层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "公安大楼（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "990万"
+}{
+  "singel_price": "单价97145元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719332.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/37e00e9e-8150-44f5-a50a-21b097d9ddd3.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁沿线，视野很好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "3室2厅|149.26平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "紫谷公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "1450万"
+}{
+  "singel_price": "单价114828元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4560867.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170322/be1ca241-cbd6-496d-9269-064aa550109d.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，楼层好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室0厅|35.27平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "武康路280弄（公房）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "405万"
+}{
+  "singel_price": "单价79465元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4427020.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/5b031a78-325b-4c73-8f25-e8943a8f1196.jpg_200x150.jpg",
+  "house_time": [
+    "1949年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁房，视野很好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "3室1厅|86.83平|高区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "高安路9弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "690万"
+}{
+  "singel_price": "单价100917元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858918.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/d28396f2-7333-46b7-9abf-f16dc13bc7f3.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，交通方便，好楼层",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室0厅|21.8平|低区/1层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "自由公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价113162元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772656.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/cf65b1e5-49a6-4140-9774-acdcd69b5600.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，低楼层",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室1厅|83.95平|低区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "淮海中路1761号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "950万"
+}{
+  "singel_price": "单价127678元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760188.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/aa50bac9-41d7-498b-91c7-84bedc469316.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，交通方便，好楼层，毛坯房",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室1厅|112.0平|中区/3层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东湖路洋房",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "1430万"
+}{
+  "singel_price": "单价111834元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816135.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/044f5957-22fc-4f5d-80fd-96774326aa0d.jpg_200x150.jpg",
+  "house_time": [
+    "1947年建"
+  ],
+  "house_title": "客厅朝南，地铁房，黄金楼层，装修精美",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室1厅|98.36平|中区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "湖南公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价126130元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759574.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/6b879d6e-7a1e-4835-91ae-14901f9b42a2.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通便利，视野开阔",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "5室2厅|204.55平|高区/7层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "景福苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "2580万"
+}{
+  "singel_price": "单价114970元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757455.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/df528c89-3620-4912-8bf4-bb57185576cc.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "3室1厅|83.5平|低区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "淮海中路1753号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "960万"
+}{
+  "singel_price": "单价117105元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755232.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/ff3197a4-5f6a-4d41-bf8c-7c0a100f77d0.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室1厅|38.0平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "湖南路4弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "445万"
+}{
+  "singel_price": "单价119753元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741075.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/f188ce56-c736-4c11-8524-7cb0900daa34.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "3室1厅|81.0平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "吴兴路30弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "970万"
+}{
+  "singel_price": "单价145772元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564836.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/3e792cac-3f54-4228-aab4-f164d11539fa.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，低楼层，经典装修",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室0厅|34.3平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "兴国路271弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "500万"
+}{
+  "singel_price": "单价129273元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865162.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/900ae001-0526-4276-9979-0c29cb884d29.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，交通方便，好楼层",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室0厅|46.8平|中区/28层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "公安大楼（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "605万"
+}{
+  "singel_price": "单价66228元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4874218.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/307738fe-b703-45fc-b332-e7fc126ac261.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "出行方便，楼层好，满5年，新上房源",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "5室2厅|221.96平|中区/31层|朝东北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "欧江大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "1470万"
+}{
+  "singel_price": "单价99398元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846161.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/2b7a073e-daec-46ec-a634-8dc016be2ca6.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，采光好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室1厅|43.26平|高区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "五原路210弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "430万"
+}{
+  "singel_price": "单价125556元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713626.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/9f588f92-9052-4925-9fdc-354643457c39.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，高区景观房",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "1室0厅|31.46平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "五原路210弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "395万"
+}{
+  "singel_price": "单价103186元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863726.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/7280da45-387a-485e-b068-f0111442bb5a.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，好楼层",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室0厅|65.9平|中区/25层|朝西"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华强公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "680万"
+}{
+  "singel_price": "单价114978元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847237.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/a713fb88-f9cd-458e-9736-10abd3d17a8c.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁直达，黄金楼层，精装修，满五年",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室1厅|83.32平|中区/20层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康平大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "958万"
+}{
+  "singel_price": "单价100433元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802053.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170214/9897544e-b10a-4844-9c9e-2842057337af.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "交通便利，光线非常好，拎包入住，房本满五年",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "4室2厅|253.9平|高区/31层|朝东西"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "亦园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "2550万"
+}{
+  "singel_price": "单价95059元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796170.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/5b35013a-fab1-4925-a9ef-8d867046d3f0.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "3室0厅|69.43平|高区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "音苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "660万"
+}{
+  "singel_price": "单价108955元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793344.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/dd8dffa4-6c85-4fcc-a514-f0e665a94278.jpg_200x150.jpg",
+  "house_time": [
+    "1976年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，高区采光好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室1厅|67.0平|高区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "音苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "730万"
+}{
+  "singel_price": "单价105464元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/d969ce78-3ada-4857-904e-610b1990d0df.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，高区采光好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室2厅|99.56平|高区/32层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "公安大楼（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价99162元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763525.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/f980d5a3-a9fc-4303-8a50-e4592eb6ea7f.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，光线非常好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室1厅|58.49平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "武康路280弄（公房）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "580万"
+}{
+  "singel_price": "单价121671元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743078.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/69de7e63-f868-47d7-b7e3-f8560169d191.jpg_200x150.jpg",
+  "house_time": [
+    "1948年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，楼层好",
+  "s_cate": "衡山路",
+  "house_desc": [
+    "2室1厅|69.86平|中区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "林肯公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hengshanlu",
+  "house_price": "850万"
+}

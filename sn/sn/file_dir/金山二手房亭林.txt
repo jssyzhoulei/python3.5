@@ -1,0 +1,135 @@
+{
+  "singel_price": "单价19480元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823526.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/3d6d09a2-9aa5-4eb7-b834-e42ea47e6d5e.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通透，好楼层，随时可看，实地看房",
+  "s_cate": "亭林",
+  "house_desc": [
+    "2室2厅|77.0平|中区/17层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "华纺和成未来派",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "150万"
+}{
+  "singel_price": "单价17525元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785267.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/ee16320c-2414-494a-b55c-e3b7340dbe4e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，高区采光好，精装修，满五减税",
+  "s_cate": "亭林",
+  "house_desc": [
+    "2室2厅|97.0平|高区/6层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "恒信家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "170万"
+}{
+  "singel_price": "单价20413元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718433.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/adab58c7-ec63-46be-a0ca-76ddfeaa9a3d.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通，采光好，简单装修，满五减税",
+  "s_cate": "亭林",
+  "house_desc": [
+    "3室2厅|105.32平|高区/6层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "寺平新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "215万"
+}{
+  "singel_price": "单价15040元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815053.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/a228ba56-09b3-4b44-a339-f856d8ab1ec2.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "视野开阔，装修精致，房本满两年，热门带看",
+  "s_cate": "亭林",
+  "house_desc": [
+    "3室1厅|123.0平|高区/6层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "恒信家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "185万"
+}{
+  "singel_price": "单价14583元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619524.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/4440412c-eda3-4ae4-8835-57a0fc38e27b.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "隆亭家园，高区景观房，热门带看，上门实勘",
+  "s_cate": "亭林",
+  "house_desc": [
+    "4室2厅|198.85平|高区/11层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "隆亭家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "290万"
+}{
+  "singel_price": "单价19853元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593170.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/4171602d-9835-4531-ab69-5a787f819222.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "视野开阔，品味装修，热门带看，上门实拍",
+  "s_cate": "亭林",
+  "house_desc": [
+    "3室1厅|97.21平|高区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "新建新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "193万"
+}{
+  "singel_price": "单价17346元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845720.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/abae9093-5ab5-4a65-b782-6b04a77ba577.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "高区景观房，装修精致，满五年，上门实勘",
+  "s_cate": "亭林",
+  "house_desc": [
+    "3室1厅|98.0平|高区/6层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "恒信家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "170万"
+}{
+  "singel_price": "单价14285元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865979.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/25dcdba4-e932-4727-83ff-2e3f7b18dc6b.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "松隐大街363弄，光线充足，上门实拍，放心好房",
+  "s_cate": "亭林",
+  "house_desc": [
+    "2室2厅|80.5平|中区/5层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "松隐大街363弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tinglin",
+  "house_price": "115万"
+}

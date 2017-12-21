@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价102007元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859577.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/c2e949c6-22ab-44a2-a4c7-f3224ebf0fe0.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，厨卫全明，楼层好，装修精美",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|122.54平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金色碧云",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价81256元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4563423.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/1f9012d4-2643-4773-8fcb-f31d11779539.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "视野开阔，品味装修，满五减税，随时看房",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室1厅|92.3平|高区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "信和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "750万"
+}{
+  "singel_price": "单价95128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4487953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170117/55486d94-9b75-44d7-a667-ff63a0efaf49.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "拎包入住，满五减税，看房有钥匙，多次带看",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|425.74平|地上2层|(进门)南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "维诗凯亚",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "4050万"
+}{
+  "singel_price": "单价91140元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4306650.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161004/e9f471e1-b87c-43b3-bafe-61392b7d511a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "低楼层，简单装修，满5年，钥匙在手",
+  "s_cate": "碧云",
+  "house_desc": [
+    "1室0厅|47.18平|低区/19层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金桥酒店公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "430万"
+}{
+  "singel_price": "单价78473元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671327.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/7d0efba4-4c22-4bf3-b6d5-d7d8d8731739.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，楼层好，豪华装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|101.69平|中区/8层|朝东北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "信和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "798万"
+}{
+  "singel_price": "单价87620元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828407.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/b5fde5c3-f82b-4b0c-a924-73ca8e9254c8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，黄金楼层，拎包入住",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|142.66平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "碧云东方公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价94526元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4640380.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/08ebc3d0-4914-4762-bc7a-094c770f27fb.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通透，光线充足，省装修费，满5年",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|116.37平|中区/8层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "银泰花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价88149元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4576145.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170512/15611efd-51d1-4394-8b4c-6ea68d67eb2b.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，中等装修，满5年，随时看房",
+  "s_cate": "碧云",
+  "house_desc": [
+    "4室2厅|363.02平|地上4层|(进门)南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "世茂湖滨花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "3200万"
+}{
+  "singel_price": "单价97142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4542444.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/4a98e162-370c-41c3-93b2-bc9f7345a973.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，好楼层，装修精美",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室2厅|70.0平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "680万"
+}{
+  "singel_price": "单价76009元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4452917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170115/e36517bd-f302-47d6-8913-e0fe4f9062af.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，黄金楼层，品质装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|96.04平|中区/8层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "信和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "730万"
+}{
+  "singel_price": "单价83298元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4434175.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/7d0b3314-b11d-490f-a9fd-509a78763a40.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，楼层好，简单装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室1厅|96.04平|中区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "信和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "800万"
+}{
+  "singel_price": "单价70956元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4387585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161114/c623e423-eacc-4dbc-a32e-8a0540916310.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，好楼层，品味装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "1室1厅|83.15平|中区/19层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金桥酒店公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "590万"
+}{
+  "singel_price": "单价87596元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4364088.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/f612ad40-d799-445d-ab67-532ead895895.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，高区景观好，装修精致",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室2厅|142.7平|高区/30层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "世茂湖滨花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价87616元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4151057.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/31eb9b1f-5817-4d14-a9df-5d9e77c4f9cf.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "上下楼方便，品味装修，满5年，钥匙在手",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室2厅|85.6平|低区/11层|朝北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "碧云东方公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "750万"
+}{
+  "singel_price": "单价103734元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4463332.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/c2693f14-7c7e-4078-9416-cb18c13ac43e.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "低楼层，装修精美，满2年，看房方便",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室2厅|72.3平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "750万"
+}{
+  "singel_price": "单价65706元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652700.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/f9abdb0b-c115-4507-aec3-e812774b2d7d.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低楼层，简单装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室1厅|66.66平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金浦小区(金桥)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "438万"
+}{
+  "singel_price": "单价77978元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/4c07879c-edcf-420f-b066-06d09e89f428.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "黄金楼层，拎包入住，钥匙房，热销房源",
+  "s_cate": "碧云",
+  "house_desc": [
+    "1室1厅|53.22平|中区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金桥酒店公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "415万"
+}{
+  "singel_price": "单价106444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704523.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/54277fc4-e22c-4b6a-bbb0-77292729e7cf.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "视野开阔，省装修费，钥匙在手，热销房源",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|69.52平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "740万"
+}{
+  "singel_price": "单价66869元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655612.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170613/e65b74d8-8b6a-4a20-8386-6acae7c74f4d.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，好楼层，拎包入住",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室2厅|101.69平|中区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "信和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "680万"
+}{
+  "singel_price": "单价79984元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4481185.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170112/4ab68502-8271-4023-97b3-7d7948067a4a.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "低楼层，品质装修，来电即看，多次带看",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|206.29平|低区/30层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "世茂湖滨花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1650万"
+}{
+  "singel_price": "单价143579元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858086.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/9807653c-ed7e-4670-a437-fea8e10e7437.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "拎包入住，房本满五年，火热出售，高清实拍",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|174.12平|地上2层|(进门)北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云间绿大地",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "2500万"
+}{
+  "singel_price": "单价85247元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804126.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160911/81ba590a-02fe-478c-b65a-075a5df895ed.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，低楼层，品味装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|126.69平|低区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金桥爱建园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价101176元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777502.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/1757f91c-0351-48f5-9c2e-5f2044869190.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野开阔，拎包入住",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室1厅|79.07平|高区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "碧云东方公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "800万"
+}{
+  "singel_price": "单价111340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4725094.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/3c205a46-7bcd-4159-9a60-7660bfa0305b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，厨卫全明，楼层好，省装修费",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|97.0平|中区/8层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金色碧云",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价88577元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713005.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/74808c67-1df4-4bb7-88e5-8b151ae4db72.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，光线充足，经典装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "2室2厅|97.09平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中天碧云",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "860万"
+}{
+  "singel_price": "单价84774元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678319.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/de7c7f0e-0f4e-499d-8d18-cebf64b36ca2.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，卧室带阳台，光线充足，品质装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|145.09平|中区/13层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "碧云东方公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1230万"
+}{
+  "singel_price": "单价74168元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4634021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/6ff60c60-6a57-41a0-82c0-cba00218cef5.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，低区出入方便，装修精美",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|148.31平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中天碧云",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价81912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4608393.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/e7c1a614-0590-475d-861e-0321c58ab6e3.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "省装修费，满五年，热销好房，上门实拍",
+  "s_cate": "碧云",
+  "house_desc": [
+    "5室2厅|549.37平|地上3层|(进门)南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "维诗凯亚",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "4500万"
+}{
+  "singel_price": "单价78955元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4608299.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/2344e0a0-40ad-4b99-8264-1f21dbc9a102.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，光线充足，品味装修",
+  "s_cate": "碧云",
+  "house_desc": [
+    "1室1厅|65.86平|中区/19层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金桥酒店公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "520万"
+}{
+  "singel_price": "单价88432元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4528744.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170301/21d9f761-ae10-4d52-9ecf-06801abcf903.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，卧室带卫，光线充足，装修精致",
+  "s_cate": "碧云",
+  "house_desc": [
+    "3室2厅|141.35平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金桥爱建园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/biyun",
+  "house_price": "1250万"
+}

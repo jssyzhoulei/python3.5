@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价63668元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841997.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/1ff8697d-d3c1-4dcb-9a5b-b83f00409c55.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，厨卫全明，出行方便，楼层好",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "1室1厅|50.26平|中区/5层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "320万"
+}{
+  "singel_price": "单价61185元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699423.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170714/be67d310-2ab3-446a-aef2-e94c9f5202f9.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁直达，黄金楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|52.3平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "320万"
+}{
+  "singel_price": "单价55527元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161104/ee35e6b8-f193-450f-befb-cabe47eb58fe.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，客厅带阳台，出行方便，上下楼方便",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|59.43平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "330万"
+}{
+  "singel_price": "单价67796元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829377.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/82cf27fb-3080-409b-9330-21ff9cbacf2e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，好楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室2厅|91.45平|中区/14层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "嘉富丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "620万"
+}{
+  "singel_price": "单价63117元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793490.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/03e3376b-370b-4f8a-a0eb-f992cf00ccec.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁沿线，光线非常好",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|54.66平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "345万"
+}{
+  "singel_price": "单价60483元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4689838.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/27edc3b4-c0f4-4c03-b7a3-9cf944228dd9.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|64.48平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏四村三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "390万"
+}{
+  "singel_price": "单价57100元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4418368.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161213/d9208fe2-be54-4b71-8ce8-aab07a56bb13.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "出行方便，上下楼方便，中等装修，房本满五年",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|54.29平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "310万"
+}{
+  "singel_price": "单价55224元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4361717.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161029/75ffb520-ffd3-4fdc-b62d-ab8a46294995.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，地铁直达，视野很好",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "3室2厅|137.62平|高区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永怡公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "760万"
+}{
+  "singel_price": "单价62934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4345359.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/d015b6bc-d96c-400f-8a6d-b33d3af3d613.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，卧室带卫，地铁沿线，黄金楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室2厅|90.57平|中区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "嘉富丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "570万"
+}{
+  "singel_price": "单价58079元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4531443.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/0f319319-c81c-43d0-9177-3470585ba3a8.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，光线非常好",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "1室1厅|42.7平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "248万"
+}{
+  "singel_price": "单价57903元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4314213.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161015/871fff82-6621-406b-bfc9-35d5158b66ab.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，视野开阔",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "1室1厅|42.83平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "248万"
+}{
+  "singel_price": "单价59278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/0b564abb-8b00-418d-ab86-68421dfb56a1.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁直达，好楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|58.2平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "345万"
+}{
+  "singel_price": "单价54353元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793057.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/78040856-8b94-420f-bd64-1a8621aedcbb.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁房，低楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室2厅|99.35平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "540万"
+}{
+  "singel_price": "单价77024元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814539.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/eed35266-fafd-4715-aba3-e669ba84e286.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁房，高区景观好",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室2厅|90.88平|高区/11层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏香榭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "700万"
+}{
+  "singel_price": "单价57471元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664117.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161214/7fd8a2d2-2a85-46ad-82b2-046f84ce3c1c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，视野很好",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|54.81平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "315万"
+}{
+  "singel_price": "单价52615元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4642263.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/c54ba805-20a9-45a7-81fd-1ad208cd099a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "房型正气，卧室带卫，交通方便，上下楼方便",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "3室2厅|130.19平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "685万"
+}{
+  "singel_price": "单价54114元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851924.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/29c0ee36-5ec9-49ef-92b3-ec745d07ffbf.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，交通方便，黄金楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|58.21平|中区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "315万"
+}{
+  "singel_price": "单价53443元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4181086.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/8e91d00b-cb62-4a96-afb4-514a27881cae.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁直达，高区景观房",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "3室1厅|82.33平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "440万"
+}{
+  "singel_price": "单价63346元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871466.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/2b4d8a9d-f681-4f4f-b06b-82b231db3307.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "地铁直达，楼层好，简单装修，房本满五年",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|61.25平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "388万"
+}{
+  "singel_price": "单价58922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4866133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/ee947e47-a595-475f-9a8d-549f32f6b282.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁沿线，低区出入方便",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|59.4平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "350万"
+}{
+  "singel_price": "单价60098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534851.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/efd1c702-191b-42da-aa4b-0b2fd0374b3b.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，交通便利，黄金楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|63.23平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "380万"
+}{
+  "singel_price": "单价64102元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856472.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/ca0c644f-04da-4ac3-a842-d6fcccc98a78.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，上下楼方便",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|63.18平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "405万"
+}{
+  "singel_price": "单价59155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808997.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/3caef2c2-3e03-4d49-a0b0-9910527ccbb9.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，好楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|72.69平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "430万"
+}{
+  "singel_price": "单价64448元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787437.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/31cfa733-d718-486f-a35e-601c129d45c4.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁沿线，好楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室2厅|76.03平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "佳信花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "490万"
+}{
+  "singel_price": "单价60168元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707283.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/4bf34fcb-634e-4c1f-a67a-373ce920ee1d.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，黄金楼层",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "1室1厅|49.86平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "300万"
+}{
+  "singel_price": "单价57266元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4640276.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/d7d01644-8692-4a96-bc24-6281b8e1c21e.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，低区出入方便",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "3室1厅|75.96平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "435万"
+}{
+  "singel_price": "单价63743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4630440.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/e7803bbe-45a8-4eba-8324-619cdca65a26.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "出行方便，光线充足，品味装修，房本满五年",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|51.77平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "330万"
+}{
+  "singel_price": "单价56958元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4622302.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170102/ac385d34-b4a2-426f-b61e-c0430880532d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室1厅|60.57平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙柏二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "345万"
+}{
+  "singel_price": "单价61723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4599997.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/3802bd7b-cd1b-4b73-b9d8-f70e77b961bb.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁直达，楼层好",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "3室2厅|115.84平|中区/12层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "嘉富丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "715万"
+}{
+  "singel_price": "单价60072元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571417.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/8388c3ca-693d-4987-859d-1d4fbd96a9a0.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通透，地铁房，上下楼方便，中等装修",
+  "s_cate": "龙柏",
+  "house_desc": [
+    "2室2厅|118.19平|低区/8层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "华都公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longbai",
+  "house_price": "710万"
+}

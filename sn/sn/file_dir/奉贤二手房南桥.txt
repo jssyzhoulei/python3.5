@@ -1,0 +1,501 @@
+{
+  "singel_price": "单价25413元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586174.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/39fc16cc-115c-4a25-919d-de3b78ca58c4.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，高区景观房，中等装修，满五年",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室1厅|84.6平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "贝港第二居民区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "215万"
+}{
+  "singel_price": "单价29553元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849915.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/131ab0ef-70ab-4227-a2fa-137fe95ce7ff.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线充足，精装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室1厅|54.14平|中区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "古华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "160万"
+}{
+  "singel_price": "单价23822元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846007.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/33d26596-70a5-4584-ae2b-a552ff8fcc6f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，采光无遮挡，中等装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|112.5平|高区/19层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "育秀公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "268万"
+}{
+  "singel_price": "单价22122元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4834909.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/1eeb007c-5df8-429b-85a1-e67ca49c66a0.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|84.98平|低区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "江海新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "188万"
+}{
+  "singel_price": "单价24875元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824267.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/cf961771-8e13-4a0e-bd10-57553fd480ac.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，楼层好，拎包入住",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|80.0平|中区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "江海新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "199万"
+}{
+  "singel_price": "单价29931元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823596.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/82ec15ec-c0b2-4fc0-9e80-02286deebd85.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，上下楼方便，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室1厅|64.48平|低区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "贝港花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "193万"
+}{
+  "singel_price": "单价25263元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816745.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/84ee3467-22af-43ab-ac55-787a6473ca1e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北户型，厨卫全明，低区出入方便，品味装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室1厅|95.0平|低区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "贝港八区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "240万"
+}{
+  "singel_price": "单价26703元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813295.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/12c67204-a164-4811-b738-b4c103efe9ac.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，黄金楼层，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室1厅|58.42平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "解放新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "156万"
+}{
+  "singel_price": "单价37293元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812981.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/3b23aad3-c62a-4752-945a-16ae8b528402.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，厨卫全明，楼层好，装修精致",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|83.66平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "正阳世纪星城(绅鸿苑)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "312万"
+}{
+  "singel_price": "单价21317元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806461.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/55c2b748-a482-444d-87d3-69327248e4d5.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，采光无遮挡，简单装修，满五减税",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|89.13平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "江海新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "190万"
+}{
+  "singel_price": "单价22529元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795351.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/45b7a509-db9f-4108-9472-ce331068689b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低区出入方便，拎包入住",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|85.22平|低区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "江海二村(奉贤)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "192万"
+}{
+  "singel_price": "单价27857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782550.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/f37080aa-d38d-4557-b976-e0d06de6dfb1.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，满五减税",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室1厅|70.0平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "贝港第二居民区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "195万"
+}{
+  "singel_price": "单价28333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779772.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/2946ea55-9b13-4e6b-9f51-879747ce9315.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|66.0平|中区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "古华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "187万"
+}{
+  "singel_price": "单价29869元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769818.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/1701aac0-0b8b-4262-97e7-a357a9e76d46.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "房型正气，厨卫全明，低楼层，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室2厅|97.09平|低区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "九华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价25954元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730912.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/df22a744-2aab-46b1-b3a9-caeb55b046e2.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，采光无遮挡，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|91.7平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "育秀八区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "238万"
+}{
+  "singel_price": "单价26379元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4721090.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/1efb3620-aeb0-467a-b2cc-1e5076153d61.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，卧室带阳台，楼层好，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室1厅|53.83平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "解放新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "142万"
+}{
+  "singel_price": "单价21181元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718880.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170718/a042a90a-c7d4-4e23-9ac4-bf2ea3bdf0ee.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野很好，精装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室1厅|84.98平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "江海新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "180万"
+}{
+  "singel_price": "单价26742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4703045.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170116/d4f5b669-f772-4eaf-a522-ba724f87de32.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，中等装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室1厅|61.7平|低区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "育秀三区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "165万"
+}{
+  "singel_price": "单价22117元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699103.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/6c0981c7-d3ce-4837-bf15-6ee45264514b.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野开阔，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|85.0平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "江海新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "188万"
+}{
+  "singel_price": "单价28787元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669346.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/725bca27-9a63-4374-8dee-d4d0cf88281b.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "低楼层，品质装修，房本满五年，有钥匙立即看",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|99.0平|低区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "育秀十一区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价27522元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4665014.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/3f21670e-46b1-4bab-84eb-addc852542e7.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，上下楼方便，省装修费",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|109.0平|低区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "浦南园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "300万"
+}{
+  "singel_price": "单价27403元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662540.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/09df01d0-95c6-4ad7-8d60-634e0940021d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，高区阳光房，中等装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室2厅|104.0平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "教苑新村(奉贤)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价25987元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641290.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/2d4f3984-2b3a-4ede-932f-1c871a26f8ea.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "好楼层，中等装修，满5年，马上看房",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室2厅|157.0平|中区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "万龙新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "408万"
+}{
+  "singel_price": "单价30959元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4592609.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161207/94d01508-b296-45ee-8b34-1ddbf7ab47e8.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，高区景观房，装修精致",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室1厅|52.65平|高区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "解放新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "163万"
+}{
+  "singel_price": "单价33412元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4559953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161007/a78e3f4b-bf91-4032-95d2-ffa346c7f829.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "高区景观房，装修精致，满五减税，随到随看",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|97.27平|高区/19层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "百合苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "325万"
+}{
+  "singel_price": "单价32142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4535943.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/5cf0eb37-32e4-4fe9-af8b-00d00177af2a.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，低区出入方便，品质装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|112.0平|低区/14层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地南桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "360万"
+}{
+  "singel_price": "单价27669元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4519085.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/28cb51a8-db8e-40ad-9791-49dfc420f090.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，客厅朝南，黄金楼层，装修精美",
+  "s_cate": "南桥",
+  "house_desc": [
+    "2室2厅|103.0平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金水苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价19857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511352.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161014/af78662c-ebd9-4048-92e0-5a7006c3eb7e.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，视野开阔，中等装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室2厅|99.71平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "江海二村(奉贤)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "198万"
+}{
+  "singel_price": "单价34299元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4506833.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/f4c5e456-eb29-44c1-9bc0-779876771e11.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，楼层好，简单装修",
+  "s_cate": "南桥",
+  "house_desc": [
+    "3室2厅|122.45平|中区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "正阳世纪星城居礼苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "420万"
+}{
+  "singel_price": "单价44622元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4466392.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/51332a14-3526-4111-b962-06ec41d3f373.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，客厅朝南，楼层好，毛坯房",
+  "s_cate": "南桥",
+  "house_desc": [
+    "1室2厅|64.99平|中区/18层|朝西南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "南郊御墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanqiao",
+  "house_price": "290万"
+}

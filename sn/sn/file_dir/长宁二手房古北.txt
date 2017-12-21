@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价57759元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794145.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/5ed4ce1f-2574-4ac8-9340-968a47a256a1.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通方便，低楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|159.28平|低区/13层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "里昂花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "920万"
+}{
+  "singel_price": "单价60922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758253.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/8514722e-685c-4f78-bd6a-6a649849c4f9.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，地铁直达，低区出入方便",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|160.86平|低区/11层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "里昂花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "980万"
+}{
+  "singel_price": "单价65709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4675341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/863fb9c6-f245-432c-bbb6-1dadf3f3cff2.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，高区景观好",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|130.88平|高区/21层|朝西北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "美丽华花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "860万"
+}{
+  "singel_price": "单价92662元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648900.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170523/60abeebf-462e-4635-ab62-566ef42f829e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "出行方便，光线非常好，省装修费，满五减税",
+  "s_cate": "古北",
+  "house_desc": [
+    "4室3厅|291.38平|高区/26层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "强生古北花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "2700万"
+}{
+  "singel_price": "单价66914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4635633.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/ae92df33-0d64-4565-9b82-f68758a52fe2.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "稀罕南北通，出行方便，光线充足，中等装修",
+  "s_cate": "古北",
+  "house_desc": [
+    "4室2厅|134.5平|中区/8层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "金鹿公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "900万"
+}{
+  "singel_price": "单价97533元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4620953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/adc4de2a-2c90-480d-a9f0-f42425c0ee86.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通便利，好楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|158.92平|中区/17层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "强生古北花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1550万"
+}{
+  "singel_price": "单价98973元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4544462.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170314/0ac258b5-4064-4c12-b08d-24cb96b5e185.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，带飘窗，地铁房，采光无遮挡",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|161.66平|高区/18层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "强生古北花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1600万"
+}{
+  "singel_price": "单价91799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4393259277.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/930c05e1-5f11-4a2e-abb9-c13257da76f7.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，地铁沿线，低楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室2厅|147.06平|低区/32层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "古北国际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价69892元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832514.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/7c0a7373-ddc9-484f-a464-ccabe1ea170d.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通方便，采光无遮挡",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室2厅|93.0平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "宝石公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "650万"
+}{
+  "singel_price": "单价75062元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4335852.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161018/c7c45251-25fe-44c1-822c-344ca96bd644.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，交通方便，低区出入方便，中等装修",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室1厅|79.8平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "宝石公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "599万"
+}{
+  "singel_price": "单价62711元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841006.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/d5a6e713-6cfd-4e84-9247-2af3b35a5068.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，地铁直达，低楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室2厅|124.38平|低区/20层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "广场大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "780万"
+}{
+  "singel_price": "单价88193元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824184.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/8dce21bb-ef44-445b-944c-c5727969b169.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带卫，卧室全南，地铁房，低楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "1室2厅|70.3平|低区/9层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "古北嘉年华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "620万"
+}{
+  "singel_price": "单价60373元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808233.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/cba6795a-c6e9-4cb2-9478-44dd8060e7c1.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，出行方便，好楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室2厅|145.76平|中区/18层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "罗马花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "880万"
+}{
+  "singel_price": "单价100618元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798682.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/0fd750d5-228b-4838-9d58-afe3325bd244.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，地铁沿线，低区出入方便",
+  "s_cate": "古北",
+  "house_desc": [
+    "1室1厅|69.57平|低区/10层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "古北嘉年华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "700万"
+}{
+  "singel_price": "单价122029元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704735.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/3d781a6e-1135-4c6c-9da3-330423b2b415.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，交通便利，视野开阔，品质装修",
+  "s_cate": "古北",
+  "house_desc": [
+    "4室3厅|327.79平|高区/12层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "古北中央花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "4000万"
+}{
+  "singel_price": "单价106979元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4703638.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170801/cc388a42-68dc-4b07-aa78-d91eb156cb6a.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，地铁房，低区出入方便，拎包入住",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室2厅|98.15平|低区/21层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "金色贝拉维",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价103776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688847.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/4cfe9151-8072-4697-a208-3798011364df.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁直达，高区景观房",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|144.06平|高区/17层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "强生古北花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1495万"
+}{
+  "singel_price": "单价58688元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676184.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/b53d70bf-f06b-4c86-bad3-b04004dda189.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，出行方便，高区景观房",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|187.43平|高区/18层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "罗马花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价86997元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648115.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160401/386bbe4c-9e16-4153-b549-85d06c394514.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "地铁房，低区出入方便，满五减税，有钥匙立即看",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室2厅|168.97平|低区/17层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "华丽家族古北花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1470万"
+}{
+  "singel_price": "单价87036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648112.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170522/49047d09-e0c1-4503-af03-90a8482de733.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，地铁沿线，低区出入方便，精装修",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|206.81平|低区/21层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "华丽家族古北花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价65709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647277.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/7d6fea08-fc2a-4294-9cfb-9df8b79ebecd.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，地铁沿线，视野开阔",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|130.88平|高区/18层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "美丽华花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "860万"
+}{
+  "singel_price": "单价85598元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546113.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170317/c9c6f7a9-a76f-4e43-8a25-a35fff0fef21.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅朝南，出行方便，黄金楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|146.03平|中区/18层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "圣美邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价68168元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4869895.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171127/c79a6d9b-51d9-4a69-845e-5a7de573bdd2.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，上下楼方便",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室2厅|115.89平|低区/10层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "马赛花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "790万"
+}{
+  "singel_price": "单价100169元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4418277.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161230/442acf9c-2126-4302-a848-e3e9b69a4eec.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "出行方便，低楼层，满两年，火爆热销",
+  "s_cate": "古北",
+  "house_desc": [
+    "4室2厅|229.61平|低区/33层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "古北瑞仕花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价62193元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571836.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/25f54af2-9464-4620-b2e3-0bfb411740ff.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，视野开阔",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室1厅|53.06平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹南小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "330万"
+}{
+  "singel_price": "单价68751元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772322.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/0103dc1f-3c09-4dc4-b7e1-717d2ee4cbba.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室1厅|53.09平|中区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹南小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "365万"
+}{
+  "singel_price": "单价67826元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/fd92f36f-1298-402a-8c69-98a5822afd1f.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|115.0平|高区/8层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "荣华西道19弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "780万"
+}{
+  "singel_price": "单价99903元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4326792.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/8e86f393-5b9b-4236-a866-b29ff95d3065.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，低区出入方便",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|155.15平|低区/25层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "御翠豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1550万"
+}{
+  "singel_price": "单价109213元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779918.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/65c690a6-26aa-4684-8288-1ddb64a522f0.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，卧室带卫，地铁房，好楼层",
+  "s_cate": "古北",
+  "house_desc": [
+    "3室2厅|157.49平|中区/11层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "古北中央花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "1720万"
+}{
+  "singel_price": "单价63941元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4542744.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170318/a22a4f3f-69a9-4cf3-8af6-9c5293272a65.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "古北",
+  "house_desc": [
+    "2室1厅|51.61平|高区/5层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "张虹路90弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gubei",
+  "house_price": "330万"
+}

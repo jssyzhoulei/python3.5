@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价50121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762325.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/0b9164f8-b5b3-45d0-8a0d-b74f4dfa57fb.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，采光无遮挡",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|36.91平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "宜川五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "185万"
+}{
+  "singel_price": "单价57803元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800581.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171127/ca85abc1-6d1d-4959-88b0-29a0f9ce6daa.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，简单装修，满五年",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室0厅|48.44平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新黄小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "280万"
+}{
+  "singel_price": "单价51183元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783584.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/5354f92e-cff0-4e4c-8278-19d13e1a1162.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室0厅|46.89平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "泰山二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价53084元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769488.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/54a71e4e-82d6-42ca-9bc8-14cefc6e7a0a.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，高区景观好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室0厅|34.85平|高区/6层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "双山小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "185万"
+}{
+  "singel_price": "单价56546元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758625.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/5d767a11-6475-4da9-8fd4-a04424fa8dc6.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区阳光房",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室0厅|45.98平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "泰山一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "260万"
+}{
+  "singel_price": "单价54970元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756681.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/2d951510-2d1f-4c37-8f45-bfc7bbcef27a.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|51.3平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "甘泉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "282万"
+}{
+  "singel_price": "单价54411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729368.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/845b1ee7-3173-4a6e-847e-338b5570e954.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁直达，高区景观房",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|52.93平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "甘泉二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "288万"
+}{
+  "singel_price": "单价55682元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678676.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/99eebdc4-7563-4965-889e-63ca3d51b504.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，光线充足",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|61.06平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "甘泉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "340万"
+}{
+  "singel_price": "单价53832元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4623630.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/e306fda6-0d8c-4cf5-a530-a48536ea926e.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，上下楼方便",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|78.02平|低区/22层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "西部大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "420万"
+}{
+  "singel_price": "单价56202元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4622309.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170505/ca52a194-b43a-4038-a5d8-06d7a6ea143a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|49.82平|中区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新泉大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "280万"
+}{
+  "singel_price": "单价49573元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4239846.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160815/2c0edb62-71d6-40ce-a8ff-13ddb92f5f45.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，高区阳光房",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|43.37平|高区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "宜川六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "215万"
+}{
+  "singel_price": "单价52657元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160117/1f0102b5-4dac-4dd8-b14c-359de058fa7a.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，采光好，品味装修",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|39.88平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新长小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "210万"
+}{
+  "singel_price": "单价55578元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843491.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/703d9e52-af95-46e3-82b3-bcd48d7c8ba9.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁沿线，视野很好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "3室1厅|72.87平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "甘泉三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "405万"
+}{
+  "singel_price": "单价60416元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839852.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171127/98439e6a-8cc4-4cfd-b35c-1b6988907b87.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低楼层",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室0厅|48.0平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "黄陵小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "290万"
+}{
+  "singel_price": "单价50835元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808084.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/9df9b1f6-d0bb-4130-a0b4-a126299a8a91.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，楼层好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|41.31平|中区/5层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "宜川六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "210万"
+}{
+  "singel_price": "单价60975元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749991.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/8f0d232f-1205-4116-98ba-0b4cbfe79636.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，楼层好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|41.0平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "双山小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "250万"
+}{
+  "singel_price": "单价57959元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663906.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/3b91d45d-9ca4-4976-a717-97d24e93466a.jpg_200x150.jpg",
+  "house_time": [
+    "1953年建"
+  ],
+  "house_title": "出行方便，光线充足，简单装修，房本满五年",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室0厅|25.88平|中区/5层|朝北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "甘泉一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "150万"
+}{
+  "singel_price": "单价56927元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4661357.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/d36099d4-d63e-4361-816c-74bca5b3192a.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室0厅|29.16平|中区/6层|朝北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "甘泉二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "166万"
+}{
+  "singel_price": "单价54064元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4649829.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/0e5a28cb-03c6-4c27-b7ca-a6ddfe25fa70.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁直达，采光好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|53.64平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "合阳小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "290万"
+}{
+  "singel_price": "单价53960元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619961.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160531/9d83d177-3e1a-4807-b693-b381f9e4eb2a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北户型，地铁沿线，采光无遮挡，中等装修",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|51.89平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "汪家井小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "280万"
+}{
+  "singel_price": "单价58739元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564468.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/45e3a941-4808-4c26-86e4-0404944c9ada.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，低区出入方便",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|34.9平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "宜川五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "205万"
+}{
+  "singel_price": "单价53357元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4282868.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160919/e4135ca9-14e0-4bc4-81f6-aba97eb58576.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，地铁房，低楼层",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "3室2厅|144.31平|低区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "志丹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "770万"
+}{
+  "singel_price": "单价51132元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849812.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/e8875748-7c3b-4316-8984-9a21f5f719c4.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室0厅|48.11平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "宜川六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "246万"
+}{
+  "singel_price": "单价56504元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4838105.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/2f0d8571-70d1-4a28-9f7e-8511ef1b58ea.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|49.2平|低区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新村路426号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "278万"
+}{
+  "singel_price": "单价58763元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801789.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/3488b5e0-c37d-4a54-a03c-48c95bf204a7.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，低区出入方便",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|39.14平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "子长小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "230万"
+}{
+  "singel_price": "单价51803元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/e4d77934-5d6b-471f-893b-267018f6e51e.jpg_200x150.jpg",
+  "house_time": [
+    "1953年建"
+  ],
+  "house_title": "交通便利，黄金楼层，简单装修，房本满五年",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室1厅|26.06平|中区/5层|朝北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "甘泉一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "135万"
+}{
+  "singel_price": "单价60000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796038.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/d57883d8-228d-4b98-9c3f-46c26eaf2aa6.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁房，楼层好",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|55.0平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "南泉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "330万"
+}{
+  "singel_price": "单价59210元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792888.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/3dcc6507-6dd1-4937-a607-c8875d378d89.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低楼层",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "1室0厅|38.0平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "龚家宅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "225万"
+}{
+  "singel_price": "单价54013元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763035.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170512/8206969c-3813-40f2-922e-45dbcba17200.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "2室1厅|53.32平|低区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "合阳小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "288万"
+}{
+  "singel_price": "单价62483元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719433.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/1b2ebbe0-718a-4f11-9519-2a2f54e6df55.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，光线充足",
+  "s_cate": "甘泉宜川",
+  "house_desc": [
+    "3室1厅|73.62平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新村路350弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/ganquanyichuan",
+  "house_price": "460万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价19574元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161001/868ac5dd-6d2c-4ea0-aaf2-4c4ae8aab8b3.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，上下楼方便，中等装修",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|81.74平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云树仁居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "160万"
+}{
+  "singel_price": "单价22021元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593260.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170417/91834cc3-4a62-4ad4-800a-9d3a287fd28d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "高区采光好，满5年，新鲜挂牌，有钥匙",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|81.74平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云松翠庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "180万"
+}{
+  "singel_price": "单价25189元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845723.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/f59ea8b9-567c-49b1-a97a-0c92a24ed233.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，黄金楼层，装修精美",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "1室1厅|53.99平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云锦丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "136万"
+}{
+  "singel_price": "单价22290元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4367108.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/00b71831-d990-4a60-bff0-6dd1b42e1e9e.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，好楼层，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|87.48平|中区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "蓝色城邦（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "195万"
+}{
+  "singel_price": "单价13001元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761447.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160822/40ef7bb4-8052-46e0-9c4b-c3d1f7e8c044.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，上下楼方便，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|173.06平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "蓝色城邦（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "225万"
+}{
+  "singel_price": "单价20582元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747281.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170205/833b9f84-87d3-4962-a4d3-035f79f7e096.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "光线充足，精装修，满五减税，有钥匙",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "3室2厅|103.0平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云帆名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "212万"
+}{
+  "singel_price": "单价22434元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728178.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/e869b803-baf4-4afb-a991-50087993a22c.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，高区阳光房，简单装修，满五年",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "1室1厅|63.74平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云树欣居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "143万"
+}{
+  "singel_price": "单价22878元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719657.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161106/0d844525-59d6-4f4a-ae94-c0e1b742b646.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "上下楼方便，装修精美，满五年，随时看房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|64.69平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "荷风华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "148万"
+}{
+  "singel_price": "单价22671元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4660792.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/c0245311-d467-4b1d-bc22-ce0036d0051b.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，厨卫全明，采光无遮挡，品质装修",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|81.6平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "清风雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "185万"
+}{
+  "singel_price": "单价24806元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590959.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/ee6d07c0-4471-422e-9b86-63d7ca948816.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，楼层好，装修精致",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "1室1厅|64.5平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "清风雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "160万"
+}{
+  "singel_price": "单价20457元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4309658.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/e21fe64a-0d7c-403a-9ec1-b97c839ce6c1.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅带阳台，采光无遮挡，精装修",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|83.1平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云帆雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "170万"
+}{
+  "singel_price": "单价21776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4300968.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/b082646b-f047-46f4-9472-29117fc4a303.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，低区出入方便，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|64.29平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云锦丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "140万"
+}{
+  "singel_price": "单价21912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741452.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/477f34b9-a768-4069-878e-bc70d8a9cbd5.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，光线非常好，满5年",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "3室2厅|100.4平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "荷风翠庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价29750元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852842.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/b4f40151-aa79-4dd3-9118-2a532fe316ce.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，厨卫全明，上下楼方便，精装修",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "5室2厅|80.0平|低区/12层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽都华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "238万"
+}{
+  "singel_price": "单价21687元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792541.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/91e34cc9-726d-4abe-90c4-42ac2b60c166.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，厨卫全明，高区采光好，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|87.61平|高区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "蓝色城邦（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "190万"
+}{
+  "singel_price": "单价24014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4723602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/8d473963-f6ec-4e4d-bf7f-e554eefbbb23.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，客厅朝南，高区景观好，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "3室2厅|89.53平|高区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "乾耀东港",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "215万"
+}{
+  "singel_price": "单价27842元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668320.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/25a53203-3a21-492e-a1e4-74607ca96de6.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，高区阳光房，拎包入住",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|86.2平|高区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽都华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "240万"
+}{
+  "singel_price": "单价24088元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4630677.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/026e30d1-7da7-4e26-ae52-a542e510e44a.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "黄金楼层，毛坯房，满二减税，随到随看",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|89.67平|中区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "乾耀东港",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "216万"
+}{
+  "singel_price": "单价26272元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610053.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/782d92d6-d43b-4648-8039-79fd1b8ef2c5.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，厨卫全明，高区景观好，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|86.02平|高区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽都华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "226万"
+}{
+  "singel_price": "单价20430元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4569960.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/a030eb59-4ce2-4c80-a761-604df8fb5c08.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，视野开阔，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|81.74平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云树仁居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "167万"
+}{
+  "singel_price": "单价24218元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4365128.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/e4dd21e5-6672-4d71-9460-5608c583855f.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，客厅朝南，楼层好，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|87.95平|中区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "乾耀东港",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "213万"
+}{
+  "singel_price": "单价22465元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4343525.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170724/36126f2b-f092-42f6-a59f-405a2228bcbe.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，厨卫全明，低楼层，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|82.35平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "清风名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "185万"
+}{
+  "singel_price": "单价22414元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813094.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/fb4b8223-afb5-4b6a-81a7-99e68d36a64d.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，光线非常好，简单装修",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "1室1厅|64.69平|高区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "清风雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "145万"
+}{
+  "singel_price": "单价18437元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501196.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/935d37b2-fbea-4f47-8de3-d54e7d8f45a9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，厨卫全明，楼层好，简单装修",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "3室2厅|119.32平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云帆名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价22459元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839831.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/5083e989-aecb-4f43-9a63-fe97a2d80c05.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，客厅朝南，好楼层，拎包入住",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|82.37平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云树雅居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "185万"
+}{
+  "singel_price": "单价19756元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4588469.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/3b4fa25c-c253-49e3-a69d-2b0542284842.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "光线非常好，毛坯房，满5年，马上看房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "3室2厅|123.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "清风丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "243万"
+}{
+  "singel_price": "单价19161元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819986.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/3d4e96e7-7033-408e-a034-6feae1474151.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，采光无遮挡，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|83.5平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云锦雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "160万"
+}{
+  "singel_price": "单价25808元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780403.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/110f3b1a-06c5-4c8f-bf3d-8b4dd0a96669.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，客厅朝南，光线充足，装修精致",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室2厅|88.73平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽都华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "229万"
+}{
+  "singel_price": "单价18531元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729692.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170724/8538e45a-83d5-42b6-92f2-5b5e2198fae9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅朝南，低楼层，毛坯房",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|83.1平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云帆雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "154万"
+}{
+  "singel_price": "单价28422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579152.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/e3bbb728-1208-4d50-92ca-9565331ff235.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通，视野开阔，品味装修，随到随看",
+  "s_cate": "泥城镇",
+  "house_desc": [
+    "2室1厅|86.2平|高区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽都华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nichengzhen",
+  "house_price": "245万"
+}

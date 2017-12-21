@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价36392元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/e1b053de-de1d-4f9b-a067-fba35ecd408d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，出行方便，黄金楼层，中等装修",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室1厅|81.06平|中区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天乐新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "295万"
+}{
+  "singel_price": "单价37440元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4427171.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161208/a1ee24ca-fbaa-41bf-b453-d400b5d4ca30.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "南北户型，客厅朝南，交通便利，光线充足",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|102.83平|中区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江中公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "385万"
+}{
+  "singel_price": "单价33395元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4637748.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160403/ec577691-8f5a-40de-8bc8-be316cad328d.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通便利，低区出入方便",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|107.8平|低区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "祥和花苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价33464元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804508.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/69661cd0-6ab0-422c-bd5a-937c2a83bba3.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，客厅朝南，地铁沿线，上下楼方便",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|83.67平|低区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天乐新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "280万"
+}{
+  "singel_price": "单价31665元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549137.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170322/4c1f6f43-93bd-4bc1-a3fe-47bae265c0ec.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，光线非常好",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|94.74平|高区/7层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "明丰公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "300万"
+}{
+  "singel_price": "单价33823元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800954.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/0e09c571-d57a-4aff-a5c0-3877e91bdf31.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁房，视野很好",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|102.0平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "祥和花苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "345万"
+}{
+  "singel_price": "单价33063元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4569191.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/ace54789-6b0c-4c55-9613-a2560660c6de.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|108.88平|中区/6层|朝西"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江诚苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价39721元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4502432.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160321/b7483673-02ee-412e-b0e7-8c41985101d8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，黄金楼层，品味装修",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|130.91平|中区/14层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "阳光翠庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "520万"
+}{
+  "singel_price": "单价35135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681748.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/b3e698f6-b29c-429e-a825-0e2ad5a1f6be.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，低区出入方便",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "4室3厅|185.0平|低区/4层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江虹花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "650万"
+}{
+  "singel_price": "单价34624元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556431.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/dca383f3-09f3-438e-900f-0efa635147b3.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，带飘窗，地铁直达，低区出入方便",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|138.63平|低区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "锦桂苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "480万"
+}{
+  "singel_price": "单价35587元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4582496.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/5d0f5567-2cf4-4f5f-84f6-5285ced65ce3.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北通透，客厅朝南，交通方便，光线非常好",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|112.4平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江中公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "400万"
+}{
+  "singel_price": "单价40723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789842.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/111ea9b3-4e49-4313-9c87-b0fea2a65f59.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁沿线，视野开阔，满5年，有钥匙立即看",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|110.5平|高区/18层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "名庭花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "450万"
+}{
+  "singel_price": "单价35790元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748811.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/a8c3ebc4-cbe5-4773-a831-b2ab15bc6556.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，采光好，简单装修",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "4室2厅|159.26平|高区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "昌鑫花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "570万"
+}{
+  "singel_price": "单价32654元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691620.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/8c6a25e9-78e6-419e-aca3-1ece3acff9b9.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，上下楼方便，省装修费",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|102.59平|低区/18层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "珠江新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "335万"
+}{
+  "singel_price": "单价33275元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4569869.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/3290b41d-378d-43be-9e65-5c92f3959a6c.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通，客厅朝南，上下楼方便，简单装修",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|81.14平|低区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天虹四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "270万"
+}{
+  "singel_price": "单价37815元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770897.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/a376de48-0157-498c-8e1d-c00a56a7f424.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁房，光线充足",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|119.0平|中区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "鼎信公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "450万"
+}{
+  "singel_price": "单价31014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4653697.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/6aec9bbf-b285-4f59-ac75-cfb86ea2710c.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北户型，卧室带卫，交通便利，好楼层",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|138.0平|中区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "祥和花苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "428万"
+}{
+  "singel_price": "单价36000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818848.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/bc38cfeb-4c28-4d9d-8d47-91c561708fa2.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，交通便利，高区景观房",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|80.0平|高区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天乐新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "288万"
+}{
+  "singel_price": "单价36842元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850324.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/f34e2512-6b63-4a9e-867a-c46baba32593.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，带飘窗，低楼层，品味装修",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "4室2厅|190.0平|低区/11层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "绿洲华庭苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "700万"
+}{
+  "singel_price": "单价40422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801368.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/ee5284f0-c537-447c-ac8b-b935d6bcd3b8.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，客厅朝南，采光无遮挡，省装修费",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|89.06平|高区/11层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "世纪新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价55834元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4576057.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/d2f965f9-eec0-4795-91f2-8488d6017754.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房本满五年，钥匙房，热门房源，高清实拍",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "6室3厅|626.85平|地上3层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "泰晤士小镇(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "3500万"
+}{
+  "singel_price": "单价39929元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4513821.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170718/7c1f4138-ef08-4f43-9e7b-e6cb2534ec62.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "带落地窗，客厅朝南，黄金楼层，装修精美",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|90.16平|中区/11层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "德邑小城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价38639元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4328194.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161012/c000c7c3-ebfb-4c07-82e7-782d21aebcf7.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，上下楼方便，装修精美",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|129.4平|低区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "兰桥公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "500万"
+}{
+  "singel_price": "单价36046元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835941.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/6c0cbd20-b275-4a48-aec8-7d5e48029092.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁沿线，低楼层",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|86.0平|低区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江中公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "310万"
+}{
+  "singel_price": "单价29798元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/d2a0104c-5ccb-4119-b3fd-a094d2c5f4d1.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "5室2厅|164.44平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "明丰公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "490万"
+}{
+  "singel_price": "单价38408元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798587.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/8edc9306-1902-4327-ab4c-07b420927070.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|86.7平|低区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江中公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "333万"
+}{
+  "singel_price": "单价38053元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784756.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/640cfe70-7be4-4aee-bd97-989412432ccc.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁直达，视野开阔",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室1厅|113.0平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "建设花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "430万"
+}{
+  "singel_price": "单价37500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778161.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/295145df-811d-428d-8249-ba17e0734db4.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，高区景观房",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "3室2厅|120.0平|高区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "鼎信公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "450万"
+}{
+  "singel_price": "单价36781元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775557.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/7ec0cdab-3a0e-4d71-b218-4a777d4eb283.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁沿线，上下楼方便",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "2室2厅|87.0平|低区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江中公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "320万"
+}{
+  "singel_price": "单价34772元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771893.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/be7e182a-e83f-405c-8beb-855c1d2a0990.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，地铁直达，视野很好",
+  "s_cate": "松江新城",
+  "house_desc": [
+    "4室2厅|152.42平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "祥和花苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songjiangxincheng",
+  "house_price": "530万"
+}

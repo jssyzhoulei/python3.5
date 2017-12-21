@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价88888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4838607.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/c66283d9-3f6e-41e3-8f44-3ad1991f2a72.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，上下楼方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "1室0厅|33.75平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园新村(浦东)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "300万"
+}{
+  "singel_price": "单价73037元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836445.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/904bc6c5-8dce-4ebe-8af9-20151c718a09.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "出行方便，采光无遮挡，房本满五年，钥匙在手",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|65.72平|高区/26层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "480万"
+}{
+  "singel_price": "单价89169元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821046.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/112bfa87-cd06-4918-9ff7-3cb3f0feb4ea.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|61.68平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "梅园三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "550万"
+}{
+  "singel_price": "单价75921元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808777.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/07c52a22-0723-4f8c-b583-d396902fd9c3.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，低楼层，简单装修",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|62.96平|低区/26层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "478万"
+}{
+  "singel_price": "单价72276元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788626.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/1197c24b-9eff-4f1a-8677-3dceeb0c18e7.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "出行方便，上下楼方便，简单装修，满五年",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|65.72平|低区/26层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "475万"
+}{
+  "singel_price": "单价67104元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779651.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/b9fcb372-ba32-4c08-a1c6-d6edfdbc9109.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁沿线，低区出入方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|70.04平|低区/22层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "470万"
+}{
+  "singel_price": "单价130616元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769613.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/764176d0-9041-4cf6-b99a-b61fd2a1fc9b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，好楼层",
+  "s_cate": "源深",
+  "house_desc": [
+    "1室1厅|38.28平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃林一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "500万"
+}{
+  "singel_price": "单价73145元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749302.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/cdffa5e7-385d-48fc-82d8-f0d948f9f9ee.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁沿线，高区阳光房",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室2厅|205.07平|高区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "生安花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价114559元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742930.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/a7835023-ae86-443d-8061-0ebc91e851ff.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，低楼层",
+  "s_cate": "源深",
+  "house_desc": [
+    "1室1厅|48.01平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃林一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "550万"
+}{
+  "singel_price": "单价104067元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732018.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170727/2ab2983a-d327-4426-867e-3b026d84b44c.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁沿线，楼层好",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|52.37平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "梅园三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "545万"
+}{
+  "singel_price": "单价72800元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731349.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/6ea91553-6847-42d1-b9df-035a6b87d665.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室全南，地铁沿线，低楼层，品质装修",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|64.56平|低区/22层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "470万"
+}{
+  "singel_price": "单价84049元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712477.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170712/08616c76-af72-46cb-9797-907126c07f36.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "地铁直达，楼层好，简单装修，满五年",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|53.54平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园新村(浦东)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "450万"
+}{
+  "singel_price": "单价89420元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692457.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/6c3edda1-bb7e-4acb-9eff-d285211b4210.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "出行方便，高区阳光房，简单装修，满五减税",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室2厅|119.66平|高区/36层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "陆家嘴国际华城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "1070万"
+}{
+  "singel_price": "单价78015元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688793.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/bc9680da-1d11-4f6a-a6e2-00a249ec3322.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，低区出入方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|49.99平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园新村(浦东)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "390万"
+}{
+  "singel_price": "单价74466元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4635539.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/1d87e40e-d726-4d30-9b18-56898c682a98.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，楼层好",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室1厅|79.23平|中区/26层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "590万"
+}{
+  "singel_price": "单价80511元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4635479.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/4cfa3fae-47c6-459b-909d-dc826e16ae06.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通便利，黄金楼层",
+  "s_cate": "源深",
+  "house_desc": [
+    "1室1厅|42.23平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园新村(浦东)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "340万"
+}{
+  "singel_price": "单价91395元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4620328.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170504/7c788744-79ae-41ae-b0be-6adb02b6fe98.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "地铁沿线，低楼层，装修精致，满5年",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室2厅|147.71平|低区/32层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "香榭丽花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价69824元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4573099.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/23f42401-0e12-478d-acdd-2a17aa63108b.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通，厨卫全明，出行方便，低区出入方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室1厅|85.93平|低区/26层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "600万"
+}{
+  "singel_price": "单价81990元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4544214.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/c32e2c8d-3469-4f10-866b-6480572a27f0.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，楼层好",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室2厅|107.33平|中区/24层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃林小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "880万"
+}{
+  "singel_price": "单价81924元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501082.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/e7016d25-8383-490b-bce8-79fbd99dcb50.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通方便，上下楼方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室2厅|96.43平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃林小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "790万"
+}{
+  "singel_price": "单价88669元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4370031.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/b69a8cef-f418-4f1e-b5f8-0a9e619ab4c8.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "地铁沿线，高区采光好，中等装修，房本满五年",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室2厅|101.5平|高区/11层|朝西北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海怡花园(浦东)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "900万"
+}{
+  "singel_price": "单价105833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863512.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/83160703-b2d2-4a5e-9a2a-d2b54f711265.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，黄金楼层，简单装修",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|60.0平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃林一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "635万"
+}{
+  "singel_price": "单价84665元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713654.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/985cb37b-ac86-4a9a-af06-64c1b6620933.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，地铁沿线，低区出入方便，满五年",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|52.56平|低区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "梅园三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "445万"
+}{
+  "singel_price": "单价75810元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682936.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/f805d9a4-5a27-445d-92bb-7bb5830e9ae0.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，地铁直达，上下楼方便，精装修",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室1厅|85.74平|低区/26层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "竹园高层",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "650万"
+}{
+  "singel_price": "单价70653元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830546.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/ac738975-14ea-441d-969d-1106df402e7f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室2厅|125.26平|低区/24层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃林小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "885万"
+}{
+  "singel_price": "单价112585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820597.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/9e641ea3-3a37-42c8-b71d-46db05a2088b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁房，上下楼方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室2厅|124.35平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "盛世年华",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价100000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811990.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/8338e558-4f3b-4bac-b1e4-ac3708f7c6aa.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁房，低区出入方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|54.0平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "梅园四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "540万"
+}{
+  "singel_price": "单价91842元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809407.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/7da483a7-cb24-4f4d-9729-5b79ac619a58.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低楼层",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|69.14平|低区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "光辉小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "635万"
+}{
+  "singel_price": "单价100751元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728665.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170724/ec95b7a2-48ad-49e8-aa82-f0157b1263f2.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁沿线，楼层好",
+  "s_cate": "源深",
+  "house_desc": [
+    "2室1厅|62.53平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "梅园四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "630万"
+}{
+  "singel_price": "单价70509元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713329.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/66de06e3-37bb-43b4-a75a-7098e5cb6497.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "源深",
+  "house_desc": [
+    "3室2厅|121.97平|低区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东珂花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuanshen",
+  "house_price": "860万"
+}

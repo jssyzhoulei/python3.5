@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价67913元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4642058.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/d7ca3cd0-7269-4e59-9433-4cf17ccfa0ad.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "南北直通，交通便利，高区采光好，省装修费",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|50.8平|高区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "345万"
+}{
+  "singel_price": "单价106768元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843162.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/999c6df3-a45c-4c58-8792-c8b8c0a67f9e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "带飘窗，卧室带卫，地铁房，视野很好",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室2厅|107.71平|高区/37层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹桥豪苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价79012元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778384.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/d158fbf1-674a-409a-b540-1565dc9176f4.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，采光无遮挡",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室2厅|81.0平|高区/4层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "中华别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "640万"
+}{
+  "singel_price": "单价52261元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749995.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170809/38050da2-3d8a-4454-b700-211c574bffde.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通便利，好楼层",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室2厅|168.0平|中区/19层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新世纪广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "878万"
+}{
+  "singel_price": "单价83883元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719930.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/efbea795-7afc-4b50-b885-ab57317ddca8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，交通方便，上下楼方便",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室2厅|178.82平|低区/37层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹桥豪苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价73882元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4614246.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/1dc8f9c3-4dbf-4db4-a439-0d8949515531.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|56.17平|中区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹古小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "415万"
+}{
+  "singel_price": "单价56717元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546920.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170111/acf30012-7ae3-40f6-8f68-3a4f693b4df6.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，地铁直达，上下楼方便，毛坯房",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "5室2厅|220.39平|低区/24层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "长发虹桥公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价71773元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4552947.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170320/9d7c2917-a4c7-43ab-8613-435a5769df2c.jpg_200x150.jpg",
+  "house_time": [
+    "1959年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，好楼层",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|68.27平|中区/4层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "联建新村（长宁）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "490万"
+}{
+  "singel_price": "单价64676元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4520229.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170224/b973c60c-65b7-43ca-9d61-0246536cbecc.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观好",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|50.25平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "325万"
+}{
+  "singel_price": "单价65179元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4231605.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161108/0a8e55e9-6939-4276-bcc8-d399ef07b027.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，上下楼方便",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室2厅|130.41平|低区/29层|朝西北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "紫虹大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "850万"
+}{
+  "singel_price": "单价77001元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824487.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/e8d3f16b-9efa-4fa2-a2dd-8fca95860fc4.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，好楼层",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "1室0厅|29.61平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹桥小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "228万"
+}{
+  "singel_price": "单价88053元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681038.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170120/a8b7b9b8-4f8d-498c-9f52-07ec8384e148.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，出行方便，上下楼方便，装修精致",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室2厅|176.03平|低区/37层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹桥豪苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "1550万"
+}{
+  "singel_price": "单价74383元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4575556.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/bb724719-cd0e-4c12-9103-741bfc6b0603.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区采光好",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|76.63平|高区/24层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹东小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "570万"
+}{
+  "singel_price": "单价76923元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832449.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/62b94b74-fea8-4d0a-b0dd-94c89ca3f0bd.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，好楼层",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "1室0厅|39.0平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹日小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "300万"
+}{
+  "singel_price": "单价82323元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707173.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/1f9b4600-c5de-4d34-ba1e-56692f8aa644.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北户型，厨卫全明，出行方便，上下楼方便",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室1厅|85.03平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "锦苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "700万"
+}{
+  "singel_price": "单价53800元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/45b96607-22d6-4af3-a00b-62e9b8bc959f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，出行方便，低区出入方便",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室2厅|157.99平|低区/29层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "紫云大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "850万"
+}{
+  "singel_price": "单价62592元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4614382.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/dd4a9eea-d8f0-4b7f-b1a3-e301b818c968.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，采光好",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "1室0厅|40.74平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "锦苑小区（长宁）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "255万"
+}{
+  "singel_price": "单价75636元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4348076.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/eafc8c4b-fb93-4acf-baf9-eba578c34e9d.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "房型正气，地铁直达，低楼层，品味装修",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室1厅|87.26平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "安顺小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "660万"
+}{
+  "singel_price": "单价75682元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854477.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/548c3df5-7c3b-4a23-a19b-16b03e16ceb4.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线非常好",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|60.78平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹储小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "460万"
+}{
+  "singel_price": "单价72854元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791333.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161210/9d7a8c2a-4f69-4da4-9de2-98193d15bccd.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，光线充足",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "1室0厅|37.06平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "中园小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "270万"
+}{
+  "singel_price": "单价69500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618140.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170504/9719155d-75bd-44b5-a6ff-0e30c7260584.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室0厅|49.64平|中区/6层|朝东南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹桥小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "345万"
+}{
+  "singel_price": "单价68359元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800251.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/cc4eec5c-4841-461a-bf1f-a7f2f11f581f.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，采光无遮挡",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室0厅|51.2平|高区/5层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "伊犁小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "350万"
+}{
+  "singel_price": "单价66666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764743.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/502ac605-a092-4c64-a421-bba73390ae52.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|48.0平|低区/5层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "伊犁小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "320万"
+}{
+  "singel_price": "单价82943元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762975.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/4d74c217-a970-45d6-9d82-f6d7fe2317bd.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，交通方便，好楼层，品味装修",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室2厅|132.62平|中区/24层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "翠庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价56219元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735466.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/8dafbfee-4eaf-4cba-9329-a7017da80fb6.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通方便，低楼层",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室2厅|154.75平|低区/7层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹景花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "870万"
+}{
+  "singel_price": "单价68815元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671116.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/c5bda700-ec8d-4f03-8fbd-f07145b92621.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "交通便利，黄金楼层，装修精致，房本满五年",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|57.4平|中区/5层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "伊犁小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "395万"
+}{
+  "singel_price": "单价71041元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641955.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/9196746d-8a49-4a25-9f53-44ad6c14acc7.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "交通方便，楼层好，品味装修，满五减税",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "1室0厅|38.71平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹日小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "275万"
+}{
+  "singel_price": "单价73000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4580401.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/0f64df20-7121-484e-b07b-1d10f37c70f5.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室0厅|50.0平|低区/5层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "邮航小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "365万"
+}{
+  "singel_price": "单价91213元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4399833.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/451ce842-01bf-477d-962d-97499f835a96.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通方便，光线充足，豪华装修，满五减税",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "3室2厅|140.33平|中区/20层|朝西南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "皇家花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "1280万"
+}{
+  "singel_price": "单价74064元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840207.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/8eb643fc-1492-491e-9920-f36d7391b68b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线非常好",
+  "s_cate": "虹桥",
+  "house_desc": [
+    "2室1厅|78.04平|高区/16层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "长宁锦城公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hongqiao1",
+  "house_price": "578万"
+}

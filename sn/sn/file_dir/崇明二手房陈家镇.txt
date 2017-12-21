@@ -1,0 +1,52 @@
+{
+  "singel_price": "单价22145元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768531.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/fc1591cd-2c6a-4619-aec0-04914b24229d.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "光线非常好，中等装修，满五年，上门实勘",
+  "s_cate": "陈家镇",
+  "house_desc": [
+    "2室2厅|81.28平|高区/6层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "裕鸿佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chenjiazhen",
+  "house_price": "180万"
+}{
+  "singel_price": "单价19927元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775243.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/c488db7b-56c4-468f-83ff-011a52b7dc77.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，视野开阔，省装修费，房本满两年",
+  "s_cate": "陈家镇",
+  "house_desc": [
+    "2室1厅|88.82平|高区/6层|朝南北"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "裕鸿佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chenjiazhen",
+  "house_price": "177万"
+}{
+  "singel_price": "单价24133元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776407.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/020e29dc-8663-4282-a6ab-31e36d7b32ca.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "裕鸿佳苑，高区采光好，品质装修，上门实勘",
+  "s_cate": "陈家镇",
+  "house_desc": [
+    "2室2厅|78.73平|高区/6层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "裕鸿佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chenjiazhen",
+  "house_price": "190万"
+}

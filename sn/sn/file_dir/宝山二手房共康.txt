@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价63912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4716615.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/6b3a01ff-eda9-4d95-9172-e0f7e6a0c2e6.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，地铁直达，低区出入方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|87.62平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "560万"
+}{
+  "singel_price": "单价52758元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865966.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/48076741-d139-4ca6-843c-4537e05e397e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|66.34平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "350万"
+}{
+  "singel_price": "单价62809元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4834900.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/4ed9665f-c870-4ba0-ad84-19bd8e53afce.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁沿线，高区阳光房",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|101.1平|高区/13层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "馨康苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "635万"
+}{
+  "singel_price": "单价56992元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742528.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/ad3ea79f-515c-40d4-9cb3-d6728cc0634e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，地铁房，低区出入方便，装修精致",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|91.24平|低区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "新梅绿岛苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "520万"
+}{
+  "singel_price": "单价58266元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828130.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160823/a7cb7a35-e2cb-493c-afc4-8140e23170a3.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，出行方便，低区出入方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|99.2平|低区/16层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸共和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "578万"
+}{
+  "singel_price": "单价48643元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816330.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/3e815e0d-fa9e-470e-a726-98498b0bceec.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀缺南北通，交通方便，低区出入方便，毛坯房",
+  "s_cate": "共康",
+  "house_desc": [
+    "3室2厅|174.74平|低区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "850万"
+}{
+  "singel_price": "单价61305元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772034.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/3e717501-8e34-4a53-beab-bdfbf0717d86.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "1室1厅|48.12平|低区/12层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "九英里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "295万"
+}{
+  "singel_price": "单价65430元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/aad2980a-2cae-4271-902e-8b0715b3126e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，出行方便，高区阳光房",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|97.05平|高区/22层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸共和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "635万"
+}{
+  "singel_price": "单价65648元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4472422.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170111/acc882cb-052c-405a-9609-e58ce6f3089f.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，地铁沿线，低楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|65.5平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "430万"
+}{
+  "singel_price": "单价64013元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4258155.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160907/8ab44d07-ed27-4886-a211-926beaba1724.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "3室2厅|129.66平|中区/8层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸共和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "830万"
+}{
+  "singel_price": "单价52684元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706372.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170703/72bf5b19-aeac-4005-9373-e108c8764c7c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁直达，好楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|69.28平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价66389元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4657733.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/622d9a97-b5c7-4003-ab61-a34e528a1951.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀缺南北通，地铁直达，光线非常好，省装修费",
+  "s_cate": "共康",
+  "house_desc": [
+    "3室2厅|88.87平|高区/17层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "590万"
+}{
+  "singel_price": "单价52321元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571937.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/1d4b2d9a-d48f-42cc-a441-bca72875a9bb.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，楼层好",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|61.16平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "320万"
+}{
+  "singel_price": "单价53303元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855809.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/ab8789ef-10c4-4294-92b9-b8174e4227ef.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|61.91平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "330万"
+}{
+  "singel_price": "单价64592元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847986.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/19eedacb-2ef5-4d07-8d73-8f98e0e036a9.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，交通便利，上下楼方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|75.86平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "490万"
+}{
+  "singel_price": "单价62124元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839323.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/419acbac-d3dc-4147-834d-ffef91488db8.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，带飘窗，地铁直达，采光好",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|99.8平|高区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸共和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价41729元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833506.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/bcae8c22-803f-4a22-9c8c-af262a83d87d.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁沿线，低区出入方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|133.0平|低区/12层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "九英里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "555万"
+}{
+  "singel_price": "单价55905元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784533.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/6a010b8d-386e-4d19-a276-8bee09b201c5.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁房，好楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|98.38平|中区/12层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "九英里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "550万"
+}{
+  "singel_price": "单价50408元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777970.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/1e1c133f-a956-40e6-8277-7668baf25489.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，高区景观房",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|73.4平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "370万"
+}{
+  "singel_price": "单价55452元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4258527.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161102/f3ce30f1-8443-4f94-9218-c03a72f671d2.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，带飘窗，交通方便，低楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|97.38平|低区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸共和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "540万"
+}{
+  "singel_price": "单价52339元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847657.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/8f5a0485-8673-419f-b00b-254123ce1476.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，好楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "1室1厅|43.18平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "226万"
+}{
+  "singel_price": "单价50964元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825119.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/9b639955-3f10-4840-adcd-292fa6b81208.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "地铁直达，好楼层，拎包入住，满5年",
+  "s_cate": "共康",
+  "house_desc": [
+    "1室1厅|54.94平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价49685元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793049.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/e6501239-8098-457c-ada4-d45f4fa5bd35.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通方便，光线充足",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|61.99平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "308万"
+}{
+  "singel_price": "单价53593元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766740.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/8ac731d1-000f-4603-9644-62b23849c892.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，好楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|88.63平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "屹立家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "475万"
+}{
+  "singel_price": "单价66093元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741196.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/e279f4d0-777a-439b-aab8-72c9755f886c.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，地铁沿线，楼层好",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|80.19平|中区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "和欣国际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "530万"
+}{
+  "singel_price": "单价56216元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4616011.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171117/c45065bb-d1e6-4297-ab21-ef68245a4d41.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，地铁沿线，低区出入方便，品味装修",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|92.5平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸共和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "520万"
+}{
+  "singel_price": "单价58137元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4602674.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/b998806c-c6e1-4f31-bef7-a74d73512f71.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通便利，低区出入方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室2厅|97.7平|低区/16层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸共和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "568万"
+}{
+  "singel_price": "单价61390元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161125/4b4b8d13-9c07-4dac-b396-18bdf3802907.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "带飘窗，卧室全南，地铁直达，光线充足",
+  "s_cate": "共康",
+  "house_desc": [
+    "2室1厅|67.6平|中区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "新梅绿岛苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "415万"
+}{
+  "singel_price": "单价44523元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4588757.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170412/3fc58ad2-2afb-40a2-a8e6-193a46948f1f.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "共康",
+  "house_desc": [
+    "3室2厅|93.21平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共康五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "415万"
+}{
+  "singel_price": "单价68424元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4573250.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170403/b5657921-9a75-4b6c-bf1f-be2ef1838128.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁沿线，低楼层",
+  "s_cate": "共康",
+  "house_desc": [
+    "3室2厅|89.15平|低区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝宸怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gongkang",
+  "house_price": "610万"
+}

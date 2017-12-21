@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价92219元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814968.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/dac18cf4-824f-460a-a110-bada2d810304.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|52.05平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "牡丹小区（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "480万"
+}{
+  "singel_price": "单价79470元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790834.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/e4b1688f-3c0e-4332-9601-414d72670fc0.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通，客厅朝南，地铁直达，采光好",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|37.75平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "牡丹小区（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价97154元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718469.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/31b9d822-2513-4aeb-a929-590d77925eae.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，出行方便，光线非常好，豪华装修",
+  "s_cate": "花木",
+  "house_desc": [
+    "4室2厅|212.65平|高区/21层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "四季全景台",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "2066万"
+}{
+  "singel_price": "单价60839元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863451.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/fd1480d7-39d6-42b9-b940-99ae0aa916a1.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，视野开阔",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|67.39平|高区/29层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新领地",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "410万"
+}{
+  "singel_price": "单价73447元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/6aab1958-c4bb-4899-a95f-784436965080.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北户型，卧室全南，地铁房，低楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室1厅|72.16平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "梅花新村（花木）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "530万"
+}{
+  "singel_price": "单价91207元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4703966.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/cb0dad14-f239-45ac-889b-550dc3c546da.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，黄金楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室1厅|54.82平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "牡丹小区（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "500万"
+}{
+  "singel_price": "单价77172元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4689043.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/1c6b6cb8-fe61-422f-8ea0-e3f698382bcc.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线充足",
+  "s_cate": "花木",
+  "house_desc": [
+    "3室1厅|89.41平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金桂小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "690万"
+}{
+  "singel_price": "单价74489元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4646182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/7ce555ca-16e8-4c55-96cc-5297674aca0d.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，地铁房，采光无遮挡，装修精美",
+  "s_cate": "花木",
+  "house_desc": [
+    "3室2厅|92.63平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "花木苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "690万"
+}{
+  "singel_price": "单价83554元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511381.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170216/ca49c70a-273d-4770-af56-a963ed6719b7.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|37.7平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "牡丹小区（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "315万"
+}{
+  "singel_price": "单价83277元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4507276.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170216/cabc579b-b1a3-4781-acb0-63c57de20890.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，出行方便，好楼层，中等装修",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室2厅|74.45平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "花木苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "620万"
+}{
+  "singel_price": "单价99689元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4356681.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/fbe1b628-086a-4f2e-a064-2a5ad99f9917.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通方便，好楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "3室2厅|180.56平|中区/23层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "浦东世纪花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价110231元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2766764.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/c9d7e6d4-03d1-4b0b-ab61-13a85b3cccbe.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，交通方便，好楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室2厅|70.76平|中区/20层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "四季全景台",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "780万"
+}{
+  "singel_price": "单价83203元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854831.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/4f319bc9-b9af-4d93-a836-83012582efc6.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，楼层好",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|38.46平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "玉兰路99弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "320万"
+}{
+  "singel_price": "单价84232元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844824.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/8c695205-826e-4043-a526-9cce4d00453c.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北直通，卧室全南，交通方便，采光好",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|38.94平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "玉兰路71弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "328万"
+}{
+  "singel_price": "单价48169元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841848.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/e5c36e31-9c4c-4104-b3bd-482bf359b6ab.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，光线非常好",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|62.28平|高区/29层|朝北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新领地",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价52000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801948.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/4ac809c4-f801-406f-816d-18f1a67394fa.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，地铁沿线，高区阳光房，拎包入住",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|50.0平|高区/29层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新领地",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价87697元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4625691.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/5c79e02f-1b76-4bac-9bde-ab6fc4ee86f0.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，视野很好",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|41.05平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "牡丹小区（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "360万"
+}{
+  "singel_price": "单价72380元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4577293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170409/2fbe61ae-81b0-497f-9567-24769414454a.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，视野开阔",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室1厅|84.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "瑞达苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "608万"
+}{
+  "singel_price": "单价91960元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829503.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/b3b4ffd9-d4af-465c-8a87-90599b0fed04.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室全南，地铁房，低区出入方便，精装修",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室1厅|38.06平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "兰花小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "350万"
+}{
+  "singel_price": "单价79977元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747102.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/37de88d2-ab19-4ace-8f1c-f7b628b328b4.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "地铁房，高区景观房，省装修费，满五年",
+  "s_cate": "花木",
+  "house_desc": [
+    "3室2厅|106.28平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海桐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "850万"
+}{
+  "singel_price": "单价83569元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629091.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/24d4cdc1-c689-408c-b6d2-36411a6fd54c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通方便，低区出入方便",
+  "s_cate": "花木",
+  "house_desc": [
+    "1室2厅|67.01平|低区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "牡丹小区（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "560万"
+}{
+  "singel_price": "单价90520元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4445025.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161222/e5b40943-2c83-44a8-9a72-7fd06843c4b8.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "地铁沿线，采光无遮挡，拎包入住，满五年",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室2厅|79.54平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "花木鑫丰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "720万"
+}{
+  "singel_price": "单价98543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4687819.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/c958c39f-3ebd-4675-87c4-5c88accdeda9.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，出行方便，采光好，拎包入住",
+  "s_cate": "花木",
+  "house_desc": [
+    "4室2厅|233.4平|高区/19层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "花木绿城锦绣兰庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价81934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601787.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/f671d20a-9611-4438-b245-c342a62136a9.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，客厅带阳台，出行方便，好楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室1厅|74.45平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "花木苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "610万"
+}{
+  "singel_price": "单价90717元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850848.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/19c6a3e4-fdcf-46b8-a35c-dee306a55afa.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "花木",
+  "house_desc": [
+    "4室2厅|189.6平|中区/30层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "浦东世纪花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "1720万"
+}{
+  "singel_price": "单价87793元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828045.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/9874cd1b-9deb-481b-b24d-9110b07d8588.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，好楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室1厅|71.19平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海桐小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "625万"
+}{
+  "singel_price": "单价96017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820892.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/ec8820e9-139e-4eba-b4b6-d608b0301305.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，交通方便，低楼层",
+  "s_cate": "花木",
+  "house_desc": [
+    "3室2厅|147.89平|低区/25层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "大唐盛世花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "1420万"
+}{
+  "singel_price": "单价89662元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786037.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/84f5ef7f-816d-4022-a777-6d72ca098f40.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "花木",
+  "house_desc": [
+    "4室2厅|189.6平|低区/30层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "浦东世纪花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价82877元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/f3281872-8974-4e54-84f6-55d8be307d8a.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，低区出入方便",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室1厅|60.33平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "牡丹小区（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "500万"
+}{
+  "singel_price": "单价77529元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780077.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/62cbdcea-b2a2-402a-9bc0-830324068a01.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁房，视野开阔",
+  "s_cate": "花木",
+  "house_desc": [
+    "2室1厅|74.81平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "花木苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huamu",
+  "house_price": "580万"
+}

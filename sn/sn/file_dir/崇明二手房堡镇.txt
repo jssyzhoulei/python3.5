@@ -1,0 +1,48 @@
+{
+  "singel_price": "单价21954元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858638.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/e75e09cf-fd3f-4780-aa1d-575d493a0223.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "高区采光好，精装修，房本满五年，上门实拍",
+  "s_cate": "堡镇",
+  "house_desc": [
+    "2室2厅|88.82平|高区/6层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "虹宝苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baozhen",
+  "house_price": "195万"
+}{
+  "singel_price": "单价20883元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4853506.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/9bcc50d5-b9d0-4603-8077-16525ea26804.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "堡镇南路58号，光线充足，上门实勘，放心好房",
+  "s_cate": "堡镇",
+  "house_desc": [
+    "2室1厅|50.28平|中区/5层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "堡镇南路58号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baozhen",
+  "house_price": "105万"
+}{
+  "singel_price": "单价17040元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771951.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/0f59d6a3-7ed2-4624-a040-976f002e02e0.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "堡镇南路94号，好楼层，上门实勘，真实在售",
+  "s_cate": "堡镇",
+  "house_desc": [
+    "2室2厅|70.42平|中区/6层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "堡镇南路94号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baozhen",
+  "house_price": "120万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价85106元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843838.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/bbb0230a-320d-4af9-8dd2-55f779d7e6c4.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通方便，光线充足",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室1厅|37.6平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "320万"
+}{
+  "singel_price": "单价82036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/39c3b93e-0230-49f5-b46c-1ef53a5f30c2.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，高区景观好",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室0厅|47.54平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "390万"
+}{
+  "singel_price": "单价68085元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823396.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/a9f04e5d-4a0e-4d8f-a5fa-f6ba1d2b6671.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室0厅|47.0平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "320万"
+}{
+  "singel_price": "单价75576元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4721865.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/84736a54-35fa-4ea6-96ea-2de9e38f3b47.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "南北直通，客厅朝南，交通便利，采光无遮挡",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|50.28平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "380万"
+}{
+  "singel_price": "单价67000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673649.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/663d92ea-65e0-43aa-8d1a-195298ca59c5.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室1厅|40.0平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "268万"
+}{
+  "singel_price": "单价104482元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4659521.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/f8d0c857-256f-4004-8e5e-d38a1b761687.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，黄金楼层",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室0厅|29.67平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "310万"
+}{
+  "singel_price": "单价89792元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655354.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/0499b544-5228-4f58-bcdd-23c4956dfbcc.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "地铁直达，高区景观好，中等装修，房本满五年",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室0厅|31.74平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "285万"
+}{
+  "singel_price": "单价67349元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4627892.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/3c19d3d6-aab1-45f1-b48d-7fa148e6589f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁房，黄金楼层",
+  "s_cate": "田林",
+  "house_desc": [
+    "3室2厅|136.6平|中区/24层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "金丽广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "920万"
+}{
+  "singel_price": "单价59794元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4370645.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161102/d7e6110a-a2c1-4194-9dd1-26fb5cb456da.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，出行方便，低楼层，中等装修",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室2厅|94.49平|低区/28层|朝东"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "锦馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "565万"
+}{
+  "singel_price": "单价66417元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856024.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/ae9f08f4-55db-4cb0-9cd6-da44ed9e26d7.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，上下楼方便",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|82.81平|低区/29层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦州花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "550万"
+}{
+  "singel_price": "单价69100元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161108/c28a710f-4555-49cb-8799-d459c217ba70.jpg_200x150.jpg",
+  "house_time": [
+    "1959年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线充足",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室0厅|35.89平|中区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宜山路701弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "248万"
+}{
+  "singel_price": "单价81006元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823034.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/262a1e41-4966-4299-a3c9-0d2c56b9ca5d.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，上下楼方便",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室0厅|39.75平|低区/6层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "322万"
+}{
+  "singel_price": "单价77942元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4803112.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/ed54c537-b821-4409-9219-84f5e3d6bc37.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，楼层好",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|49.78平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "388万"
+}{
+  "singel_price": "单价56074元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769465.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/c252fc25-a152-4c44-b607-3051599363e8.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室1厅|69.55平|低区/29层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦州花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "390万"
+}{
+  "singel_price": "单价96969元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766454.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/485443ce-3dd0-48ea-a908-1bed62c581eb.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，低区出入方便",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室0厅|29.7平|低区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "288万"
+}{
+  "singel_price": "单价89310元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4745287.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/6e0075d5-d49b-441f-9239-6eb95d0351a6.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室0厅|36.39平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "325万"
+}{
+  "singel_price": "单价83383元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732878.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/31220568-d22d-4f95-a388-af42aafb658f.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，交通方便，采光无遮挡",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|50.13平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "418万"
+}{
+  "singel_price": "单价76142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727944.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/1d85680d-0e02-4d25-9856-be456e8e0c10.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，采光无遮挡",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|82.74平|高区/17层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "徐汇长春苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "630万"
+}{
+  "singel_price": "单价85775元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678879.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170614/ae50c8d0-a98c-40ff-b694-8a0e3569f4f4.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "田林",
+  "house_desc": [
+    "3室2厅|145.73平|低区/11层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "爱建园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价66666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662535.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/44a8790f-7486-43ba-9359-964ca99f412c.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，交通方便，黄金楼层",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室2厅|105.0平|中区/29层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "广厦公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "700万"
+}{
+  "singel_price": "单价66927元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639508.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/931a0e7e-2b69-43dd-8062-c4079aa2addf.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，高区景观好",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|51.1平|高区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "冶金小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "342万"
+}{
+  "singel_price": "单价91174元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629653.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/b6452f16-469a-4f9c-b8dc-c5ba8e6e2847.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观好",
+  "s_cate": "田林",
+  "house_desc": [
+    "1室1厅|34.22平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "田林十二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "312万"
+}{
+  "singel_price": "单价69411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4578832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170405/593dd46c-7875-4278-9bfd-bfcb507c9451.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "地铁沿线，楼层好，中等装修，满5年",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|85.0平|中区/18层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "丽锦小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "590万"
+}{
+  "singel_price": "单价99314元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4515000.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170227/dfe1c95f-0572-4e5d-bccd-6bd10405ca96.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，交通方便，高区采光好",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|97.67平|高区/11层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "万科华尔兹",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "970万"
+}{
+  "singel_price": "单价58211元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4449150.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170425/21439b20-4367-4a2c-b974-be5513172b7c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区阳光房",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|88.47平|高区/29层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦州花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "515万"
+}{
+  "singel_price": "单价69524元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4399896.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161120/da589fe7-42df-4eae-af4c-a64705816927.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室全南，地铁沿线，视野很好，简单装修",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|69.76平|高区/18层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦州公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "485万"
+}{
+  "singel_price": "单价75059元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4392305.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170518/6d12e52c-6ec2-4440-aa77-a4874591d7ab.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，带飘窗，地铁直达，黄金楼层",
+  "s_cate": "田林",
+  "house_desc": [
+    "3室2厅|146.55平|中区/12层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "国煌田林亲家",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价65679元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4239302.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160831/9657349f-1918-438d-92d8-c16cefa25fa6.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，交通方便，视野开阔",
+  "s_cate": "田林",
+  "house_desc": [
+    "3室1厅|102.01平|高区/22层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "吴中公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "670万"
+}{
+  "singel_price": "单价71182元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4237732.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/37536f52-4502-4706-b047-c51afb8ad13f.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁沿线，黄金楼层",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室1厅|84.29平|中区/20层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "怡桂苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "600万"
+}{
+  "singel_price": "单价49504元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4186989.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160807/fe18371f-9c42-40bb-9485-04f2a78d426c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低楼层",
+  "s_cate": "田林",
+  "house_desc": [
+    "2室2厅|109.08平|低区/29层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦州花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tianlin",
+  "house_price": "540万"
+}

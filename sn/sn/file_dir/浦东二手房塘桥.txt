@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价65817元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846769.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/20738da4-9333-42fe-a3b2-cdb6a872a746.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北直通，卧室全南，地铁房，高区采光好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "1室1厅|37.68平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "港驳小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "248万"
+}{
+  "singel_price": "单价65078元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842561.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/1a1becd4-996c-4a0a-89d2-cdda8d7ff372.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "卧室全南，交通便利，上下楼方便，简单装修",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "1室1厅|40.72平|低区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "微山新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "265万"
+}{
+  "singel_price": "单价60154元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808635.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/8e8a1939-8330-4656-b05f-8f8e78fcadcd.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁房，高区阳光房",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "3室2厅|152.94平|高区/23层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "仁恒广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "920万"
+}{
+  "singel_price": "单价65546元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787429.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/a0ef5022-9ce1-40e6-9b3c-525e045f3580.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁房，上下楼方便",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室0厅|48.82平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "塘桥小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "320万"
+}{
+  "singel_price": "单价68777元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784022.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/66d4c33d-cfc9-4a8b-960d-ea3e9a06307a.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室1厅|53.07平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "峨山路605弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "365万"
+}{
+  "singel_price": "单价67876元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4651132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/a8c356c7-0831-48c2-a554-6dfc2947030a.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，光线非常好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "1室1厅|42.43平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "蓝高小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "288万"
+}{
+  "singel_price": "单价69398元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619531.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/e74dd973-f4e4-4aa7-b521-c4b2396739b3.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，卧室带卫，地铁直达，采光好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "3室2厅|152.74平|高区/24层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方城市花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "1060万"
+}{
+  "singel_price": "单价77585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/b9caebb8-7308-4e5e-bc6e-9fca3da419a4.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，卧室带卫，地铁房，好楼层",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室2厅|117.29平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方城市花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "910万"
+}{
+  "singel_price": "单价73882元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581327.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/e08828cb-30a2-4879-bfc9-ef2367026ab8.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "交通便利，高区景观好，装修精致，满五年",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室1厅|52.11平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金浦小区（塘桥）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "385万"
+}{
+  "singel_price": "单价71043元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558754.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/009d5b6d-8f66-43f8-bd93-ac39daa98db2.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，交通便利，低区出入方便，中等装修",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "1室1厅|40.82平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "文兰小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价67415元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4460933.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161227/b687403f-59f9-42e9-af95-23b83a0a3890.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北直通，厨卫全明，出行方便，采光好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室2厅|89.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹏欣家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "600万"
+}{
+  "singel_price": "单价63461元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4384484.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/505cd5e6-577d-4c73-9887-6c827c4619e9.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁房，好楼层",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "3室2厅|137.09平|中区/25层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "仁恒广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "870万"
+}{
+  "singel_price": "单价70717元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4162562.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160909/9494b953-e2d9-485c-ae9b-be1efb839335.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，好楼层",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室1厅|56.28平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "港驳小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "398万"
+}{
+  "singel_price": "单价71652元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1163593.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161124/4ee831d3-437c-4064-b668-02a73dc8fc7c.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，带飘窗，交通方便，低区出入方便",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室2厅|121.42平|低区/20层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "越富豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "870万"
+}{
+  "singel_price": "单价75161元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1070346.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161002/4ebaeb15-f5f4-4b7f-844a-d7464c98dbb6.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，地铁直达，视野开阔，品质装修",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "4室2厅|226.18平|高区/16层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方城市花园（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价70667元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/057cef48-06c8-4017-8f1e-c4a45a7851bb.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，楼层好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室0厅|43.16平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宁阳小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "305万"
+}{
+  "singel_price": "单价74222元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821152.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/be107754-10e4-4f1e-b89f-c4956b491e87.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，楼层好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "1室1厅|42.44平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "港驳小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "315万"
+}{
+  "singel_price": "单价77537元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820334.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/bc5a14c6-c65e-47f5-91bd-845eb27a8670.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，高区景观好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室1厅|62.55平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "峨海小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "485万"
+}{
+  "singel_price": "单价64743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817221.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/0741ae39-943b-4dd5-b1d7-de021dd50754.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "1室1厅|33.98平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "蓝村小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "220万"
+}{
+  "singel_price": "单价79937元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789387.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/01847be7-eabc-4d96-867d-2c20e78c0f5f.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，交通便利，楼层好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "3室2厅|147.24平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "贵龙园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "1177万"
+}{
+  "singel_price": "单价76099元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4721360.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170718/758e126b-d72e-4b86-9ffd-38f95005d071.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室1厅|77.53平|低区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "峨海小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "590万"
+}{
+  "singel_price": "单价70412元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672173.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/ac209180-0682-4d82-a34d-b60214f8297a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，带飘窗，交通方便，高区采光好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "3室2厅|142.02平|高区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方城市花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价70271元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652771.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/05424f42-ba9b-4065-bcd5-0d354908db36.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，带飘窗，地铁直达，好楼层",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "3室2厅|142.02平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方城市花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "998万"
+}{
+  "singel_price": "单价61903元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594740.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/4189287e-95bb-4006-825c-b1a53e8baa1b.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，出行方便，楼层好，省装修费",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "1室1厅|69.14平|中区/28层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中远行家",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "428万"
+}{
+  "singel_price": "单价77972元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/5b01f7ed-833f-420d-9872-fbcd70dd347c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，地铁直达，黄金楼层，省装修费",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室2厅|117.99平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方城市花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "920万"
+}{
+  "singel_price": "单价57281元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4366738.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170108/ed6d02ae-4af9-4c3f-ae08-bbb23361b459.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，交通方便，高区景观房",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "3室2厅|136.17平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "锦南花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "780万"
+}{
+  "singel_price": "单价78275元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4754425.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161206/b5a47f48-a487-4dbd-9cf0-53af366d5d64.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，卧室带卫，地铁房，光线充足",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "4室2厅|191.63平|中区/22层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新塘桥生活广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价67816元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671725.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161210/a5b638c2-e585-46cd-bc88-1248e07b8af0.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区景观房",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室1厅|51.61平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "峨山小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "350万"
+}{
+  "singel_price": "单价61393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4577916.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170403/77f65ed4-72bf-4859-ba83-c89c2a428afb.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁沿线，黄金楼层",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室1厅|50.82平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "微山二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "312万"
+}{
+  "singel_price": "单价70561元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/8acbd56e-f1ec-4d11-b5a0-fe8bc15c4a0b.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，楼层好",
+  "s_cate": "塘桥",
+  "house_desc": [
+    "2室2厅|101.33平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "康乐花园（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangqiao",
+  "house_price": "715万"
+}

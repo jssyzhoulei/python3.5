@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价55830元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606474.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170302/97a5e798-b491-4522-9046-563b4849b009.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁沿线，高区景观好",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|54.63平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昌五小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "305万"
+}{
+  "singel_price": "单价60026元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601407.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/8436d800-eeed-43b3-86e8-d773023eab70.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，出行方便，高区景观房",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|75.3平|高区/16层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云台路86号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "452万"
+}{
+  "singel_price": "单价78141元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777291.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/ccd7ea6f-9def-44fa-8571-4d1f1a1e9e5b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，客厅带阳台，交通方便，低楼层",
+  "s_cate": "世博",
+  "house_desc": [
+    "3室2厅|94.7平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新昌里公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "740万"
+}{
+  "singel_price": "单价62137元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770839.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/6c29c890-3c91-48a9-ae3c-2e09032cac59.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，低区出入方便",
+  "s_cate": "世博",
+  "house_desc": [
+    "3室0厅|67.27平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "418万"
+}{
+  "singel_price": "单价61190元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764991.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/0c2f2d25-fec7-4fe4-9d1b-a764c2635523.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，高区阳光房",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|59.65平|高区/24层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "365万"
+}{
+  "singel_price": "单价70689元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170605/bc9fa43d-62fa-438c-93f9-7b5499163c6c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，上下楼方便",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室0厅|29.0平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昌四小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "205万"
+}{
+  "singel_price": "单价59905元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748353.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/96ee2d08-53bf-47d3-a4f7-2ddc357b9fde.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，视野开阔",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室0厅|35.89平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "215万"
+}{
+  "singel_price": "单价63985元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728362.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/d7f6dc8d-14a0-4bcd-b0b2-a46b789f2ab2.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，交通方便，低楼层",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|49.23平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "315万"
+}{
+  "singel_price": "单价62517元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713806.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/229de50f-06da-457f-8811-c1d5771d8b40.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，楼层好",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|36.47平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昌四小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "228万"
+}{
+  "singel_price": "单价62318元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4675450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/0d42c779-5e4e-4ac2-b1dd-ea4b2145c00b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通透，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|69.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新世纪花苑（二期）（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "430万"
+}{
+  "singel_price": "单价68833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4642098.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/3590d289-9e38-4ef1-bd87-b0860e82428f.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，带飘窗，地铁沿线，上下楼方便",
+  "s_cate": "世博",
+  "house_desc": [
+    "3室2厅|124.94平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "博爱家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "860万"
+}{
+  "singel_price": "单价63354元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4638325.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170622/eb2e895f-4b25-43ea-9d1c-3c74322593ea.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|49.72平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "315万"
+}{
+  "singel_price": "单价56098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4562659.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/f76d9fe7-a1ee-49cf-ae07-650b18d97116.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "地铁房，采光无遮挡，简单装修，满五年",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|69.52平|高区/16层|朝东北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云台路86号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "390万"
+}{
+  "singel_price": "单价66894元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4471200.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170302/1c997e7e-6224-4574-87c4-6995d34bb7d9.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|38.12平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "德州二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "255万"
+}{
+  "singel_price": "单价70049元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4353177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161025/158d5818-699b-42bd-94ab-20519d168f2e.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室2厅|64.24平|低区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "博爱家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "450万"
+}{
+  "singel_price": "单价61415元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4255729.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160906/f582881a-ae3d-4d63-9d5e-e8f3d7e27b43.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|50.15平|中区/6层|朝东"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上钢八九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "308万"
+}{
+  "singel_price": "单价56947元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871748.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/2a56c94e-67ca-443c-87b9-cc86b5c49c81.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，视野很好",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|43.9平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "云台二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "250万"
+}{
+  "singel_price": "单价62739元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4864215.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/e3b6691e-7b5c-45f0-a9b0-a0d7d6924393.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，高区景观好",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|57.38平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "360万"
+}{
+  "singel_price": "单价64300元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852545.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/98e671d1-c92e-4eb0-8148-a2dec0a1d4ec.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，楼层好",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|58.32平|中区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "齐七小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "375万"
+}{
+  "singel_price": "单价66473元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852190.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/40186e79-cb4b-42fb-bdc4-df337a9476d5.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室0厅|34.6平|高区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "230万"
+}{
+  "singel_price": "单价69582元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/7f791f0a-2d4c-49c5-98bc-15d46483a8bc.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，上下楼方便",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|55.33平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "385万"
+}{
+  "singel_price": "单价58756元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839631.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/482fd154-7ff7-45a7-a798-43661e3b0a8b.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "世博",
+  "house_desc": [
+    "2室1厅|52.76平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上钢八九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "310万"
+}{
+  "singel_price": "单价61938元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836941.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/d700f88a-76f8-4e7a-8964-985e7e29db8b.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，光线非常好",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|32.29平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "200万"
+}{
+  "singel_price": "单价60352元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835720.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/16fc5bae-5a07-45df-8fbd-e697961d9b75.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|59.65平|中区/24层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "360万"
+}{
+  "singel_price": "单价58675元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835714.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/548974a6-bb92-49c8-a2f9-46dd39a8ed3b.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|59.65平|中区/24层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "350万"
+}{
+  "singel_price": "单价60455元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802859.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/7630d58e-4ea1-43b6-9f6d-c92d40fa4efe.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，出行方便，视野开阔",
+  "s_cate": "世博",
+  "house_desc": [
+    "3室1厅|70.3平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "济阳三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "425万"
+}{
+  "singel_price": "单价57919元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799175.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/30ea0a9c-5fa6-4438-87f7-2da762dd1a50.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|42.3平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南十一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "245万"
+}{
+  "singel_price": "单价54166元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790139.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/12aaff63-f3a4-4292-ada7-b98c02d3f22b.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观好",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|60.0平|高区/24层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上南大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "325万"
+}{
+  "singel_price": "单价57781元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724270.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/36400be5-9313-4e68-b72e-4404245f175b.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，视野开阔",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|41.19平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "济阳三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "238万"
+}{
+  "singel_price": "单价61647元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4482527.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170111/107f2309-7558-40f6-a6b1-46610203498f.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区景观房",
+  "s_cate": "世博",
+  "house_desc": [
+    "1室1厅|38.12平|高区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "德州二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibo",
+  "house_price": "235万"
+}

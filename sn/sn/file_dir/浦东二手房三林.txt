@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价53369元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546802.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/54bd0994-d8ef-4925-b236-919b6b58689b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|65.58平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "南杨小区(长清路)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "350万"
+}{
+  "singel_price": "单价56734元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817493.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/ed8e31f2-1c88-4ed6-b84d-e28afb3dad4b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "1室1厅|40.54平|低区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凌兆新村凌兆路285弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "230万"
+}{
+  "singel_price": "单价66514元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673221.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/a07d89ff-3eb7-4c29-bd94-0b640a8e7185.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，简单装修，满5年",
+  "s_cate": "三林",
+  "house_desc": [
+    "1室1厅|48.11平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "恒大华城梅山苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "320万"
+}{
+  "singel_price": "单价64904元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4478934.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160305/70c407e7-9a9f-4338-908c-c56db79d7acc.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，交通方便，上下楼方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|107.85平|低区/17层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金谊河畔",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "700万"
+}{
+  "singel_price": "单价54782元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817816.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/2b4b0353-bcef-4405-b66c-c40cda625f4e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，低楼层",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|57.5平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凌兆新村上浦路510弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "315万"
+}{
+  "singel_price": "单价61111元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814290.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/c70bd6c1-7c86-403c-a3af-fa73f3800d92.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，地铁直达，好楼层",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|72.0平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金禾新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "440万"
+}{
+  "singel_price": "单价74452元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800244.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/ebd5bcbe-0acf-4dc6-8fd7-fb584ebbb121.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁沿线，高区景观好",
+  "s_cate": "三林",
+  "house_desc": [
+    "3室2厅|137.0平|高区/16层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "环球翡翠湾花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "1020万"
+}{
+  "singel_price": "单价53975元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798890.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/56baff0d-57b5-4ffb-9b79-024ace8822e2.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|75.96平|中区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凌云公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "410万"
+}{
+  "singel_price": "单价63265元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784269.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/b5158bde-dbcd-48bb-8b17-b7d0eb4430cd.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通，客厅带阳台，交通方便，上下楼方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|98.0平|低区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "翰锦苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "620万"
+}{
+  "singel_price": "单价65789元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/e98734c3-14e9-4ae1-85a8-f2073a648c86.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，厨卫全明，出行方便，视野开阔",
+  "s_cate": "三林",
+  "house_desc": [
+    "3室2厅|133.76平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "未来域",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "880万"
+}{
+  "singel_price": "单价55988元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774517.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/30ff5417-0b85-486c-8830-8376d8ecc218.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，上下楼方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "3室2厅|123.24平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "名嘉新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "690万"
+}{
+  "singel_price": "单价68131元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773453.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/b93131a2-5d3e-40d1-9ecc-bafe4435b01e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，地铁房，黄金楼层",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|91.0平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "桃李家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "620万"
+}{
+  "singel_price": "单价66754元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751109.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/a59fdf12-0cc5-4877-a144-b1edb71a83dd.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁房，上下楼方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "3室2厅|128.83平|低区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "未来域",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "860万"
+}{
+  "singel_price": "单价55138元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/98b94843-2c38-4b04-9c34-ea0a7762faed.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁沿线，好楼层",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|65.29平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "香樟苑(浦东)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "360万"
+}{
+  "singel_price": "单价56164元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719609.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/8a96cb32-cf26-4c07-b995-64aa8961055c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "交通便利，楼层好，满5年，随到随看",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|73.0平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "三林安居苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "410万"
+}{
+  "singel_price": "单价66844元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705395.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170703/99529153-2a85-4082-a183-9a6045bfb12e.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，光线充足，拎包入住",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|97.24平|中区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金地湾流域(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "650万"
+}{
+  "singel_price": "单价61626元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705213.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/04293656-63ba-49dc-b98d-f6b6c5da4c72.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀缺南北通，卧室全南，交通方便，光线充足",
+  "s_cate": "三林",
+  "house_desc": [
+    "1室1厅|48.68平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金光小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "300万"
+}{
+  "singel_price": "单价53744元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701106.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/618866a8-950c-45f3-97b5-d1d2891bf9e3.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通便利，黄金楼层",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|83.73平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "三林新村永泰路468弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "450万"
+}{
+  "singel_price": "单价53380元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696640.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/d0db7b74-9a03-46b9-84cd-eed0510b9d56.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，出行方便，低区出入方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "1室1厅|50.58平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凌兆新村九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "270万"
+}{
+  "singel_price": "单价51137元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4693243.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/70270cc2-683d-4642-aeaa-28b3c00f4d40.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，交通便利，好楼层，毛坯房",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|74.31平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "浦发绿城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "380万"
+}{
+  "singel_price": "单价58737元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4689318.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/9e43d3b8-e393-4efa-996a-290033285f65.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "带飘窗，卧室全南，出行方便，光线非常好",
+  "s_cate": "三林",
+  "house_desc": [
+    "1室1厅|40.86平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "南杨小区(长清路)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "240万"
+}{
+  "singel_price": "单价61255元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664348.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/182fd68b-5740-4ae7-b6e0-d26907323151.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，厨卫全明，出行方便，低楼层",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|84.89平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "杉林新月环林东路875弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "520万"
+}{
+  "singel_price": "单价67146元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4632228.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/67757841-23bd-4e3b-ac08-d06e611d677f.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁房，低区出入方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|94.57平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "纯翠苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "635万"
+}{
+  "singel_price": "单价65016元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604659.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/cbd7abc8-8b2b-4b1f-8df1-7269bb6e32df.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通方便，楼层好",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|79.98平|中区/3层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "未来域",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "520万"
+}{
+  "singel_price": "单价70891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/2573cb97-e942-49fb-b24d-86ea097fcdf1.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "3室2厅|115.67平|低区/9层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "恒大华城天地苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "820万"
+}{
+  "singel_price": "单价58592元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4505181.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170211/f7c87bd6-3a12-435d-aa52-661c5deb495c.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "1室1厅|50.86平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凌兆新村凌兆路711弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "298万"
+}{
+  "singel_price": "单价83060元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4492430.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/4aea70e1-ad0c-4265-92dc-78737fc9e034.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，出行方便，低区出入方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "3室2厅|113.17平|低区/8层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "尚东国际名园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "940万"
+}{
+  "singel_price": "单价66502元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4481348.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/9f26f297-a138-48a6-8c5d-072fb3ab3d6b.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，交通方便，光线充足，中等装修",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室2厅|93.23平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "恒大华城长清苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "620万"
+}{
+  "singel_price": "单价56825元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4477978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/a115f69f-6461-42d3-9d36-a460c3b74c67.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，交通便利，低区出入方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "2室1厅|63.0平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "翠竹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "358万"
+}{
+  "singel_price": "单价67845元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4474657.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170105/29905518-6745-4f3a-8227-c7ee58deea88.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通方便，上下楼方便",
+  "s_cate": "三林",
+  "house_desc": [
+    "3室2厅|104.65平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东旺名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sanlin",
+  "house_price": "710万"
+}

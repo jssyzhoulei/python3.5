@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价42361元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733044.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170727/6d295253-061e-4ff6-a4a4-225dd39f3ec6.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，黄金楼层，装修精致",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|72.0平|中区/18层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "欣乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "305万"
+}{
+  "singel_price": "单价28728元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4352397.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/661aec3b-92da-424f-967a-ffaba66e207a.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "毛坯房，满五年，人气房源，上门实拍",
+  "s_cate": "华新",
+  "house_desc": [
+    "4室2厅|277.77平|地上3层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地英伦墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "798万"
+}{
+  "singel_price": "单价36526元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712657.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/6fe94201-b97a-49e2-8d52-31add381c4c2.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，光线充足，满两年",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室1厅|108.14平|中区/20层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "395万"
+}{
+  "singel_price": "单价34655元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724413.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161123/1763cf8f-34f4-4594-a748-144b66d9aa25.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅朝南，楼层好，业主新委托",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|109.65平|中区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "梦里水乡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "380万"
+}{
+  "singel_price": "单价36126元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807476.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/166ace2b-f21c-47d4-963e-a6be69a037d0.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通，客厅带阳台，低楼层，满五年",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|71.97平|低区/12层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "欣乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "260万"
+}{
+  "singel_price": "单价36516元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807844.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/e3480a21-f9e0-47bc-80d4-5f91694a5be2.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，带飘窗，好楼层，省装修费",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|89.0平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地逸湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "325万"
+}{
+  "singel_price": "单价38269元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668761.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160709/4907cc4d-ab20-45c3-9048-fcafabd4dd90.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀缺南北通，采光无遮挡，装修精致，满五年",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室1厅|90.15平|高区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地逸湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "345万"
+}{
+  "singel_price": "单价27410元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647234.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/cc478c22-b3a8-4725-9cbf-f8df62c5418d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "黄金楼层，省装修费，满五减税，高清实拍",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|105.8平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "公园小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "290万"
+}{
+  "singel_price": "单价36516元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4693346.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/6bf591be-19f8-4129-a44b-1805d7d453e1.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，客厅朝南，好楼层，满2年",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|89.0平|中区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "星尚湾名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "325万"
+}{
+  "singel_price": "单价36554元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664403.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/891b19e3-3957-4616-98cb-7031973669ef.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通，客厅朝南，好楼层，满2年",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|87.54平|中区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "虹桥宝龙城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "320万"
+}{
+  "singel_price": "单价37697元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170309/e08c0228-7574-48b2-8545-63a4479d7ce7.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，厨卫全明，视野开阔，简单装修",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|87.54平|高区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "虹桥宝龙城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "330万"
+}{
+  "singel_price": "单价37756元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732368.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/193a1311-ec9c-4461-8780-4c5c701d277b.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，客厅朝南，视野很好，实地看房",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室1厅|74.16平|高区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "欣乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "280万"
+}{
+  "singel_price": "单价35505元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688555.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170619/f6bb87a4-c9a2-4828-bd76-28af1267961f.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通，客厅朝南，高区阳光房，中等装修",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室1厅|87.31平|高区/20层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "310万"
+}{
+  "singel_price": "单价29710元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4803907.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/676f2072-8a4a-4179-a34f-ea7125dda665.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，楼层好，品质装修",
+  "s_cate": "华新",
+  "house_desc": [
+    "4室2厅|138.0平|中区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "华强景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "410万"
+}{
+  "singel_price": "单价35844元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791376.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/4627de4e-f986-4c02-a590-1efa3343de95.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通，带飘窗，高区采光好，毛坯房",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室1厅|82.3平|高区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地逸湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "295万"
+}{
+  "singel_price": "单价35632元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863298.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/96445818-8cda-4f06-b54e-827656be1ffb.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，低区出入方便，满2年",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|87.0平|低区/20层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "310万"
+}{
+  "singel_price": "单价42706元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854481.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/a10e8e2b-0e72-43ae-bf69-a2c20bb2a1fc.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，客厅朝南，上下楼方便，满2年",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|88.98平|低区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "星尚湾名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "380万"
+}{
+  "singel_price": "单价35000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852354.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/4835e194-03b2-4a58-9e4c-db09ae5b730d.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，带落地窗，光线充足，满二减税",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|90.0平|中区/11层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "三友星墅（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "315万"
+}{
+  "singel_price": "单价39370元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840068.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/7a68c98e-6cc4-4b7d-aee6-0d01d5a0956f.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "房型正气，厨卫全明，好楼层，品质装修",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|88.9平|中区/20层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "350万"
+}{
+  "singel_price": "单价37371元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/fb65c298-2abe-4b3b-9b0a-1d4d900b679d.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，高区景观房，装修精致",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|89.64平|高区/18层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "虹桥宝龙城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "335万"
+}{
+  "singel_price": "单价44274元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836783.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/25a64946-630a-4919-bbef-2fe0891fc8c2.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "楼层好，精装修，房本满两年，上门实拍",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|131.0平|中区/4层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "580万"
+}{
+  "singel_price": "单价35393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/04e31650-55fa-4cfb-9bc0-ee9dca295b46.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，客厅朝南，黄金楼层，毛坯房",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|89.0平|中区/20层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "315万"
+}{
+  "singel_price": "单价29268元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4805327.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/d7b173fb-2070-4242-9642-717f5853f135.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，光线充足，中等装修",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|102.5平|中区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "公园小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "300万"
+}{
+  "singel_price": "单价33054元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/1e900219-35a0-485e-9bc8-f557ac735853.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，低区出入方便，品味装修",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|87.13平|低区/20层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "288万"
+}{
+  "singel_price": "单价38824元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790195.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/4f491a77-ca47-4bf8-b2d4-ca5ef1d3f6ff.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，客厅朝南，黄金楼层，拎包入住",
+  "s_cate": "华新",
+  "house_desc": [
+    "3室2厅|90.15平|中区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地逸湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "350万"
+}{
+  "singel_price": "单价36363元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766261.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/a17af3f6-cff4-402a-89b8-0cd8e7d0300e.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "西郊半岛名苑，光线充足，满两年，上门实勘",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|88.0平|中区/20层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "320万"
+}{
+  "singel_price": "单价38108元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732036.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/68df5c50-28e8-434b-b06e-2e457dd544a9.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，厨卫全明，黄金楼层，品味装修",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|89.22平|中区/18层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "星尚湾名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "340万"
+}{
+  "singel_price": "单价35483元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731075.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/672cba89-f1aa-4ea8-8073-9e003cf73001.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，光线充足，拎包入住",
+  "s_cate": "华新",
+  "house_desc": [
+    "1室1厅|62.0平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地逸湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "220万"
+}{
+  "singel_price": "单价37470元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729282.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/4ee49ec5-245a-408a-a63c-c636d30d77f1.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，客厅朝南，好楼层，毛坯房",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|88.07平|中区/20层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊半岛名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "330万"
+}{
+  "singel_price": "单价35983元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4725248.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/2ac4af83-a2b7-46bd-b30d-350289fd9ad2.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通透，客厅朝南，上下楼方便，毛坯房",
+  "s_cate": "华新",
+  "house_desc": [
+    "2室2厅|87.54平|低区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "虹桥宝龙城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huaxin",
+  "house_price": "315万"
+}

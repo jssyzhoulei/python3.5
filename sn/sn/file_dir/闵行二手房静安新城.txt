@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价55781元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769231.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/43a112bc-8e2d-41df-8409-7ae384d1761d.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通，客厅朝南，地铁房，低区出入方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|86.05平|低区/24层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城四区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "480万"
+}{
+  "singel_price": "单价58135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760591.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/b94475e6-a8da-4cff-b5cf-4b547c772e5e.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，交通方便，采光好",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "3室2厅|137.61平|高区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "大上海国际花园九区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "800万"
+}{
+  "singel_price": "单价61985元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4532583.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/dc21a4c9-cc3b-4bba-84e2-9d212731f60d.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通便利，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室2厅|93.57平|低区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "大上海国际花园五区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "580万"
+}{
+  "singel_price": "单价74441元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511773.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161029/75fde9f9-4269-40d7-9010-ec9add8a08d4.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁沿线，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室2厅|84.63平|低区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "九歌上郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "630万"
+}{
+  "singel_price": "单价62111元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829199.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/491920b9-658b-411b-81ce-0448f9f05d34.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|46.69平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城五区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "290万"
+}{
+  "singel_price": "单价70959元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797078.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/ef5a41d3-6e4e-4c03-95bc-19c11a00d3fa.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，好楼层",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室2厅|74.69平|中区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城七区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "530万"
+}{
+  "singel_price": "单价51107元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788494.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/b25298ff-4fe4-47c3-b36c-a0ad25a47ac8.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，采光无遮挡",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|70.44平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城三区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价52553元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784726.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/f22bf4b2-e259-4c13-8a14-8cd5cb234c68.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，视野很好",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|60.51平|高区/7层|朝西南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城三区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "318万"
+}{
+  "singel_price": "单价77188元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707710.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/561675c2-d038-4b67-a1b3-a688b5592ba7.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室全南，地铁房，高区景观房，满5年",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|49.23平|高区/11层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "九歌上郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "380万"
+}{
+  "singel_price": "单价51972元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699487.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/c97563d6-cb89-4034-bb37-ca74af455d5c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，光线非常好",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|48.68平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城十一区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "253万"
+}{
+  "singel_price": "单价54936元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669711.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170727/85c36655-abe3-4e79-871a-8a4fbc1efee6.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "交通方便，视野开阔，中等装修，满五减税",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|62.8平|高区/7层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城四区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "345万"
+}{
+  "singel_price": "单价57895元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4494092.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170213/2bced93b-21aa-4b1d-bf96-dd27f7af70a3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，卧室带卫，出行方便，光线非常好",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "3室2厅|100.18平|高区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "大上海国际花园二区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "580万"
+}{
+  "singel_price": "单价54376元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4446978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161220/e856ca72-d539-4a8e-86d1-4835f69e3f6e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|60.32平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "红明一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "328万"
+}{
+  "singel_price": "单价56198元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4168332.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160724/ebc06a69-c4e9-4fc4-a4ff-565f9c7d75a3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|61.39平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "红明一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "345万"
+}{
+  "singel_price": "单价62367元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825378.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/478815ab-9b7b-4da9-8a08-5c6e54f52331.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "地铁直达，低区出入方便，品质装修，满2年",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|75.36平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城十二区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "470万"
+}{
+  "singel_price": "单价61111元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809527.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/e73850ce-a947-4e27-acc5-3946379b4908.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁沿线，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|45.0平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城一区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "275万"
+}{
+  "singel_price": "单价56530元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4680944.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/41c2fe81-d13f-47db-a435-923a83f57b2e.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通便利，采光无遮挡",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|51.3平|高区/7层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城九区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "290万"
+}{
+  "singel_price": "单价73473元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4658632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/b6c14ed4-1147-4c05-b0de-a4b38baaa131.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁沿线，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室2厅|81.39平|低区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "九歌上郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "598万"
+}{
+  "singel_price": "单价79145元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4595706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170501/aabf4780-8f88-41ab-9225-37a9aeaa8a94.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，地铁房，视野很好",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "5室3厅|126.35平|高区/4层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "大上海国际花园十七区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价58656元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4374544.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161210/3a2d0181-dd99-4e76-be2e-c4f036ecf7da.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，地铁房，好楼层",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|56.26平|中区/24层|朝西南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城四区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "330万"
+}{
+  "singel_price": "单价61398元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855227.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/b9959782-eae5-4818-8a0c-b067f9aee035.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，低楼层",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|50.49平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城五区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "310万"
+}{
+  "singel_price": "单价67460元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816401.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/c3418963-794b-4eec-8ae2-961ff9d003f1.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，交通便利，上下楼方便",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "3室2厅|126.0平|低区/4层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "大上海国际花园十七区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "850万"
+}{
+  "singel_price": "单价52602元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4565250.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170622/0e289902-ce17-482e-835f-fe21ac9db1ea.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，交通方便，低区出入方便，毛坯房",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "3室1厅|107.41平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "宏明雅舍",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "565万"
+}{
+  "singel_price": "单价56130元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831538.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/dd732d09-d778-4f2d-af3a-7699bf8172a1.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，低楼层",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|70.55平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城三区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "396万"
+}{
+  "singel_price": "单价58195元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/f691adb4-ddc3-41f4-b014-0cc65e4b2c62.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区阳光房",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "1室1厅|51.55平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城十区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "300万"
+}{
+  "singel_price": "单价64583元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/1b489232-23fb-4d9f-bb44-f39dd583698c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|72.0平|低区/24层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城四区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "465万"
+}{
+  "singel_price": "单价64232元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796141.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/28bab083-062b-4385-8797-98e19795ed3b.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁沿线，高区采光好",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "3室2厅|122.99平|高区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "大上海国际花园十六区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "790万"
+}{
+  "singel_price": "单价53030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747689.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/b9e5e17d-5c97-4c47-b0d8-2f877952e36f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁房，采光好",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|66.0平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城十一区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "350万"
+}{
+  "singel_price": "单价54473元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4658334.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/ac1ae31d-e89a-44d5-8257-89d6c22294ea.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "交通方便，好楼层，中等装修，房本满五年",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "2室1厅|65.72平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "静安新城十区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "358万"
+}{
+  "singel_price": "单价89099元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4631265.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170308/d90d1df5-ec76-48be-82ca-4e65b9b79136.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "地铁直达，品质装修，满五减税，多次带看",
+  "s_cate": "静安新城",
+  "house_desc": [
+    "4室2厅|211.0平|地上3层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "大上海国际花园十三区(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinganxincheng",
+  "house_price": "1880万"
+}

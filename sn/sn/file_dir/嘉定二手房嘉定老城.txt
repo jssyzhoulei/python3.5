@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价30019元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4754248.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/52ef68c5-06d1-4942-964f-708d2b779816.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|61.96平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "186万"
+}{
+  "singel_price": "单价31192元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769670.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/cec35e99-457e-4c28-9950-b43e2159a50a.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，视野开阔",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|59.95平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "梅园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "187万"
+}{
+  "singel_price": "单价30130元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692651.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170622/7a13a231-2966-496d-83e0-25f313c41118.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，出行方便，低楼层",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室2厅|126.12平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉丰佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "380万"
+}{
+  "singel_price": "单价36029元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170610/9ef15970-d370-469f-93ac-a3053212cd8f.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，高区采光好",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "1室1厅|43.02平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "155万"
+}{
+  "singel_price": "单价30664元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4484394.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170308/e3600939-6cab-43fb-8797-9df9ed086801.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|61.96平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "190万"
+}{
+  "singel_price": "单价30215元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4340143.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170118/77f551b5-de2e-4ff4-96f6-8e0ed880d2f7.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，好楼层",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|69.5平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "塔城路800弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "210万"
+}{
+  "singel_price": "单价31159元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829020.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/23a57bbb-b2bc-40d9-90f7-fc3c4fe18e45.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北通，客厅带阳台，交通便利，上下楼方便",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|69.0平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "215万"
+}{
+  "singel_price": "单价33073元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692446.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/cf7ce81e-e5c8-420e-a370-65536245b985.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，地铁直达，楼层好",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室0厅|51.4平|中区/7层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "城中路216弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "170万"
+}{
+  "singel_price": "单价27972元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4563668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/9e9326a8-6bab-4a04-b09c-8fb335f2e13e.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，上下楼方便",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室1厅|107.25平|低区/29层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园公寓(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "300万"
+}{
+  "singel_price": "单价32112元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807648.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/8787b14a-b7c2-4fe2-b4a5-13cdf10fe868.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区采光好，简单装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|57.61平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "城南新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "185万"
+}{
+  "singel_price": "单价30295元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732942.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/695fc77f-9d1b-4868-9d0a-45cf40bdb496.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，楼层好，中等装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|75.92平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "塔城路666弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "230万"
+}{
+  "singel_price": "单价30286元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597030.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/a25ed3ce-13c9-4b48-8822-c5d1e6d429f3.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，装修精美",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|71.32平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南苑二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "216万"
+}{
+  "singel_price": "单价27460元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589239.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/fa8029d9-f735-40ab-a1a9-ed51c90286b6.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，毛坯房",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|67.37平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "民乐社区南苑六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "185万"
+}{
+  "singel_price": "单价31417元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581398.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170409/40d8ca12-8f09-4148-af49-3ae38e50249b.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，客厅朝南，采光无遮挡，品味装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室2厅|74.8平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "塔城路685弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "235万"
+}{
+  "singel_price": "单价32704元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4497961.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170302/97abdda0-3e3a-471e-89d1-ca860626087b.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，上下楼方便，中等装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室1厅|105.49平|低区/18层|朝东西"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "清水颐园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "345万"
+}{
+  "singel_price": "单价29987元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4493007.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170204/a8d4a29c-70d0-4ee3-b955-b46b3023d281.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观房，简单装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|62.36平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "李园二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "187万"
+}{
+  "singel_price": "单价30009元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851996.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170318/af149a6c-1c5e-4f8a-b039-70a9edd4301c.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，黄金楼层",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|61.98平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "186万"
+}{
+  "singel_price": "单价30711元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730152.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/ca375a47-be85-459a-a0d1-0d3bc4f21001.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，上下楼方便，品味装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|83.03平|低区/29层|朝西南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园公寓(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "255万"
+}{
+  "singel_price": "单价31951元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670916.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/65f0239a-ed08-430b-a49a-272bf5b75526.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区景观房",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "1室1厅|46.32平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "148万"
+}{
+  "singel_price": "单价29122元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816991.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/4953a87a-3249-43df-9b9d-f11f04c88ba6.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线充足，中等装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室2厅|87.56平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "银杏小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "255万"
+}{
+  "singel_price": "单价29508元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815784.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/fe7444e2-01c2-43b7-8163-cdada5e43c65.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，上下楼方便，简单装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室2厅|122.0平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南苑十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价36971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813342.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/d56ce13c-bfb0-4d67-9143-1a3753dff526.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，带飘窗，高区景观房，简单装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室2厅|142.0平|高区/11层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(春岸城)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "525万"
+}{
+  "singel_price": "单价32045元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4717505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161128/9d2ef59a-5065-43d9-bd12-320ae9698247.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，光线非常好，品质装修，满5年",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室2厅|160.71平|高区/5层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(春岸城)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "515万"
+}{
+  "singel_price": "单价27884元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4654428.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/d1e8c315-f2b9-41b9-9cd6-6f09903af15e.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区景观好，中等装修",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|80.69平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南苑七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "225万"
+}{
+  "singel_price": "单价27347元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4414692.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161129/6995960f-d2a8-4e8d-aae0-8b979802361f.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "房型正气，卧室带卫，高区景观房，拎包入住",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室1厅|107.87平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南苑十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "295万"
+}{
+  "singel_price": "单价35407元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4531794.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170314/01ca63b8-2f23-4a45-a1e3-64af51606ec7.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，交通方便，低区出入方便，钥匙房",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|98.85平|低区/29层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园公寓(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "350万"
+}{
+  "singel_price": "单价33928元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865901.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/f5699754-656b-49a8-bca6-16fdf1602fe1.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "3室1厅|67.79平|高区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "230万"
+}{
+  "singel_price": "单价29012元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/e3497d13-6d5c-4e21-85a5-0970a237f91a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁沿线，视野开阔",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|81.0平|高区/4层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "塔城路800弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "235万"
+}{
+  "singel_price": "单价39142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852533.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/e4bfaabc-6327-41be-843e-540392603c0c.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野开阔",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "1室1厅|35.0平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "梅园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "137万"
+}{
+  "singel_price": "单价31185元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840103.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/9789d814-c990-4d54-809a-0c6a52dc2cc9.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，上下楼方便",
+  "s_cate": "嘉定老城",
+  "house_desc": [
+    "2室1厅|67.98平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "桃园新村(嘉定)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiadinglaocheng",
+  "house_price": "212万"
+}

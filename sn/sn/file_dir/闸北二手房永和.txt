@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价59692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831438.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/8eb99c01-83ca-47db-8ff5-180c25133bc7.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通便利，低区出入方便",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|49.42平|低区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "295万"
+}{
+  "singel_price": "单价56376元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761456.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/a29e10f0-f7cc-412b-b60e-004b044b0930.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁房，采光无遮挡",
+  "s_cate": "永和",
+  "house_desc": [
+    "1室1厅|36.54平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "206万"
+}{
+  "singel_price": "单价54300元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545622.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/d9282818-b44a-4768-b603-31baa4165f18.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通便利，高区景观好",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室0厅|54.88平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "298万"
+}{
+  "singel_price": "单价55673元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4298911.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160926/c65fffe4-e444-4b2c-bd57-ed8fdffb2c27.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区景观房",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|61.07平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "340万"
+}{
+  "singel_price": "单价58746元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809789.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/0cf457da-4e21-49f0-b7c5-a8968d5e95c4.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通便利，光线充足",
+  "s_cate": "永和",
+  "house_desc": [
+    "3室2厅|107.24平|中区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "盛世家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "630万"
+}{
+  "singel_price": "单价53753元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733498.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/e14a8527-164f-454f-8584-ac53f678ebf5.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|54.88平|中区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "295万"
+}{
+  "singel_price": "单价54479元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4552617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/412cf291-6ac5-46c4-9223-72f6252d0f8d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低楼层",
+  "s_cate": "永和",
+  "house_desc": [
+    "1室1厅|41.3平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福第一公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "225万"
+}{
+  "singel_price": "单价54173元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/45d61800-eca2-411d-ad20-32984e03c6e6.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，上下楼方便",
+  "s_cate": "永和",
+  "house_desc": [
+    "1室1厅|36.18平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "闸北场中公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "196万"
+}{
+  "singel_price": "单价57303元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4452559.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/3ff813f3-557e-4af3-9986-f73f077f71cc.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通方便，高区景观好",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室0厅|54.97平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "315万"
+}{
+  "singel_price": "单价56049元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795609.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/66e32325-c5ab-4654-a2a0-9a550caca9fb.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，高区阳光房",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|73.15平|高区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "410万"
+}{
+  "singel_price": "单价52857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773569.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/2ba63ba2-6c8d-4945-8383-49ecde3f6268.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，低区出入方便",
+  "s_cate": "永和",
+  "house_desc": [
+    "1室1厅|42.0平|低区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "222万"
+}{
+  "singel_price": "单价49754元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4570249.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/3c987678-cd3c-40f9-8549-7d68adb85371.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，客厅朝南，交通方便，高区采光好",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室2厅|83.41平|高区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福第一公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "415万"
+}{
+  "singel_price": "单价55962元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4333666.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161014/22581aae-bebc-417b-bdbb-3570a182c2de.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北直通，卧室带卫，出行方便，低楼层",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室2厅|92.92平|低区/4层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永泉公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "520万"
+}{
+  "singel_price": "单价57377元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859348.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/98f34893-9594-4499-a1de-6d2db6d1dae0.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，视野很好",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|61.0平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "350万"
+}{
+  "singel_price": "单价53810元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852455.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/f915bb21-de44-45c7-a424-e70d88985103.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，地铁直达，楼层好",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|79.91平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福第一公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "430万"
+}{
+  "singel_price": "单价57090元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760203.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/9df7c019-26c3-4af9-b8e2-0342699836b1.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，低区出入方便，简单装修",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|70.94平|低区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "白玉兰馨园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "405万"
+}{
+  "singel_price": "单价52631元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813731.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/7f6cfba4-851d-437e-a46e-48c10ff14d81.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，楼层好",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|57.0平|中区/6层|朝东南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "300万"
+}{
+  "singel_price": "单价61036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798028.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/159664a3-3429-4927-a7fd-b6a6c02b6374.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁房，低区出入方便",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室2厅|90.11平|低区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "盛世家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "550万"
+}{
+  "singel_price": "单价55755元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783652.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/05281a6e-b8d9-4ef2-8365-9b3aeb9e6ea8.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，低区出入方便",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|60.98平|低区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "340万"
+}{
+  "singel_price": "单价49150元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755753.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/0e2efac3-f075-4c26-bffd-b3b8d4c6786f.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "永和",
+  "house_desc": [
+    "3室1厅|82.4平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福第一公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "405万"
+}{
+  "singel_price": "单价67338元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671568.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/099d0e38-c9a4-4f67-944a-84bf62f0b5a4.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅朝南，交通便利，光线充足",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室2厅|94.3平|中区/8层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "635万"
+}{
+  "singel_price": "单价55393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650607.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/62acc269-4097-4e39-b8f9-39eba64c7da9.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，出行方便，低区出入方便，省装修费",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室2厅|99.29平|低区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永泉公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "550万"
+}{
+  "singel_price": "单价53947元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4559826.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170224/3e46b6c5-6ee5-4a9b-8dc6-59be87c80023.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通方便，低楼层",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室0厅|55.61平|低区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "300万"
+}{
+  "singel_price": "单价63633元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4544677.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/b32b42d2-3199-41f8-845f-fe1020c49d61.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，视野开阔",
+  "s_cate": "永和",
+  "house_desc": [
+    "1室0厅|31.43平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "200万"
+}{
+  "singel_price": "单价59544元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824640.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/37336b4b-4f76-42ea-9d7f-052357267238.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室1厅|58.78平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "350万"
+}{
+  "singel_price": "单价58729元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820151.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/e4e6e08b-5afd-4d77-b541-3f1aa64841f6.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，上下楼方便",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室0厅|50.23平|低区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "295万"
+}{
+  "singel_price": "单价61397元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1128021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160820/e2187fcc-262f-44a6-ab55-5865f2b4a2db.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，地铁房，低楼层",
+  "s_cate": "永和",
+  "house_desc": [
+    "3室2厅|149.03平|低区/18层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "中星馨恒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "915万"
+}{
+  "singel_price": "单价50761元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850006.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/497a4b37-350e-4773-958a-27eb5f532e44.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通，客厅朝南，地铁沿线，高区景观房",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室2厅|84.71平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福第一公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "430万"
+}{
+  "singel_price": "单价50014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798393.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/95064f0d-19cd-435e-9702-d0f81d5a08f6.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，交通便利，低区出入方便",
+  "s_cate": "永和",
+  "house_desc": [
+    "1室1厅|34.39平|低区/3层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "幸福新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "172万"
+}{
+  "singel_price": "单价65217元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839475.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/addf6794-2765-4e41-b916-3f17040c1eb2.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "地铁直达，楼层好，装修精美，满5年",
+  "s_cate": "永和",
+  "house_desc": [
+    "2室2厅|92.0平|中区/8层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "永和家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yonghe",
+  "house_price": "600万"
+}

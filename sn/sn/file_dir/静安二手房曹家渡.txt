@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价92297元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817578.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/bcfd6d25-4cbb-49f0-9d96-1a645b385641.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室0厅|45.83平|低区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "胶州路424弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "423万"
+}{
+  "singel_price": "单价77380元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4750043.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170809/1ea8416c-719b-4df4-8546-739345a811b2.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁沿线，低楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室2厅|122.77平|低区/32层|朝西南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "静安风华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "950万"
+}{
+  "singel_price": "单价88393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4693239.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/65ae3412-0632-490a-b10e-27965f23062c.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，采光无遮挡",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室2厅|87.11平|高区/29层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "达安花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "770万"
+}{
+  "singel_price": "单价76564元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514097.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/29a941bc-d5e7-4d16-b6eb-feed320483cb.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，低楼层，中等装修",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室0厅|60.08平|低区/24层|朝东"
+  ],
+  "district": "静安二手房",
+  "house_detail": "高荣小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "460万"
+}{
+  "singel_price": "单价68508元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4423560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161208/2e85438d-6080-4b78-865e-73ba6363f901.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "3室1厅|89.04平|低区/24层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "高荣小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "610万"
+}{
+  "singel_price": "单价134110元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808568.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/80f4a009-8238-4954-ba27-3c23c11f7310.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "交通方便，满5年，马上看房，热门带看",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "5室3厅|343.0平|地上10层"
+  ],
+  "district": "静安二手房",
+  "house_detail": "静鼎安邦府邸（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "4600万"
+}{
+  "singel_price": "单价117109元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835425.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/08941a48-a187-493c-8331-efb1abf5d2f5.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，高区景观好",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室2厅|85.39平|高区/38层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "静安均泰丽轩",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价128571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841681.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/8147121e-4e48-49b7-9765-55da0a05bec8.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，光线充足",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|35.0平|中区/5层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "万春小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "450万"
+}{
+  "singel_price": "单价121818元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788908.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/91b55768-763f-4ca6-aa41-f016c7de54af.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室0厅|45.97平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "金家巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "560万"
+}{
+  "singel_price": "单价119723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778302.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/90e955c9-40d1-473c-893d-3fd8f1b463d5.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，地铁房，采光好",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|65.15平|高区/29层|朝西南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "瀚林世家",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "780万"
+}{
+  "singel_price": "单价134523元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777613.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/86d3cdcf-d3a5-4f6d-8824-4bf67792009c.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，黄金楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|33.6平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "万春小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "452万"
+}{
+  "singel_price": "单价151285元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763884.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/fe3232c8-917a-4a72-8d17-bffc2779c4ce.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|33.05平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "四和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "500万"
+}{
+  "singel_price": "单价95462元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751513.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/ebcc496d-9aeb-4840-8818-c13e20046f76.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，交通方便，光线充足",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "4室2厅|144.56平|中区/29层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "静安阳光名都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "1380万"
+}{
+  "singel_price": "单价83576元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4745914.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/4b704a3d-34fa-45bc-bfce-f73f677a325c.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线充足",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室0厅|37.69平|中区/6层"
+  ],
+  "district": "静安二手房",
+  "house_detail": "华纺小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "315万"
+}{
+  "singel_price": "单价107415元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735327.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/a17a6cc5-cfc0-453d-b497-22ac4240b6da.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁房，光线充足",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室1厅|57.72平|中区/25层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "四和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "620万"
+}{
+  "singel_price": "单价104095元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681732.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/75e0a29f-abb0-47e6-86dc-77d11bf6d1da.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，低楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室0厅|44.19平|低区/7层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "延平路237弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "460万"
+}{
+  "singel_price": "单价85616元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4659478.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/30ae1f4f-7b09-4513-af59-54d7fb45fa4d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "出行方便，上下楼方便，中等装修，满五减税",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室2厅|105.12平|低区/29层|朝西南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "三和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "900万"
+}{
+  "singel_price": "单价89677元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4456722.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/2332390e-9de5-482c-8bd4-e3f831429c71.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁房，上下楼方便",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "3室2厅|150.54平|低区/18层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "三鑫花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价56729元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4393018.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161117/a7d66df3-c493-4d23-8e9e-84e9dab6cf66.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "地铁直达，黄金楼层，装修精致，满五减税",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "3室2厅|172.75平|中区/21层|朝西南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "康定汽车公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "980万"
+}{
+  "singel_price": "单价96547元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787489.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/336f535e-443a-40c5-ab7f-e3f3350c8110.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，交通便利，楼层好",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室1厅|61.11平|中区/6层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "汇众康定小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "590万"
+}{
+  "singel_price": "单价95251元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856292.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/bdad217c-9c86-4480-a3c6-00cd653a054f.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室1厅|71.39平|低区/25层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "四和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "680万"
+}{
+  "singel_price": "单价87589元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4614711.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/98574bb7-e430-4ebf-b0bd-43f1dae55373.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，上下楼方便",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室1厅|81.06平|低区/24层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "四和花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "710万"
+}{
+  "singel_price": "单价119562元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4442741.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160929/79279941-502a-4fca-8e51-eb6423c0dbd7.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "出行方便，黄金楼层，品质装修，满二年",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|48.51平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "金家巷西弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "580万"
+}{
+  "singel_price": "单价89598元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4563286.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160825/9f8564ef-fec1-4b59-be10-85da0c494c4d.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁直达，光线充足",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室2厅|122.77平|中区/32层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "静安风华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价90105元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829106.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/ae97ba66-0dee-4a9d-b978-1033ed607c47.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|29.41平|低区/6层|朝北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "姚西小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "265万"
+}{
+  "singel_price": "单价100741元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/ded4e20a-26dc-427f-b54b-b24ed0ef4d6d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，楼层好",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|52.61平|中区/7层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "万春小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "530万"
+}{
+  "singel_price": "单价109799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786168.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/d88d3f43-4469-43af-bec3-a1cb219984a6.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，好楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "1室1厅|48.27平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "万春小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "530万"
+}{
+  "singel_price": "单价80172元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766924.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/4870f67e-0752-45b0-8537-b2bcfe5e1021.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，楼层好",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室1厅|58.0平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "延平路481弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "465万"
+}{
+  "singel_price": "单价97378元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765946.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/c4cbe7f0-3ba0-4074-9933-181e946deff8.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室0厅|53.4平|低区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "南长苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "520万"
+}{
+  "singel_price": "单价76977元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647129.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/08400df0-2014-4204-b62a-a36dd2f2c6f8.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁房，高区景观好",
+  "s_cate": "曹家渡",
+  "house_desc": [
+    "2室1厅|56.51平|高区/6层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "延平路435弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caojiadu",
+  "house_price": "435万"
+}

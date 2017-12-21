@@ -1,0 +1,499 @@
+{
+  "singel_price": "单价26080元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558368.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/17ed956f-cf7f-4069-a460-e3e66c861965.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，厨卫全明，上下楼方便，毛坯房",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|88.19平|低区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "230万"
+}{
+  "singel_price": "单价27972元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697070.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/3b310470-d892-4469-a794-68d8fe083920.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|76.86平|低区/18层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "朗诗未来街区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "215万"
+}{
+  "singel_price": "单价37498元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4686932.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/78d382f4-771f-48a8-8a5f-b3a12c149ec5.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "房型正气，厨卫全明，视野开阔，品质装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|74.67平|高区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "朗诗未来街区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "280万"
+}{
+  "singel_price": "单价38664元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170424/262b08dc-707c-4a3a-b0f6-e83ab8ec43e9.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，低区出入方便，毛坯房，满二年",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|106.04平|低区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "申亚花满庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "410万"
+}{
+  "singel_price": "单价30911元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4493564.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170211/9be718ce-7a11-499c-be9e-1411c03063c2.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，上下楼方便，满二减税",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|84.11平|低区/7层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "260万"
+}{
+  "singel_price": "单价35406元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801436.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/c82e8d4f-c784-418d-a1f2-4c56f172410e.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，黄金楼层，精装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|77.67平|中区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "朗诗未来街区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "275万"
+}{
+  "singel_price": "单价27885元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713772.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/ca298650-d930-425b-beaf-4953801ccd22.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，带飘窗，低区出入方便，毛坯房",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室1厅|85.35平|低区/20层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "天和前滩时代",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "238万"
+}{
+  "singel_price": "单价33653元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710359.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/9d5dad5d-d231-4a28-b82c-df7fbc964bc4.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "低楼层，毛坯房，钥匙房，人气房源",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "6室3厅|104.0平|低区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "申亚书香水岸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "350万"
+}{
+  "singel_price": "单价43397元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4552399.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/0a41fdbe-c0b3-43c4-bf4f-c109d9e8caa4.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，低楼层，毛坯房",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|80.65平|低区/4层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "朗诗未来街区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "350万"
+}{
+  "singel_price": "单价25210元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790401.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/6ce72af7-198c-47da-9e5a-ac2c49d9d5c4.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，视野开阔，精装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|119.0平|高区/14层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "300万"
+}{
+  "singel_price": "单价24886元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4620843.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/c0df56c5-082f-45f6-b8b2-844895072163.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，厨卫全明，楼层好，中等装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|94.43平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿色家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "235万"
+}{
+  "singel_price": "单价23451元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4517999.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/a229f147-550e-4fc5-bde4-b4cdc3a0e77e.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观好，中等装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|90.4平|高区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "泰南花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "212万"
+}{
+  "singel_price": "单价31018元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4680858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/2d0a0980-cf4a-4c95-9c6b-d3625db967a0.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，客厅朝南，视野开阔，品质装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "4室2厅|108.0平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿色家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "335万"
+}{
+  "singel_price": "单价27647元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729422.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/967b2f8c-9abf-419d-9a21-37f3170f18c3.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅朝南，好楼层，品味装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|85.0平|中区/7层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "235万"
+}{
+  "singel_price": "单价27536元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4464028.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170115/9df9f9cb-1239-4d75-a576-67b48789b12f.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，客厅朝南，黄金楼层，拎包入住",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|94.42平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿色家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "260万"
+}{
+  "singel_price": "单价31907元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648883.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/1643902a-01b5-48a9-a3a2-52499735364f.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，视野开阔，拎包入住，有钥匙",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室3厅|84.62平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "270万"
+}{
+  "singel_price": "单价26827元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508381.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/6ae4d9e2-15b1-4720-b63a-736199e36dc1.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，高区景观房，毛坯房，有钥匙立即看",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "4室2厅|89.46平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿色家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "240万"
+}{
+  "singel_price": "单价25711元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4445754.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161217/9976eec3-ee9a-4b35-8812-fe57ca25fd58.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，卧室带卫，光线充足，毛坯房",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|134.18平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "申亚书香水岸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "345万"
+}{
+  "singel_price": "单价27640元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841191.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/173aff2a-68db-4d3f-8f24-22f2284f9109.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，厨卫全明，楼层好，拎包入住",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|89.0平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿色家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "246万"
+}{
+  "singel_price": "单价29545元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839274.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/4391bb23-1808-41a5-94c3-1f6852fc7fe6.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线充足，精装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|88.0平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "泰南花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "260万"
+}{
+  "singel_price": "单价28000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811107.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/0219d948-55e9-4a25-b824-5610f3912c89.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "低区出入方便，中等装修，房本满五年，上门实拍",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|100.0平|低区/11层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "280万"
+}{
+  "singel_price": "单价23437元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802129.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/9b6baaf4-5191-4ea6-99c6-852d121a4585.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，楼层好，品味装修，房本满五年",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室1厅|96.0平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "泰南花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "225万"
+}{
+  "singel_price": "单价26543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/9d05d569-93f9-49c9-967b-efe2a368ab32.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "房型正气，卧室全南，楼层好，中等装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室1厅|81.0平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "泰南花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "215万"
+}{
+  "singel_price": "单价26624元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767476.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170227/5ed72eb9-46a0-4eee-90b7-a0d18a1dcd2b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，厨卫全明，光线非常好，毛坯房",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|93.9平|高区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿色家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "250万"
+}{
+  "singel_price": "单价29558元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758798.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/e2999efe-596a-4e20-9cfd-c0a45714db85.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，厨卫全明，低楼层，精装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|98.11平|低区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "290万"
+}{
+  "singel_price": "单价27888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747975.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/7aa66259-dec7-46bf-b790-c30419d20f4d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，好楼层，中等装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|100.4平|中区/14层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "280万"
+}{
+  "singel_price": "单价26506元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737642.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/4169fe2f-00bc-49bc-b7af-0ad9ddf938b0.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，厨卫全明，采光好，毛坯房",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "3室2厅|124.5平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "330万"
+}{
+  "singel_price": "单价27142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706879.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/103339f3-1d07-46d2-b2c0-790366fcc62d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，客厅带阳台，低区出入方便，精装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|105.0平|低区/11层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "285万"
+}{
+  "singel_price": "单价27500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701852.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/e4661b2c-e0fe-4685-a41e-37f8e486f509.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，低区出入方便，品质装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "2室2厅|104.0平|低区/14层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金碧汇虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "286万"
+}{
+  "singel_price": "单价24226元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4519409.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/6b61524a-11b1-4102-9948-190246cc5fc0.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，卧室带阳台，黄金楼层，中等装修",
+  "s_cate": "奉贤金汇",
+  "house_desc": [
+    "4室2厅|148.6平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "泰南花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengxianjinhui",
+  "house_price": "360万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价66489元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534309.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/85382166-ac56-4568-a3fd-71b06971879b.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，低区出入方便",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室0厅|37.6平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "250万"
+}{
+  "singel_price": "单价57023元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4406191.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161221/5371dc0b-6da0-40c1-a445-f43e3559f394.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低楼层",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|85.93平|低区/24层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "赤峰小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "490万"
+}{
+  "singel_price": "单价81000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830742.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/3794e0d0-8a2e-4097-aa34-c42ab5fc7609.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，上下楼方便",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|56.79平|低区/12层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "曲一花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "460万"
+}{
+  "singel_price": "单价76812元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806729.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/f50c2ca3-949a-4666-b7b3-ed8fc9b334ed.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "稀罕南北通，地铁沿线，采光无遮挡，拎包入住",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|41.66平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东体小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "320万"
+}{
+  "singel_price": "单价74183元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801230.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/8a100caf-8930-4c9d-a07b-3564f15b65b1.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|43.81平|中区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "祥东小区(虹口)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "325万"
+}{
+  "singel_price": "单价68208元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773814.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/08b14276-ac99-495f-9c66-8ecdf7e2e054.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|33.72平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "西南小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "230万"
+}{
+  "singel_price": "单价71428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764647.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/a2f9f4c4-08f7-472d-a444-9bd8f4e4a8c0.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，交通便利，上下楼方便，简单装修",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室0厅|38.92平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "蒋家桥小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "278万"
+}{
+  "singel_price": "单价69281元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758138.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/d94d4b39-2c29-45f9-90e1-bdf672b25612.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，低楼层",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|55.57平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "密二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "385万"
+}{
+  "singel_price": "单价71585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/82b5f567-7024-4dff-a0ac-2c30af9998eb.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区景观好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|40.93平|高区/13层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "赤峰小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "293万"
+}{
+  "singel_price": "单价67869元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639664.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/f6831fd5-2068-442c-a228-82b3eae59f24.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "地铁沿线，黄金楼层，简单装修，满五年",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室0厅|46.56平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "广中路25弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "316万"
+}{
+  "singel_price": "单价74441元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612748.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/8f92f942-5914-452a-aa75-358c3163e314.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，光线充足",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|39.36平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东体小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "293万"
+}{
+  "singel_price": "单价65118元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4602638.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/3d1b8134-e4ff-4478-b6bf-c9671634d6a0.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区采光好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|35.32平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "祥东小区(虹口)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "230万"
+}{
+  "singel_price": "单价68518元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601346.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/92b33e39-eb8f-4035-9000-be4198ab657a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|54.0平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "八一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "370万"
+}{
+  "singel_price": "单价71889元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581697.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/3e073f40-bbda-4606-87ce-ca371beb0d05.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，视野很好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室0厅|34.08平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东体小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "245万"
+}{
+  "singel_price": "单价67732元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4572051.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/7f5a98fb-242f-45f4-a042-051e99e11c2a.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，黄金楼层",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室0厅|36.91平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "密二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "250万"
+}{
+  "singel_price": "单价79882元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545255.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/a054def1-b595-4ad5-99d8-0747944ba417.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，黄金楼层",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|81.37平|中区/18层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "建工天峰公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "650万"
+}{
+  "singel_price": "单价56488元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4512888.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/26ee4302-31ae-4a94-a6f3-150a2286d214.jpg_200x150.jpg",
+  "house_time": [
+    "1957年建"
+  ],
+  "house_title": "卧室全南，地铁沿线，楼层好，房本满五年",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室0厅|32.75平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "185万"
+}{
+  "singel_price": "单价64236元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508814.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170217/15cbcb55-ec25-4d8f-8813-53b1cac5a7cd.jpg_200x150.jpg",
+  "house_time": [
+    "1976年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，视野很好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|33.47平|高区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大西小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "215万"
+}{
+  "singel_price": "单价69901元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501181.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/9ea2fbf9-3ad6-426e-9b24-e19b71fb2126.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，光线非常好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "3室0厅|72.96平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东体育会路401弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "510万"
+}{
+  "singel_price": "单价61236元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4500530.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170220/f26ac519-cbab-4b07-9620-4070ba4b410d.jpg_200x150.jpg",
+  "house_time": [
+    "1973年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观房",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|32.66平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "200万"
+}{
+  "singel_price": "单价61906元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4430589.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/aa99498a-afb3-43c2-8f4a-de18f7e092c0.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "卧室带卫，卧室全南，地铁直达，低楼层",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|48.46平|低区/21层|朝东北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东渡名人大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价65125元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4224703.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160824/7a229d6f-0f3e-4362-a19f-bb10f3c17f9d.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|61.42平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "曲阳林云小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "400万"
+}{
+  "singel_price": "单价63327元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830657.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/fd61d8d1-190a-409b-805f-b93b25ffadd8.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，高区景观好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室2厅|94.43平|高区/28层|朝北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "华敏大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "598万"
+}{
+  "singel_price": "单价64948元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819845.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/52c73786-bf93-484b-b1bd-b1ded0a3fee5.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，视野开阔",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "3室0厅|88.07平|高区/19层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "上外中山大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "572万"
+}{
+  "singel_price": "单价68057元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748090.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/05f90cb5-7303-47f4-928e-099b42ff21e9.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "地铁房，好楼层，中等装修，满5年",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "3室2厅|146.64平|中区/9层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "华虹公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "998万"
+}{
+  "singel_price": "单价64959元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/d139a497-36c2-4d53-9c59-4f1b057850f9.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区景观好",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|52.34平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "曲阳林云小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "340万"
+}{
+  "singel_price": "单价70334元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705679.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/74c2f682-8c22-4c65-b17a-1fc1679f5443.jpg_200x150.jpg",
+  "house_time": [
+    "1976年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，黄金楼层",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|39.81平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大西小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价65772元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618181.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/9e53164a-8007-45f4-9e13-15b2e82c07d9.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，视野开阔",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室1厅|39.53平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "密三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "260万"
+}{
+  "singel_price": "单价53384元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584641.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/fb810fa7-a9b7-47f0-823f-efcc07318156.jpg_200x150.jpg",
+  "house_time": [
+    "1957年建"
+  ],
+  "house_title": "卧室全南，交通便利，好楼层，装修精美",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "1室0厅|31.47平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "玉田新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "168万"
+}{
+  "singel_price": "单价78740元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4548661.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170315/ee4bc6ce-1ac8-4573-aac3-171ed7849ce5.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "交通便利，楼层好，中等装修，满五减税",
+  "s_cate": "曲阳",
+  "house_desc": [
+    "2室1厅|66.04平|中区/24层|朝东西"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "邮电二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/quyang",
+  "house_price": "520万"
+}

@@ -1,0 +1,503 @@
+{
+  "singel_price": "单价59540元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827776.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/9ffdbc5c-57f9-40ec-b5f1-c650dec5b2be.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，视野很好",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|35.27平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "管弄五六街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "210万"
+}{
+  "singel_price": "单价81354元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801206.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/dbb16901-8592-43f5-96f5-e90642fe3313.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "带飘窗，卧室全南，地铁房，低楼层",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室2厅|105.71平|低区/25层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "香溢花城（住宅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "860万"
+}{
+  "singel_price": "单价57251元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786820.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/68e941a7-decc-4cb7-8851-155d88db4770.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，光线充足",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室0厅|31.44平|中区/6层|朝东北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "旬阳新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "180万"
+}{
+  "singel_price": "单价60891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4754688.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/5cce7867-d85c-4423-aecd-07977922feb8.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室0厅|43.52平|中区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "太浜巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "265万"
+}{
+  "singel_price": "单价60096元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4750708.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160820/db45b31a-94f7-418b-8557-344358beb093.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，采光好",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|45.76平|高区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "石一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "275万"
+}{
+  "singel_price": "单价68306元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4661190.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/3380359c-810c-4470-bb2c-681342ed2951.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，上下楼方便",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|62.22平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "太浜巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "425万"
+}{
+  "singel_price": "单价79325元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652458.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/56effaf6-f4b2-4cd9-ad07-408ab360b7ae.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，厨卫全明，出行方便，低区出入方便",
+  "s_cate": "光新",
+  "house_desc": [
+    "3室2厅|138.67平|低区/8层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "香溢花城（住宅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价84408元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4620964.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/150c75bf-bdbe-40d1-a832-acbd7d123bd5.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，客厅朝南，交通便利，高区采光好",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室2厅|103.07平|高区/9层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "香溢花城（住宅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "870万"
+}{
+  "singel_price": "单价63821元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845556.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/7268d5c9-0e91-4780-8724-f0f536601a4f.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|50.14平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "石泉五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "320万"
+}{
+  "singel_price": "单价67567元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833350.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/52df5332-ad4a-494c-9d85-29205c3af1e5.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，光线非常好",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|34.78平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "管弄四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "235万"
+}{
+  "singel_price": "单价65197元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822907.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/9f3c46d3-b216-44ee-947f-b9c6ef101c00.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，高区采光好",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|64.42平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "太浜巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "420万"
+}{
+  "singel_price": "单价62138元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764662.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/efa810f1-bc0d-4550-bc10-fe6079bb5461.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室全南，地铁直达，视野开阔，简单装修",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室0厅|34.6平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "管弄四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "215万"
+}{
+  "singel_price": "单价58588元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840716.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/585f32ea-3d39-48cc-9380-270a4aa24d7a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，黄金楼层",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|40.11平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "管弄三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "235万"
+}{
+  "singel_price": "单价63022元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840048.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/09a2c97b-5e74-48d9-84ff-b6b17288f493.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|68.23平|低区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "岚皋大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "430万"
+}{
+  "singel_price": "单价61752元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833760.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/ec7dcaa3-4abe-44c5-a8c4-2046b73919f9.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，好楼层",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|51.82平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "光新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "320万"
+}{
+  "singel_price": "单价67125元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821242.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/693df4b7-6b43-42d5-8264-faa5fda782ad.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，楼层好",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|56.61平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "太浜巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "380万"
+}{
+  "singel_price": "单价59248元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/9c36ec63-0b0e-49f9-8b70-806a3924160b.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野很好",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|34.6平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "管弄四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "205万"
+}{
+  "singel_price": "单价58876元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4805930.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/0c0f5f57-c9ea-4ce6-a011-b553bf34f33b.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "交通方便，黄金楼层，品质装修，满五减税",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室0厅|33.63平|中区/7层|朝西"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "平民后村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "198万"
+}{
+  "singel_price": "单价70491元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/e6df5c81-2504-42dc-9ad8-e15fb250d2af.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "南北通透，卧室全南，地铁房，楼层好",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|41.14平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "太浜巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "290万"
+}{
+  "singel_price": "单价86757元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629881.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170620/d6cebcd4-ca46-4168-88f7-ea90c18f2b20.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室2厅|109.5平|中区/8层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "香溢花城（住宅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "950万"
+}{
+  "singel_price": "单价55376元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4588243.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/de17c757-1229-4310-8bc8-1849e3aec767.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，出行方便，楼层好",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|55.98平|中区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "岚皋路300弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "310万"
+}{
+  "singel_price": "单价67553元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4519113.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/05ecce34-96ff-40f9-a7a2-2ea12a2c1a06.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|48.85平|中区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "岚皋大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "330万"
+}{
+  "singel_price": "单价60877元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4333401.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161014/c0c33770-9901-4284-a79a-3cebe54a22b2.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，光线充足，毛坯房",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室0厅|43.53平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "管弄五六街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "265万"
+}{
+  "singel_price": "单价66455元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776168.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/fd7511c2-c416-4415-bbbf-06e1c3e1fe1a.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通便利，高区采光好",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|37.92平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "太浜巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "252万"
+}{
+  "singel_price": "单价52137元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858556.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/bd9ed7ff-6d76-4bb7-a84b-90c17728bb9b.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，高区阳光房",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|38.36平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中山北路2185弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "200万"
+}{
+  "singel_price": "单价60271元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821052.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/328f2f16-3664-4956-9b88-7009720b743e.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "地铁沿线，楼层好，简单装修，满五减税",
+  "s_cate": "光新",
+  "house_desc": [
+    "1室1厅|38.99平|中区/7层|朝北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "光新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "235万"
+}{
+  "singel_price": "单价65973元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/0a0dfdc4-e93e-4a7c-b2fa-b9920ae96483.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，光线充足",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|60.63平|中区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "光新路430弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "400万"
+}{
+  "singel_price": "单价51087元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4329395.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161016/cfca2967-2839-4db7-820e-fe3aa4e79055.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，交通方便，楼层好",
+  "s_cate": "光新",
+  "house_desc": [
+    "3室2厅|106.68平|中区/7层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "大隆花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "545万"
+}{
+  "singel_price": "单价59450元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849709.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/a1e79a7e-99a2-4c5c-811c-97f969c88bd6.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|80.74平|中区/25层|朝东北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "嘉富利大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "480万"
+}{
+  "singel_price": "单价60332元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677884.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/25c3219a-1d44-4fb8-873e-8ee649543d06.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，上下楼方便，中等装修",
+  "s_cate": "光新",
+  "house_desc": [
+    "2室1厅|65.47平|低区/18层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "管弄一二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/guangxin",
+  "house_price": "395万"
+}

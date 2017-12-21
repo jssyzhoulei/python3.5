@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价60528元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858117.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/53158b77-ca1e-46d2-a15e-bf815363a4da.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，上下楼方便，装修精美",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室2厅|85.91平|低区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中城绿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "520万"
+}{
+  "singel_price": "单价54588元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842215.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/24b5cfbb-d709-4a29-ba1f-c88204dfee9f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，低楼层，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|54.59平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "高兴花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "298万"
+}{
+  "singel_price": "单价46970元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837599.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/6070ff27-0520-453b-9d03-75d12a88c398.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低楼层，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "3室1厅|85.16平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "莲花新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "400万"
+}{
+  "singel_price": "单价45363元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/27d152d0-ef79-4f55-b37b-2833f490069d.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，楼层好，品味装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "3室2厅|110.22平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "华唐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "500万"
+}{
+  "singel_price": "单价40918元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796587.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/06ae674c-7da2-4be9-9f37-c9c33ad593a9.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低楼层，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "1室1厅|51.81平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "蔷薇五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "212万"
+}{
+  "singel_price": "单价68669元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787385.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/d230e424-946f-4032-ae43-e0d26fc2845c.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，带飘窗，高区采光好，拎包入住",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室2厅|81.55平|高区/17层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖畔林语",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "560万"
+}{
+  "singel_price": "单价44562元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760806.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/67be3c10-fc6e-493e-a33c-f45c139f385b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "1室1厅|48.92平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "普乐三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "218万"
+}{
+  "singel_price": "单价70572元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724173.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/3cb18be1-fa9d-49e1-a367-f231b14a566b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，高区采光好，满五年",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|66.74平|高区/17层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖滨晨韵",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "471万"
+}{
+  "singel_price": "单价63636元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4717968.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161106/d6110fc9-1b85-4c6b-a1aa-ec6eedeb555d.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，高区阳光房，精装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室2厅|99.0平|高区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海春城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "630万"
+}{
+  "singel_price": "单价72257元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663730.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/0619c2fb-8602-44d1-8ace-ec62e10e2b9c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，采光好，品味装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "1室1厅|52.59平|高区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中城绿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "380万"
+}{
+  "singel_price": "单价38987元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4660169.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/9f192af2-8de9-4c2b-9fea-b03f7e8543c6.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，上下楼方便，简单装修，满五减税",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|79.0平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "蔷薇新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "308万"
+}{
+  "singel_price": "单价48412元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511901.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170303/07661966-fa5c-4963-9390-d0f8cd7f390c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，楼层好，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|51.64平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "普乐二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "250万"
+}{
+  "singel_price": "单价71802元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4873008.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/cb7fa9cf-9252-47f1-a723-38284abcc3d7.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "低区出入方便，满二年，新上房源，钥匙房",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|66.85平|低区/17层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖滨晨韵",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "480万"
+}{
+  "singel_price": "单价42961元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749010.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/672b86d0-2dc2-4d0c-984a-b50231a2032c.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北户型，低楼层，简单装修，房本满两年",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|69.83平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "高兴花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "300万"
+}{
+  "singel_price": "单价50990元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4631716.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/48eb0342-4926-4abc-9ae4-d6d3207880b7.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，采光无遮挡，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "1室1厅|34.32平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "蔷薇新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "175万"
+}{
+  "singel_price": "单价41032元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4472030.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170103/8c7316f0-16f8-4cb0-812a-2b60021fca59.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区采光好，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|75.55平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "蔷薇新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "310万"
+}{
+  "singel_price": "单价70716元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170309/a7aaf0de-2c2e-4556-87d2-411ad953b104.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，卧室全南，高区采光好，省装修费",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|67.17平|高区/17层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖滨晨韵",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "475万"
+}{
+  "singel_price": "单价43279元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828507.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/70a02343-9f78-4068-be60-80ac5cc7f6fa.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|67.7平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "高兴花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "293万"
+}{
+  "singel_price": "单价63819元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808142.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/068e727e-0726-4b01-bb61-fcbd2c4a3438.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，客厅朝南，光线充足，拎包入住",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室2厅|106.55平|中区/16层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖滨晨韵",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "680万"
+}{
+  "singel_price": "单价67801元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787229.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/4150ccbc-a91d-497a-b568-720548851a5f.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|70.5平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海春城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "478万"
+}{
+  "singel_price": "单价68498元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737499.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/ff4bf943-b55b-4fc3-9cb7-ef55a684e8f0.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，厨卫全明，视野开阔，装修精美",
+  "s_cate": "春申",
+  "house_desc": [
+    "3室2厅|117.52平|高区/15层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖滨晨韵",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "805万"
+}{
+  "singel_price": "单价67306元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4726719.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/b1f042ac-77eb-45a0-8219-8b49acb63cc7.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，好楼层，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室2厅|106.23平|中区/17层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖滨晨韵",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "715万"
+}{
+  "singel_price": "单价64928元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712239.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/5a47748f-d069-49c4-8877-05533e45954c.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，楼层好，装修精美",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|100.11平|中区/9层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海春城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "650万"
+}{
+  "singel_price": "单价56231元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699060.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160809/2f14d032-b657-400e-afbc-3d1037a8e586.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "上下楼方便，精装修，满5年，有钥匙立即看",
+  "s_cate": "春申",
+  "house_desc": [
+    "4室2厅|163.61平|低区/17层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申景城湖畔林语",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "920万"
+}{
+  "singel_price": "单价53705元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4615143.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170501/9057311b-f391-4f9b-9e15-8641636fce7c.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "低楼层，品味装修，满五减税，马上看房",
+  "s_cate": "春申",
+  "house_desc": [
+    "4室3厅|186.2平|低区/9层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海春城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价48327元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594626.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/54586353-104b-4f82-af79-211b5f40cb83.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，光线充足，中等装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|53.8平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "普乐三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "260万"
+}{
+  "singel_price": "单价41256元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593959.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/c626e6f4-80e9-4899-907e-37140d98f4f7.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通，黄金楼层，毛坯房，满5年",
+  "s_cate": "春申",
+  "house_desc": [
+    "3室1厅|88.47平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "普乐二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "365万"
+}{
+  "singel_price": "单价43963元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4580058.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/cdbedad8-e219-4bf9-a247-5b67249177c9.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，光线非常好，精装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "5室3厅|118.28平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "华唐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "520万"
+}{
+  "singel_price": "单价43313元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4547073.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170315/a7e77547-bd24-428b-bde9-14f10a1f88ad.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，采光无遮挡，中等装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|55.41平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "蔷薇五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "240万"
+}{
+  "singel_price": "单价40200元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4528871.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170228/a15ce516-a171-42e1-b936-c9843283d0ad.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "春申",
+  "house_desc": [
+    "2室1厅|59.95平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "徐汇芳邻",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chunshen",
+  "house_price": "241万"
+}

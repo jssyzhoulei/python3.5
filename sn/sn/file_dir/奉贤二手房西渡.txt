@@ -1,0 +1,503 @@
+{
+  "singel_price": "单价34824元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772986.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/e20726e9-3551-4ebd-9247-f0397b389f70.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "1室1厅|45.37平|低区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿宝一村（南区）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "158万"
+}{
+  "singel_price": "单价34497元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792274.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/0d48db70-31e7-4a04-9c74-105f6bff62a1.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线充足，简单装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "1室1厅|46.38平|中区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿宝二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "160万"
+}{
+  "singel_price": "单价35426元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785743.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/a6e43fd4-e8f1-4a77-9b8e-4dfc5af4c5ed.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区阳光房，简单装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室0厅|44.6平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿宝一村（南区）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "158万"
+}{
+  "singel_price": "单价34232元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743379.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/da49b69d-27f7-40ae-94ef-0d453a4e8ddc.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通透，简单装修，满五减税，随时看房",
+  "s_cate": "西渡",
+  "house_desc": [
+    "3室2厅|122.69平|地上2层|(进门)南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿宝二村（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "420万"
+}{
+  "singel_price": "单价28645元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683276.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/e74fe008-7867-4ccc-9f03-2dcc81bcb41e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "房型正气，带飘窗，采光无遮挡，精装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|96.0平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "水岸家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "275万"
+}{
+  "singel_price": "单价28372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4661523.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170125/db166ded-96c2-4681-b5b9-90267844b514.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通，厨卫全明，楼层好，毛坯房",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|93.4平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "文怡花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "265万"
+}{
+  "singel_price": "单价26783元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610439.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/c4f5044f-6b46-4550-adef-0fde4e81f652.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，客厅带阳台，采光好，简单装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "4室3厅|96.7平|高区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "扶栏新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "259万"
+}{
+  "singel_price": "单价28343元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589932.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170414/bc8c764e-5f1a-4105-b5e1-b4f264601c20.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，好楼层，拎包入住，满五年",
+  "s_cate": "西渡",
+  "house_desc": [
+    "3室2厅|129.13平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "新南家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "366万"
+}{
+  "singel_price": "单价26942元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564738.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/35d9c330-cbd6-4e73-813e-dd8f241ccca3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，视野开阔，装修精致，房本满五年",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|79.8平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿宝二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "215万"
+}{
+  "singel_price": "单价32167元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4559959.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170322/f61e8ec6-64fd-4156-b1f7-4e6d16092972.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，高区阳光房，中等装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室1厅|71.5平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿宝一村（北区）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价29914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4507234.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170213/26b3a774-2f1c-4854-ba0f-84db5ba7d1e4.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通，卧室带卫，光线非常好，中等装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|93.6平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "浦江花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价28722元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4495240.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170213/8c8f1b7b-13f6-4c0a-9683-1ff1c07fc4bb.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，高区景观好，毛坯房",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室1厅|99.92平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "水岸家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "287万"
+}{
+  "singel_price": "单价30422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4493800.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170205/79a3fe03-ec60-4673-93e4-8c3c7aa8aa75.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "视野开阔，省装修费，满五减税，马上看房",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室1厅|53.25平|高区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "闸园新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "162万"
+}{
+  "singel_price": "单价33408元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4437259.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161212/0a9a460a-ba21-409b-8ede-745e400c8c68.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，楼层好，房本满五年",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室1厅|71.24平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "菊花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "238万"
+}{
+  "singel_price": "单价25588元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4391812.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161115/046fe114-deb8-45bd-b815-2410374e3304.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，客厅朝南，光线非常好，中等装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室1厅|77.77平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "大桥公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "199万"
+}{
+  "singel_price": "单价27941元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4365954.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161107/8d5e3ae9-a40e-4042-86aa-c2a86d6a4ce8.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，黄金楼层，品味装修，房本满五年",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|102.0平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "新南家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "285万"
+}{
+  "singel_price": "单价30767元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4364546.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170119/ca9521ce-7e04-4c8d-b00d-30b4f6adb43d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，低楼层，品味装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|92.63平|低区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "新南家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "285万"
+}{
+  "singel_price": "单价30722元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806744.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/79f4279c-d599-4c23-8d1b-c3ffe8843320.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，厨卫全明，楼层好，满五减税",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|89.51平|中区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "新南家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "275万"
+}{
+  "singel_price": "单价31975元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788248.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/3c1d05a4-fa25-4776-8021-934ba5fcaf48.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，视野很好，省装修费",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|90.07平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "新南家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "288万"
+}{
+  "singel_price": "单价26337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4716619.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/691439e8-3195-43e5-9e79-d8df18fe2dc4.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，上下楼方便，简单装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "3室1厅|121.5平|低区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿吉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "320万"
+}{
+  "singel_price": "单价24942元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4675404.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/dd7da5cd-cf48-4e58-b172-bdb37af1fcf6.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，光线非常好，满5年",
+  "s_cate": "西渡",
+  "house_desc": [
+    "3室2厅|130.3平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "文怡花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "325万"
+}{
+  "singel_price": "单价36580元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4623379.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/64ff7465-3a6a-4a4e-9561-80daba1eb5fe.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "毛坯房，满五减税，来电即看，实地看房",
+  "s_cate": "西渡",
+  "house_desc": [
+    "6室2厅|246.03平|地上1层|(进门)南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金都雅苑（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "900万"
+}{
+  "singel_price": "单价30115元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604237.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/5b8c980f-5162-4600-a50a-6ab2b2bdef7c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，黄金楼层，毛坯房",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室1厅|66.41平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "大桥公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价29591元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4575346.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/27c47700-a492-45bd-9428-92a8043b6a94.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，厨卫全明，高区景观房，毛坯房",
+  "s_cate": "西渡",
+  "house_desc": [
+    "3室2厅|108.14平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "金都雅苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "320万"
+}{
+  "singel_price": "单价86724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556998.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170512/b1131789-0a0c-4f81-8111-42627c3093c3.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，品味装修，满5年，随时可看",
+  "s_cate": "西渡",
+  "house_desc": [
+    "5室3厅|288.27平|地上3层|(进门)南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "吴塘路468号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "2500万"
+}{
+  "singel_price": "单价28878元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4519077.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/ae2799ba-674d-41f9-a90b-c725900f1e67.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通，卧室全南，好楼层，中等装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|88.3平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "大桥公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "255万"
+}{
+  "singel_price": "单价31418元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4342217.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161105/36532c51-8570-4afb-a482-ebaac4ed473f.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，采光无遮挡，简单装修，房本满五年",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|90.71平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "文怡花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "285万"
+}{
+  "singel_price": "单价29245元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4312154.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170101/c3e4726c-5785-4ef3-85d1-a6914f071a6d.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，高区景观好，拎包入住，满五减税",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|100.87平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "文怡花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "295万"
+}{
+  "singel_price": "单价30125元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4230768.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161016/d6bf2cc3-1b85-4096-8ee7-cb5d36bbc792.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，中等装修",
+  "s_cate": "西渡",
+  "house_desc": [
+    "3室1厅|81.99平|中区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "鸿宝二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "247万"
+}{
+  "singel_price": "单价27500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4864469.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/97b04479-bf33-4096-a1b7-ff4de459b927.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，采光无遮挡，满5年",
+  "s_cate": "西渡",
+  "house_desc": [
+    "2室2厅|100.0平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "浦江花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xidu",
+  "house_price": "275万"
+}

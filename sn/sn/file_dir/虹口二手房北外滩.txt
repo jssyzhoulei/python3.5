@@ -1,0 +1,503 @@
+{
+  "singel_price": "单价91813元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4583044.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/4b4d475b-dbb0-4264-bf31-4692f436c375.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，客厅朝南，地铁房，楼层好",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|117.63平|中区/33层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "鸿旭豪苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价63652元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564173.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/6f310f88-ce10-4a8e-b7c2-e833ecf4b0fb.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光好",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室0厅|75.41平|高区/18层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "云舫小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "480万"
+}{
+  "singel_price": "单价72277元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4401593.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170111/a92defa1-7644-4293-86f5-dfa10dba0560.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁沿线，好楼层",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|101.0平|中区/24层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大众公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "730万"
+}{
+  "singel_price": "单价82099元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682157.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170620/a46a25cc-e3ab-4845-b6cd-31463272240b.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁直达，好楼层，拎包入住，满五年",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|180.27平|中区/32层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "耀江国际广场（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "1480万"
+}{
+  "singel_price": "单价76832元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564752.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/19e16114-38ae-4c94-a47e-d0aa579ed169.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区景观房",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室0厅|67.68平|高区/25层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "久耕小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "520万"
+}{
+  "singel_price": "单价57067元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4512322.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/e63b9e5c-0ea8-48bb-b12d-b29d77bafdc6.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带卫，地铁房，黄金楼层，简单装修",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|143.69平|中区/32层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东泰大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "820万"
+}{
+  "singel_price": "单价83142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508798.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/ef7b06fd-cbd4-4f41-90d0-6d448c44a030.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，带飘窗，交通方便，低楼层",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|104.64平|低区/16层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹宸易居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "870万"
+}{
+  "singel_price": "单价81948元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1067682.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161016/1b1e97fe-ff95-440f-a7a2-b838c1ccc418.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，地铁沿线，上下楼方便，毛坯房",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|170.84平|低区/20层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "白金府邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价69679元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666019.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/7520baef-2cec-427a-bbc2-03500bc65012.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，采光无遮挡",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "1室1厅|47.36平|高区/12层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "安国大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "330万"
+}{
+  "singel_price": "单价60704元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4278706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160918/62d6175b-da26-4360-a432-0d6751e5fc68.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，交通方便，采光无遮挡，中等装修",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|110.37平|高区/18层|朝东北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "唐山新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "670万"
+}{
+  "singel_price": "单价64593元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801453.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/435156eb-d8c6-419c-8a05-7971f485a1ed.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，黄金楼层",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|108.37平|中区/32层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "安康大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "700万"
+}{
+  "singel_price": "单价92435元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741114.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/25ad9990-e905-434f-a89e-5dd18bd9dc00.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室1厅|50.63平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "昆山小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "468万"
+}{
+  "singel_price": "单价97064元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667039.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/d1991e19-daa0-4fc2-8fb0-afde65cf50dd.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "交通方便，黄金楼层，简单装修，随时看房",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "1室0厅|42.24平|中区/10层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "旅顺路79号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "410万"
+}{
+  "singel_price": "单价67099元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4529915.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170118/50235f24-5ad5-4703-af7f-7bfe5eeb5d53.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "地铁直达，低楼层，省装修费，看房有钥匙",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|89.42平|低区/22层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "家化公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "600万"
+}{
+  "singel_price": "单价97356元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4407913.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170115/781cabb0-9561-4121-afc4-2824eeff9a73.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "地铁沿线，低区出入方便，装修经典，钥匙在手",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|97.58平|低区/38层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "豪景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "950万"
+}{
+  "singel_price": "单价73696元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798270.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/f1c65ead-5cc3-45b1-b0a5-cfcccc8c79c3.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "1室1厅|35.28平|低区/12层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "安国大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "260万"
+}{
+  "singel_price": "单价64102元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780362.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/4678e7c8-a975-44f6-bae5-b0f558300f1b.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "客厅带阳台，出行方便，高区阳光房，装修精致",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|117.0平|高区/32层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东泰大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "750万"
+}{
+  "singel_price": "单价69989元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771095.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/5aec8ea0-865c-4266-84ae-e461a0a9b8df.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，地铁直达，视野开阔，拎包入住",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "1室1厅|54.58平|高区/26层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "恒升半岛",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "382万"
+}{
+  "singel_price": "单价65562元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760557.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/5991f604-288d-4965-a9e1-2437793a6389.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，楼层好",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|89.99平|中区/22层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "家化公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "590万"
+}{
+  "singel_price": "单价65246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735369.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/9191ce62-e886-4413-b6b8-daf527f63307.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "客厅带阳台，地铁沿线，楼层好，简单装修",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室0厅|75.1平|中区/18层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "云舫小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "490万"
+}{
+  "singel_price": "单价65448元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603824.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/d7327366-ad54-4a12-84a7-6f5ee2b4102e.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，上下楼方便",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|73.34平|低区/18层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "云舫小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "480万"
+}{
+  "singel_price": "单价84189元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4484276.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/0ca1514c-1652-4b86-8da2-7ac3d684251d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室全南，客厅带阳台，地铁沿线，低楼层",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室2厅|118.78平|低区/32层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新外滩花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价73116元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698574.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/f5e46978-9976-4ca4-8ba2-359a6b793cbb.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线充足",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "1室1厅|49.92平|中区/15层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "九联小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "365万"
+}{
+  "singel_price": "单价55175元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4570314.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170620/b01b27da-0122-4e95-b06f-54e21279e0d0.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，采光无遮挡，中等装修",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|150.43平|高区/22层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "家化公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "830万"
+}{
+  "singel_price": "单价92198元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546864.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/464967d3-61fb-4e78-9112-9233b4997ddd.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，出行方便，光线非常好",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|141.0平|高区/32层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "阳光前景",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价63888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4853617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/c3787fa6-e6ab-4035-97aa-e4d695c90eb3.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，带落地窗，交通方便，低区出入方便",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "2室1厅|72.0平|低区/18层|朝东北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "公平大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "460万"
+}{
+  "singel_price": "单价81642元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/a5bf9e51-37e1-43fd-aa15-7885fec04c82.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，客厅带阳台，地铁直达，上下楼方便",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|171.48平|低区/33层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新外滩花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价163859元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775342.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/e678c503-49bf-43b7-9d9e-8a1325e4ed15.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，客厅带阳台，交通便利，楼层好",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|305.14平|中区/35层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "白金湾广场（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "5000万"
+}{
+  "singel_price": "单价88992元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763480.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/36201436-f03d-48e9-9665-344639f55dbe.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，交通便利，采光好",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "3室2厅|137.09平|高区/32层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "阳光前景",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "1220万"
+}{
+  "singel_price": "单价81922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755006.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/8c01478a-d427-43f7-a08a-f7ba45cf03cc.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，出行方便，低楼层",
+  "s_cate": "北外滩",
+  "house_desc": [
+    "1室1厅|36.62平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "久耕小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beiwaitan",
+  "house_price": "300万"
+}

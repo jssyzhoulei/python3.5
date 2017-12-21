@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价40625元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848022.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/5cbca70c-79ba-4541-a56b-3597d58dd856.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁房，视野很好",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|112.0平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "上大阳光乾清园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "455万"
+}{
+  "singel_price": "单价49355元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/3c119e45-155a-4d6b-8226-66794518d716.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，低区出入方便",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室2厅|62.81平|低区/11层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "瑞丰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "310万"
+}{
+  "singel_price": "单价53325元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806041.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/4f0d2e18-7b50-487e-9b67-c0a10e3c2523.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，带飘窗，地铁房，装修精致",
+  "s_cate": "上大",
+  "house_desc": [
+    "4室2厅|142.52平|地上3层|(进门)南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "760万"
+}{
+  "singel_price": "单价45140元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768952.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/ac33752e-43fc-4352-a94e-02bc716074d1.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁直达，楼层好",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室1厅|75.32平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "祁连四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "340万"
+}{
+  "singel_price": "单价45207元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4654511.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/176e8f25-dc81-4bae-85ed-c3d07f42dd39.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "房型正气，交通便利，上下楼方便，毛坯房",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室1厅|66.36平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "祁连二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "300万"
+}{
+  "singel_price": "单价54713元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574659.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/a959d80a-ddf5-498c-94f3-286955f4f13b.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通便利，视野开阔，中等装修，房本满五年",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室1厅|63.97平|高区/16层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "350万"
+}{
+  "singel_price": "单价41539元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4503266.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170210/aba8f8d1-7af4-4c63-b90d-85ea28c6a899.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通便利，楼层好",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室1厅|68.61平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "祁连二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "285万"
+}{
+  "singel_price": "单价41340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4338765.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161018/3e2981c7-3b84-45c4-86f7-83fc6f1e23b6.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室1厅|91.92平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "祁连二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "380万"
+}{
+  "singel_price": "单价42859元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1084429.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170109/b58fc3ed-1416-4957-9a31-3626ecd8c758.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "地铁直达，毛坯房，房本满五年，随时可看",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|205.32平|地上3层|(进门)南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "880万"
+}{
+  "singel_price": "单价53010元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836648.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/3ea63aa1-a426-4bdb-bdb4-c3c1b7001fea.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，黄金楼层",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室1厅|43.01平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "祁连二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "228万"
+}{
+  "singel_price": "单价51709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825103.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/e48fbd92-9046-487b-bd53-fc65fa0554d3.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通便利，光线充足",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|129.57平|中区/13层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "经纬阳光水岸家园（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "670万"
+}{
+  "singel_price": "单价46149元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628609.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161210/1a81240b-aa9d-4a7a-85e7-0ee995a156eb.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，地铁房，低楼层",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|113.76平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "上大阳光乾泽园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "525万"
+}{
+  "singel_price": "单价50413元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844583.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/c6a05bf3-7292-44d0-896f-50d20b3384b6.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "地铁直达，简单装修，房本满五年，随时看房",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|148.77平|地上3层|(进门)南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "750万"
+}{
+  "singel_price": "单价46123元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836997.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/2950e473-7d32-4c53-a643-b6dca699d69f.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁直达，低楼层",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|151.55平|低区/3层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "699万"
+}{
+  "singel_price": "单价47128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833504.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/e92cab51-f793-41be-a5fa-eae1960aa9bd.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，卧室带卫，地铁直达，光线充足",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室2厅|101.85平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "480万"
+}{
+  "singel_price": "单价41487元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814808.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/6cb7e5aa-5e70-4f21-bf15-7f10d98b9fbf.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通便利，上下楼方便",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|142.21平|低区/16层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "590万"
+}{
+  "singel_price": "单价55468元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786697.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/eb6d3247-9388-488d-a105-d2d47e960830.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，带落地窗，交通方便，上下楼方便",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室1厅|64.0平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "经纬观澜弘郡家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "355万"
+}{
+  "singel_price": "单价55000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786687.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/20991e18-cc35-4972-ab96-f26d4a820b63.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，卧室全南，地铁房，低区出入方便",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室1厅|64.0平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "经纬观澜弘郡家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "352万"
+}{
+  "singel_price": "单价48056元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755860.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/bef50273-4264-4516-93c6-33b67bc69d21.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，高区阳光房",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室1厅|38.08平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "环镇北路509弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "183万"
+}{
+  "singel_price": "单价48696元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748208.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/db4e3e03-20b4-4e72-beb8-8312e639b2c2.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，交通方便，好楼层，毛坯房",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室2厅|95.49平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "上大阳光乾泽园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "465万"
+}{
+  "singel_price": "单价47264元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718981.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/4fcfc707-0684-4aed-9f85-6b973561103c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，带飘窗，地铁直达，楼层好",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室2厅|99.44平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "经纬阳光水岸家园（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "470万"
+}{
+  "singel_price": "单价54807元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4716242.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/64c9817b-bb5f-4678-a21f-abd49e5b964a.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁直达，采光无遮挡",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室1厅|52.0平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "285万"
+}{
+  "singel_price": "单价48920元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711767.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/facce956-998f-4155-9ed0-5f3affb545c2.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，光线充足",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室1厅|69.5平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "环镇北路211弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "340万"
+}{
+  "singel_price": "单价41520元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705853.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161212/6f4aefdd-5d43-4442-8383-4520edb250d8.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，卧室带卫，交通方便，上下楼方便",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|142.1平|低区/16层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦秋花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "590万"
+}{
+  "singel_price": "单价49196元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669595.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161218/e877c08a-ed6f-42c3-b7e1-6a62d18a9fe8.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通便利，低楼层",
+  "s_cate": "上大",
+  "house_desc": [
+    "3室2厅|113.83平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "学林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "560万"
+}{
+  "singel_price": "单价49600元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639535.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/aab4d8a0-67b3-46fc-90f8-2697096cba26.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，交通便利，楼层好",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室2厅|87.7平|中区/11层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "学林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "435万"
+}{
+  "singel_price": "单价46934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4533124.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/8a481863-2d27-4a9a-9bb8-70ce80fe2c75.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，带飘窗，出行方便，视野很好",
+  "s_cate": "上大",
+  "house_desc": [
+    "4室2厅|91.19平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "星福家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "428万"
+}{
+  "singel_price": "单价48780元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4506787.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170213/fcb5c7b3-9c33-41c6-a77c-e7ad1c9d0fc3.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "地铁沿线，光线充足，装修精致，满五减税",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室1厅|82.0平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦泰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "400万"
+}{
+  "singel_price": "单价48619元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4377435.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161107/555c0704-26f5-4525-ade8-c9cdf3ac6a51.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，客厅朝南，交通便利，楼层好",
+  "s_cate": "上大",
+  "house_desc": [
+    "2室2厅|102.84平|中区/13层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "经纬阳光水岸家园（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "500万"
+}{
+  "singel_price": "单价55314元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827864.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/76b60317-8f59-4b35-8d57-cca99528ba93.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，低楼层",
+  "s_cate": "上大",
+  "house_desc": [
+    "1室1厅|46.1平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "葑润华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shangda",
+  "house_price": "255万"
+}

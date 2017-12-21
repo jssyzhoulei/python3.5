@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价69580元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852269.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/59c4c3e4-7487-4fdd-86a3-e55aa31b4509.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，低楼层",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室1厅|51.02平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "上工新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "355万"
+}{
+  "singel_price": "单价67761元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811841.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161111/f2e17530-4be8-4082-bd19-892f82250255.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观房",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室1厅|29.22平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "唐家沙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "198万"
+}{
+  "singel_price": "单价65967元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763659.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/d5fc1f06-b17f-47c0-833f-76027e403e1e.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，光线充足",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "3室0厅|66.7平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "上大东村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "440万"
+}{
+  "singel_price": "单价61155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688322.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/8de4224d-3b7b-4508-aa57-84dd1341fda7.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线非常好",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室1厅|44.15平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "上大东村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "270万"
+}{
+  "singel_price": "单价69937元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4611253.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/3fc1c15a-6aee-4a48-9786-78007d10a986.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|36.89平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "宁馨小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "258万"
+}{
+  "singel_price": "单价69096元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4526715.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/8492c7e0-6641-45b1-bf0a-0142665b3816.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|39.51平|低区/20层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "洛东大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "273万"
+}{
+  "singel_price": "单价62418元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4395372.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161119/38c36691-23bf-4506-bb14-37739d420c3a.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室2厅|107.02平|高区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "乐业公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "668万"
+}{
+  "singel_price": "单价65044元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4875341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161111/894ad279-5796-401a-ad57-f51c05f83e5d.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，出行方便，光线充足，简单装修",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "3室2厅|136.83平|中区/11层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "峥宸苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "890万"
+}{
+  "singel_price": "单价69871元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845648.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/89639d81-db65-411e-ab9c-95ebf2464fc3.jpg_200x150.jpg",
+  "house_time": [
+    "1956年建"
+  ],
+  "house_title": "南北通，地铁房，楼层好，中等装修",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "3室1厅|71.56平|中区/5层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "上工新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "500万"
+}{
+  "singel_price": "单价57502元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764517.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/1528b306-2988-451a-8355-59004d3ff16d.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|36.52平|高区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "北宝兴路10弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "210万"
+}{
+  "singel_price": "单价56468元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4726332.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/597ca983-ee7c-44f9-9479-56e591438adf.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁沿线，视野很好",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室1厅|58.44平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "平型关路230弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "330万"
+}{
+  "singel_price": "单价69041元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/abd27e54-c0a8-4ab3-aef8-fb2e6905400d.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，黄金楼层",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室1厅|54.75平|中区/7层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "洛川东路400弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "378万"
+}{
+  "singel_price": "单价65957元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699530.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/0b1f1634-c262-424b-abbd-641d15b90c3c.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室2厅|94.0平|低区/20层|朝东南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "乐业公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "620万"
+}{
+  "singel_price": "单价71564元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4680505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/2273a306-fac1-4b10-8ada-470f8596a1f3.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "地铁直达，高区阳光房，品味装修，满5年",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室1厅|36.89平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "宁馨小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "264万"
+}{
+  "singel_price": "单价69944元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674111.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/b4f98b27-9da8-498b-be1b-13b89420d0b5.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，带飘窗，交通便利，低楼层",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室2厅|97.22平|低区/17层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "和玉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "680万"
+}{
+  "singel_price": "单价78405元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652511.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/0ef85b24-b81e-4436-b1be-9fb1744f0e6c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，交通便利，好楼层",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室2厅|89.28平|中区/36层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "嘉利明珠城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "700万"
+}{
+  "singel_price": "单价73319元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589889.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/199dbc72-5480-4b84-9df1-1e937f8c44dd.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，黄金楼层",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室1厅|49.1平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "大宁新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "360万"
+}{
+  "singel_price": "单价64667元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579845.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170406/a6a21a06-048c-4854-a4a5-bcb263d2c9bf.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，低区出入方便",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|36.34平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "大宁新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "235万"
+}{
+  "singel_price": "单价73394元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4411408.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160408/0b54eba6-8281-49a1-9da0-f2c21b195fa6.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "交通便利，楼层好，装修精致，房本满五年",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|33.79平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "上大东村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "248万"
+}{
+  "singel_price": "单价67851元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820264.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170315/6fa4b41d-f0d1-4f94-bef6-355c11ad0ce6.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野很好",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|30.95平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "唐家沙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "210万"
+}{
+  "singel_price": "单价66208元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643552.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/bc767e2e-c893-41d2-a328-ac0e811ff444.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "地铁沿线，好楼层，品味装修，房本满两年",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|39.27平|低区/1层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "大宁新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "260万"
+}{
+  "singel_price": "单价78525元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860710.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/affb701a-ffda-47d2-a060-9f843edbcba4.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室2厅|91.69平|低区/30层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "嘉利明珠城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "720万"
+}{
+  "singel_price": "单价64150元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4754715.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/445f0004-c444-47d8-9ae5-4c7e8f77e86c.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，交通便利，低区出入方便",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室2厅|121.59平|低区/13层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "鑫安公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "780万"
+}{
+  "singel_price": "单价76385元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618457.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/3f8ad6fa-9589-4c8a-bd6b-6eb9a8a4ba53.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁直达，光线充足",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|45.82平|中区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "共和新路2203弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价70107元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4588414.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/56e8c3d1-a5b7-4e4f-b863-c00b23421506.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，上下楼方便",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "1室0厅|33.52平|低区/3层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "柳营路319弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "235万"
+}{
+  "singel_price": "单价61655元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3673374.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/552e99d2-37ab-4fc3-9779-ae1487cc2a63.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "地铁房，高区采光好，装修精美，房本满五年",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室1厅|59.2平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "洛川东路430号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "365万"
+}{
+  "singel_price": "单价71123元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800741.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/a6332a82-9717-45ae-828e-b104075a2962.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁房，楼层好",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室0厅|49.21平|中区/7层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "西宝兴路922弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价72916元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761164.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/61f11b24-8e29-49bd-a9de-9d6ae1e6ae61.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通方便，视野开阔",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室1厅|48.0平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "大宁新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价78085元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574735.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/34931e68-04a4-456f-b70c-9919ff280a21.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，光线非常好",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室1厅|79.4平|高区/20层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "洛东大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "620万"
+}{
+  "singel_price": "单价62014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727174.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/5e052c09-3600-4e5f-aaa6-ace843f597ea.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，出行方便，高区景观好，拎包入住",
+  "s_cate": "闸北公园",
+  "house_desc": [
+    "2室2厅|86.27平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "旭阳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhabeigongyuan",
+  "house_price": "535万"
+}

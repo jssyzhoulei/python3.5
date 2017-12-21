@@ -1,0 +1,503 @@
+{
+  "singel_price": "单价95481元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850598.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/503d3d7e-fbf1-4e46-96fc-179ed5d56d3f.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，视野很好",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室2厅|90.07平|高区/28层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "中海万锦城（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "860万"
+}{
+  "singel_price": "单价64231元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827139.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/f9c83969-74ba-4d32-8cac-c6fe9013388d.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁直达，上下楼方便",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "3室2厅|124.55平|低区/27层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "越秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "800万"
+}{
+  "singel_price": "单价73490元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4803470.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/84c00c50-a5f1-4d6d-a4e3-22abd639fb46.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，光线充足",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "3室1厅|93.89平|中区/21层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "安源小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "690万"
+}{
+  "singel_price": "单价56250元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784246.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/45147d29-e1f9-42bf-8c58-f99ab762b733.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，低楼层",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室1厅|32.0平|低区/7层|朝北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "三兴小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "180万"
+}{
+  "singel_price": "单价71283元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697851.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/3124789c-c3d8-4e1d-b7d5-724138fa87d1.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，光线充足",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室0厅|34.37平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "苏家巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "245万"
+}{
+  "singel_price": "单价48914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669680.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/71e3dca4-dc8d-49f5-afb2-6089115b8f22.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，卧室带卫，交通方便，低楼层",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "4室2厅|134.93平|低区/26层|朝西北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "协诚中心大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "660万"
+}{
+  "singel_price": "单价69004元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4525652.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170308/5be59720-ce55-433b-849b-fc6f60c4d2df.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通，卧室带卫，地铁房，黄金楼层",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "3室2厅|124.63平|中区/11层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "越秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "860万"
+}{
+  "singel_price": "单价79641元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782815.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/198f41c3-c1f9-4cf5-ae9c-b06a56eb9399.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室1厅|42.44平|中区/22层|朝东南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "汉中小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "338万"
+}{
+  "singel_price": "单价59775元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4722255.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170718/0efb3f8e-6875-417f-a4df-e72c2580ad36.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，低区出入方便，简单装修",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室1厅|68.59平|低区/28层|朝西北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "沪太家具大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "410万"
+}{
+  "singel_price": "单价61046元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667647.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/628b61dc-8c9a-42cf-8924-e66d4794989d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "出行方便，黄金楼层，中等装修，满5年",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "3室2厅|111.39平|中区/26层|朝东"
+  ],
+  "district": "静安二手房",
+  "house_detail": "协诚中心大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "680万"
+}{
+  "singel_price": "单价70645元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4649493.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/2984f16d-39bf-43a3-bb9a-e657b996cd93.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室1厅|53.79平|中区/20层|朝西北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "合兴小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "380万"
+}{
+  "singel_price": "单价76517元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589598.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161220/d854258e-9765-4160-a003-534cabb833a1.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，光线充足",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室2厅|79.72平|中区/34层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "中兴财富国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "610万"
+}{
+  "singel_price": "单价70808元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4587621.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/44c8bd51-a739-4dbd-900d-0580ac125daf.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，带飘窗，交通便利，高区采光好",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室1厅|52.96平|高区/31层|朝西南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "天道俪晶国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "375万"
+}{
+  "singel_price": "单价61376元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4464441.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170109/41958e14-21bf-40c4-8510-d3f93ead26e0.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "带飘窗，出行方便，楼层好，装修精美",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室0厅|45.62平|中区/31层|朝北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "天道俪晶国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "280万"
+}{
+  "singel_price": "单价75757元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742942.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/b124cd60-d9e7-4e09-9137-01d5df8c250c.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，黄金楼层，简单装修",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室1厅|44.88平|中区/26层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "博苑公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "340万"
+}{
+  "singel_price": "单价90199元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4531109.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/93e0b13c-de7e-4b6e-b4a7-0aba16fb7bf5.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，光线非常好",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室2厅|90.91平|高区/36层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "中海万锦城（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "820万"
+}{
+  "singel_price": "单价66075元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639091.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/a155af39-e863-4b2d-b855-1ab2797b1c08.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "地铁沿线，上下楼方便，简单装修，满2年",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室1厅|55.24平|低区/24层|朝东"
+  ],
+  "district": "静安二手房",
+  "house_detail": "三兴大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "365万"
+}{
+  "singel_price": "单价72103元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4596868.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170503/a39ea9c2-a8d0-4c59-a300-66c0f0b08535.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，地铁直达，采光好，精装修",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室1厅|40.22平|高区/7层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "汉中小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "290万"
+}{
+  "singel_price": "单价54796元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4322995.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161016/34f3cb3f-5782-460b-9211-d426d3655711.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "地铁直达，光线非常好，简单装修，满五减税",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "4室2厅|136.87平|高区/29层|朝东北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "金峰大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "750万"
+}{
+  "singel_price": "单价47166元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796142.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/7394d416-3a87-47f8-9d5c-ffb269452f79.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "3室2厅|133.57平|低区/24层"
+  ],
+  "district": "静安二手房",
+  "house_detail": "中山家具大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "630万"
+}{
+  "singel_price": "单价67525元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748889.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170306/725ef873-5ae0-443c-ae6c-5c70f2691ac3.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室0厅|31.84平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "紫祥小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "215万"
+}{
+  "singel_price": "单价66576元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739033.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/554bbe94-5f54-445a-baa6-5e82491ab569.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "交通方便，好楼层，毛坯房，有钥匙立即看",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室1厅|36.8平|中区/5层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "芷江西路285弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "245万"
+}{
+  "singel_price": "单价36647元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4516276.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170406/552056da-9ac6-4bb9-9465-c3aaf7250ce2.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，卧室带卫，交通便利，好楼层",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "4室2厅|150.08平|中区/25层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "广隆公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "550万"
+}{
+  "singel_price": "单价69124元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851307.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/e6d7999f-4042-4059-8199-6e9da86b3838.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，黄金楼层",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室1厅|47.74平|中区/7层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "紫祥小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "330万"
+}{
+  "singel_price": "单价63543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/81eb4fc8-81aa-413f-91be-6bbe921a19e8.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，交通便利，低楼层",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "3室2厅|118.03平|低区/6层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "紫兰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "750万"
+}{
+  "singel_price": "单价57638元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706352.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/df2b62fb-3f38-4d1b-8458-4439b41f3b2a.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通方便，高区采光好",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室2厅|88.83平|高区/24层|朝西南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "共和大厦（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "512万"
+}{
+  "singel_price": "单价48754元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4695427.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/18c247f1-1594-42bc-9746-460c55507fe1.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，地铁房，视野开阔，简单装修",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "3室2厅|133.32平|高区/30层|朝北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "恒基不夜城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "650万"
+}{
+  "singel_price": "单价78475元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684681.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/3782c7f8-c5fb-4674-a0f6-954f033f29f1.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，出行方便，低楼层",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "1室1厅|53.52平|低区/34层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "中兴财富国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "420万"
+}{
+  "singel_price": "单价72279元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4653203.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/8cca4c53-5ae4-4009-94a0-c5bf209dfea0.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "出行方便，低区出入方便，毛坯房，房本满五年",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室0厅|48.7平|低区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "苏家巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "352万"
+}{
+  "singel_price": "单价69723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4463369.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160830/423c609f-43f1-4a60-808b-52287b360149.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，楼层好",
+  "s_cate": "不夜城",
+  "house_desc": [
+    "2室2厅|111.87平|中区/33层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "越秀苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/buyecheng",
+  "house_price": "780万"
+}

@@ -1,0 +1,493 @@
+{
+  "singel_price": "单价97265元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799153.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/c688fb48-8e21-4488-acda-844b997a0d5b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，带落地窗，地铁房，好楼层",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|147.02平|中区/31层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "滨江名人苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1430万"
+}{
+  "singel_price": "单价143205元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4230820.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/eab318aa-00d6-4cda-a676-e5d0c73a2c79.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，交通方便，视野很好，豪华装修",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "4室2厅|270.94平|高区/24层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "华润外滩九里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "3880万"
+}{
+  "singel_price": "单价91559元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4495165.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/7e65089f-4f80-4dfb-801f-025f524fe53e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，低区出入方便，满五年",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室0厅|43.36平|低区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "悦来小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "397万"
+}{
+  "singel_price": "单价120019元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811708.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/2e7a1be9-4766-4c64-bf6c-3f719c0cab73.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，地铁房，高区景观房",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|104.15平|高区/30层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "上海滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价89379元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668425.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/e8f1dd21-fd2b-4cc1-b84b-ede36bc22963.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通方便，上下楼方便",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|162.23平|低区/17层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "绿地名人坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1450万"
+}{
+  "singel_price": "单价76269元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/20e51cfe-e36c-4e22-9dab-5a9dc4d591e5.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室1厅|51.79平|高区/7层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "共和园小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "395万"
+}{
+  "singel_price": "单价136192元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762264.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170120/c0b9d82d-a997-4746-aefd-44eadd980822.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "带落地窗，出行方便，黄金楼层，装修精致",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "4室2厅|284.89平|中区/28层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "绿城黄浦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "3880万"
+}{
+  "singel_price": "单价89216元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823099.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/c577e009-b74b-4c0a-874e-00a6737f3688.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，视野开阔，品味装修",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|89.67平|高区/23层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "通达大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "800万"
+}{
+  "singel_price": "单价143994元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/81255000-cebd-4ddb-a0af-a7b1956f9ca9.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "交通方便，光线充足，装修经典，满五减税",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "4室2厅|283.9平|中区/28层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "绿城黄浦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "4088万"
+}{
+  "singel_price": "单价86608元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765024.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/ac808bb8-45cd-4d55-99c6-40cff49022f3.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，视野开阔",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|107.38平|高区/22层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "福鑫大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "930万"
+}{
+  "singel_price": "单价121903元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737462.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/18c0b394-c483-489e-adfe-2126224e3b0a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁沿线，高区景观房",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|102.54平|高区/30层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "上海滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价117197元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808326.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/6fe80b49-18d7-4141-ad5b-05f9f753a71f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，带落地窗，交通方便，低区出入方便",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "1室2厅|81.06平|低区/31层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金外滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "950万"
+}{
+  "singel_price": "单价81610元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786306.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/961ed759-e15c-410f-8a8e-2e269a5117ad.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，低楼层",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|183.8平|低区/33层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "浦江公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价124367元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/202385f0-0a65-41e1-b37a-4a200e264ea1.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，交通方便，低楼层",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|120.61平|低区/31层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "上海滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价118469元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691750.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161124/b2a48cbd-7f7b-4d13-b0dd-c630b3fed169.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，地铁沿线，高区景观房，装修精美",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|164.6平|高区/27层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金外滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1950万"
+}{
+  "singel_price": "单价116030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/8e32596b-2718-4ea7-9b2f-6d48521c648f.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，交通便利，高区采光好，精装修",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "5室3厅|275.79平|高区/26层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "浦江公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "3200万"
+}{
+  "singel_price": "单价95660元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4518042.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/1569bf77-ceb5-46f7-a209-f14d818ce14b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，地铁房，楼层好，品味装修",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|114.99平|中区/31层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "滨江名人苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价87205元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4322927.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161010/c6fd2a8d-6f73-4a13-9e12-566e4f2ebec8.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，楼层好，中等装修",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室1厅|55.96平|中区/16层|朝西北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "悦来小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "488万"
+}{
+  "singel_price": "单价136451元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786304.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/5b6b7df8-3d8a-4a8d-8939-50851272ea07.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，交通方便，高区景观好，拎包入住",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|186.88平|高区/25层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "华润外滩九里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "2550万"
+}{
+  "singel_price": "单价99897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685141.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161206/425af165-5340-4e0c-8deb-e3ff081646ca.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，地铁直达，低区出入方便，省装修费",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|175.18平|低区/31层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金外滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1750万"
+}{
+  "singel_price": "单价117428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685140.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161206/9c3fbb96-3ad1-4aa3-9a40-4c311beff529.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "交通便利，上下楼方便，装修精致，满五减税",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "1室1厅|80.9平|低区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金外滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "950万"
+}{
+  "singel_price": "单价105820元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685127.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161206/7ad69bd7-17be-4368-ba85-f053e32e22d2.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，地铁沿线，上下楼方便，装修精美",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "4室2厅|207.9平|低区/31层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金外滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "2200万"
+}{
+  "singel_price": "单价118214元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662000.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/412b9138-bd4b-446e-a9cf-5e9cfc6879b9.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，地铁直达，上下楼方便，拎包入住",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "4室2厅|192.87平|低区/31层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海琪园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "2280万"
+}{
+  "singel_price": "单价90319元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4622068.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170505/f57bd129-0d5e-4a46-9f56-582df04e027d.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁沿线，光线充足",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|114.04平|中区/10层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "福鑫大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1030万"
+}{
+  "singel_price": "单价98967元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612291.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/a5bc3e95-ba7d-4029-b49e-c5f0d9576236.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带卫，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|161.67平|中区/27层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金外滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1600万"
+}{
+  "singel_price": "单价155699元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4550908.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170316/f099fed8-c408-4db6-a311-70d94cb3bb4a.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "交通便利，高区阳光房，经典装修，满二年",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "1室2厅|73.86平|高区/23层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "华润外滩九里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价94814元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831703.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/f878ef20-96cf-4e49-a5df-1f45804606ce.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "带落地窗，卧室带阳台，交通方便，楼层好",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|168.75平|中区/30层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海琪园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1600万"
+}{
+  "singel_price": "单价129773元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4693706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/ab6de958-fb84-453d-824d-07713161d5a1.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "交通方便，好楼层，拎包入住，满五年",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "1室2厅|80.91平|中区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金外滩花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价90359元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4607753.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/a4609557-2214-43b5-a67a-bef6aa8e1dea.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，地铁沿线，上下楼方便，简单装修",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "3室2厅|143.87平|低区/18层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "绿地名人坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价113698元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4496181.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/79e549c0-c532-49b2-a046-30ab8c461128.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "带落地窗，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "黄浦滨江",
+  "house_desc": [
+    "2室2厅|109.94平|中区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海琪园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangpubinjiang",
+  "house_price": "1250万"
+}

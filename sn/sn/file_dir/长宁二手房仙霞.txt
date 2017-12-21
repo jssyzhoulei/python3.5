@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价67668元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824506.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/248cf57b-75d1-4fd8-9fab-e36608c396db.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室0厅|73.89平|低区/12层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "500万"
+}{
+  "singel_price": "单价74349元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713291.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/7626b2c6-ddac-4858-aa1b-a33cea3b71d6.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通，卧室全南，交通方便，上下楼方便",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|69.94平|低区/24层|朝东南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "520万"
+}{
+  "singel_price": "单价62500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709883.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/b0080084-5501-4572-b674-43c1c16dd102.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，高区景观好",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室0厅|40.0平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "仙逸小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "250万"
+}{
+  "singel_price": "单价64189元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849324.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/fab6cad8-3d08-4e79-9b05-53d04debe9c5.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，好楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室0厅|74.0平|中区/12层|朝东南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "475万"
+}{
+  "singel_price": "单价84444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828039.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160911/f21a1d75-8f4a-4c3b-8768-3a920f6c7513.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线非常好",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室1厅|45.0平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "古宋小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "380万"
+}{
+  "singel_price": "单价66296元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4320396.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161007/81e095c5-84b0-47f2-ae0f-7417b06462ae.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观好",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|64.86平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台东苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "430万"
+}{
+  "singel_price": "单价56156元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4277384.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/00269460-d137-47e5-a5d0-ab40b5a8ceb8.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，上下楼方便，简单装修",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|72.12平|低区/16层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "405万"
+}{
+  "singel_price": "单价64948元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679867.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170613/1a40d367-d769-45f4-bb8b-80fc46bb7c8a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通透，地铁沿线，上下楼方便，品质装修",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|48.5平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹霞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "315万"
+}{
+  "singel_price": "单价63086元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872056.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/4ce22e86-2872-43ff-8899-b6faba34ee35.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "3室1厅|64.99平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "杜家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "410万"
+}{
+  "singel_price": "单价81743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696356.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/9fb13082-99a4-4881-81b4-a270e46cc30a.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁直达，视野开阔，中等装修，满五年",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|51.38平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "水霞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "420万"
+}{
+  "singel_price": "单价70683元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4657834.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/37a2360d-0895-4935-9737-5a92fa7a95c4.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光无遮挡",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|70.03平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "双流小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "495万"
+}{
+  "singel_price": "单价69424元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4632160.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/32a676c2-a700-4f4e-802d-0ead3809e430.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁房，楼层好，毛坯房，满五减税",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|70.58平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "仙城小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "490万"
+}{
+  "singel_price": "单价65058元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4660920.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/7a444f68-afdf-4f75-97fc-8897f1f4a25f.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通方便，光线充足",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|53.49平|中区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "芙二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "348万"
+}{
+  "singel_price": "单价72555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586240.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/c6f19856-fed0-45b9-bd0a-d79742f688b4.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，好楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|63.4平|中区/7层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "大金更小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "460万"
+}{
+  "singel_price": "单价69980元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691139.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/8e207172-79e4-462c-9dea-fad1a599b34d.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室0厅|35.01平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "天山五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "245万"
+}{
+  "singel_price": "单价74962元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808243.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/2216d767-a379-44af-93f2-11f73cbdbef0.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，低楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室1厅|33.35平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "安龙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "250万"
+}{
+  "singel_price": "单价70000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4547388.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/c48bb651-abc8-40fa-9389-afbc45a0d6f4.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|70.0平|低区/24层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "490万"
+}{
+  "singel_price": "单价61541元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534791.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/856efbfb-6ccc-4bc2-b46e-73f69d7fd2d8.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，低楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室1厅|43.71平|低区/6层|朝东西"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "仙逸小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "269万"
+}{
+  "singel_price": "单价68896元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849957.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/e5627d73-73c9-4f36-a9eb-e90e895fb6ad.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|59.8平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "仙城小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "412万"
+}{
+  "singel_price": "单价62322元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849598.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/db73fc0c-d12e-4acb-96ca-14eb579a73e5.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，上下楼方便，简单装修",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室1厅|45.73平|低区/5层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹霞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "285万"
+}{
+  "singel_price": "单价72278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839720.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/bcea05b4-d1e5-4b8d-baf7-09303f342ab8.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁直达，好楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|58.8平|中区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "威宁小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "425万"
+}{
+  "singel_price": "单价67351元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833639.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/11928be5-e13c-4edd-a454-2e4949e9c7cd.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "3室1厅|65.18平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "芙二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "439万"
+}{
+  "singel_price": "单价63418元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809675.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160918/a5d6501c-4683-4d98-bac7-fa02ac62773a.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，低楼层",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|64.65平|低区/24层|朝东南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "410万"
+}{
+  "singel_price": "单价68899元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792072.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/aaecf53f-68b2-4377-88ae-6930437508c4.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁沿线，视野很好",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|67.49平|高区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "仙城小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "465万"
+}{
+  "singel_price": "单价72025元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778941.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/61e16506-f698-4ab5-8f13-9b2af8b4aff9.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，上下楼方便，简单装修",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室0厅|34.71平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "杜家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "250万"
+}{
+  "singel_price": "单价73647元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775921.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/0345aba8-90f0-4aa3-9362-6eaf021b269a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，光线充足",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "1室0厅|37.34平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "大金更小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "275万"
+}{
+  "singel_price": "单价70483元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767482.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/19492ede-99d6-47d5-a2e7-ec8899cd6bd2.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通便利，高区景观房",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|58.17平|高区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "仙城小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "410万"
+}{
+  "singel_price": "单价61111元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766826.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/cd4d89df-6eb3-42e7-bbcf-53b5a6e86dce.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "地铁沿线，上下楼方便，简单装修，满5年",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|63.0平|低区/24层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "茅台新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "385万"
+}{
+  "singel_price": "单价65167元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763701.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/38a193b9-462f-4468-859b-566a2a2057b9.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "地铁沿线，视野很好，简单装修，房本满五年",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|47.57平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "仙逸小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "310万"
+}{
+  "singel_price": "单价84758元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756253.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/c4c6ddeb-769f-41d2-ba43-ee0a7e59a1f5.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "交通便利，低楼层，拎包入住，房本满五年",
+  "s_cate": "仙霞",
+  "house_desc": [
+    "2室1厅|53.8平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "水霞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianxia",
+  "house_price": "456万"
+}

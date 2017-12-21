@@ -1,0 +1,52 @@
+{
+  "singel_price": "单价14531元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820014.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/3ccb471b-4f41-4de2-990a-7c0cfa5c858c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "光线非常好，装修精致，实地看房，上门实勘",
+  "s_cate": "枫泾",
+  "house_desc": [
+    "3室1厅|82.58平|高区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "芙蓉二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengjing",
+  "house_price": "120万"
+}{
+  "singel_price": "单价19989元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4578037.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/4ac5aacd-c5e9-4e47-bf10-4b061da78c21.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，高区景观房，简单装修，满5年",
+  "s_cate": "枫泾",
+  "house_desc": [
+    "3室2厅|130.07平|高区/8层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "新春苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengjing",
+  "house_price": "260万"
+}{
+  "singel_price": "单价20138元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4542236.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161117/e297119e-10f6-47fa-a37c-f0411b9d72f0.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，采光无遮挡，毛坯房，上门实勘",
+  "s_cate": "枫泾",
+  "house_desc": [
+    "2室2厅|89.38平|高区/5层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "中冶枫郡苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengjing",
+  "house_price": "180万"
+}

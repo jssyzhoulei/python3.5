@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价60503元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854707.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/75697388-e591-41f3-aac5-fdae74318016.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|50.41平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "樱花园（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "305万"
+}{
+  "singel_price": "单价63954元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780973.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/85e9d6bc-2021-43e4-85ce-9d4a1b166c5b.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|56.29平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "花苑村丁香园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "360万"
+}{
+  "singel_price": "单价69640元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731481.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/80910a7c-83c2-49bb-b66b-2a4adcc8da25.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，好楼层",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|63.9平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "杜鹃园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "445万"
+}{
+  "singel_price": "单价67272元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691396.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/fad36f3f-0e65-45cc-9d1b-89d6b81f265a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，低区出入方便",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|110.0平|低区/23层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梓树园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "740万"
+}{
+  "singel_price": "单价56387元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4609502.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/6151716c-a9b9-4255-94ac-0ccb48675be2.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁沿线，采光好",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|77.5平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "月季园（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "437万"
+}{
+  "singel_price": "单价67698元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606088.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/435f88c4-da3f-4fa5-a367-3e5f77885448.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁沿线，高区景观好",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|41.36平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康宁坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "280万"
+}{
+  "singel_price": "单价69791元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603110.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/3b7467bb-f604-4c0c-94f0-704c69f584e2.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区采光好",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室0厅|48.0平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康乐小区（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "335万"
+}{
+  "singel_price": "单价79649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590147.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160908/3cb26c2e-87f6-4100-af52-d5470d2c57e8.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，楼层好",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|55.87平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康健路120弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "445万"
+}{
+  "singel_price": "单价89544元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574703.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/8f6aa706-3752-458f-93a3-9a38274c8c7d.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，交通便利，黄金楼层，品质装修",
+  "s_cate": "康健",
+  "house_desc": [
+    "3室2厅|145.18平|中区/18层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "中海馨园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价60227元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/44e8c84b-1e13-495d-8ca1-8493d45b4ebe.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野很好",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|44.0平|高区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "花苑村丁香园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "265万"
+}{
+  "singel_price": "单价52345元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815971.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/c68967fc-c4d7-4447-91ad-b4dffd969a84.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀缺南北通，卧室全南，地铁房，高区景观好",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|97.43平|高区/28层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "迎春园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "510万"
+}{
+  "singel_price": "单价66473元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806218.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/57bcead4-c5ca-401d-8371-4598ab54f755.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|41.37平|中区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "寿山坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "275万"
+}{
+  "singel_price": "单价57820元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798346.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/7249f248-e613-41bd-a966-5a46cf6d4f01.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁直达，高区景观房，简单装修，房本满五年",
+  "s_cate": "康健",
+  "house_desc": [
+    "3室1厅|78.0平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "花苑村桂花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "451万"
+}{
+  "singel_price": "单价95693元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796927.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/817928f2-8212-4770-94ec-73930c4e3d8c.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，楼层好",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室0厅|33.44平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康健路55弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "320万"
+}{
+  "singel_price": "单价78223元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793645.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/312fe87d-9989-4634-841f-035e3a9a199e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，楼层好",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|55.61平|中区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "薛家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "435万"
+}{
+  "singel_price": "单价93055元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790084.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/ddfd38b2-c836-4d44-b0ee-65c8af4c2649.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区采光好",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|36.0平|高区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "薛家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "335万"
+}{
+  "singel_price": "单价75912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4745144.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/1e909f2f-1603-46f3-9b38-0491cfdd8e23.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁房，采光无遮挡",
+  "s_cate": "康健",
+  "house_desc": [
+    "3室1厅|61.65平|高区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "上海师大新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "468万"
+}{
+  "singel_price": "单价55001元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739018.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/6a7725e4-ec73-4968-86e1-2a6e9eb0a7a9.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，上下楼方便",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|58.18平|低区/18层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "寿祥坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "320万"
+}{
+  "singel_price": "单价70312元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696394.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/e2df9aa0-bf90-4b25-8390-1b08699c0701.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|64.0平|中区/4层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "健安坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "450万"
+}{
+  "singel_price": "单价72580元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694483.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/344258f7-d55b-40b1-8ee4-3d5fcdf7dc51.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|43.4平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康宁坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "315万"
+}{
+  "singel_price": "单价79575元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679702.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/c24d95f6-8511-43be-ba5f-150b370b2bd4.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通方便，上下楼方便",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|60.32平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康健路43弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "480万"
+}{
+  "singel_price": "单价73260元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604333.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/e2dc786b-5656-427f-8b71-7e8fca05f449.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|65.52平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "欣园新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "480万"
+}{
+  "singel_price": "单价71250元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/85f03ea8-d09d-40ae-9668-8cc22e352ea5.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，光线充足",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室0厅|40.0平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康乐小区（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "285万"
+}{
+  "singel_price": "单价64206元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4535913.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160904/1440928f-2d45-4c75-820a-8755cc67a5a3.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|61.52平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "花苑村桂花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "395万"
+}{
+  "singel_price": "单价56869元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4480206.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170114/feef04a4-632a-47a3-89a7-7f2c6181b672.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，视野很好",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|46.07平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "花苑村玉兰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "262万"
+}{
+  "singel_price": "单价87500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4425694.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/d463ca5a-7a8a-496b-9895-32c57adb6609.jpg_200x150.jpg",
+  "house_time": [
+    "1957年建"
+  ],
+  "house_title": "卧室全南，交通便利，好楼层，中等装修",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室1厅|32.0平|中区/4层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "康健路77弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "280万"
+}{
+  "singel_price": "单价62488元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4280917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161024/08053050-efaa-4f77-b2c4-cafc169861b2.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北通透，地铁房，楼层好，简单装修",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|56.01平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "樱花园（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "350万"
+}{
+  "singel_price": "单价56914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4249678.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160904/a9a06ef6-a2f9-42ff-a410-daeb654e1dcd.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光无遮挡",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|62.55平|高区/6层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "花苑村梅花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "356万"
+}{
+  "singel_price": "单价68558元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4868163.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/497d6440-c9e6-4756-bccc-35c823f21e42.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁沿线，低区出入方便，满五年，看房方便",
+  "s_cate": "康健",
+  "house_desc": [
+    "2室1厅|62.72平|低区/5层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "欣园新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "430万"
+}{
+  "singel_price": "单价94488元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641642.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170220/f8e21b04-73b6-48f1-b2e3-196aeca07b71.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "地铁房，上下楼方便，简单装修，满2年",
+  "s_cate": "康健",
+  "house_desc": [
+    "1室0厅|31.75平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕泾一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangjian",
+  "house_price": "300万"
+}

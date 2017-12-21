@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价38132元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4388914.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161113/f332b40e-66c8-4c94-b001-1e4597322d63.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁房，视野开阔",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|119.32平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "中铁逸都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "455万"
+}{
+  "singel_price": "单价34934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793279.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/1d9910fa-c314-461b-b39a-f5fce8458385.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室2厅|68.7平|中区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "怡田小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "240万"
+}{
+  "singel_price": "单价38996元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728676.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/f0bf7b93-37ff-4fe8-addd-6ab5c8f3d3ef.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通方便，光线充足",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|88.47平|中区/11层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城盛景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "345万"
+}{
+  "singel_price": "单价33030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692678.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/79a29b11-1544-4767-a8e1-0c019ff88659.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，厨卫全明，出行方便，高区景观房",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室1厅|66.0平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "界泾港新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "218万"
+}{
+  "singel_price": "单价40581元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769786.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161007/0546062b-f908-43df-a528-e29d54bb25af.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通便利，好楼层",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|88.71平|中区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城盛景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "360万"
+}{
+  "singel_price": "单价33333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781064.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/0f65f101-d34a-4720-99cc-856604de425c.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通便利，高区采光好",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室2厅|90.0平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新青浦花苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价31908元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4518835.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/4564374d-62ad-4b30-b97c-e4bb9ef359ea.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，卧室带卫，地铁沿线，低楼层",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|125.36平|低区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "嘉憬河畔公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "400万"
+}{
+  "singel_price": "单价34516元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4615790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/e91ce1d7-61e7-40f5-8c18-0931e4cb7b83.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "交通方便，视野很好，省装修费，满五年",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室1厅|102.85平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新锦港花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "355万"
+}{
+  "singel_price": "单价32626元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4429588.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161215/6bf803a5-cfa4-4926-b8c1-51bd759774bb.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，出行方便，好楼层",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|128.73平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新青浦花苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "420万"
+}{
+  "singel_price": "单价34139元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835526.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/6873b3e2-fa03-4fe6-a375-096dae5aa49a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，黄金楼层，简单装修，房本满五年",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室1厅|67.37平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "城东新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "230万"
+}{
+  "singel_price": "单价35149元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4613401.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161018/b24b590c-00c0-44de-b96c-1e10c675635e.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "地铁直达，低区出入方便，随时可看，多次带看",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|136.56平|低区/13层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "中铁逸都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "480万"
+}{
+  "singel_price": "单价33842元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806247.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/a74bd554-8164-488a-9c27-cb434469f1f0.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室1厅|57.62平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "祥龙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "195万"
+}{
+  "singel_price": "单价37871元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791281.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/169c3f67-d06a-4853-bd27-5f1be5ada23e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁直达，上下楼方便",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室1厅|77.63平|低区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "宜达新居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "294万"
+}{
+  "singel_price": "单价39043元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643951.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/a31f6e09-06d1-4f10-a2e7-db10df651c2f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，卧室全南，地铁直达，视野很好",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "1室1厅|60.19平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "宜达新居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "235万"
+}{
+  "singel_price": "单价29740元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648091.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/8085463f-1d24-43b8-a957-b1df46c74e37.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，卧室带卫，交通便利，低区出入方便",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|126.09平|低区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "嘉憬河畔公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "375万"
+}{
+  "singel_price": "单价34323元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872404.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/e068bb8f-3233-428a-8de6-a8ab0d4d4f88.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，卧室全南，交通方便，光线非常好",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|75.75平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "界泾港新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "260万"
+}{
+  "singel_price": "单价36423元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795399.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/c7ff24fb-b7be-4218-a079-469aef08ce84.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，品味装修",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室1厅|48.87平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "城东新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "178万"
+}{
+  "singel_price": "单价32138元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606035.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/dcba36dd-839d-4c57-ab6b-6db3c524e302.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，黄金楼层，简单装修",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室1厅|80.9平|中区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "浦汇新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "260万"
+}{
+  "singel_price": "单价39995元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854955.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/a0601d8d-d2d3-439a-a048-7d75ca9b0f98.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁沿线，楼层好",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|89.51平|中区/8层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城盛景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "358万"
+}{
+  "singel_price": "单价36206元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851773.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/57b0e626-4ed3-496f-88d7-f7dcdeb6af08.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线充足",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室1厅|56.62平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "怡田小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "205万"
+}{
+  "singel_price": "单价35613元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/da7400c8-9b12-48e1-8aa5-16efff72b946.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁沿线，低区出入方便",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室1厅|88.45平|低区/8层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城盛景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "315万"
+}{
+  "singel_price": "单价34648元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835287.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/10b94003-d98a-45e6-b63d-0a934c182224.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，高区景观好",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室1厅|56.28平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "祥龙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "195万"
+}{
+  "singel_price": "单价39444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820521.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/2725bc35-342d-414e-b797-044ab3fdee6c.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，出行方便，黄金楼层",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|90.0平|中区/8层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城盛景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "355万"
+}{
+  "singel_price": "单价33184元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815415.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/6900c28c-504c-495e-8513-d2ed7d430d8d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通便利，高区景观好",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室1厅|71.72平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "怡田小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "238万"
+}{
+  "singel_price": "单价37045元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799171.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/0125f3b6-4042-4bec-a680-f232e1b469c5.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，卧室带卫，地铁房，上下楼方便",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|124.17平|低区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城盛景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "460万"
+}{
+  "singel_price": "单价39102元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797749.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/b0ddaab5-a9a3-47d6-b752-827d01abcc2d.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁直达，光线充足",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|107.41平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城盛景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "420万"
+}{
+  "singel_price": "单价39015元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788973.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/efa28acc-07b7-4197-9665-702c09c0ed66.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，高区阳光房",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "1室1厅|57.67平|高区/7层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "华科东路180弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "225万"
+}{
+  "singel_price": "单价30202元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782834.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/1b6d2221-f056-4a06-aa8a-2c5982790980.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，地铁沿线，好楼层",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "3室2厅|132.44平|中区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "盈港苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "400万"
+}{
+  "singel_price": "单价38421元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777958.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/69a5efca-85bf-4f23-8dd1-e67e439e6f02.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，视野开阔",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "1室1厅|57.0平|高区/7层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "华科东路180弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "219万"
+}{
+  "singel_price": "单价35610元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755349.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/e478e3e6-70c7-4359-a6e4-c1b62a75575d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室全南，地铁房，低区出入方便，拎包入住",
+  "s_cate": "夏阳",
+  "house_desc": [
+    "2室1厅|68.8平|低区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "怡田小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xiayang",
+  "house_price": "245万"
+}

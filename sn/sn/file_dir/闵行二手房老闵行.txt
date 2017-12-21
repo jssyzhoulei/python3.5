@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价36189元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840224.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/e93e9134-d4dc-431a-995a-17d6399a767c.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，好楼层",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "1室1厅|42.83平|中区/4层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "红旗五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "155万"
+}{
+  "singel_price": "单价39700元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793813.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/b1aa4c66-1f4e-4a3a-8734-45a9b6c69a79.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|56.17平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "223万"
+}{
+  "singel_price": "单价33888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790380.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/db897a22-b281-40d7-b027-d3e13efa3f36.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|52.82平|高区/4层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "红旗五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "179万"
+}{
+  "singel_price": "单价33270元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672166.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/6d0d3c2c-85be-4449-8ca6-b9fe51893f23.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室2厅|58.61平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "昆阳小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "195万"
+}{
+  "singel_price": "单价45723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668267.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/90fa9b3e-2e85-496a-8eca-14f64bb970d8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通便利，高区采光好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "3室2厅|133.41平|高区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南洋博仕欣居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "610万"
+}{
+  "singel_price": "单价41794元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4479545.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170114/61a5e7ba-c578-4260-b4ae-88ea01930d91.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|90.92平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "鹤庆苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "380万"
+}{
+  "singel_price": "单价33444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641603.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/adbb1b65-6732-4ed7-82ef-463e96c9e038.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|50.83平|低区/5层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "凤庆小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "170万"
+}{
+  "singel_price": "单价42088元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707136.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/75e9c401-bbec-48ba-96ee-0502da3c83ea.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，好楼层",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室2厅|83.87平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "北欧丽景",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "353万"
+}{
+  "singel_price": "单价33955元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/c25fb267-e884-4de2-a642-61a505560fdb.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，高区景观房",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|58.9平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "红旗三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "200万"
+}{
+  "singel_price": "单价47073元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161126/f46ba5e2-ebe4-412d-888f-07f23ade9ccb.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "1室1厅|40.15平|中区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "沧源小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "189万"
+}{
+  "singel_price": "单价35714元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737441.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/f6edd66b-6a9b-423b-950e-cb6c2a726043.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|77.0平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "红旗花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "275万"
+}{
+  "singel_price": "单价38578元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694593.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/b79cc42b-80bf-498a-98c3-32857ff2ddc0.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "1室1厅|42.77平|中区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "凤庆小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "165万"
+}{
+  "singel_price": "单价39513元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683880.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/8c06ef1c-3022-4871-ad0a-d36adf9dfbbe.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，采光好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室0厅|46.82平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "鹤明小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "185万"
+}{
+  "singel_price": "单价35986元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639398.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/3f3a5180-fb7b-4149-9a35-667b0ad0c6db.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通便利，光线充足",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室2厅|69.47平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东川路2817弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "250万"
+}{
+  "singel_price": "单价38809元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4535430.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/de38f851-9145-4a3c-9f03-6fdfac0dfde9.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "交通便利，楼层好，中等装修，房本满五年",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|53.08平|中区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "凤庆小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "206万"
+}{
+  "singel_price": "单价39032元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508333.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/82f24013-566f-43e7-bce5-37d422873cdc.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "地铁沿线，低楼层，满五年，来电即看",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "3室1厅|65.33平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "255万"
+}{
+  "singel_price": "单价38058元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4411560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161218/fa0d5f8f-b5b3-450a-8bb1-db39edaed065.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，带飘窗，地铁直达，低区出入方便",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室2厅|88.81平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "紫藤新园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "338万"
+}{
+  "singel_price": "单价31931元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4361293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161030/c255aad9-1e32-4ecd-a6be-78e8c835c3a5.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，视野开阔",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|62.32平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "红旗小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "199万"
+}{
+  "singel_price": "单价41763元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832107.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/aaab90f1-e13c-43f3-942c-c2da5d60ab6d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，客厅朝南，出行方便，采光好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|68.96平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "鹤北新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "288万"
+}{
+  "singel_price": "单价36737元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825528.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/28b51582-ca9c-4772-bfb5-d5b0f5f58562.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通便利，楼层好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|53.08平|中区/5层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "凤庆小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "195万"
+}{
+  "singel_price": "单价33648元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815728.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/d29ecb8c-7e48-4f31-a5b6-28f8abda3641.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，楼层好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|52.9平|中区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "凤庆小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "178万"
+}{
+  "singel_price": "单价41505元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814504.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/00e93901-f39b-4557-83c8-85098674f554.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁房，好楼层",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室2厅|108.42平|中区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "合生城邦三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "450万"
+}{
+  "singel_price": "单价46504元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798376.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/8d2db04a-6111-4085-9536-e3f08aa55be4.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，交通便利，好楼层",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "3室2厅|131.17平|中区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南洋博仕欣居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "610万"
+}{
+  "singel_price": "单价49313元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771811.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/b32e1bf7-a38d-474e-8910-e42e820c668e.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|56.78平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东川花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价45267元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765314.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/c6635235-0e1f-4966-9c68-3de1280c7d15.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，地铁房，上下楼方便",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "3室2厅|135.86平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "丽都城假日景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "615万"
+}{
+  "singel_price": "单价46203元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4721606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170718/5293b11c-e66a-4267-967c-bdaafc59f69f.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，交通便利，上下楼方便，品质装修",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "3室2厅|129.86平|低区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南洋博仕欣居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "600万"
+}{
+  "singel_price": "单价42797元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4717668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/d7fd7e9b-7886-4cd3-96d8-dd671683ee50.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，低区出入方便，简单装修",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "1室1厅|35.75平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "鹤明小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "153万"
+}{
+  "singel_price": "单价46990元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682481.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160908/a35c1d07-fa83-4135-a486-723eb1e6d943.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "地铁房，楼层好，毛坯房，满5年",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "3室2厅|121.3平|中区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "丽都城假日景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "570万"
+}{
+  "singel_price": "单价39138元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626301.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/20e94402-0807-4610-b016-b35469fc600d.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野很好",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "1室0厅|35.77平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "电机四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "140万"
+}{
+  "singel_price": "单价34428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/2b580052-ff57-453b-831a-d5da93546331.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，低楼层",
+  "s_cate": "老闵行",
+  "house_desc": [
+    "2室1厅|50.83平|低区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "凤庆小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laominhang",
+  "house_price": "175万"
+}

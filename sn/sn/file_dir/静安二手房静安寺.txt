@@ -1,0 +1,501 @@
+{
+  "singel_price": "单价98241元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4717643.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/f9bb0b06-1fd7-4542-be7c-e4b20d97baa0.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，楼层好，精装修",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室0厅|48.35平|中区/6层|朝北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "愚园路488弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "475万"
+}{
+  "singel_price": "单价78700元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4661931.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/62bebf79-38fe-4591-84e1-a04e18407663.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "地铁沿线，低楼层，拎包入住，满五减税",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "1室0厅|50.19平|低区/38层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "爱俪轩",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "395万"
+}{
+  "singel_price": "单价92436元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597987.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/1ae1c8af-627a-415a-a858-02fc5c3a3a84.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，采光好，简单装修",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室1厅|71.4平|高区/24层|朝西"
+  ],
+  "district": "静安二手房",
+  "house_detail": "京州大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "660万"
+}{
+  "singel_price": "单价85191元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4517642.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170224/ca0cc66a-c346-40f6-9616-fbba83103f61.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，低区出入方便，简单装修",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室0厅|47.54平|低区/11层|朝西北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "百乐门小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "405万"
+}{
+  "singel_price": "单价73197元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3716038.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161008/e8aebe7c-0beb-4a2f-8464-b759119e6363.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，视野很好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室2厅|117.49平|高区/32层|朝东北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "金柏苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "860万"
+}{
+  "singel_price": "单价87017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733483.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/003f1b7f-80af-4ab4-b555-74fbde45d307.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁房，光线非常好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室0厅|57.46平|高区/6层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "延安西路376弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "500万"
+}{
+  "singel_price": "单价76923元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593770.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/ebd70814-b85c-4546-804c-d51a934df86e.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，好楼层",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "3室2厅|117.0平|中区/26层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "新闸大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "900万"
+}{
+  "singel_price": "单价107338元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804619.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170223/8d00965b-6334-492a-b433-cafd7e412588.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室1厅|51.24平|中区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "富民路22弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "550万"
+}{
+  "singel_price": "单价81194元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4441850.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161230/b3aa6b92-c3bb-495f-9c57-f7e03b18d5c5.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，豪华装修，房本满五年",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "1室1厅|81.04平|低区/38层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "爱俪轩",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "658万"
+}{
+  "singel_price": "单价102742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4323107.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161009/fc50072e-c03f-4922-8c4d-5895c3f17014.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通便利，采光无遮挡",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室2厅|109.01平|高区/21层|朝西北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "四方新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "1120万"
+}{
+  "singel_price": "单价112716元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4723982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170720/2c421f55-38e9-4da8-9d5c-6ad94bf22394.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通，地铁直达，光线充足，装修精致",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "5室2厅|248.41平|低区/1层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "愚园坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "2800万"
+}{
+  "singel_price": "单价95794元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785454.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/0d55407c-a4d5-4058-81fa-e198e1fb8042.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "地铁沿线，黄金楼层，拎包入住，房本满五年",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室1厅|66.81平|中区/4层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "模范村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "640万"
+}{
+  "singel_price": "单价105494元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833805.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/82d8ced2-e411-470b-bf88-db82f3e1baa0.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，地铁沿线，高区景观好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室2厅|109.01平|高区/21层|朝东南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "四方新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价86266元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855394.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/a23b89d7-f218-47d3-ae00-dd0e8e6a8ece.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，好楼层",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室1厅|71.87平|中区/5层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "乌鲁木齐北路100弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "620万"
+}{
+  "singel_price": "单价68122元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4690527.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/fd01e0c8-eb05-476d-9ee8-9421a4341c09.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，出行方便，楼层好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室1厅|114.5平|中区/32层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "申乐大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "780万"
+}{
+  "singel_price": "单价96816元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597556.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/daf53265-589d-47b0-b5bb-6a0e31f04629.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "卧室全南，交通便利，楼层好，品味装修",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "1室1厅|53.71平|中区/30层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "南京西路公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "520万"
+}{
+  "singel_price": "单价72346元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643037.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/8751d30f-937d-4b51-8bf8-28f0726256e9.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，地铁房，光线非常好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "3室2厅|117.49平|高区/32层|朝北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "金柏苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "850万"
+}{
+  "singel_price": "单价84484元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4617918.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/b8e3e0b3-8c69-4bc9-a433-c33706cb367b.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "出行方便，楼层好，满5年，热销房源",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "1室1厅|63.68平|中区/30层"
+  ],
+  "district": "静安二手房",
+  "house_detail": "南京西路公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "538万"
+}{
+  "singel_price": "单价76322元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4416308.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/c5b1bc02-afac-47de-9acf-8a36f9c68491.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "出行方便，视野开阔，精装修，满五年",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "3室2厅|165.09平|高区/32层|朝西南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "申乐大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "1260万"
+}{
+  "singel_price": "单价77453元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828253.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/73f83ad5-a42b-42f5-87c4-5ae16263f885.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "出行方便，楼层好，拎包入住，满二减税",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "3室2厅|117.49平|中区/32层|朝东北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "金柏苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "910万"
+}{
+  "singel_price": "单价95742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776484.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/37114e8f-2d33-4961-866c-79b2b8f84e1f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野很好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "1室1厅|49.09平|高区/32层"
+  ],
+  "district": "静安二手房",
+  "house_detail": "申田大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "470万"
+}{
+  "singel_price": "单价104965元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815420.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/da7cdd11-2b89-4fbe-8fee-ccfdd95596ed.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带卫，地铁直达，上下楼方便，满五减税",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室0厅|49.54平|低区/64层"
+  ],
+  "district": "静安二手房",
+  "house_detail": "枕流公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "520万"
+}{
+  "singel_price": "单价107089元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783333.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/0929c67e-46e1-454e-a81c-9238d284da25.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，视野很好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "1室1厅|46.69平|高区/6层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "富民路22弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "500万"
+}{
+  "singel_price": "单价77881元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767985.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/c0304837-dbf6-4626-bea0-c9b9173af931.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁直达，楼层好",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室2厅|96.3平|中区/11层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "宝城大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "750万"
+}{
+  "singel_price": "单价102644元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707198.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/87ff8a62-e833-429a-a1dd-dd71c6d44a13.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "出行方便，视野很好，中等装修，满五减税",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "1室0厅|31.76平|高区/15层|朝东北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "百乐小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "326万"
+}{
+  "singel_price": "单价90467元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4452002.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161222/2d854ccb-a18a-4b0b-a27a-76608ed533a7.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，地铁房，采光好，简单装修",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室1厅|74.06平|高区/13层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "广电大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "670万"
+}{
+  "singel_price": "单价90239元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4393259017.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161223/5616ce89-8591-42ac-af04-737bef0f93b1.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，采光无遮挡",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "2室2厅|108.6平|高区/30层|朝南"
+  ],
+  "district": "静安二手房",
+  "house_detail": "南京西路公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "980万"
+}{
+  "singel_price": "单价97106元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4380814.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161109/22bac99b-7a76-46e8-8dd6-173e44b0d679.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，地铁沿线，视野开阔",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "3室2厅|102.98平|高区/6层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "富民公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价151373元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2184759.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/bd3b8f69-f45f-4a64-a96f-c178cb47814c.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，交通方便，低区出入方便，拎包入住",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "5室3厅|320.4平|低区/4层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "巨鹿路845弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "4850万"
+}{
+  "singel_price": "单价120593元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jingan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709496.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/8350baf4-67a7-4145-a591-f7c36354dc5d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，地铁房，光线充足，品味装修",
+  "s_cate": "静安寺",
+  "house_desc": [
+    "5室2厅|161.7平|低区/1层|朝南北"
+  ],
+  "district": "静安二手房",
+  "house_detail": "长义坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jingansi",
+  "house_price": "1950万"
+}

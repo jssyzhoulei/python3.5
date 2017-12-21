@@ -1,0 +1,52 @@
+{
+  "singel_price": "单价27017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4349223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161116/7c9f16c0-f0f8-4d2a-8a86-66a29b1e080c.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，高区景观好，简单装修，满两年",
+  "s_cate": "长兴岛",
+  "house_desc": [
+    "2室1厅|81.43平|高区/6层|朝南北"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "凤辰乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changxingdao21211",
+  "house_price": "220万"
+}{
+  "singel_price": "单价29824元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4805829.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/b72b0a2c-5a98-4200-919b-663d84488cc5.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "凤辰乐苑，光线充足，装修精美，上门实勘",
+  "s_cate": "长兴岛",
+  "house_desc": [
+    "1室1厅|57.0平|中区/6层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "凤辰乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changxingdao21211",
+  "house_price": "170万"
+}{
+  "singel_price": "单价26623元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712750.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/cc8ac959-8a15-4620-8619-934e524d5896.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "凤辰乐苑，低楼层，省装修费，上门实勘",
+  "s_cate": "长兴岛",
+  "house_desc": [
+    "2室1厅|77.0平|低区/6层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "凤辰乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changxingdao21211",
+  "house_price": "205万"
+}

@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价64350元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4543965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/ae80b5ad-ee12-4ee9-8623-35871417ef75.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，黄金楼层",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|77.7平|中区/19层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "双花公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "500万"
+}{
+  "singel_price": "单价57998元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4478927.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/74f44aa9-9b42-4a07-99ca-fe46c8228290.jpg_200x150.jpg",
+  "house_time": [
+    "1957年建"
+  ],
+  "house_title": "卧室全南，地铁沿线，高区景观好，品质装修",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室0厅|31.38平|高区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "182万"
+}{
+  "singel_price": "单价56001元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843406.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/c30cc6eb-46d9-49a5-9b6c-f6cd8cb81157.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，好楼层，毛坯房",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|66.07平|中区/14层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "延吉七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "370万"
+}{
+  "singel_price": "单价69858元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837598.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/1f346f57-5cba-47cc-88a5-cdcd8467943d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，地铁直达，光线非常好，毛坯房",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|40.94平|高区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江西三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "286万"
+}{
+  "singel_price": "单价60881元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812002.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/836da150-1637-4fc3-b1f1-1d43864926b9.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野开阔",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室0厅|50.59平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江西三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "308万"
+}{
+  "singel_price": "单价70072元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811145.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/3771662b-f518-4340-bb49-986f3d9a0208.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，光线充足",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室0厅|44.24平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "长白三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "310万"
+}{
+  "singel_price": "单价58139元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794048.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/2e12844b-7072-4832-9e73-27e8c02f3318.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "交通便利，黄金楼层，简单装修，满五减税",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室0厅|31.82平|中区/5层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "185万"
+}{
+  "singel_price": "单价70101元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792756.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/cd03b802-297a-48e1-865f-8c2927cbf550.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，出行方便，好楼层",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|59.2平|中区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "浣纱四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "415万"
+}{
+  "singel_price": "单价63106元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782629.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/810450f5-1ee4-449c-bb2f-fc65ecd55e57.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区阳光房",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|82.4平|高区/7层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "靖宇东路85弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "520万"
+}{
+  "singel_price": "单价78392元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780535.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/95e0ffb5-c9ef-42c5-8ccb-f58f25675664.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁直达，低区出入方便",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室2厅|110.98平|低区/7层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "公园3000黄兴花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "870万"
+}{
+  "singel_price": "单价71904元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779084.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/ae5ddbf2-f6db-46d9-b416-888caa03f941.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通便利，低楼层",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "3室2厅|132.12平|低区/18层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "公园3000黄兴花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "950万"
+}{
+  "singel_price": "单价59158元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751364.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/c6dbc980-e26a-4673-9528-43e17ced28ee.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|70.15平|高区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "浣纱三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "415万"
+}{
+  "singel_price": "单价63893元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4746407.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/5c743aa9-8500-4492-b726-e440c184df35.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，视野很好",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室0厅|33.18平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "翔殷路491弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "212万"
+}{
+  "singel_price": "单价71162元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4744822.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/911cda19-e093-4f9d-9ea7-543dbe5d8b2e.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北直通，带飘窗，交通方便，光线非常好",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "3室2厅|131.53平|高区/7层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "汇元坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "936万"
+}{
+  "singel_price": "单价62245元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739637.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/65515cb2-dcd9-4be2-8df3-8eeee8d7baeb.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "地铁直达，好楼层，品味装修，满5年",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室1厅|39.36平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江东三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "245万"
+}{
+  "singel_price": "单价64000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718723.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/a36761f8-cd48-461b-bbba-05add25abf1a.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|50.0平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "延吉五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价70033元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704408.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/259ee5c5-957c-4a51-9336-9fcf4ac55cf2.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，黄金楼层",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室1厅|33.27平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "233万"
+}{
+  "singel_price": "单价54929元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701439.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/ae6e9b8d-e1b1-4180-9db0-505f7c90f5e3.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室1厅|34.59平|中区/5层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江西三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "190万"
+}{
+  "singel_price": "单价62068元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4690547.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/ade74312-8cc9-4d9c-927f-ee8f3e1b4465.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "地铁直达，低区出入方便，拎包入住，房本满五年",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室1厅|36.25平|低区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "225万"
+}{
+  "singel_price": "单价59886元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681649.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/38e58e7c-8871-4f69-ab97-83fb8c6358c4.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "房型正气，出行方便，黄金楼层，简单装修",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室0厅|50.93平|中区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "松花一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "305万"
+}{
+  "singel_price": "单价89984元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4653012.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/b5f17e02-e895-425a-b55a-8a0dab5ed666.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，交通便利，楼层好，毛坯房",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "3室2厅|144.47平|中区/5层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "香阁丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价53634元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4642242.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/d47f526d-75d4-4fa9-bb38-e9843e6dd962.jpg_200x150.jpg",
+  "house_time": [
+    "1957年建"
+  ],
+  "house_title": "地铁沿线，高区景观好，中等装修，房本满五年",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室0厅|34.12平|高区/4层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "183万"
+}{
+  "singel_price": "单价58536元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629769.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/63bb4729-1c47-41d7-9051-33d66bc0ef55.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室0厅|41.0平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江西三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价59340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4617844.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/8a28a918-0d01-463b-afb1-08175e238be4.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "地铁房，好楼层，简单装修，房本满五年",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室1厅|42.13平|中区/4层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "长白三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "250万"
+}{
+  "singel_price": "单价53556元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4613133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/ce105985-d1eb-4f29-ae80-0b4ea39b8c4a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，地铁房，楼层好，简单装修",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室1厅|36.41平|中区/5层|朝北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江二村107弄小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "195万"
+}{
+  "singel_price": "单价55696元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4608902.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/f84d9ae9-5e10-4d47-b522-1f45c7b12e9d.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，采光好",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室1厅|39.5平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "延吉六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "220万"
+}{
+  "singel_price": "单价73502元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4596929.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170419/26bca622-0d93-495f-86f7-c6c943f63858.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通透，厨卫全明，出行方便，好楼层",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|55.1平|中区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "沧州路180弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "405万"
+}{
+  "singel_price": "单价65024元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4565859.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/a8841556-632a-4faa-8fe8-ccdad2bb978f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，光线充足",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "1室0厅|36.14平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江二村107弄小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "235万"
+}{
+  "singel_price": "单价62713元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4532926.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170303/44ca7a2a-59e5-4840-b2c1-4ef596014a78.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "交通方便，黄金楼层，简单装修，满5年",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室1厅|61.39平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "万佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "385万"
+}{
+  "singel_price": "单价70970元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4525417.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170523/6d277054-8d66-4fbf-8c72-2e385f6a937d.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "地铁房，低楼层，精装修，满五减税",
+  "s_cate": "黄兴公园",
+  "house_desc": [
+    "2室2厅|101.45平|低区/7层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "汇元坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huangxinggongyuan",
+  "house_price": "720万"
+}

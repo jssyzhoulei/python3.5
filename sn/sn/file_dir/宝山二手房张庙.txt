@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价43845元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843089.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170308/a1a27594-21f2-4077-9cfa-aa5d35353d14.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北直通，卧室全南，交通便利，光线非常好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|61.58平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "民主敦发小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价57692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774798.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/27291fd8-5a86-4bca-959d-0e576eaa2ef5.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，出行方便，黄金楼层，省装修费",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室2厅|104.0平|中区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "三湘盛世花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "600万"
+}{
+  "singel_price": "单价40050元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737918.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/1018bfcc-984c-4abf-95bb-2310ae1dd982.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，高区阳光房",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|47.44平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "190万"
+}{
+  "singel_price": "单价52782元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862319.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/d20248f9-e9ba-4ecb-8912-9705ed463a7d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，楼层好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|45.47平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "240万"
+}{
+  "singel_price": "单价49068元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847287.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/cad4ce07-5523-4e6d-8ff9-52ae7288585a.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，地铁房，高区阳光房，省装修费",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|42.39平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "208万"
+}{
+  "singel_price": "单价46288元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830436.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/608e9eab-7dd2-4e57-a59f-2156138062ce.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区景观好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|58.33平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价58400元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795722.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/58c331a3-616f-450f-8b75-de8e51c964c3.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，卧室带卫，交通便利，黄金楼层",
+  "s_cate": "张庙",
+  "house_desc": [
+    "3室2厅|133.56平|中区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "三湘盛世花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "780万"
+}{
+  "singel_price": "单价50389元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773071.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/f50abb23-7edd-4444-8cdf-369e384f02dd.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北直通，客厅朝南，出行方便，高区采光好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|74.42平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "民悦苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "375万"
+}{
+  "singel_price": "单价48859元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743148.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/cfbceede-2326-4540-9498-c0efccf2f3f5.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "地铁直达，低楼层，简单装修，房本满五年",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|73.68平|低区/18层|朝东南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "民主花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "360万"
+}{
+  "singel_price": "单价43588元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836075.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/1630ad09-fca8-44ba-9407-52fc51cd987f.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，视野很好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|55.06平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "240万"
+}{
+  "singel_price": "单价37655元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788730.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/79969242-9f00-4484-b002-d95963eef280.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通透，卧室全南，地铁沿线，光线非常好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|42.49平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "160万"
+}{
+  "singel_price": "单价47183元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779137.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/5085f78c-1e9f-4883-a475-da7ccaa38e3f.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁沿线，楼层好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|54.68平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "258万"
+}{
+  "singel_price": "单价52577元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699353.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/06ae1f96-956c-4f90-86bf-2a8c4bdaf01a.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低楼层",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|58.58平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共和小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "308万"
+}{
+  "singel_price": "单价45800元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/9eb8fdcb-251a-487a-8638-b6286c86a4a9.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，好楼层，简单装修",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|64.41平|中区/13层|朝东南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "295万"
+}{
+  "singel_price": "单价51226元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4600223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/773ed95b-710b-49d4-9747-f0166495036b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区景观房",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|59.54平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "305万"
+}{
+  "singel_price": "单价52439元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584497.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/c1885f62-2b0c-46a4-a373-389e9852c123.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|41.0平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "215万"
+}{
+  "singel_price": "单价38766元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4301987.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/5b6d4993-4424-4571-99b3-9d1102faf6dd.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，视野很好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "3室2厅|159.93平|高区/18层|朝西南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "民主花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "620万"
+}{
+  "singel_price": "单价49104元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763673.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/1d0fa31e-1138-4064-ac7c-a1dc5cb00696.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|58.65平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "288万"
+}{
+  "singel_price": "单价44073元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4570146.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/5eeec795-41f3-429a-8496-99725afd8065.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "交通便利，采光无遮挡，简单装修，满二减税",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|53.32平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "235万"
+}{
+  "singel_price": "单价43898元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4868025.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/94f4f265-da84-4d75-b90d-9384c01349ab.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，采光好",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|68.34平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "300万"
+}{
+  "singel_price": "单价51734元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794612.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/b24dd024-30cc-4707-bb10-766e6d0ad211.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北直通，客厅朝南，交通便利，高区阳光房",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|65.72平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "民主花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "340万"
+}{
+  "singel_price": "单价45962元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712439.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/b376483a-ce20-4109-93c8-18fa2a2b7514.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室2厅|85.94平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共和八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "395万"
+}{
+  "singel_price": "单价54806元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/a079fcba-4388-4e9d-8bf7-9545d2249522.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，黄金楼层",
+  "s_cate": "张庙",
+  "house_desc": [
+    "3室1厅|91.23平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "500万"
+}{
+  "singel_price": "单价43933元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4531612.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/706e87d4-55e0-4662-9de6-7df7e59cd8ab.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|47.8平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共和四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "210万"
+}{
+  "singel_price": "单价50283元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841625.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/a38e2cf9-0306-495d-b542-42f9f4d150c6.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线充足，毛坯房",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|28.24平|中区/5层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "泗塘二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "142万"
+}{
+  "singel_price": "单价48314元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820296.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/501ecf10-3503-4486-a192-38ff31553dec.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，黄金楼层，简单装修",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|35.6平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "泗塘八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "172万"
+}{
+  "singel_price": "单价45992元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785476.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/3b59aa28-fa9f-4493-a35f-7dae939fbcf4.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，低楼层，毛坯房",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|53.27平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "245万"
+}{
+  "singel_price": "单价49157元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780048.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/8253b6fc-d9d0-4c41-998d-bc0c44a3f748.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，简单装修",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室1厅|35.6平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "泗塘二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "175万"
+}{
+  "singel_price": "单价44676元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663535.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170610/9ded1c47-b121-43da-a411-52b02e50ca4b.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，视野开阔，简单装修",
+  "s_cate": "张庙",
+  "house_desc": [
+    "2室1厅|55.51平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "呼玛一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "248万"
+}{
+  "singel_price": "单价50847元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/ae7e7236-aa12-406c-9512-13991c25dffc.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，楼层好，简单装修",
+  "s_cate": "张庙",
+  "house_desc": [
+    "1室0厅|35.4平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "泗塘八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangmiao",
+  "house_price": "180万"
+}

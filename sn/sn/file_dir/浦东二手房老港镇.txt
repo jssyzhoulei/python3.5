@@ -1,0 +1,52 @@
+{
+  "singel_price": "单价20370元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831635.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/9fef16cd-1c33-4304-a3b2-d6c4deed74f9.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "老港镇",
+  "house_desc": [
+    "2室1厅|54.0平|低区/3层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中港美容新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laogangzhen",
+  "house_price": "110万"
+}{
+  "singel_price": "单价22340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4864278.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/8d5d5ab1-3c65-427d-8687-7b44f048bb66.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，好楼层，品味装修",
+  "s_cate": "老港镇",
+  "house_desc": [
+    "2室2厅|94.0平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宏港苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laogangzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价19008元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706586.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/0db32750-eb36-45d9-8fc7-64b7f6f6eaf0.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，低区出入方便，装修精美",
+  "s_cate": "老港镇",
+  "house_desc": [
+    "3室2厅|121.0平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宏港苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/laogangzhen",
+  "house_price": "230万"
+}

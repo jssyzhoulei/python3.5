@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价63420元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807837.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/d4ef045d-5728-4372-80d1-a5276ce2ad86.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野开阔",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|44.15平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价67846元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797865.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160330/c9038894-cbb2-4627-b16d-f89e65d29966.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区景观好",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室2厅|101.7平|高区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "香山苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "690万"
+}{
+  "singel_price": "单价64057元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763408.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/93a40c5a-199c-4fd1-b14c-344488ab3eec.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，好楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室0厅|42.93平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "275万"
+}{
+  "singel_price": "单价65899元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705378.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/26a47ba9-ee42-4af3-8584-8f24b2b2b6ac.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁房，好楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|47.8平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "315万"
+}{
+  "singel_price": "单价63547元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679975.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/942a5560-8f7e-42bd-95e8-e3102858f92e.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室0厅|34.62平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "220万"
+}{
+  "singel_price": "单价64825元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4638327.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/4991eb9d-40e5-43aa-841c-c26405bc3586.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|67.72平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨五村（芙蓉园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "439万"
+}{
+  "singel_price": "单价65031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4305862.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170314/3430eee7-98dd-4786-834c-6b33f6c0bc9e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|53.82平|中区/5层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "杏园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "350万"
+}{
+  "singel_price": "单价63073元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789526.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/c7bf5e13-07f2-48a0-8dcc-b02286cabe49.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，光线充足，简单装修",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室0厅|43.6平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨三村（杏杨园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "275万"
+}{
+  "singel_price": "单价57631元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606212.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/01adc5cd-51c6-4487-aa27-0e81c140bc65.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，光线非常好",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|44.42平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨五村（杏梅园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "256万"
+}{
+  "singel_price": "单价62287元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825690.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/2fda5e6b-c726-407f-b78a-e5d71bc49e82.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线非常好",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|44.15平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨三村（杏杨园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "275万"
+}{
+  "singel_price": "单价66433元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753175.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/0dcc9f82-b28a-4a4c-b178-f944842d4a12.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "地铁沿线，楼层好，精装修，满五减税",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|34.32平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨五村（梅花园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "228万"
+}{
+  "singel_price": "单价63131元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737559.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/d3bbdefc-cf5c-41bb-94ad-9b54d347e089.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，视野开阔",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "4室1厅|63.36平|高区/4层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "400万"
+}{
+  "singel_price": "单价61563元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710890.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/0b1f6199-58cc-42cd-a7fa-fd2b27bba00d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观房",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|56.04平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "杏园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "345万"
+}{
+  "singel_price": "单价63734元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672902.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/e7bfaa36-04a4-469f-beea-469d2ea8ddf4.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，光线充足",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室0厅|31.38平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨三村（兰岭园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "200万"
+}{
+  "singel_price": "单价65615元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672321.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170211/f7925260-a110-4e59-93ab-63ab5467c62c.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通便利，上下楼方便",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "4室2厅|136.4平|低区/14层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "万都花园（普陀）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "895万"
+}{
+  "singel_price": "单价60710元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4657466.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/63a69065-2346-41f7-b74f-ba0b3fbbb217.jpg_200x150.jpg",
+  "house_time": [
+    "1976年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室0厅|43.65平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "265万"
+}{
+  "singel_price": "单价59728元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584253.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/72ac5aea-8305-4fb2-813d-07d723054d13.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室0厅|43.53平|中区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "260万"
+}{
+  "singel_price": "单价66006元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4566405.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/8fc88645-863d-459a-b748-3859a2f0f33d.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光好",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|60.6平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "400万"
+}{
+  "singel_price": "单价57925元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860020.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/053430dc-19ee-466e-a416-3c10046890e1.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "南北通透，卧室全南，地铁沿线，好楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|37.98平|中区/5层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "杏园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "220万"
+}{
+  "singel_price": "单价57136元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819766.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/b96f048c-7b84-4d58-ae9b-68cead29ca6e.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，采光好，简单装修",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室0厅|48.13平|高区/5层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "275万"
+}{
+  "singel_price": "单价60248元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4693209.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/4900b2ac-b7ba-4d5f-a34f-2f50050bf6b1.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，好楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|67.72平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨五村（芙蓉园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "408万"
+}{
+  "singel_price": "单价63004元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691937.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/052aa3f4-6f4a-40bd-af31-150742920040.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室1厅|61.9平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "梅岭支路85弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "390万"
+}{
+  "singel_price": "单价63643元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677899.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170216/59d5e39e-b6c4-464f-9c88-db60f1eb2908.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，高区景观房",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|37.71平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "梅岭支路85弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "240万"
+}{
+  "singel_price": "单价66165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647879.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/72678061-6c37-4a8c-a017-c96211089b8d.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|61.21平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金梅园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "405万"
+}{
+  "singel_price": "单价67724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4487210.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/2a703193-8fac-46ec-812e-c03bd03e43ac.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，高区景观房",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "3室1厅|94.5平|高区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "香山苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "640万"
+}{
+  "singel_price": "单价59433元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1127549.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161204/8178880b-18b8-4d6c-bd08-7e1793365ce6.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "地铁房，低区出入方便，拎包入住，满5年",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "3室2厅|131.24平|低区/24层|朝东北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "五星公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "780万"
+}{
+  "singel_price": "单价58881元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4866421.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/40545a6b-b489-45d8-8d17-65a3f273b270.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，高区景观好",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|50.61平|高区/7层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨五村（芙蓉园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "298万"
+}{
+  "singel_price": "单价68605元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842746.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/ae6dfb5c-727f-48f8-9643-c0e0839c9092.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室全南，地铁沿线，视野开阔，简单装修",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|30.61平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "210万"
+}{
+  "singel_price": "单价72239元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793694.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/37097f4b-0590-4096-8e05-0add663b6428.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，黄金楼层",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "1室1厅|29.07平|中区/5层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨五村（杏梅园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "210万"
+}{
+  "singel_price": "单价59672元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789558.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/11b532c2-2d8e-4a1d-874e-07a582086c6e.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁直达，高区阳光房",
+  "s_cate": "曹杨",
+  "house_desc": [
+    "2室0厅|51.28平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹杨三村（兰岭园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caoyang",
+  "house_price": "306万"
+}

@@ -1,0 +1,250 @@
+{
+  "singel_price": "单价11848元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756541.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/ec4b817e-1a85-4b08-8e1a-16731e848be0.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "低楼层，简单装修，满五年，来电即看",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "1室1厅|40.51平|低区/4层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "长乐一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "48万"
+}{
+  "singel_price": "单价11006元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760001.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/e1b84c78-76ab-4206-a679-c1dd18666cb3.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "高区阳光房，有钥匙，热销好房，上门实勘",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室0厅|44.52平|高区/4层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "长乐一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "49万"
+}{
+  "singel_price": "单价12050元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751696.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/44af8375-a1ff-4934-87cd-9cf44052d5df.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "高区采光好，钥匙房，热销好房，上门实勘",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室0厅|43.15平|高区/4层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "长乐一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "52万"
+}{
+  "singel_price": "单价9864元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719640.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/681b0c08-1d1a-43a6-b09b-951bfca72ab1.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "采光好，满五年，人气房源，上门实拍",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室1厅|53.73平|高区/4层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "长乐一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "53万"
+}{
+  "singel_price": "单价15450元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872023.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161206/dc9ede80-294a-48c4-937b-3c56db5cdb33.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "采光好，新鲜挂牌，随时看房，上门实拍",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室2厅|90.61平|高区/6层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "富源花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "140万"
+}{
+  "singel_price": "单价11358元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782434.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/8aaf547c-7ccf-42a2-a3bd-7b6ed6f4a066.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "视野很好，满五减税，实地看房，上门实拍",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室1厅|43.14平|高区/4层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "长乐一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "49万"
+}{
+  "singel_price": "单价16993元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735310.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/47216461-78b5-4529-92ab-3c09d713c4ae.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "高区阳光房，房本满五年，热门带看，上门实拍",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室1厅|76.5平|高区/6层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "绿舟星城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "130万"
+}{
+  "singel_price": "单价10152元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799134.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/120fe855-a1bf-4479-9fe5-7ab7aaf5b95f.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "高区采光好，简单装修，满五减税，上门实勘",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "1室1厅|43.34平|高区/4层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "新海二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "44万"
+}{
+  "singel_price": "单价10695元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735710.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/0817dab2-6d7c-4084-9eed-a064a1910f43.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "高区采光好，简单装修，满五年，上门实拍",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室1厅|46.75平|高区/5层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "海鸥新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "50万"
+}{
+  "singel_price": "单价13830元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/b8fdec16-d772-4c3b-99c7-b0cd4f8c5bf2.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "低区出入方便，毛坯房，热门房源，上门实勘",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室0厅|42.66平|低区/4层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "海燕新村(崇明)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "59万"
+}{
+  "singel_price": "单价11336元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711221.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/9841faa6-dc32-4751-aa67-51da15c53148.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北户型，高区景观好，毛坯房，热门房源",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室0厅|46.75平|高区/4层|朝南北"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "海燕新村(崇明)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "53万"
+}{
+  "singel_price": "单价11336元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/333b8756-ab64-4424-a364-02eac358d396.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，黄金楼层，毛坯房，满5年",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室1厅|46.75平|中区/2层|朝南北"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "海燕新村(崇明)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "53万"
+}{
+  "singel_price": "单价21941元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833081.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/ed78e9b7-f276-4c57-a913-65db1ec2d607.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "光线充足，品质装修，满五减税，上门实勘",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室1厅|56.97平|中区/6层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "绿舟星城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "125万"
+}{
+  "singel_price": "单价17816元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669281.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170614/a7ba90bf-9719-4512-8bcc-5abb278b5947.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，采光无遮挡，毛坯房，满两年",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室1厅|87.0平|高区/6层|朝南北"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "绿舟星城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "155万"
+}{
+  "singel_price": "单价12000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676080.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/73489a42-18a2-40f4-80ed-7e51e64f1541.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "海燕新村，楼层好，简单装修，上门实拍",
+  "s_cate": "崇明其它",
+  "house_desc": [
+    "2室0厅|45.0平|中区/4层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "海燕新村(崇明)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingqita",
+  "house_price": "54万"
+}

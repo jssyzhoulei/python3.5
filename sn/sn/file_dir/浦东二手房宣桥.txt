@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价30571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708717.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/f817bb5e-4979-4f79-b75a-28e9df7b7b8e.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "低楼层，品质装修，房本满五年，新鲜上架",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|91.59平|低区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "280万"
+}{
+  "singel_price": "单价30130元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4509603.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/753c2066-f169-4ef4-b3be-2e72a7f17ac2.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "低楼层，满5年，新鲜好房，随时看房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|122.8平|低区/11层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "370万"
+}{
+  "singel_price": "单价33494元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822821.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/bce09ffd-2449-493a-afbc-3144d95c0dc1.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，黄金楼层，品味装修",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "1室2厅|70.46平|中区/11层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "236万"
+}{
+  "singel_price": "单价31493元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4384032.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170111/451a7e5d-4117-4810-abbf-31bcd77e144e.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，带飘窗，视野很好，毛坯房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|133.36平|高区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "420万"
+}{
+  "singel_price": "单价27563元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2236580.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161028/4dae6738-cc4e-43ac-86ba-925642e17510.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "低区出入方便，拎包入住，满五减税，钥匙在手",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|108.84平|低区/17层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "300万"
+}{
+  "singel_price": "单价23266元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839517.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/61980b29-9f50-44b4-ba00-2e2d0243fb48.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，客厅朝南，低区出入方便，简单装修",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|128.94平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欣秋苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "300万"
+}{
+  "singel_price": "单价34419元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/86faa5c3-6124-4ae5-b811-a338c30b4288.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，采光好，装修精致",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "1室1厅|59.56平|高区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "205万"
+}{
+  "singel_price": "单价30995元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740491.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/0326998b-2b33-4c17-a55e-e0926f258b34.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，好楼层，简单装修",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室1厅|77.43平|中区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "240万"
+}{
+  "singel_price": "单价28938元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4644202.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/ee4c87d9-237d-42a4-9cc1-26a9632b1577.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "光线充足，毛坯房，房本满五年，随时看房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|91.92平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "266万"
+}{
+  "singel_price": "单价36098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4638661.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/e8c27486-6c41-49e1-8a34-e357b55c7b89.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，采光好，毛坯房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "1室1厅|59.56平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "215万"
+}{
+  "singel_price": "单价28840元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626082.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/21a00f9c-95e8-4a2a-8544-a371ec842d9d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，高区景观房，毛坯房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|145.63平|高区/17层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "420万"
+}{
+  "singel_price": "单价28191元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/9368eeab-b1c0-4222-8efd-5577a8d279b1.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅朝南，视野很好，品味装修",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|94.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欣梅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "265万"
+}{
+  "singel_price": "单价30490元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4494943.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/98155c49-958d-47a4-9f4b-cda49c5014fd.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，黄金楼层，省装修费",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|114.79平|中区/17层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "350万"
+}{
+  "singel_price": "单价29842元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4334344.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161015/31e62ad4-bf45-4b39-9499-1dbdb70dfc09.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，低楼层，毛坯房，房本满五年",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室1厅|95.5平|低区/9层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价31152元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1161032.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161207/3b788405-0060-414f-ae1e-11a830c16ddf.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，带飘窗，楼层好，满5年",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|93.09平|中区/12层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价31149元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589052.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/28dd2b46-b5cd-44f1-a72a-984813cc128c.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，高区景观房，简单装修",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "1室2厅|77.69平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "242万"
+}{
+  "singel_price": "单价26261元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556376.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/7916767e-2d36-42cb-b534-a4dcf1b72fe2.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，低区出入方便，毛坯房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|140.89平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "370万"
+}{
+  "singel_price": "单价30505元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4443970.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/b81d77e4-69e2-4c86-860e-27a67bac0438.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，厨卫全明，楼层好，毛坯房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|91.13平|中区/10层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "278万"
+}{
+  "singel_price": "单价25666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/c86149ce-2dd2-4e80-8897-d13fd4cbe295.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，黄金楼层，简单装修",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室1厅|99.35平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海志花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "255万"
+}{
+  "singel_price": "单价34094元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2325162.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/7f033104-3ed6-478d-a93a-733491ab0188.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，高区阳光房，满五减税",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|92.39平|高区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "315万"
+}{
+  "singel_price": "单价29839元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829322.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/4b711689-ae64-4519-ad85-15f26dad9863.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，厨卫全明，好楼层，省装修费",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室1厅|77.08平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欣兰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价29665元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817354.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/3dd50cfd-61e0-4e3f-9fa1-80c500446250.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "低区出入方便，马上看房，热推好房，上门实拍",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室1厅|96.07平|低区/12层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价31470元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597879.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/29695466-6439-45b8-b041-6727507cb5c8.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，低区出入方便，拎包入住",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室1厅|90.56平|低区/18层|朝西北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价30520元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589882.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/8f3598be-e4b8-4273-867a-b1b23d1af935.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，楼层好，毛坯房，钥匙房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|140.89平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "430万"
+}{
+  "singel_price": "单价29720元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4413730.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161127/cf1730df-c19b-4916-94ed-7c30160a2d99.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "黄金楼层，装修精美，钥匙在手，多次带看",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|92.53平|中区/10层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "275万"
+}{
+  "singel_price": "单价32167元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794694.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/f0d24984-7bb8-49f4-883a-c4e9dd803e78.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "高区采光好，品质装修，满五减税，火热出售",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "1室2厅|74.61平|高区/10层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "240万"
+}{
+  "singel_price": "单价29680元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663103.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170610/e11bf4db-869a-4969-999d-d9300a773dc6.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，上下楼方便，装修精致，满五减税",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|95.35平|低区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "283万"
+}{
+  "singel_price": "单价29408元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4542792.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170314/18a03458-7b89-40a9-af22-ade1a7121214.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，低楼层，中等装修",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室2厅|86.71平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "255万"
+}{
+  "singel_price": "单价33333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865504.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/5d4a6678-ace6-442b-a08c-da595780c583.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，楼层好，毛坯房",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "3室2厅|120.0平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "400万"
+}{
+  "singel_price": "单价30194元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827515.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/d0b44d3b-02a4-40f0-807a-ca79267341c4.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，带落地窗，采光无遮挡，省装修费",
+  "s_cate": "宣桥",
+  "house_desc": [
+    "2室1厅|95.05平|高区/10层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "艺泰安邦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuanqiao",
+  "house_price": "287万"
+}

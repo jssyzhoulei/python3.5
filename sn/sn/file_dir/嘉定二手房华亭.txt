@@ -1,0 +1,154 @@
+{
+  "singel_price": "单价24019元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612969.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/9a538d1d-fcb2-4724-9e01-f220b4912b36.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，带飘窗，光线充足，毛坯房",
+  "s_cate": "华亭",
+  "house_desc": [
+    "2室2厅|87.43平|中区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "210万"
+}{
+  "singel_price": "单价27416元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761776.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/4beb55a6-cdb7-4efc-9fc3-6616ebfb930f.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，卧室带卫，高区采光好，装修精致",
+  "s_cate": "华亭",
+  "house_desc": [
+    "6室3厅|127.66平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "350万"
+}{
+  "singel_price": "单价25100元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706415.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170714/18535503-dc4a-426c-830c-2f4e84f8fedf.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，高区采光好，品质装修",
+  "s_cate": "华亭",
+  "house_desc": [
+    "6室2厅|211.15平|高区/3层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "530万"
+}{
+  "singel_price": "单价25496元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701375.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160927/240b56d0-8e20-4b90-8ed5-10c6599be65f.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，高区采光好，省装修费，满5年",
+  "s_cate": "华亭",
+  "house_desc": [
+    "3室2厅|127.47平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "325万"
+}{
+  "singel_price": "单价23241元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826393.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/fcebe7e3-572f-4a9a-9a5b-2870d507d4a3.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，好楼层，拎包入住",
+  "s_cate": "华亭",
+  "house_desc": [
+    "3室2厅|98.1平|中区/11层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "锦洋华园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "228万"
+}{
+  "singel_price": "单价22481元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699890.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/ad1b38b1-278e-4fe4-99f3-b6f00c6d239d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，高区阳光房，毛坯房",
+  "s_cate": "华亭",
+  "house_desc": [
+    "3室2厅|127.66平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "287万"
+}{
+  "singel_price": "单价22909元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673360.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/94876fed-ea49-415a-882f-866364eb1986.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "华亭佳苑，高区景观房，高清摄影，链家好房",
+  "s_cate": "华亭",
+  "house_desc": [
+    "2室2厅|87.3平|高区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "200万"
+}{
+  "singel_price": "单价23482元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4573802.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/19b72ca0-4c9e-4d44-8c59-79a42c905791.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "华亭佳苑，黄金楼层，上门实勘，链家真房源",
+  "s_cate": "华亭",
+  "house_desc": [
+    "2室2厅|87.3平|中区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "205万"
+}{
+  "singel_price": "单价25066元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4521275.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/3ffe7964-d2bb-4260-b93a-c298aa98043e.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，客厅朝南，低区出入方便，上门实勘",
+  "s_cate": "华亭",
+  "house_desc": [
+    "3室2厅|127.66平|低区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华亭佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huating",
+  "house_price": "320万"
+}

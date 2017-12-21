@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价62893元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802771.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170220/5fe48e1e-a01a-4bd4-b452-297b7e357134.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "地铁直达，好楼层，中等装修，满5年",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室1厅|62.01平|中区/7层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "西谈家渡路17弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "390万"
+}{
+  "singel_price": "单价85337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845740.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/b001e004-10d6-41d9-8d45-b6151eced503.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室1厅|51.56平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹家巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "440万"
+}{
+  "singel_price": "单价82441元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825491.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/cd37abca-b552-435b-9e36-ff1fa155834f.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通，客厅带阳台，交通便利，上下楼方便",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|150.41平|低区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "大华清水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "1240万"
+}{
+  "singel_price": "单价81461元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747921.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/cd48c0fe-f95c-43c8-91e3-9935818678c1.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "带飘窗，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室2厅|103.73平|中区/33层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "绿地世纪城（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "845万"
+}{
+  "singel_price": "单价75381元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4720090.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/c465e569-c866-40df-8d67-dff9e811b8b4.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，高区景观房",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室2厅|100.82平|高区/32层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "锦绿新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "760万"
+}{
+  "singel_price": "单价76615元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700690.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/4e8d1933-000a-47ae-9d47-fdc58a3b187a.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "出行方便，高区景观好，简单装修，满五减税",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室2厅|114.86平|高区/20层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "水岸豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "880万"
+}{
+  "singel_price": "单价82097元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872971.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161113/b2de2ac9-e06c-48dd-ad12-c7af303ce752.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "地铁房，上下楼方便，拎包入住，满5年",
+  "s_cate": "武宁",
+  "house_desc": [
+    "1室2厅|75.52平|低区/32层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新湖明珠城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "620万"
+}{
+  "singel_price": "单价66234元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4543585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170316/a90c1d8b-8e8a-41b9-9038-34419477d378.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁沿线，光线非常好",
+  "s_cate": "武宁",
+  "house_desc": [
+    "1室1厅|33.97平|高区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "江南新村（普陀）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "225万"
+}{
+  "singel_price": "单价64639元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740264.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160920/0ae4f8b5-6458-4520-be3b-ab25013b3f14.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁直达，低区出入方便",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|136.14平|低区/26层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "绿地世纪城（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "880万"
+}{
+  "singel_price": "单价69491元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719714.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/840f5b0e-d58e-488c-b13f-0a07b1e5fba5.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，楼层好",
+  "s_cate": "武宁",
+  "house_desc": [
+    "1室1厅|59.0平|中区/27层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "武宁小城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "410万"
+}{
+  "singel_price": "单价78538元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4689262.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170619/73a88b5b-2120-49ef-8ed8-a58f557decb2.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，客厅朝南，交通便利，低楼层",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|105.68平|低区/6层|朝西北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "光复新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "830万"
+}{
+  "singel_price": "单价69568元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666526.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/2280bf4f-032b-4cf5-9940-72efedf33280.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，楼层好",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室1厅|61.81平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "曹家巷小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "430万"
+}{
+  "singel_price": "单价82210元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4627635.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/c67d3c5c-c92b-493e-8fb4-142245376d9f.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|131.37平|中区/11层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "燕宁苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价76908元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4595820.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170418/f4e3ee1e-785a-4768-b8b0-5a1e19941fa0.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通便利，上下楼方便",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室1厅|53.7平|低区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "白玉新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "413万"
+}{
+  "singel_price": "单价79766元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594363.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/a609e0d8-5cf2-470b-befb-4579c643e18f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通透，带飘窗，交通便利，黄金楼层",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|140.41平|中区/29层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新湖明珠城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "1120万"
+}{
+  "singel_price": "单价73392元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4506524.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170212/848770b1-98c8-405e-bf78-8bd03abdc738.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，采光好",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室1厅|74.94平|高区/22层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "东沙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "550万"
+}{
+  "singel_price": "单价63717元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4458513.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161123/5ff1e68f-cb8f-437c-afe1-4f3c6d5f2da3.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光无遮挡",
+  "s_cate": "武宁",
+  "house_desc": [
+    "1室1厅|35.94平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "达丰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "229万"
+}{
+  "singel_price": "单价72057元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863229.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/3ddc98a0-bb02-4bfe-9e2c-8a923ac953e3.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，楼层好",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室2厅|74.94平|中区/22层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "东沙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "540万"
+}{
+  "singel_price": "单价79548元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825433.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/4cb55015-8d79-4171-97b2-18d043a79f4d.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁沿线，低楼层",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|138.28平|低区/15层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "绿地世纪城（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价80026元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643482.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/48b312ee-4a4c-4649-b28b-618a3ffe2026.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，地铁房，低区出入方便，精装修",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|119.96平|低区/8层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "江南名庐",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "960万"
+}{
+  "singel_price": "单价75739元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854645.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/d0340922-c928-4e88-a6d0-a572aebea22f.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "武宁",
+  "house_desc": [
+    "1室1厅|33.8平|中区/7层|朝东北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "白玉新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "256万"
+}{
+  "singel_price": "单价83235元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825436.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/f7d2a9f5-669e-4310-9496-83dbed000bb2.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，出行方便，好楼层",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室1厅|85.3平|中区/5层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "光复新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "710万"
+}{
+  "singel_price": "单价60425元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767988.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/ef19edb0-9485-47d5-9977-3bdb9a712b44.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，好楼层，简单装修",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室1厅|104.26平|中区/10层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "隆德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "630万"
+}{
+  "singel_price": "单价82966元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749249.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/7bd1648d-4465-4cc2-b95f-9bacf6b09905.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，视野开阔",
+  "s_cate": "武宁",
+  "house_desc": [
+    "1室0厅|29.53平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "普陀二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "245万"
+}{
+  "singel_price": "单价70577元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742447.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161027/ea6abd89-5041-4af2-80b9-05be145bcc15.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室2厅|90.68平|高区/14层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "朝阳大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "640万"
+}{
+  "singel_price": "单价58275元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4442872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170108/1eb60661-9bf0-42da-b1c0-85714c479f3d.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光无遮挡",
+  "s_cate": "武宁",
+  "house_desc": [
+    "1室1厅|47.19平|高区/7层|朝东"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "西谈家渡路39弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "275万"
+}{
+  "singel_price": "单价67860元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4518660.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160903/a9da4d30-d65b-4860-9a4d-de8af9d61c86.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀罕南北通，交通便利，高区景观房，品质装修",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室1厅|85.47平|高区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "白玉新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "580万"
+}{
+  "singel_price": "单价94613元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724049.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/4847187b-1e49-4278-b176-a58b77baca7a.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，出行方便，楼层好，有钥匙",
+  "s_cate": "武宁",
+  "house_desc": [
+    "3室2厅|147.97平|中区/18层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新湖明珠城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价74725元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815135.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/94d6dbe0-2f10-489a-af5e-e01b9d4b8b77.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室2厅|91.0平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "光复新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "680万"
+}{
+  "singel_price": "单价77747元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800849.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/193e2151-18d7-40d5-a527-70bb0226b18e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，交通便利，上下楼方便",
+  "s_cate": "武宁",
+  "house_desc": [
+    "2室2厅|105.47平|低区/16层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "绿地世纪城（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuning",
+  "house_price": "820万"
+}

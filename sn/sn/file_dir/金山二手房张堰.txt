@@ -1,0 +1,69 @@
+{
+  "singel_price": "单价20256元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844310.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/72a8b54e-4ee0-4dc2-94b7-ef5edb8e691d.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "高区景观好，精装修，满二减税，上门实拍",
+  "s_cate": "张堰",
+  "house_desc": [
+    "2室2厅|78.0平|高区/5层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "绿地金卫新家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangyan",
+  "house_price": "158万"
+}{
+  "singel_price": "单价28042元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4686475.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/54994ef0-9124-4ed8-9f4d-413481266661.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，采光无遮挡，精装修，满二减税",
+  "s_cate": "张堰",
+  "house_desc": [
+    "2室2厅|89.15平|高区/8层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "金悦华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangyan",
+  "house_price": "250万"
+}{
+  "singel_price": "单价22376元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4640523.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/373bf195-a3a5-4818-b3c3-449df2ef0baa.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "绿地芳满庭，低区出入方便，房本满两年，上门实勘",
+  "s_cate": "张堰",
+  "house_desc": [
+    "3室2厅|93.85平|低区/11层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "绿地芳满庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangyan",
+  "house_price": "210万"
+}{
+  "singel_price": "单价26385元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816686.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/f05c92eb-d51e-4bab-8efa-c147b25a5255.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "绿地芳满庭，低楼层，上门实拍，链家真房源",
+  "s_cate": "张堰",
+  "house_desc": [
+    "2室1厅|64.43平|低区/11层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "绿地芳满庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangyan",
+  "house_price": "170万"
+}

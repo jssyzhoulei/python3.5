@@ -1,0 +1,133 @@
+{
+  "singel_price": "单价27916元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778092.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/7ac60393-0798-49b8-84ad-dfd84f5cc2b5.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "高区景观房，满5年，实地看房，上门实勘",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "2室1厅|50.15平|高区/6层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "东门新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "140万"
+}{
+  "singel_price": "单价21604元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777191.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/b6a5bd36-fa0d-4bb8-8924-89f3830f47fb.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "低楼层，中等装修，满五年，上门实拍",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "3室1厅|81.0平|低区/6层|朝东南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "利民路95号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "175万"
+}{
+  "singel_price": "单价26265元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4838486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/07727e89-1abb-43fc-992e-ab0ae13fb9f7.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "视野很好，简单装修，满二年，热门带看",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "2室1厅|57.11平|高区/5层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "东门新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "150万"
+}{
+  "singel_price": "单价23360元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862802.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/619dc299-9dcd-4449-acec-7bf8947b9110.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "视野很好，拎包入住，满五年，上门实勘",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "4室2厅|166.95平|高区/6层|朝南"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "西门路105号（崇明）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "390万"
+}{
+  "singel_price": "单价26393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751463.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/82f7cdc6-18e0-43da-afdc-e2052e5855da.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀缺南北通，黄金楼层，中等装修，房本满五年",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "2室1厅|74.26平|中区/4层|朝南北"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "东门新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "196万"
+}{
+  "singel_price": "单价25082元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749952.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170809/ff4f1aba-5b72-46f6-8a52-050d29688a74.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，好楼层，装修精美，房本满两年",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "3室1厅|84.92平|中区/5层|朝南北"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "观潮新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "213万"
+}{
+  "singel_price": "单价18630元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842765.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/d73cc3a8-0729-4791-a8f3-4dff264e9784.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "明珠花苑，高区景观房，上门实拍，链家好房",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "3室2厅|146.0平|高区/5层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "明珠花苑（崇明）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "272万"
+}{
+  "singel_price": "单价25701元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/chongming",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664155.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/1057496d-4db4-41c1-b44e-46113bcaffd4.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "东门新村，低楼层，简单装修，上门实勘",
+  "s_cate": "崇明新城",
+  "house_desc": [
+    "3室1厅|71.98平|低区/6层"
+  ],
+  "district": "崇明二手房",
+  "house_detail": "东门新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chongmingxincheng",
+  "house_price": "185万"
+}

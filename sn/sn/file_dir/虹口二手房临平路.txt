@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价106362元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829823.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/3ea9f6bf-4d3a-467b-9ec6-e31d369fcfd9.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北直通，卧室全南，地铁房，好楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室1厅|51.24平|中区/39层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "545万"
+}{
+  "singel_price": "单价95303元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4803415.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/da4cf022-d13e-4b57-91e5-76f270fcc22b.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，地铁房，高区景观好",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|131.16平|高区/31层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "爱家豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价64816元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709222.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/f2de2c87-63db-4f38-bdb5-6793e2710eae.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，好楼层，中等装修",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室1厅|70.97平|中区/30层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "远虹大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "460万"
+}{
+  "singel_price": "单价72736元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663271.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/e6523bf4-d5da-486c-bda1-c539adf746e7.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "地铁沿线，黄金楼层，简单装修，满五减税",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室1厅|39.87平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "远洋新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "290万"
+}{
+  "singel_price": "单价69349元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648263.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/0dc0f10d-3b85-4744-9cdb-42a1c9fbc5ee.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，光线充足",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室1厅|43.98平|中区/6层|朝东南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大连小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "305万"
+}{
+  "singel_price": "单价52793元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605298.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/46ef0424-ab85-476c-ab37-794c26002bac.jpg_200x150.jpg",
+  "house_time": [
+    "1957年建"
+  ],
+  "house_title": "厨卫全明，出行方便，低区出入方便，精装修",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室1厅|45.46平|低区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "榆兰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "240万"
+}{
+  "singel_price": "单价86195元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590581.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170425/f9744c73-8551-48d8-9d8d-d494ee5c1311.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|148.5平|低区/29层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "中信虹港名庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1280万"
+}{
+  "singel_price": "单价84632元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4474072.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/d918ba67-28a2-4e2a-8fc6-86b1d32e34ef.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，地铁直达，高区采光好，精装修",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|141.79平|高区/31层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "浦江名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价77114元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861403.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/44d86227-038c-45c9-b330-41c9636a740c.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "地铁房，黄金楼层，装修精美，满五减税",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室0厅|32.16平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "胡家木桥路35弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "248万"
+}{
+  "singel_price": "单价79793元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571499.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170403/c55fb92d-61b1-4ab3-970a-b5c70f384c71.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁沿线，上下楼方便",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|120.31平|低区/33层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "凯虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "960万"
+}{
+  "singel_price": "单价75440元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4373548.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160716/80b42109-eae4-430a-ae68-b0598f7c3ce3.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室1厅|59.65平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "通海小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "450万"
+}{
+  "singel_price": "单价74679元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858774.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170106/5817243e-3b9f-4ff4-a05d-fe5b35a75723.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，高区阳光房，简单装修",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室1厅|70.97平|高区/30层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "远虹大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "530万"
+}{
+  "singel_price": "单价91284元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855653.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/b8f20b1d-597f-4692-9b37-447d2327d5e1.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通便利，高区采光好",
+  "s_cate": "临平路",
+  "house_desc": [
+    "4室2厅|147.89平|高区/39层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城二期(优贤生活)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价73614元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854397.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/ad5cdc4d-66b2-4324-a5a5-348e64e9612a.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通方便，楼层好",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|129.05平|中区/17层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹领公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "950万"
+}{
+  "singel_price": "单价82972元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833762.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/7da84bbb-917a-48b7-8271-af1f1865b62e.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "带飘窗，卧室带卫，地铁直达，黄金楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|111.0平|中区/39层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "921万"
+}{
+  "singel_price": "单价93311元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/69efab1a-2c78-494a-ab87-0670c5707304.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁直达，视野开阔",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|101.81平|高区/29层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "紫虹嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "950万"
+}{
+  "singel_price": "单价82480元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753926.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/2edc995a-b23c-4df4-8908-eb85feb3b828.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，地铁直达，楼层好",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|130.94平|中区/29层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "东方都市景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价104248元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719383.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/626ce60d-2945-4dff-a3f3-f02285ab52e9.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，出行方便，上下楼方便",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室1厅|50.84平|低区/39层|朝西"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "530万"
+}{
+  "singel_price": "单价72944元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4646573.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/b3bd4917-182d-44e6-84c3-c800aa6b81da.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "地铁房，好楼层，简单装修，房本满五年",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|101.31平|中区/33层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "凯虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "739万"
+}{
+  "singel_price": "单价64202元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4636010.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/b9b60424-f4c2-41e2-aa10-5868bdeb2449.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，好楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室1厅|77.1平|中区/26层|朝东"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "大连小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "495万"
+}{
+  "singel_price": "单价83026元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4591964.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/a8023c64-9160-4034-8620-37f4d8816483.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室2厅|84.31平|中区/28层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "紫虹嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "700万"
+}{
+  "singel_price": "单价75334元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4524106.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/4039402c-16e6-49f5-9f80-1609e5cdfb73.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，光线充足",
+  "s_cate": "临平路",
+  "house_desc": [
+    "1室1厅|32.92平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "通海小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "248万"
+}{
+  "singel_price": "单价77705元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4441746.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161217/9928061d-33f0-4503-b7af-adfcaf816bd9.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通便利，上下楼方便",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|154.43平|低区/14层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "金轩大邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价75833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4272295.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170101/724a323b-ebbf-435e-ba1f-23c97a341a9c.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，好楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|100.22平|中区/32层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "香港丽园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "760万"
+}{
+  "singel_price": "单价95217元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4231997.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170208/cf15cf40-3f48-44ee-a32a-d604e5d0f522.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，光线充足",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|93.47平|中区/39层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城二期(优贤生活)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "890万"
+}{
+  "singel_price": "单价77173元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4148473.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161229/d20ea96a-db18-4e2a-89f1-2f5b6bb367bd.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通便利，好楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|165.86平|中区/29层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "浦江名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1280万"
+}{
+  "singel_price": "单价88028元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1080098.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20140708/47f77ba4-608f-4112-92ff-54fa87b4e543.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，出行方便，光线充足，品味装修",
+  "s_cate": "临平路",
+  "house_desc": [
+    "3室2厅|124.96平|中区/39层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价104494元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867971.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171127/3896a833-6344-48ba-94ba-779fb18983a9.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁沿线，黄金楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|89.0平|中区/37层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城铭庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "930万"
+}{
+  "singel_price": "单价111160元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534750.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/7aa99fcc-a61f-477a-8ae9-dc6d90dc1759.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "交通方便，光线充足，装修精美，满二减税",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|89.51平|中区/39层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "瑞虹新城铭庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "995万"
+}{
+  "singel_price": "单价75902元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867615.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/0bd72ab1-6ecf-4827-afaa-683c93c79957.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，好楼层",
+  "s_cate": "临平路",
+  "house_desc": [
+    "2室2厅|135.7平|中区/31层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "浦江名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/linpinglu",
+  "house_price": "1030万"
+}

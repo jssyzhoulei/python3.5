@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价20766元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4690349.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/6128bf89-d019-414e-9d22-acae53057511.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，客厅带阳台，上下楼方便，省装修费",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室1厅|96.31平|低区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "200万"
+}{
+  "singel_price": "单价19587元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4632587.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170512/3342d023-aed5-440b-9459-6afb1129bbe6.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，客厅朝南，黄金楼层，精装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室2厅|97.0平|中区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "190万"
+}{
+  "singel_price": "单价16170元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581898.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/a6ecbf79-7941-4dd0-a090-3b86b824b281.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，带落地窗，低区出入方便，中等装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|135.43平|低区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "219万"
+}{
+  "singel_price": "单价13615元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170315/8a4485fd-f2a8-468f-83ed-afac0c433cbd.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，高区阳光房，满5年",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|135.87平|高区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "185万"
+}{
+  "singel_price": "单价17391元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787641.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/88016541-ded6-410e-87ac-4fef02710dfd.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "楼层好，装修精致，满五年，热销好房",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|115.0平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "200万"
+}{
+  "singel_price": "单价18806元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735089.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/b5f85b2c-f8f4-4522-8564-f510cd43cbcf.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，客厅朝南，黄金楼层，简单装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室2厅|95.18平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "179万"
+}{
+  "singel_price": "单价18078元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/de23ef93-b52c-47cc-bc67-f2b124d81643.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "光线充足，省装修费，房本满五年，热推好房",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|129.99平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "235万"
+}{
+  "singel_price": "单价18122元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845372.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/dbb57ff1-82b7-43f5-a19a-e162ba2d40e6.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，卧室全南，高区景观房，拎包入住",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室1厅|171.06平|高区/3层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "310万"
+}{
+  "singel_price": "单价18905元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727056.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/a4921f8b-5a5d-4697-b2c0-be606ed70e0d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，带飘窗，楼层好，毛坯房",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室2厅|100.5平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "190万"
+}{
+  "singel_price": "单价18001元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667111.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170605/4a2ef945-bbec-44ad-93ca-605cf8be6181.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "光线充足，省装修费，满五年，热门带看",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|129.99平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "234万"
+}{
+  "singel_price": "单价21938元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170424/7d7c14aa-930a-4808-b2e1-a09d483fd747.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，厨卫全明，黄金楼层，豪华装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室2厅|98.0平|中区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "215万"
+}{
+  "singel_price": "单价19924元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4656519.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/f65cbd3f-021d-4867-add9-c1e01e6017d3.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，带飘窗，黄金楼层，中等装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|133.0平|中区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北港和景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "265万"
+}{
+  "singel_price": "单价18903元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4637386.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161106/5a0c7271-aa3a-4e41-8e1b-099b0ea95ac6.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "黄金楼层，装修精美，满五减税，热门房源",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|132.25平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "250万"
+}{
+  "singel_price": "单价19233元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4587599.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/661db77f-30f1-42be-aa2d-9199d0e2648b.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，光线充足，精装修，满5年",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|132.58平|中区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北港和景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "255万"
+}{
+  "singel_price": "单价20059元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4548187.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/07fafb93-c1d9-4c53-bc0d-d5bb620fb06d.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，上下楼方便，拎包入住",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|111.67平|低区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北港和景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "224万"
+}{
+  "singel_price": "单价18799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4510766.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170315/131106d4-b5e8-4ea8-9cac-06ebf474164e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "好楼层，毛坯房，满5年，实地看房",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|127.66平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "240万"
+}{
+  "singel_price": "单价20422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4481922.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170114/fab1c0f7-ef56-4d10-a9d3-917b20f7f406.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，厨卫全明，低楼层，品味装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|112.62平|低区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北港和景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "230万"
+}{
+  "singel_price": "单价24090元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537481.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170308/390b7829-4639-4310-8e17-b945168e2caf.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，低区出入方便，毛坯房",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室1厅|87.17平|低区/3层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "210万"
+}{
+  "singel_price": "单价20075元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815421.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/cef6fdc7-40e3-49da-b4c7-26d3cd1c4a99.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "带飘窗，卧室全南，楼层好，中等装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室1厅|87.17平|中区/3层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "175万"
+}{
+  "singel_price": "单价16731元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781390.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/f022cebc-a390-4312-9223-fc389d8e49e5.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，带飘窗，光线充足，品质装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "4室3厅|179.3平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "300万"
+}{
+  "singel_price": "单价17859元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/4ff3bfdf-31b9-4666-b259-0b1eccc9f789.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，采光好，中等装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|127.66平|高区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "228万"
+}{
+  "singel_price": "单价17226元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610204.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170310/190f96e9-37bd-4742-8beb-6feecc8f9fcd.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，带飘窗，高区阳光房，品质装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "4室2厅|179.96平|高区/3层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "310万"
+}{
+  "singel_price": "单价16670元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698266.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/b72f82ed-3bb5-4769-bcc2-783ada58f821.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "高区采光好，满五减税，热门房源，高清摄影",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|179.96平|高区/3层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "300万"
+}{
+  "singel_price": "单价19971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4562769.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/d0a0a71c-4fd7-4747-96e2-7a4ee88229fb.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，客厅朝南，高区采光好，毛坯房",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室2厅|97.64平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北港和景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "195万"
+}{
+  "singel_price": "单价18226元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4866506.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161207/a166614a-8898-453a-b222-8ef3804e59ff.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅带阳台，光线充足，品味装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室2厅|128.93平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北唐新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "235万"
+}{
+  "singel_price": "单价17317元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847916.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/95939b7d-052d-41e3-9de4-c4a9e697d574.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，简单装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室1厅|82.0平|中区/5层|朝东"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "长丰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "142万"
+}{
+  "singel_price": "单价12500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847584.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161029/bdd4e615-eade-44bb-8e65-347d1c82fe00.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，带飘窗，低楼层，简单装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "4室2厅|240.0平|低区/6层|朝东"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "北港和景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "300万"
+}{
+  "singel_price": "单价19751元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793381.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/319c9521-f2d8-4bea-9ee0-5ee8e00ad531.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，高区采光好，房本满五年，高清实拍",
+  "s_cate": "青村",
+  "house_desc": [
+    "3室1厅|86.07平|高区/3层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "南奉公路3015弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "170万"
+}{
+  "singel_price": "单价17767元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4726156.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/5f05565d-e225-4637-a7f7-e2a084079a7d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，卧室带阳台，高区采光好，品质装修",
+  "s_cate": "青村",
+  "house_desc": [
+    "2室2厅|87.8平|高区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "文化新村（青村）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "156万"
+}{
+  "singel_price": "单价23481元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556228.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/4a249aa3-8c02-42fb-892e-21204205fe22.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，客厅朝南，高区景观好，省装修费",
+  "s_cate": "青村",
+  "house_desc": [
+    "4室2厅|97.95平|高区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "钱桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qingcun",
+  "house_price": "230万"
+}

@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价15100元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760274.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/351d762b-cd0e-4e3a-a436-72eba3bde271.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，毛坯房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|47.68平|中区/2层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "中港二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "72万"
+}{
+  "singel_price": "单价16608元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4659787.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/9daed99b-84cf-4bf8-b35e-5758eb8cab6c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，楼层好，品味装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|63.22平|中区/3层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "中港三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "105万"
+}{
+  "singel_price": "单价21637元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712619.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170512/93a50d83-51b7-4ea4-86e7-7e7e45c8b9c0.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，光线充足，品味装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|55.46平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "海滨新二村（奉贤）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "120万"
+}{
+  "singel_price": "单价21903元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4613620.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/1bae840c-e0b0-49b0-9257-d731b61493ff.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，高区景观房，精装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|50.22平|高区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "星火农场海滨三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "110万"
+}{
+  "singel_price": "单价27692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624460.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/cef42b2a-a817-48ff-9701-b7d1a43f7436.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，毛坯房，房本满五年，随到随看",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室2厅|130.0平|地上3层|(进门)南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "360万"
+}{
+  "singel_price": "单价22522元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822783.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/5bc722d3-61f3-4e9e-bdd8-f0881b1cd299.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "卧室带阳台，楼层好，简单装修，满两年",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|62.16平|中区/8层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "140万"
+}{
+  "singel_price": "单价22620元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773093.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/3e8fec51-2fa1-410b-9662-1e347948fbb6.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "卧室带阳台，黄金楼层，装修精致，房本满两年",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|61.89平|中区/8层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "140万"
+}{
+  "singel_price": "单价22222元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763490.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/9404656b-b225-415f-ab25-74fb9ef40fe1.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "卧室带阳台，黄金楼层，毛坯房，满两年",
+  "s_cate": "海湾",
+  "house_desc": [
+    "1室1厅|63.0平|中区/8层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "140万"
+}{
+  "singel_price": "单价29614元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755002.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170815/e768d285-6423-498b-abd6-b3001a72d627.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "毛坯房，满二减税，随时看房，热推好房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "4室2厅|124.94平|地上3层|(进门)南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "370万"
+}{
+  "singel_price": "单价21129元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742008.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/82e33ae8-47fe-4b66-82b7-039b37e532dc.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，上下楼方便，品味装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室2厅|85.19平|低区/8层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "180万"
+}{
+  "singel_price": "单价20883元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738143.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/25bb3705-b0db-4cdb-8a98-b65002984311.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低区出入方便，毛坯房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "1室1厅|62.25平|低区/8层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "130万"
+}{
+  "singel_price": "单价22400元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705199.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170720/79e358f1-f74c-4f54-8e88-85bea1435d28.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "卧室带阳台，低区出入方便，简单装修，满两年",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|62.5平|低区/8层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "140万"
+}{
+  "singel_price": "单价20746元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666005.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170605/89077328-0cf8-498c-85e9-26ae65145ed8.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "高区采光好，毛坯房，满2年，随时看房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|86.76平|高区/18层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "海尚墅林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "180万"
+}{
+  "singel_price": "单价23428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4654559.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/e60c6219-2aed-4e48-96f0-42e5434514cb.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "好楼层，装修精致，满二年，钥匙在手",
+  "s_cate": "海湾",
+  "house_desc": [
+    "3室1厅|61.89平|中区/8层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "145万"
+}{
+  "singel_price": "单价32116元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4627936.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/8002e142-fd2f-4e7f-aaf6-83c83691188b.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北户型，毛坯房，满2年，钥匙在手",
+  "s_cate": "海湾",
+  "house_desc": [
+    "5室2厅|137.0平|地上3层|(进门)南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "440万"
+}{
+  "singel_price": "单价21645元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4492158.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170123/26740935-a12a-4714-b4a2-c338e33766e4.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，视野很好，精装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "3室1厅|87.78平|高区/18层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "海尚墅林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "190万"
+}{
+  "singel_price": "单价22297元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4489896.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/36c0fd99-dd28-4425-96ff-0b5c26d93402.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "卧室带阳台，楼层好，满二年，随时可看",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|61.89平|中区/8层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "138万"
+}{
+  "singel_price": "单价23743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4325595.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170217/18268cae-343d-41de-a6b1-c51be9fab4a8.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，好楼层，毛坯房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "1室2厅|71.6平|中区/17层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "海尚墅林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "170万"
+}{
+  "singel_price": "单价22201元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4550597.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/632081e2-1ad0-43f4-833f-9cbad43975f8.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，低区出入方便，品味装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "3室2厅|87.83平|低区/11层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "佳兆业珊瑚湾（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "195万"
+}{
+  "singel_price": "单价16216元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856705.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/88d83c7e-f0dd-4662-a6b3-74fd48b1bd7e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，卧室带卫，低区出入方便，毛坯房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "3室1厅|111.0平|低区/11层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "明城玫瑰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "180万"
+}{
+  "singel_price": "单价20878元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/47e14eb6-43b4-4025-9fc1-5de309c7880e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，厨卫全明，采光无遮挡，装修精致",
+  "s_cate": "海湾",
+  "house_desc": [
+    "1室1厅|55.08平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "明城玫瑰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "115万"
+}{
+  "singel_price": "单价14052元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788279.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160627/b69e8aae-50c3-4716-b10d-0147048883c8.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，毛坯房，来电即看，热推好房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "5室3厅|348.69平|地上3层|(进门)南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "棕榈滩别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "490万"
+}{
+  "singel_price": "单价22293元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747191.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/4da89435-08ce-471c-9e4e-1cf63cfe3e0a.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通，客厅朝南，低区出入方便，拎包入住",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室2厅|80.74平|低区/8层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "180万"
+}{
+  "singel_price": "单价20041元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647279.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170314/7c7d3341-3ff2-403c-b3a2-ed1df3ff80ba.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，简单装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|62.37平|中区/8层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "125万"
+}{
+  "singel_price": "单价20000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624347.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161210/f7670626-d4a8-450e-934d-1a806f2712b0.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅朝南，光线充足，简单装修",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|73.0平|中区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "明城玫瑰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "146万"
+}{
+  "singel_price": "单价22690元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619234.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/857bbf88-f1c9-4a34-af75-c95ba2b47c4b.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，视野很好，毛坯房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "1室1厅|62.58平|高区/8层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "142万"
+}{
+  "singel_price": "单价16627元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4563505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/d20709a1-7fff-4544-b553-bd1601bc0b4b.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北户型，毛坯房，随时可看，火爆热销",
+  "s_cate": "海湾",
+  "house_desc": [
+    "5室2厅|421.0平|地上2层|(进门)南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "700万"
+}{
+  "singel_price": "单价17283元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561513.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/75edc02a-b243-4efe-a7f1-aace8cc63ce5.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低区出入方便，毛坯房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室2厅|81.0平|低区/16层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "棕榈滩海景城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "140万"
+}{
+  "singel_price": "单价28225元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4401851.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170115/c04edf49-6750-4603-bb4a-4cc1bc6ba848.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，毛坯房，随时可看，热销好房",
+  "s_cate": "海湾",
+  "house_desc": [
+    "4室2厅|124.0平|地上3层|(进门)南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地香颂（奉贤）（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价21052元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798721.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/b935627d-ebd6-4499-a222-462894cec282.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，上下楼方便，精装修，满五年",
+  "s_cate": "海湾",
+  "house_desc": [
+    "2室1厅|57.0平|低区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "星火农场海滨一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/haiwan",
+  "house_price": "120万"
+}

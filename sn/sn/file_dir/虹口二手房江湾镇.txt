@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价59799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793294.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/54e2a9a2-d0ed-478b-8e8c-8cf43f1c4b84.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|51.84平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "310万"
+}{
+  "singel_price": "单价56292元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768951.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/0feb5133-fd2c-4482-9a78-ea4875129015.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，好楼层",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "3室1厅|104.81平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "纪念小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "590万"
+}{
+  "singel_price": "单价63601元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558942.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170321/c28834b3-1e8e-4393-a7d6-8eec62fb0996.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁房，低区出入方便",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "3室2厅|157.23平|低区/8层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "久久公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价59493元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4409095.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161128/331822a4-9005-4159-98fc-c80084a966f4.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "房型正气，地铁沿线，高区采光好，精装修",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|79.0平|高区/5层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "龙腾小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "470万"
+}{
+  "singel_price": "单价58399元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855605.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/c37ed030-ec6d-47e5-8f6e-fbba010a9bdd.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，黄金楼层",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|40.24平|中区/6层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "吴家湾路200弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "235万"
+}{
+  "singel_price": "单价53948元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841774.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/8926266b-df66-41e0-b060-a7f1f694ee2a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁直达，好楼层",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|61.17平|中区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "丰镇路16弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "330万"
+}{
+  "singel_price": "单价55527元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784138.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/3c1aebc4-e8fb-485b-a361-8bebc4fb3f62.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，光线充足",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|39.98平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新市南路1130弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "222万"
+}{
+  "singel_price": "单价54969元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4689902.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/e1c9b95b-51ad-4662-8a7f-45b379211980.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观好",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|44.57平|高区/7层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "春江小区（虹口）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "245万"
+}{
+  "singel_price": "单价56387元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4299449.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/be68d090-dbd7-4860-8945-6439f2b76f82.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁沿线，视野开阔，简单装修，满五减税",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|54.09平|高区/6层|朝西北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "民华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "305万"
+}{
+  "singel_price": "单价60801元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830574.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/28bcfdc6-22c4-4d7e-9a3f-693ca53e8775.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|37.17平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "逸仙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "226万"
+}{
+  "singel_price": "单价54285元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778016.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/bb8692e0-1c1e-4b8c-ba78-100653f73a55.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，光线充足",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|64.29平|中区/6层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "民华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "349万"
+}{
+  "singel_price": "单价85400元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761992.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/34e5cabe-1c32-48ac-8063-5d7685557c99.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室全南，交通方便，楼层好，房本满五年",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|42.74平|中区/17层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欣逸家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "365万"
+}{
+  "singel_price": "单价55165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755871.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/3766e61e-c362-4611-b43e-95c4ae75519f.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，采光好",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|41.33平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "仁德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "228万"
+}{
+  "singel_price": "单价67478元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724630.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/9bd12e26-32f5-45b6-a1f2-f6e332c04c7b.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室全南，交通便利，高区景观好，简单装修",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|60.76平|高区/18层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "丰二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "410万"
+}{
+  "singel_price": "单价56324元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4320719.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161020/010f3c2d-ef8d-4a0b-b091-20c2bfadd857.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，中等装修，满五减税",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室2厅|120.73平|低区/28层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新海城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "680万"
+}{
+  "singel_price": "单价78652元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3248197.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161209/69694bf9-30d0-4840-806a-4dce31986510.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "出行方便，楼层好，简单装修，满五年",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室2厅|99.17平|中区/15层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欣逸家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "780万"
+}{
+  "singel_price": "单价64126元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652734.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/913ebffd-c652-4f89-84eb-71672fb84504.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁房，黄金楼层",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|53.8平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新丰家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "345万"
+}{
+  "singel_price": "单价57797元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/1db39574-58f9-4793-a6f9-700e161b25aa.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通方便，低区出入方便",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|58.48平|低区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新市家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "338万"
+}{
+  "singel_price": "单价61744元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814597.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/3e531120-4351-4d23-96a9-2b7c5366a0a2.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区阳光房",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室0厅|38.87平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "逸仙小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "240万"
+}{
+  "singel_price": "单价61087元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/8dd82187-78a3-4364-87e3-41efa1dcaed5.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，黄金楼层",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|32.74平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "韶嘉路51弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "200万"
+}{
+  "singel_price": "单价64295元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4609632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170427/8f99ef28-a52a-4d2b-8689-fec78e787227.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，好楼层",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室2厅|96.43平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "文致公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "620万"
+}{
+  "singel_price": "单价67220元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4533868.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170714/e2a9da2e-856b-4aab-9874-b565408d8bea.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光无遮挡",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室0厅|50.58平|高区/7层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新市南路1148弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "340万"
+}{
+  "singel_price": "单价61411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4445394.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/6a050d2e-b84d-425f-ad2d-af458033de80.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室0厅|35.01平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新市家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "215万"
+}{
+  "singel_price": "单价58725元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840214.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/9ed2abe7-f056-472c-9342-0801856f7a68.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|102.17平|高区/14层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "新市公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "600万"
+}{
+  "singel_price": "单价57936元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758080.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/16c9743f-93d4-4c9d-b411-9907bf542e35.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁直达，低楼层，品质装修，钥匙房",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|63.0平|低区/6层|朝西南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "纪念小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "365万"
+}{
+  "singel_price": "单价52894元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4636817.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161031/e5cb4d6f-dd3f-4f9e-83e8-fbb6dd5e26db.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，高区景观房",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室0厅|50.1平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "纪念小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "265万"
+}{
+  "singel_price": "单价65337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791725.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161225/5fb14bc5-b120-438e-8201-59a545fece3c.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，地铁沿线，低区出入方便",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "3室2厅|149.99平|低区/8层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "久久公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "980万"
+}{
+  "singel_price": "单价60853元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791332.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/981b7d2d-c0fa-4803-bfbf-b400910cd24e.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，楼层好",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "1室1厅|50.12平|中区/6层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "三兴苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "305万"
+}{
+  "singel_price": "单价65776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790600.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/55eb3dd1-ae34-47bc-b2dd-ce81fe6878fc.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，好楼层",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室1厅|50.17平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "三兴苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "330万"
+}{
+  "singel_price": "单价64337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771629.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/b1276c21-dc78-4926-afab-03aabcc3e256.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，出行方便，光线充足",
+  "s_cate": "江湾镇",
+  "house_desc": [
+    "2室2厅|79.27平|中区/12层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "海尚逸苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiangwanzhen",
+  "house_price": "510万"
+}

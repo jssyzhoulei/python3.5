@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价79056元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809942.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160916/ec4a1c4a-ebe6-4d43-b674-2aa84bf2cb76.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，地铁直达，光线充足",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|161.91平|中区/20层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "加州水郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1280万"
+}{
+  "singel_price": "单价96312元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558885.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/bd4680c6-86c9-463b-8c15-1983321f45e3.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|145.36平|中区/11层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "九龙仓玺园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价68697元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4481680.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170712/a8309694-c6dc-4556-8f16-f1ccd30eefbb.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "地铁直达，黄金楼层，满5年，随时可看",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|87.34平|中区/6层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "新江湾时代花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "600万"
+}{
+  "singel_price": "单价75819元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4423682.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/19c025bd-01f6-4953-8a3d-290dc5a1c1da.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通便利，采光无遮挡",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|85.73平|高区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "新江湾时代花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "650万"
+}{
+  "singel_price": "单价79762元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4290714.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160923/bde9ecb3-71bf-46ae-b8b6-baf24c0bb5e3.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，带飘窗，黄金楼层，毛坯房",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|147.94平|中区/17层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "合生江湾国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1180万"
+}{
+  "singel_price": "单价88339元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4723004.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/240295be-9ecc-455b-b861-75a7ad2029ed.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，地铁房，视野很好",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室2厅|283.0平|高区/17层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "嘉誉湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "2500万"
+}{
+  "singel_price": "单价79380元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841670.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/698f5eae-8b3c-4f1e-8919-44d60f9f092b.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，带飘窗，上下楼方便，品质装修",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|103.3平|低区/11层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "合生江湾国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "820万"
+}{
+  "singel_price": "单价76874元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763536.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/eca6d4cf-c3e4-4912-af08-b4df8b71dcd0.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，黄金楼层，品味装修",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|111.87平|中区/14层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "合生江湾国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "860万"
+}{
+  "singel_price": "单价95849元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808325.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/3b876377-dbde-48b0-b976-26b4864ab37d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，客厅朝南，地铁沿线，楼层好",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室2厅|193.01平|中区/17层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "嘉誉湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1850万"
+}{
+  "singel_price": "单价83935元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728001.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170210/c10a4cf1-49c8-448a-b6e7-6793f1e307fb.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "房型正气，卧室带卫，地铁沿线，光线非常好",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|196.58平|高区/14层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "尚浦名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1650万"
+}{
+  "singel_price": "单价57121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681161.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/d8fe45ca-1d21-454b-8178-ae727b82d048.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "交通便利，省装修费，看房方便，火爆热销",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "5室2厅|490.18平|地上3层|(进门)南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "银亿领墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "2800万"
+}{
+  "singel_price": "单价80321元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170321/e23d6914-42b2-4460-bb10-866dacbcfbc1.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通便利，高区景观好",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|249.0平|高区/23层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "尚浦名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "2000万"
+}{
+  "singel_price": "单价85004元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727577.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/425bd2bc-0de0-4918-8d84-f62631f6ba39.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，出行方便，光线充足",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室2厅|199.99平|中区/16层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "加州水郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价70984元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4530060.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170303/1d6ce48d-ff93-4d3a-85fa-af2de93fbfd1.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，黄金楼层",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|96.5平|中区/5层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "新江湾时代花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "685万"
+}{
+  "singel_price": "单价91407元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4474721.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170105/61a02282-1e17-4ef6-88c6-28f543534786.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通便利，低楼层",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室2厅|196.92平|低区/7层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "仁恒怡庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价77477元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4460893.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161226/f4175593-5347-4a4a-af61-1a60ad134211.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，低区出入方便",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室1厅|91.64平|低区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "新江湾时代花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "710万"
+}{
+  "singel_price": "单价97987元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1061400.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161101/a5eb8989-8018-4694-af16-407dea7da388.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀罕南北通，地铁直达，楼层好，装修精美",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室2厅|209.21平|中区/4层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "仁恒怡庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "2050万"
+}{
+  "singel_price": "单价38403元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701570.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/256f6282-6ede-4097-8c98-9ffb0b60685f.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀缺南北通，交通便利，低楼层，简单装修",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室3厅|664.0平|低区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "祥生御江湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "2550万"
+}{
+  "singel_price": "单价94334元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4471620.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170102/f53b80e4-56d5-47db-9278-851a941b921b.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁直达，高区景观房",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室2厅|180.21平|高区/8层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "祥生御江湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价96548元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4356996.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/d6bf5698-e10b-4b00-93a6-e5e576dcff44.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，地铁沿线，好楼层，品质装修",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "4室2厅|201.97平|中区/13层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "嘉誉湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1950万"
+}{
+  "singel_price": "单价100211元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4505335.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/f9a2e9a0-d9de-44bf-9f35-4cc7d9f6495f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "地铁房，品质装修，房本满两年，业主新委托",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "5室2厅|259.45平|地上6层|(进门)南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "中建大公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "2600万"
+}{
+  "singel_price": "单价88215元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850882.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/bfed7fe6-a192-4a72-a6e2-14b693f9bed2.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通透，带飘窗，地铁沿线，高区采光好",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|192.71平|高区/12层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "尚浦名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价71704元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4432953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161208/6f9e8a8b-e346-4d80-8239-d069c5c7d6d5.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，地铁直达，视野很好，中等装修",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室1厅|87.86平|高区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "新江湾时代花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "630万"
+}{
+  "singel_price": "单价81421元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679713.html",
+  "house_img": "",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，卧室带卫，出行方便，黄金楼层",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|162.12平|中区/16层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "加州水郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1320万"
+}{
+  "singel_price": "单价86692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610462.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/17aab893-83a8-405f-8f2d-b8d6c33809a5.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁沿线，光线充足",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|164.95平|中区/19层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "加州水郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "1430万"
+}{
+  "singel_price": "单价74263元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579061.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170404/d493c5ba-8782-41e1-9900-192caf98adb1.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁房，上下楼方便",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|82.14平|低区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "新江湾时代花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "610万"
+}{
+  "singel_price": "单价76265元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4560781.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161120/d8ea6d45-ed7c-4a68-876e-13483a8e63f3.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "地铁直达，光线非常好，满五减税，人气房源",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "3室2厅|86.54平|高区/6层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "新江湾时代花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "660万"
+}{
+  "singel_price": "单价79978元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4490304.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161216/8d098fbd-8859-42b0-837a-bb77335c6b53.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|113.28平|低区/11层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "涵碧景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "906万"
+}{
+  "singel_price": "单价79226元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4381486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161114/1f8a6c18-f66a-4874-a8ee-f9acea4b5696.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，光线充足，毛坯房",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|108.55平|中区/13层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "合生江湾国际公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "860万"
+}{
+  "singel_price": "单价96520元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4228693.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160908/54d2198c-4760-4dd9-b137-831ea309d376.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，高区景观好，拎包入住",
+  "s_cate": "新江湾城",
+  "house_desc": [
+    "2室2厅|83.92平|高区/16层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "华润置地橡树湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinjiangwancheng",
+  "house_price": "810万"
+}

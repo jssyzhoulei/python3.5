@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价102430元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775314.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/05ca97e4-a251-45a8-b18c-5a66d9b37165.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁沿线，上下楼方便",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室2厅|107.39平|低区/9层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "思家公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价70500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4580948.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/f10a42b5-2bda-41e3-bf2c-da879d92dc29.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁直达，好楼层",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|153.19平|中区/29层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "国际广场(卢湾)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价94696元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4503564.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170212/bed3b061-fcea-4a19-b1a2-27da00c534aa.jpg_200x150.jpg",
+  "house_time": [
+    "1930年建"
+  ],
+  "house_title": "卧室带卫，卧室全南，出行方便，光线充足",
+  "s_cate": "新天地",
+  "house_desc": [
+    "1室1厅|44.88平|中区/3层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "梅兰坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "425万"
+}{
+  "singel_price": "单价161785元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4725162.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/2cbe537e-bdd1-4e2e-a2b8-cbb6d4aa50d5.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "交通方便，好楼层，满五年，看房有钥匙",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|182.34平|中区/35层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "翠湖天地嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "2950万"
+}{
+  "singel_price": "单价93780元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707292.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/8ba7a3a0-5527-4a27-a1d0-f344cb05787c.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线非常好",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室1厅|50.97平|高区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "重建小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "478万"
+}{
+  "singel_price": "单价117221元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662027.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/b41cc85d-74ef-47bc-b645-8fd056913f76.jpg_200x150.jpg",
+  "house_time": [
+    "1936年建"
+  ],
+  "house_title": "厨卫全明，地铁房，楼层好，省装修费",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室1厅|58.01平|中区/5层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "重庆公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "680万"
+}{
+  "singel_price": "单价110497元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4657117.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/a93b5a6a-95d8-401a-b3b2-d8f644861014.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，地铁沿线，光线充足，房本满五年",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室0厅|54.3平|中区/3层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "万宜坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "600万"
+}{
+  "singel_price": "单价101557元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612181.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170815/a7a07513-c8b9-44ce-ac03-c2e4e20af8e3.jpg_200x150.jpg",
+  "house_time": [
+    "1936年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通便利，低楼层",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室0厅|59.08平|低区/6层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "合肥路127弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "600万"
+}{
+  "singel_price": "单价65278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1075104.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/dc008b11-0104-45e6-b65d-e02f0c922a33.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "出行方便，光线充足，简单装修，满5年",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|153.19平|中区/29层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "国际广场(卢湾)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价198077元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1062637.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/c2fa7c84-3374-4e2c-9597-ceb14babbb1c.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，地铁直达，采光好，拎包入住",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|201.84平|高区/11层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "翠湖天地雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "3998万"
+}{
+  "singel_price": "单价136908元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4267155.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160919/e5450efe-d028-4a36-9722-c737e91bdc1a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，卧室带卫，地铁直达，低楼层",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|193.56平|低区/31层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "翠湖天地御苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "2650万"
+}{
+  "singel_price": "单价103342元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736103.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/76f2486a-57ce-40e1-b65f-8f11d1e7458f.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，视野开阔，中等装修",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室1厅|61.93平|高区/27层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "马当小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "640万"
+}{
+  "singel_price": "单价118260元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829409.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/91d2c24b-a759-4e54-b1eb-b436d9478990.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，楼层好，省装修费",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室1厅|57.5平|中区/27层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "马当小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "680万"
+}{
+  "singel_price": "单价118956元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788958.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160928/9c48618d-fd77-4851-806f-ba89031a1526.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，交通便利，高区景观好，装修经典",
+  "s_cate": "新天地",
+  "house_desc": [
+    "4室2厅|235.38平|高区/18层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "翠湖天地雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "2800万"
+}{
+  "singel_price": "单价135416元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735473.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/31d7e375-c0ce-4504-ae32-c34887333458.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "地铁房，低楼层，品味装修，房本满五年",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|192.0平|低区/22层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "翠湖天地雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "2600万"
+}{
+  "singel_price": "单价111088元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684614.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/bf3eeab7-5869-453c-bbda-ff43ae84a3f0.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，交通便利，采光好",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室1厅|99.02平|高区/20层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "建德坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价159641元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676354.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/7017447b-3ce9-4f09-b744-88a0f55980d1.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，出行方便，上下楼方便，简单装修",
+  "s_cate": "新天地",
+  "house_desc": [
+    "4室2厅|325.73平|低区/35层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "翠湖天地嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "5200万"
+}{
+  "singel_price": "单价130355元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4613265.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/541085e8-de28-40d4-8362-7d12997c9682.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，交通便利，低区出入方便，装修经典",
+  "s_cate": "新天地",
+  "house_desc": [
+    "4室2厅|280.77平|低区/32层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "翠湖天地御苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "3660万"
+}{
+  "singel_price": "单价87141元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4366345.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/aee73c5e-5557-4e7f-949a-bd3c95501a63.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，地铁房，低楼层，品质装修",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室2厅|183.61平|低区/28层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "淮海晶华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1600万"
+}{
+  "singel_price": "单价107317元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2238675.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161018/94353ba0-2f9b-44cf-9d84-e8a550727819.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，地铁沿线，低区出入方便，装修精致",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|149.09平|低区/32层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "淡水湾花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1600万"
+}{
+  "singel_price": "单价99935元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865894.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/1dbe1a4f-a82f-41b6-bc9d-c9795a1bdeb2.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，交通方便，上下楼方便",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室2厅|170.11平|低区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "淮海晶华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价108660元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798069.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/b97e687c-e36a-4b0f-a76c-634b5f2aecab.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，楼层好",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室1厅|61.66平|中区/27层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "马当小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "670万"
+}{
+  "singel_price": "单价153846元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4853671.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/17810c2b-54a5-4479-a1d2-86cd0e768312.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，光线充足",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室1厅|52.0平|中区/3层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "振华里小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "800万"
+}{
+  "singel_price": "单价125560元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835592.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/6d704948-309a-4d43-9335-e57ec1a5a247.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，好楼层",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室0厅|55.75平|中区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "健乐小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "700万"
+}{
+  "singel_price": "单价145906元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789180.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/978766b6-9e24-47b0-9efc-1d242167f827.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通方便，楼层好",
+  "s_cate": "新天地",
+  "house_desc": [
+    "3室2厅|260.44平|中区/30层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "锦麟天地雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "3800万"
+}{
+  "singel_price": "单价114817元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756471.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/bdf57e47-d27f-4b4c-b3e5-400fe79f15a1.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带卫，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "新天地",
+  "house_desc": [
+    "1室2厅|82.74平|低区/31层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "济南路8号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "950万"
+}{
+  "singel_price": "单价135135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753126.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/c3a2dc9e-5a8c-47ba-88ed-d7ce9d3eb8fc.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，高区景观房",
+  "s_cate": "新天地",
+  "house_desc": [
+    "1室0厅|29.23平|高区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "巴士小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "395万"
+}{
+  "singel_price": "单价169503元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/cc879a5a-a971-4dcd-b984-49ecfcc314e1.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，出行方便，低区出入方便，豪华装修",
+  "s_cate": "新天地",
+  "house_desc": [
+    "4室2厅|277.28平|低区/29层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "锦麟天地雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "4700万"
+}{
+  "singel_price": "单价125340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4716166.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/f4753d52-09ef-4410-b6d8-c97a478bcc01.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁沿线，高区景观好，拎包入住，房本满五年",
+  "s_cate": "新天地",
+  "house_desc": [
+    "1室0厅|36.7平|高区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "健乐小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "460万"
+}{
+  "singel_price": "单价100719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696661.html",
+  "house_img": "",
+  "house_time": [],
+  "house_title": "稀缺南北通，卧室带阳台，地铁沿线，高区阳光房",
+  "s_cate": "新天地",
+  "house_desc": [
+    "2室3厅|139.0平|高区/23层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "经纬公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xintiandi",
+  "house_price": "1400万"
+}

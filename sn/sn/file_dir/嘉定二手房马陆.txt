@@ -1,0 +1,220 @@
+{
+  "singel_price": "单价26495元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4492804.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170205/59c69f93-1def-4271-9338-c82e93d95048.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，好楼层，满5年",
+  "s_cate": "马陆",
+  "house_desc": [
+    "4室2厅|158.52平|低区/2层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉苑新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "420万"
+}{
+  "singel_price": "单价36974元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667694.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/234310f5-446c-44fe-8f04-80465bbcfbfe.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，光线充足，装修精美",
+  "s_cate": "马陆",
+  "house_desc": [
+    "2室2厅|89.25平|中区/22层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新城馥华里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价32701元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4519875.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170228/f24a9810-6e4d-4a3e-b571-1aa2e87cafcb.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北直通，带飘窗，黄金楼层，装修精致",
+  "s_cate": "马陆",
+  "house_desc": [
+    "2室2厅|91.74平|中区/22层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新城馥华里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价23340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833497.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/c8711725-90ff-402e-985b-35747b1e8326.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，好楼层，简单装修",
+  "s_cate": "马陆",
+  "house_desc": [
+    "4室2厅|158.52平|低区/2层|朝东南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉苑新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "370万"
+}{
+  "singel_price": "单价24864元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817005.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/2822a076-b9f8-41dc-b7e9-8ddf0165a99f.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，上下楼方便，简单装修，房本满五年",
+  "s_cate": "马陆",
+  "house_desc": [
+    "5室2厅|185.0平|低区/3层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉苑新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "460万"
+}{
+  "singel_price": "单价32128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708175.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/5b49182b-e131-4185-a9ba-914ee8642380.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，卧室带卫，光线充足，人气房源",
+  "s_cate": "马陆",
+  "house_desc": [
+    "4室2厅|171.19平|中区/17层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "保利梧桐语(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "550万"
+}{
+  "singel_price": "单价33715元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682550.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170614/7cfd2f33-8407-4dce-b279-4429778394ff.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，厨卫全明，光线非常好，省装修费",
+  "s_cate": "马陆",
+  "house_desc": [
+    "2室2厅|88.98平|高区/20层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新城馥华里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价40223元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766674.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/4305ff98-57d0-49a9-be23-02007edbe489.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，厨卫全明，好楼层，装修精致",
+  "s_cate": "马陆",
+  "house_desc": [
+    "3室2厅|179.0平|中区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "复华城市花园紫金里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "720万"
+}{
+  "singel_price": "单价52561元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4686451.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/2468a3a8-7785-4896-814c-d14fec5f227f.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "嘉苑别墅，毛坯房，满5年，高清实拍",
+  "s_cate": "马陆",
+  "house_desc": [
+    "3室1厅|380.51平|地上2层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉苑别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "2000万"
+}{
+  "singel_price": "单价54085元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647723.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170523/3eccb94f-2f34-4cc6-9601-88773527923b.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "房型正气，毛坯房，房本满五年，高清实拍",
+  "s_cate": "马陆",
+  "house_desc": [
+    "5室3厅|314.32平|地上3层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉苑别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价32278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778685.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/cfe124d5-acbe-4e1c-bff0-17fc2f4a9429.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "嘉苑新村，光线充足，省装修费，上门实勘",
+  "s_cate": "马陆",
+  "house_desc": [
+    "4室2厅|158.0平|低区/2层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉苑新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "510万"
+}{
+  "singel_price": "单价23692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4583542.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/af7cd203-f161-454b-8e95-7fad2d56a584.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "嘉苑新村，楼层好，中等装修，上门实拍",
+  "s_cate": "马陆",
+  "house_desc": [
+    "4室2厅|156.17平|中区/2层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉苑新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "370万"
+}{
+  "singel_price": "单价57261元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4500690.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160826/3b62fc86-9bd2-44da-931d-5542ec68d009.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "嘉泉花园，毛坯房，高清摄影，真实在售",
+  "s_cate": "马陆",
+  "house_desc": [
+    "4室2厅|192.1平|地上2层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉泉花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/malu",
+  "house_price": "1100万"
+}

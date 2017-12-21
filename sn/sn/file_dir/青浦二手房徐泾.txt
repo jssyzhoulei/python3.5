@@ -1,0 +1,501 @@
+{
+  "singel_price": "单价48231元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862638.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/8f7941d0-6995-4029-ac0e-402173da7a03.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "地铁房，毛坯房，满五减税，新鲜好房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "6室3厅|311.0平|地上3层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "久事西郊名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价33788元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4675740.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170610/47d16b06-6ec1-4204-8eae-240a8f651d84.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通便利，低楼层",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室2厅|139.1平|低区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "河畔家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "470万"
+}{
+  "singel_price": "单价41704元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606895.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/7690f163-f6d4-4dc6-8213-0c748f4b37ea.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，带落地窗，地铁直达，视野开阔",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|88.72平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "河畔家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "370万"
+}{
+  "singel_price": "单价65030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848561.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/a90bc54c-be5a-4858-b41c-23b9f7583125.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "品味装修，满五减税，有钥匙立即看，热销房源",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "5室2厅|224.51平|地上2层|(进门)西南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "久事西郊花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "1460万"
+}{
+  "singel_price": "单价66180元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813337.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/73894ecf-efb9-45b5-989e-3b2b73b4efbd.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "装修精美，满五年，看房方便，火热出售",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "4室3厅|205.5平|地上2层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "久事西郊花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "1360万"
+}{
+  "singel_price": "单价35796元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710800.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/bb22ab65-ad70-43bc-844c-c24bd15fcf1f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，好楼层，省装修费，房本满五年",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室2厅|86.6平|中区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "广虹公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "310万"
+}{
+  "singel_price": "单价63809元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704737.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/7177c81e-5c51-4144-82f4-fb67e622eae0.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，客厅朝南，好楼层，豪华装修",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "4室2厅|188.06平|中区/8层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金地天御",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价47368元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673705.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/e08f3249-566b-4964-b97b-aac8224aac72.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "毛坯房，满五年，有钥匙立即看，热销好房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "4室2厅|228.0平|地上3层|(进门)北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "翠景苑（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价40372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655175.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/4725c05a-2a0c-4d4c-9ea0-0e06aa9f40c3.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "精装修，满五减税，钥匙在手，热推好房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "4室2厅|235.31平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金水湾（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "950万"
+}{
+  "singel_price": "单价54705元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612694.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/e9db45b6-f9d8-4a9a-93bf-a4640ed6361f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "装修精致，满5年，看房方便，抢手火热",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "4室2厅|179.14平|地上3层|(进门)北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "980万"
+}{
+  "singel_price": "单价46026元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4384681.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161110/e655760a-de21-4e98-8e74-107fdc5ae745.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，卧室带卫，高区景观房，毛坯房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室2厅|162.95平|高区/11层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿中海明苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "750万"
+}{
+  "singel_price": "单价46433元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4357386.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/13ce1b96-cf02-42fe-a6bd-a8ebdf1b4ad3.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，带飘窗，光线充足，装修精美",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室2厅|161.52平|中区/11层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿中海明苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "750万"
+}{
+  "singel_price": "单价63829元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674600.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/60c7df04-fe9f-43b2-b8b1-ecbc438cd071.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，出行方便，高区阳光房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|94.0平|高区/18层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "仁恒西郊花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "600万"
+}{
+  "singel_price": "单价42146元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4595126.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170419/059a146e-59b5-41c3-997a-153892adcd23.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通，上下楼方便，装修精致，满五年",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|87.79平|低区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金水湾（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "370万"
+}{
+  "singel_price": "单价37500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4544367.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/f5d2dcba-1fdd-4d42-868d-0d8e706afd71.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区采光好，品味装修",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室1厅|72.0平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "广虹公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "270万"
+}{
+  "singel_price": "单价38101元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4541682.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170417/89b20b85-374d-405f-9a76-1c116ce56421.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，低楼层，中等装修",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室1厅|86.61平|低区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "上海豪都国际花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "330万"
+}{
+  "singel_price": "单价46217元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767455.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/7f7ca12c-82e5-4a27-b1e7-3b31cdd870e5.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "品味装修，满5年，钥匙在手，火爆热销",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "4室2厅|216.37平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊玫瑰湾花苑(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价48854元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760690.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/04ec153d-014a-4b5c-bcd1-15db03736295.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，品味装修，满5年，随时看房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室2厅|225.16平|地上3层|(进门)南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "西郊景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价38144元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759227.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/2d819847-bf86-4337-9a5a-bae9a316a48e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，好楼层，毛坯房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|97.0平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "上海捷克住宅小区（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "370万"
+}{
+  "singel_price": "单价36906元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715260.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/5ee5e20b-914b-409d-9f40-6c0267950500.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北直通，低楼层，简单装修，满五减税",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|85.35平|低区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "上海豪都国际花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "315万"
+}{
+  "singel_price": "单价46224元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704662.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/12f8e55f-33a1-4d40-8c1a-7e29bd5ca0ad.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "上下楼方便，省装修费，满5年，有钥匙",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室2厅|162.25平|低区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿中海明苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "750万"
+}{
+  "singel_price": "单价58823元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667371.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/4ebfe6bf-800b-432b-bb19-c730dbd4bb50.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "简单装修，房本满五年，随时可看，多次带看",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室3厅|153.0平|地上2层|(进门)北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "东方明珠花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "900万"
+}{
+  "singel_price": "单价34898元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4627741.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/d34a887b-4156-4d1f-8c9b-b843820d0372.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀罕南北通，视野开阔，省装修费，房本满五年",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|88.83平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "上海豪都国际花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "310万"
+}{
+  "singel_price": "单价37765元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4397490.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170619/a18527c1-0471-491f-a1c5-4d98f48570b9.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，光线充足，毛坯房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "3室2厅|120.48平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金水湾（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "455万"
+}{
+  "singel_price": "单价36374元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1062200.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161228/be13a73b-fcac-49ac-a1be-a2fea2bcfe1f.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，毛坯房，满5年，有钥匙立即看",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "5室3厅|604.82平|地上2层|(进门)南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "观庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "2200万"
+}{
+  "singel_price": "单价58445元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790557.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/b156cca9-da4a-4aee-a2d5-de5e0223bca8.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，采光无遮挡，精装修",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|94.96平|高区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新虹桥雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "555万"
+}{
+  "singel_price": "单价40293元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781339.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160702/b34e5c12-15fd-498b-acc0-42fb62e3fcd6.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "精装修，房本满两年，随时看房，多次带看",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "4室2厅|218.4平|地上2层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "敦昌别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "880万"
+}{
+  "singel_price": "单价51884元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4703560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/262b9c8a-be80-482d-b9c2-4eec81777361.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "带飘窗，卧室全南，高区阳光房，毛坯房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|94.44平|高区/13层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新虹桥雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "490万"
+}{
+  "singel_price": "单价47597元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545254.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/912f17fb-ea42-4a14-8cc5-998e0b1380fc.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，低区出入方便，毛坯房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "2室2厅|90.34平|低区/11层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "南山雨果（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "430万"
+}{
+  "singel_price": "单价60827元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4517843.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/76bd1161-4483-4980-b808-971895e9bb32.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "毛坯房，房本满两年，看房方便，热推好房",
+  "s_cate": "徐泾",
+  "house_desc": [
+    "5室3厅|411.0平|地上2层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "大豪山林别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujing",
+  "house_price": "2500万"
+}

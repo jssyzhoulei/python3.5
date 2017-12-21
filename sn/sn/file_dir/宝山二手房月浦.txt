@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价36044元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699954.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/01a560b3-086a-4852-a426-e1d36f7b52fe.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|54.1平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乐业二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "195万"
+}{
+  "singel_price": "单价38230元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839898.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/6999c9df-c48d-4afe-9c1f-5e074ddded6b.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，卧室全南，交通方便，采光好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "3室1厅|66.7平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "255万"
+}{
+  "singel_price": "单价41131元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650247.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/2b6dbd02-f5aa-4106-bc79-cef1b1ff11f6.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，地铁直达，上下楼方便，简单装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "1室1厅|38.9平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "160万"
+}{
+  "singel_price": "单价34506元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581331.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170406/345fb68d-4696-4f91-908f-dcfa7ad5e7e0.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野很好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|57.38平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "四元路20弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "198万"
+}{
+  "singel_price": "单价40181元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4555075.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/8f7b2baa-1a05-4be3-9d0e-60ba205057f5.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，低区出入方便",
+  "s_cate": "月浦",
+  "house_desc": [
+    "1室1厅|41.81平|低区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乐业一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "168万"
+}{
+  "singel_price": "单价39041元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4491995.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170123/cd89db1e-e813-444f-bc05-8502f19a69d3.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "地铁房，光线充足，简单装修，房本满两年",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|56.35平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价37323元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561648.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/c61f65cc-8b74-41c3-a9ab-08f6c6a28e2d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁沿线，楼层好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "3室1厅|71.0平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乐业一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "265万"
+}{
+  "singel_price": "单价33347元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818565.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/1bbe2181-33a1-4706-87d2-25263acd5793.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "房型正气，厨卫全明，高区采光好，精装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室0厅|48.58平|高区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "月浦三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "162万"
+}{
+  "singel_price": "单价46214元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814905.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/e220075e-0d6f-43e3-a26e-fc7095c52e0a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，带落地窗，高区景观房，装修精致",
+  "s_cate": "月浦",
+  "house_desc": [
+    "3室2厅|101.7平|高区/11层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "富浩河滨花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "470万"
+}{
+  "singel_price": "单价29359元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696026.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/dba7d16b-0885-4ab1-94e3-7966bfb974b8.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，黄金楼层，满五年",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|51.09平|中区/9层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "马泾桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "150万"
+}{
+  "singel_price": "单价33886元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664257.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/9ba6eec3-b7ea-4443-9992-a5f3209b5163.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "房型正气，客厅朝南，好楼层，简单装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|56.07平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "月浦十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "190万"
+}{
+  "singel_price": "单价37341元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4636530.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/a999454a-6792-4339-84e6-077e1bf18f28.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "低楼层，中等装修，满五年，随时可看",
+  "s_cate": "月浦",
+  "house_desc": [
+    "3室2厅|53.56平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "月浦八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价38000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558656.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/d7ebfc75-2043-435c-bc71-aad0fe94873a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，楼层好，简单装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|60.0平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "德都路165弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "228万"
+}{
+  "singel_price": "单价33181元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4384862.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160402/6a38f211-fb5f-4c53-90dd-2b0716d1073c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，采光好，简单装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "3室1厅|74.74平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乐业五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "248万"
+}{
+  "singel_price": "单价36994元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756678.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/ef89aa4c-02e4-4406-bf34-0f8e993a01c8.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低楼层",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|61.63平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "春雷路354弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "228万"
+}{
+  "singel_price": "单价34756元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776775.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/e3057fc0-4795-4abf-9344-c3c109bfd194.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线非常好，简单装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|60.42平|高区/5层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "月浦五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "210万"
+}{
+  "singel_price": "单价34526元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/3ea99bbc-e9d8-4f30-850c-9053987d898c.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "房型正气，厨卫全明，黄金楼层，中等装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|55.03平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "月浦八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "190万"
+}{
+  "singel_price": "单价33738元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4609486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/8b678455-3717-4978-bd6f-f168396adfa6.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，客厅朝南，高区景观好，拎包入住",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室2厅|90.4平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "惠阳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "305万"
+}{
+  "singel_price": "单价27165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4598430.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/6ba2a932-259a-4c5a-a618-893915534d7d.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，光线非常好，毛坯房",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室0厅|50.8平|高区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "盛桥二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "138万"
+}{
+  "singel_price": "单价37972元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/afcf4948-7c1e-4492-a0e4-c0791039ca9d.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，简单装修",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|52.67平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "月浦八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价38698元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833273.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/aff3ff5b-6dae-4c76-9c23-661024c837a2.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，高区景观好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|76.23平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "295万"
+}{
+  "singel_price": "单价33934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790019.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/defa7196-4229-4573-9544-beca5e11c9a0.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁沿线，高区采光好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|61.0平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "春雷路354弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "207万"
+}{
+  "singel_price": "单价37873元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781054.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/bfcd3e91-8317-40bf-878c-8ade6f62ee61.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室2厅|72.61平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "四元路20弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "275万"
+}{
+  "singel_price": "单价36649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777204.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/95c53100-be30-4ce7-b47f-cbb0c0d3983d.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "月浦",
+  "house_desc": [
+    "3室1厅|95.5平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "350万"
+}{
+  "singel_price": "单价37753元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776544.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/d4dda863-09ac-4465-b29c-dfa2f852fbd3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，光线非常好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "1室1厅|41.85平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "四元路20弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "158万"
+}{
+  "singel_price": "单价41005元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4587789.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/1ca16490-b4a0-4f03-b8ae-edfc8b69924d.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，楼层好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|75.6平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "春雷路250弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "310万"
+}{
+  "singel_price": "单价38125元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584821.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/bf371538-53b3-4b13-bef4-578d843dd8f6.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|57.18平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "218万"
+}{
+  "singel_price": "单价37729元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4536893.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170306/75d45514-e217-481c-b5fb-beca62fd9f99.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，采光好",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|55.66平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "210万"
+}{
+  "singel_price": "单价37469元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/a2f626e8-403a-42c0-92ad-9f47d74e7bfe.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "月浦",
+  "house_desc": [
+    "2室1厅|57.38平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "四元路20弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "215万"
+}{
+  "singel_price": "单价38974元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4496780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170206/925f3dc7-b06c-481d-8889-b26505ac692a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通透，卧室全南，地铁直达，黄金楼层",
+  "s_cate": "月浦",
+  "house_desc": [
+    "3室1厅|66.71平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "庆安一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuepu",
+  "house_price": "260万"
+}

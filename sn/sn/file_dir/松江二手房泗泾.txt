@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价31280元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4407009.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161216/7fb1dd19-273f-45e3-b791-193eec1a986e.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|71.93平|低区/13层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "茉莉雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "225万"
+}{
+  "singel_price": "单价42372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815907.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/f23c9bb9-bc23-4f02-a0ff-735e77147ac7.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，交通便利，视野很好",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "1室1厅|53.1平|高区/11层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "225万"
+}{
+  "singel_price": "单价39856元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765219.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/893f8ecc-31ee-4413-89ee-714ada00fdd8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，出行方便，低区出入方便，装修精美",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|77.78平|低区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "310万"
+}{
+  "singel_price": "单价34901元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764011.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161023/7bc16ceb-391d-43a5-bf18-6a33bce20df1.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通便利，低区出入方便",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|93.12平|低区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "325万"
+}{
+  "singel_price": "单价37120元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732794.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/6d169c68-dc3d-46d6-9ca0-010ca5b857c8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通便利，楼层好",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|92.94平|中区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "345万"
+}{
+  "singel_price": "单价37271元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713751.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170724/60bb7235-2dbb-47bf-bb09-7b6ee83c4eb5.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁房，视野开阔",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|97.93平|高区/11层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "365万"
+}{
+  "singel_price": "单价34149元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697290.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/67828b89-992f-4db1-ae23-0fe3eb46f71b.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通便利，低楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|93.12平|低区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "318万"
+}{
+  "singel_price": "单价34381元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678424.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/3fd7c074-ad54-4b3e-b401-b53ba92ec7c4.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁房，上下楼方便",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室2厅|78.53平|低区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "270万"
+}{
+  "singel_price": "单价39840元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594708.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161113/4cb9e2d9-ac08-4f65-85bf-f7373316d09e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "交通方便，黄金楼层，装修精美，满五年",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室2厅|92.87平|中区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "西南名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "370万"
+}{
+  "singel_price": "单价35043元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4510021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/cc58552b-8d12-4b72-b329-c3e7a9346790.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，楼层好，毛坯房",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|79.33平|中区/11层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "278万"
+}{
+  "singel_price": "单价34244元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4468150.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161231/6f97e334-4ed0-411f-8273-0cfddf4781f9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，出行方便，楼层好",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|137.25平|中区/14层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "金港花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "470万"
+}{
+  "singel_price": "单价39708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4525987.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170227/c83e5c72-02a8-4b47-ab03-51678d50a364.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，厨卫全明，出行方便，黄金楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室2厅|90.66平|中区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "金港花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "360万"
+}{
+  "singel_price": "单价36719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/14b3e05f-7690-4931-b088-6e5460554202.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁沿线，好楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|130.72平|中区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "祥和公寓（松江）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "480万"
+}{
+  "singel_price": "单价36206元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561042.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/4ea15990-bcb9-4aab-a3b9-b28423307236.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，出行方便，高区采光好",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|128.43平|高区/9层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "西南名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "465万"
+}{
+  "singel_price": "单价35805元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549072.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170522/d6bfb389-a244-4023-a915-11efcab9c493.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，带飘窗，地铁直达，黄金楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|125.68平|中区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "西南名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "450万"
+}{
+  "singel_price": "单价37979元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4474617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170210/55874f5b-3346-4128-b111-715ca2e5134e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，房本满五年，随时看房",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室2厅|97.42平|低区/14层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "金港花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "370万"
+}{
+  "singel_price": "单价33856元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4399247.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161122/327fbf98-81b1-4dc3-8a0f-3ce00f174d67.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，低区出入方便，毛坯房",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|88.61平|低区/11层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润菲诗艾伦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "300万"
+}{
+  "singel_price": "单价34173元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843595.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/26e3f740-732a-4299-bd46-51f894a31530.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，交通方便，低区出入方便",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "3室2厅|93.64平|低区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价38908元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832158.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/1c82e5a8-1083-4f71-b16f-f01c9be8646f.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁直达，楼层好",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|66.31平|中区/11层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城丹桂苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "258万"
+}{
+  "singel_price": "单价43923元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806563.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/f769c228-cd4a-4c87-8c50-d048699ab1ca.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，客厅朝南，出行方便，好楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室2厅|90.84平|中区/19层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "米兰诺贵都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "399万"
+}{
+  "singel_price": "单价34989元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734900.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/46f27aef-b94b-4560-8da1-a6e155dce294.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，地铁房，采光无遮挡",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|68.02平|高区/13层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城香樟苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "238万"
+}{
+  "singel_price": "单价35546元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711703.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/8bbc343e-00bb-4c3e-97d2-20c8a363874e.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，交通方便，低楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|68.08平|低区/12层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城香樟苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "242万"
+}{
+  "singel_price": "单价40331元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682559.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160814/6ac11012-a54f-4cc9-a25a-944d58647121.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，低区出入方便",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室2厅|89.26平|低区/19层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "米兰诺贵都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "360万"
+}{
+  "singel_price": "单价35724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4658396.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/9bf994f5-8c17-4a99-a8a8-972b87f8e193.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，交通便利，高区采光好",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|69.42平|高区/12层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城香樟苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "248万"
+}{
+  "singel_price": "单价35871元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4585244.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/586b6232-caef-4e62-a004-0d261bfcf649.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，好楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|68.02平|中区/13层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城香樟苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "244万"
+}{
+  "singel_price": "单价43869元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/123ab77d-6a61-41c9-9837-6b4c758f5e84.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，交通便利，上下楼方便",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室2厅|88.9平|低区/19层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "米兰诺贵都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "390万"
+}{
+  "singel_price": "单价33812元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561609.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/9196655e-8fe9-4956-9988-0286273e9b5c.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|69.5平|低区/12层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城香樟苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "235万"
+}{
+  "singel_price": "单价37560元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558833.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/18e44dbc-2aa5-4f39-8965-d616d5a87edf.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|67.89平|中区/13层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城香樟苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "255万"
+}{
+  "singel_price": "单价35923元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4553025.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170523/5cb8ffb2-9486-44d3-8670-624acf69af42.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，厨卫全明，地铁房，视野开阔",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|69.87平|高区/13层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯城锦昌苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "251万"
+}{
+  "singel_price": "单价36031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545251.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/5318afbc-8ac0-401b-a324-21e5240a82aa.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "泗泾",
+  "house_desc": [
+    "2室1厅|77.71平|低区/14层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新凯家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sijing",
+  "house_price": "280万"
+}

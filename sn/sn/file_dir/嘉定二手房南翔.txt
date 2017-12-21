@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价37776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4560517.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/366af772-231c-434f-b263-a7dae9222ecd.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光无遮挡",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|74.12平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "德华一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价41752元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4507188.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160807/23ad61b0-521a-4f3a-88cb-63cc89659fbe.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|68.26平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "德华一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "285万"
+}{
+  "singel_price": "单价44368元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4329083.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161016/296247f3-1d96-4c84-ae1b-530da05c0534.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "交通便利，黄金楼层，简单装修，满五减税",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室2厅|99.17平|中区/18层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(卢尔公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "440万"
+}{
+  "singel_price": "单价50020元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786197.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/b86bdcda-9df7-475b-9ea8-636b59837543.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "交通方便，精装修，房本满五年，钥匙房",
+  "s_cate": "南翔",
+  "house_desc": [
+    "5室2厅|242.9平|地上3层|(进门)南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(春晓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "1215万"
+}{
+  "singel_price": "单价50445元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794011.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/32b4073c-de1a-48f6-a64a-0212c1af5956.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，上下楼方便，拎包入住",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室2厅|85.24平|低区/21层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "华润中央公园陈翔公路1588弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "430万"
+}{
+  "singel_price": "单价48952元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851329.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/89879bc3-74d8-4bcd-a3af-610973edf1b5.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁沿线，光线充足",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室2厅|87.84平|中区/20层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿地清猗园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "430万"
+}{
+  "singel_price": "单价50025元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810864.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/e45af04d-1b14-4a4f-a0d0-afcadff6e9fd.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，交通方便，视野很好",
+  "s_cate": "南翔",
+  "house_desc": [
+    "3室2厅|99.75平|高区/16层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿地清猗园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "499万"
+}{
+  "singel_price": "单价48290元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4513039.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/3a58321c-bc2b-454d-b4ab-73e501eeaa8d.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通透，厨卫全明，出行方便，采光好",
+  "s_cate": "南翔",
+  "house_desc": [
+    "3室2厅|128.39平|高区/22层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿地清猗园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价50116元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785324.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170316/a180289e-8cf2-473f-99a5-e491448cbfc8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，上下楼方便",
+  "s_cate": "南翔",
+  "house_desc": [
+    "4室2厅|171.6平|低区/18层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(卢尔公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "860万"
+}{
+  "singel_price": "单价47121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4358209.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161101/a1269c37-09ae-4855-83d7-cb943499889b.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "带飘窗，卧室全南，交通便利，低楼层",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室2厅|78.52平|低区/16层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "中冶翔腾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "370万"
+}{
+  "singel_price": "单价41933元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800995.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/10a95af1-5247-4e23-a194-f9fbb80f03b0.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北通透，厨卫全明，出行方便，高区采光好",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|73.45平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "德华路301号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "308万"
+}{
+  "singel_price": "单价38007元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783472.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/351881c3-3360-4ad8-9184-2de7062b2051.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，上下楼方便，简单装修",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|85.51平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "裕丰路201弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "325万"
+}{
+  "singel_price": "单价52658元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4457756.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161231/38d335a1-8fa9-4910-b8a7-68a8f3b151a7.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，毛坯房，满5年，随到随看",
+  "s_cate": "南翔",
+  "house_desc": [
+    "5室3厅|256.37平|地上3层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "上隽嘉苑(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价44724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800656.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160811/4661607d-3330-478c-be9d-4570e5498b4e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，带飘窗，交通方便，低楼层",
+  "s_cate": "南翔",
+  "house_desc": [
+    "3室2厅|115.15平|低区/4层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "民东公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "515万"
+}{
+  "singel_price": "单价47502元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788296.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160924/3c595cbd-b567-4f8c-b646-bf3af15d8a62.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "出行方便，装修精致，满五年，热推好房",
+  "s_cate": "南翔",
+  "house_desc": [
+    "4室2厅|208.41平|地上3层|(进门)南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(春晓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "990万"
+}{
+  "singel_price": "单价49198元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775204.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/3144883b-8113-4d91-a142-685288c0566c.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，地铁直达，中等装修，满五年",
+  "s_cate": "南翔",
+  "house_desc": [
+    "4室3厅|172.77平|地上4层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(春晓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "850万"
+}{
+  "singel_price": "单价48612元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4551015.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170316/50226e22-129f-4c23-9ab7-50d619b74f77.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，出行方便，好楼层",
+  "s_cate": "南翔",
+  "house_desc": [
+    "3室2厅|84.34平|中区/5层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(卢尔公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "410万"
+}{
+  "singel_price": "单价46177元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4599767.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/7d4f1a34-b750-4009-bfde-e2697f8e2406.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，交通方便，光线非常好",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室2厅|97.45平|高区/18层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(卢尔公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "450万"
+}{
+  "singel_price": "单价37670元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824353.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/34eb5e16-155b-4547-8d4f-8ed0bd159427.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，中等装修",
+  "s_cate": "南翔",
+  "house_desc": [
+    "1室1厅|49.11平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "德华四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "185万"
+}{
+  "singel_price": "单价40720元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863823.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/06bb26fe-5f58-42a8-9713-5c8a8c32ae6f.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|46.66平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "190万"
+}{
+  "singel_price": "单价33844元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741692.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/a9821f53-b991-43c5-ba0f-6871512c20ae.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "稀罕南北通，卧室全南，采光无遮挡，中等装修",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|66.48平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "225万"
+}{
+  "singel_price": "单价50204元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738355.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/6f33d7bf-e78e-45e3-be5b-a6b1f623d317.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，光线充足，装修精美",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室2厅|85.65平|中区/29层|朝北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(城市公馆)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "430万"
+}{
+  "singel_price": "单价41426元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819383.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/20c5ad0a-3bc7-4e56-be9e-f26b7da8564d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，上下楼方便",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|67.59平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "德华一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价49600元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818842.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161220/b7b3d5fa-4367-419d-b225-7bd0df82fc07.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，卧室带卫，交通方便，视野开阔",
+  "s_cate": "南翔",
+  "house_desc": [
+    "3室2厅|125.0平|高区/18层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(卢尔公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价54913元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807627.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/97f33811-51bf-478a-9b0a-62cf5b465979.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，交通方便，精装修，房本满五年",
+  "s_cate": "南翔",
+  "house_desc": [
+    "4室2厅|173.0平|地上3层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(柯玛仕庄园)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "950万"
+}{
+  "singel_price": "单价43877元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786670.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/24e79f42-385e-48cb-b7a9-2fe10bcaeca0.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁沿线，黄金楼层",
+  "s_cate": "南翔",
+  "house_desc": [
+    "3室2厅|98.0平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "民东公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "430万"
+}{
+  "singel_price": "单价43551元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773165.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/d592d32b-89c8-4f24-a51d-8cdb4fafa4c2.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁房，高区景观好，装修精致，满五减税",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|59.24平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "德华路311号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "258万"
+}{
+  "singel_price": "单价43590元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684344.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/a9c42ee8-ecc5-4d06-ac4f-edaec42360ff.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，带飘窗，交通便利，高区阳光房",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室2厅|89.47平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "民东公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "390万"
+}{
+  "singel_price": "单价50155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643644.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160901/e01508c9-80f4-43a1-9ee7-830df6071ae1.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，拎包入住，满5年",
+  "s_cate": "南翔",
+  "house_desc": [
+    "3室2厅|125.61平|低区/13层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金地格林世界(圣莫尼卡)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "630万"
+}{
+  "singel_price": "单价39746元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4569811.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/097ea1d0-6a1f-4be6-b2b7-9bbb5bc50d97.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线非常好",
+  "s_cate": "南翔",
+  "house_desc": [
+    "2室1厅|67.93平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "德华一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanxiang",
+  "house_price": "270万"
+}

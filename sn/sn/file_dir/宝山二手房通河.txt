@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价52031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4834828.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/f7bf5a1c-8488-485a-958b-18d952359b57.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通便利，低区出入方便",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|40.36平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "210万"
+}{
+  "singel_price": "单价49971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706241.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/72db0f21-b818-4aa7-b3e7-5da298342324.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，出行方便，光线非常好",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|53.03平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "265万"
+}{
+  "singel_price": "单价46419元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618323.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/49cc87b6-942c-49e8-b30a-b44e32cf9355.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁直达，低区出入方便",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|45.24平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "210万"
+}{
+  "singel_price": "单价50000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4423947.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161205/a7752a47-4c9b-4a49-b780-26cd22cf0524.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|44.0平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "220万"
+}{
+  "singel_price": "单价47992元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4566781.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/d14f32e8-f133-4888-89f6-14b3cb18e763.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|51.05平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "245万"
+}{
+  "singel_price": "单价50422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849572.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/282134ab-3898-4d45-945d-e1dd9a960338.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光无遮挡",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|36.69平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "185万"
+}{
+  "singel_price": "单价53285元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839580.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/4a53b20d-c1c6-4840-aa35-ec0a1e5d7198.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低楼层",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|39.41平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "210万"
+}{
+  "singel_price": "单价54794元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827814.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/10f1862a-4657-45d4-9bf5-ecd2b151780e.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通便利，低区出入方便",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室2厅|73.0平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "昌鑫家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "400万"
+}{
+  "singel_price": "单价48813元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823899.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/f13bfe74-106b-411e-90a6-2b044e80f7f3.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|59.0平|中区/7层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "288万"
+}{
+  "singel_price": "单价51522元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4834994.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/c7a5ecc3-7403-49e2-8026-35e91da3075c.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，楼层好",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|42.7平|中区/4层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "220万"
+}{
+  "singel_price": "单价46930元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826826.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/3e17a48e-5a19-4167-b5d0-fabeed1e2f3d.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，高区景观好",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|42.19平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "198万"
+}{
+  "singel_price": "单价51807元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813089.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/dec43c02-b54c-4506-b579-c55a48773c9a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光无遮挡",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|41.5平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "215万"
+}{
+  "singel_price": "单价53196元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/81b297b8-52fc-436c-b165-6e5e2f6e532d.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，黄金楼层",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|39.1平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "208万"
+}{
+  "singel_price": "单价52702元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762770.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/308ac491-a2c3-4ef2-80f5-772ef2639091.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|37.0平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "195万"
+}{
+  "singel_price": "单价51539元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160821/62c79687-0207-42c2-b6f9-4da1f4849661.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通，交通方便，低区出入方便，中等装修",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|56.85平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "293万"
+}{
+  "singel_price": "单价48409元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4570529.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170410/63f5030c-1f58-4ed1-b78a-50758056783a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，采光好",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|43.38平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "210万"
+}{
+  "singel_price": "单价44567元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4570520.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/2093fecd-0d78-4936-b693-78935266e152.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁直达，采光好",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|54.3平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "242万"
+}{
+  "singel_price": "单价48888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4599388.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/ffd01809-5b1e-40e3-aa33-d078ba6d0f34.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线充足",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室0厅|45.0平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "220万"
+}{
+  "singel_price": "单价42967元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4541704.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170310/f2c7f670-84f2-4f89-83a0-29f61611b1c5.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区景观好",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|42.59平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "183万"
+}{
+  "singel_price": "单价45034元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4658176.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/66eeb9e5-8911-4450-80f1-374929ad6deb.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，高区阳光房",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|42.19平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "190万"
+}{
+  "singel_price": "单价44155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4498672.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161002/2f211a9c-7548-4cd6-962c-a07383df7887.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，交通便利，视野很好",
+  "s_cate": "通河",
+  "house_desc": [
+    "4室2厅|154.0平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "昌鑫家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "680万"
+}{
+  "singel_price": "单价49583元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808400.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/54a631b3-9aa8-424d-acef-9c9e76f133ac.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，好楼层，中等装修",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|48.0平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "238万"
+}{
+  "singel_price": "单价47103元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670962.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/ec6372db-fcd2-41fe-811f-b2ef9bf78225.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，光线充足，简单装修",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|57.32平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "270万"
+}{
+  "singel_price": "单价50412元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789262.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/d4880202-9237-4deb-b68f-c5f69542a8ef.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，好楼层",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|65.46平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "330万"
+}{
+  "singel_price": "单价55152元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707154.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/0e1cbb29-4b25-4a66-9ec2-6c023d2cd921.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|63.46平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "共江小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "350万"
+}{
+  "singel_price": "单价45706元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4630940.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/079160be-7403-4b44-92d5-5f3e15709fdf.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，高区景观好",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|41.57平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "190万"
+}{
+  "singel_price": "单价49037元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4516323.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170204/05fbd268-ec75-4847-b2f1-8e009603adc1.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，视野开阔",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室1厅|54.04平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "265万"
+}{
+  "singel_price": "单价45985元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4470787.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170110/c5365a71-ff8e-4082-9e06-48c661bd9eef.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，视野很好",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|42.84平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "197万"
+}{
+  "singel_price": "单价58916元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4369319.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161101/c0abb5da-267e-471c-b64a-8e7ec65e3212.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "楼层好，满五年，新出好房，钥匙房",
+  "s_cate": "通河",
+  "house_desc": [
+    "2室2厅|95.05平|中区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "锦辉绿园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "560万"
+}{
+  "singel_price": "单价50756元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4625480.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/05dfcd08-1cfb-4520-9fb1-7995054f82b6.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，采光无遮挡",
+  "s_cate": "通河",
+  "house_desc": [
+    "1室1厅|39.01平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "通河二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tonghe",
+  "house_price": "198万"
+}

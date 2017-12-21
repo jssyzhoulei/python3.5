@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价52941元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867391.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170320/85412e9e-510c-4ba5-aa5b-4b12ac9e0a4e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁直达，采光好，简单装修，满5年",
+  "s_cate": "七宝",
+  "house_desc": [
+    "1室1厅|51.0平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价57562元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837263.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/dc2d9495-a793-4659-bff9-59a44ad0c1b9.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁直达，高区阳光房",
+  "s_cate": "七宝",
+  "house_desc": [
+    "1室1厅|41.52平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "239万"
+}{
+  "singel_price": "单价69141元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815532.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/bcb60325-c696-43d4-affb-f545c1d2e8c3.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室1厅|52.79平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "三佳花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "365万"
+}{
+  "singel_price": "单价59130元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799792.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/7e267551-9815-4eab-82af-1418218c532f.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "地铁直达，高区采光好，简单装修，满5年",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|115.0平|高区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "白雪公主",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "680万"
+}{
+  "singel_price": "单价47873元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170321/f6f7df24-0eae-4f4d-b3c2-e3e6a3215c66.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，出行方便，高区阳光房",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室2厅|74.78平|高区/7层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "358万"
+}{
+  "singel_price": "单价54571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534259.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/5d4f207b-416b-463e-9747-3d2db3111efe.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室1厅|55.89平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "牡丹新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "305万"
+}{
+  "singel_price": "单价56733元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4488277.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161116/6142a866-e329-40d2-a338-89e04f78c9c1.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "地铁沿线，采光好，满五年，有钥匙",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|100.47平|高区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万兆家园（五期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "570万"
+}{
+  "singel_price": "单价57931元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4258697.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161218/f7fb0bb0-e833-45a4-8469-88f87c1c4e22.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁房，楼层好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室2厅|83.72平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万兆家园（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "485万"
+}{
+  "singel_price": "单价48484元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4868413.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/eca5395f-0f5e-48a4-8579-7db8b0e98fd1.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室1厅|66.0平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "吴宝新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "320万"
+}{
+  "singel_price": "单价45891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757454.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/d9dc829f-4c92-4aa3-8800-2543411a42bf.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁房，楼层好，简单装修，满五减税",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室1厅|68.64平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "佳宝四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "315万"
+}{
+  "singel_price": "单价56698元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848391.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/c8b3f4e1-e5d6-4ff8-8efa-9a606ee4d75a.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁直达，楼层好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室2厅|75.84平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万兆家园（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "430万"
+}{
+  "singel_price": "单价40205元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/138ce2b3-f532-4343-a07d-3ddbce8f2409.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室1厅|89.54平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "黎明花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "360万"
+}{
+  "singel_price": "单价51037元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/2da15239-e4c6-4bfc-b06c-7b14cee3856a.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，好楼层",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室1厅|54.47平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "黎明花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "278万"
+}{
+  "singel_price": "单价63912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810694.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/77901a27-0988-4558-8d9c-ce0514b9412b.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "带落地窗，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室2厅|151.77平|低区/16层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "皇都花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "970万"
+}{
+  "singel_price": "单价62620元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710624.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/0b2fefbd-f628-4153-9f4b-5926cc9c044e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，客厅朝南，出行方便，高区景观好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "1室1厅|41.52平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "260万"
+}{
+  "singel_price": "单价50690元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170523/371f274a-8b95-4200-9e3f-90afbc68c417.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，地铁房，好楼层",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|123.89平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科优诗美地",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "628万"
+}{
+  "singel_price": "单价55238元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652172.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170525/354730a4-713d-41a6-b04b-e5b0127533ae.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，地铁沿线，黄金楼层，装修精致",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|105.0平|中区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科优诗美地",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "580万"
+}{
+  "singel_price": "单价59661元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626011.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/fa2f1e68-f78f-4b7c-84d5-cd700b7e0d77.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "出行方便，高区阳光房，简单装修，满5年",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室3厅|210.52平|高区/12层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "蓼花汀花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "1256万"
+}{
+  "singel_price": "单价56433元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579791.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/4a666269-340e-45f2-a90f-f13ddd0906b2.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通透，带飘窗，交通便利，黄金楼层",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|124.04平|中区/4层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科优诗美地",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "700万"
+}{
+  "singel_price": "单价54479元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783474.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/25afaf70-d73c-408b-b3f6-978b6242f287.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，高区采光好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "1室1厅|41.3平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "黎明花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "225万"
+}{
+  "singel_price": "单价50377元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755050.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/58894526-3c67-40ee-bd2b-93d4b1b8de8a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，高区景观好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "1室1厅|51.61平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "黎明花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "260万"
+}{
+  "singel_price": "单价67262元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791987.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/9082aba7-ec39-46b9-b1bd-42059447269d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，出行方便，低楼层，装修精致",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|139.75平|低区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科朗润园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "940万"
+}{
+  "singel_price": "单价58003元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790922.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/1a78eb4a-99a7-4395-83a9-b88f70c1253d.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室1厅|72.41平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "泰景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "420万"
+}{
+  "singel_price": "单价68731元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774368.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161010/1f273a21-b048-4206-b04f-faed39507290.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁直达，采光好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|135.31平|高区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科朗润园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "930万"
+}{
+  "singel_price": "单价61484元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753304.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170327/98758ce3-aeb2-4838-9ea6-c1ff9ea4540e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，楼层好，拎包入住",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室2厅|86.2平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "水榭花堤",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "530万"
+}{
+  "singel_price": "单价49426元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4864491.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/fe888fab-9ca4-4f91-b099-6f803650c0e7.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通，客厅朝南，地铁沿线，光线非常好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "4室2厅|101.16平|高区/7层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "500万"
+}{
+  "singel_price": "单价62076元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/2338ad90-9b60-48a7-bf2b-5c461649ce64.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，地铁直达，光线充足",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|124.04平|中区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科魅力之城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "770万"
+}{
+  "singel_price": "单价63859元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4576673.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/1276af6e-8dc9-43a1-9208-b68cbafd86fc.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "带落地窗，客厅朝南，地铁直达，光线非常好",
+  "s_cate": "七宝",
+  "house_desc": [
+    "5室2厅|234.89平|高区/20层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "皇都花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价54571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765837.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/836844fd-7007-46ba-8c84-41fc16c010ab.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低楼层，拎包入住",
+  "s_cate": "七宝",
+  "house_desc": [
+    "2室2厅|77.88平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "广海花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "425万"
+}{
+  "singel_price": "单价75165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740748.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/f4e6d091-5d05-47c8-8ebb-77cf76412698.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，客厅朝南，高区景观房，毛坯房",
+  "s_cate": "七宝",
+  "house_desc": [
+    "3室2厅|101.11平|高区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东方花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/qibao",
+  "house_price": "760万"
+}

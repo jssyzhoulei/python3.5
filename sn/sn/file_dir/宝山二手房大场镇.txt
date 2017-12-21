@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价46371元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806773.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/bd75fbb5-6e40-4078-a180-880220bc5bf0.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|43.13平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "环镇北路400弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "200万"
+}{
+  "singel_price": "单价47332元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4490822.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170206/3f8be8ca-1b77-47b1-99cc-f29139e36a6c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|54.93平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "环镇北路400弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "260万"
+}{
+  "singel_price": "单价47034元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4313791.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/c1c95d87-7662-4610-8311-605837520df3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|56.98平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "268万"
+}{
+  "singel_price": "单价48468元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/bc682f02-8531-423e-bc57-6216b9420bd5.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|45.39平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价55120元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852395.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/6ee19b93-055d-4029-973b-5d3630ee3762.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，采光无遮挡",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室0厅|29.39平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "162万"
+}{
+  "singel_price": "单价46990元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800209.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/e111c435-c19c-428a-a9f0-d44064804aaa.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，光线非常好",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|39.37平|高区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "南大路8弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "185万"
+}{
+  "singel_price": "单价38934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793184.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170210/de181c3a-58bc-4617-9433-7eb0e917c07d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，交通方便，高区景观好，装修精致",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "3室2厅|115.58平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "祥泰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "450万"
+}{
+  "singel_price": "单价47191元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756165.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/df5138b9-1ec7-4032-a9de-0fe357248e36.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|44.5平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价45604元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700453.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/8f6f3331-1df8-42e6-92d1-88f41249752c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光无遮挡",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|45.39平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "207万"
+}{
+  "singel_price": "单价52543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777801.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/fe8a97d1-d096-4988-a42f-4c7396ed473c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|41.87平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价48103元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4408549.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161124/8e261fc3-2bd6-4c3b-9399-974e825e6818.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，低楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室2厅|58.0平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "279万"
+}{
+  "singel_price": "单价40098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676229.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170610/771f3830-3142-4779-b814-71c8c9a000a1.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅朝南，黄金楼层，简单装修",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "3室2厅|113.47平|中区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "和泰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "455万"
+}{
+  "singel_price": "单价40657元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664740.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/0e1de5f5-b93e-462c-9957-9ceba44eece5.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，高区采光好，中等装修，满五减税",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|61.49平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "南大路190弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "250万"
+}{
+  "singel_price": "单价41557元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4472777.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/4b03f6d8-875f-4fc7-925d-9c0909c9b261.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，客厅带阳台，低区出入方便，品质装修",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|68.58平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "上大阳光乾龙苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "285万"
+}{
+  "singel_price": "单价44666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4752994.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/2db9aee6-95a4-4956-815f-3507c147dc6a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野很好",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|75.0平|高区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "上大阳光乾澄园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "335万"
+}{
+  "singel_price": "单价50775元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841136.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/d2c3cd9a-aeec-484e-b38e-637a49a02818.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁房，上下楼方便",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|56.72平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "288万"
+}{
+  "singel_price": "单价44521元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4752617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/369a416f-acfe-45bf-9b87-d029d0c108dc.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|55.03平|高区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "上大阳光乾澄园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "245万"
+}{
+  "singel_price": "单价49707元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734144.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/0bc8cdf8-1e17-40a8-bb50-fc404adc59ae.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，黄金楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|56.33平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "280万"
+}{
+  "singel_price": "单价50714元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705163.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/f01e4238-9a47-4cb6-baf7-8eee4be6be7b.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，客厅朝南，地铁沿线，光线充足",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室2厅|70.0平|中区/4层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "355万"
+}{
+  "singel_price": "单价46556元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697474.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/d347b3a4-9257-4705-82f0-db0dde5050cc.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通便利，楼层好",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室2厅|94.08平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "438万"
+}{
+  "singel_price": "单价51262元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683705.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/d1277abe-ef22-42b7-b803-7f7d163b0ed3.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|39.99平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "环镇北路400弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "205万"
+}{
+  "singel_price": "单价47674元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619404.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170518/dec379e2-dfda-4021-a6bc-29dab8358bca.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "地铁房，低区出入方便，品质装修，房本满五年",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|43.0平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "环镇北路400弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "205万"
+}{
+  "singel_price": "单价50646元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4555627.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/ed47283f-323c-4869-bd59-55f85103d677.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|64.17平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "325万"
+}{
+  "singel_price": "单价49105元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4555461.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/9ebe1e3c-260c-4a55-8d25-6aee602a13f3.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，好楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "3室1厅|74.33平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "365万"
+}{
+  "singel_price": "单价42220元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4554310.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/f691c4fb-c148-4780-a049-3723ae46cc14.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|63.95平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "270万"
+}{
+  "singel_price": "单价49249元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4552745.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170317/f621b3a5-97fb-4dfd-8faa-5a97c8a92f46.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|37.97平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "环镇北路400弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "187万"
+}{
+  "singel_price": "单价46854元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4495858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170206/9f081975-9e75-4383-ada6-fabcef192727.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光无遮挡",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "1室1厅|44.82平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价48361元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662393.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/88ac4188-547e-407e-aae9-fd039864650a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，出行方便，上下楼方便",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|69.27平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "洛场路300弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "335万"
+}{
+  "singel_price": "单价46714元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795877.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/d2793498-146f-45bd-a433-ea76722ee417.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区景观房",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室1厅|64.22平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "乾溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "300万"
+}{
+  "singel_price": "单价51190元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855264.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/739c6afd-9d0b-4607-841e-32279d19ceed.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，带飘窗，地铁沿线，低楼层",
+  "s_cate": "大场镇",
+  "house_desc": [
+    "2室2厅|84.0平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "上大阳光乾澄园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/dachangzhen",
+  "house_price": "430万"
+}

@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价54556元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802292.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/9cde4ed8-811c-4133-a6d4-e7ed534fe2cf.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，好楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室0厅|32.26平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "康泉小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "176万"
+}{
+  "singel_price": "单价56975元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782120.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/5a46fd59-7b69-4aef-b7f7-aec8e11bf28e.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，光线充足",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室1厅|61.43平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "三泉安居苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "350万"
+}{
+  "singel_price": "单价52099元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781338.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160904/13d8ff8a-5b0a-41e5-a490-d833eb933e58.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，黄金楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|44.53平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭顺小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "232万"
+}{
+  "singel_price": "单价56740元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767649.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/c5e7b4d1-0b6f-43d2-b4a9-534ddfe1c683.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，光线充足",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|42.65平|中区/13层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "242万"
+}{
+  "singel_price": "单价57101元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758919.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/85f1b8a8-22ca-4b25-a800-01e63692df66.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室1厅|69.7平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "临汾路1244弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "398万"
+}{
+  "singel_price": "单价52999元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755440.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/4806d276-9955-4130-a24e-b8fb8e903771.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁房，低区出入方便",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室0厅|48.68平|低区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "康平小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "258万"
+}{
+  "singel_price": "单价49548元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4745230.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/7777804a-46cd-4598-9c5d-f1734bf02880.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "3室2厅|137.24平|低区/18层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭浦家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "680万"
+}{
+  "singel_price": "单价53742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731583.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170727/a7a12b89-8a18-4aac-b654-8a2589a47373.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，交通便利，好楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室1厅|52.1平|中区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "闻喜小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价49871元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711712.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/3f172f8f-0126-4292-aed3-1064bd2fe215.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，上下楼方便",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室1厅|66.17平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "三泉路332弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价54094元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170703/9849f02b-4db7-493d-979e-ad737364fd98.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁沿线，好楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室0厅|53.61平|中区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "平顺小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "290万"
+}{
+  "singel_price": "单价52222元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704084.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/13eaec07-f423-41a7-8288-269ed5289ecc.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|45.0平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "闻喜小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "235万"
+}{
+  "singel_price": "单价56517元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696426.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/baa970ed-a942-4a6c-b0c8-bdbd9ffd7205.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，高区景观房",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室0厅|28.31平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "平顺小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "160万"
+}{
+  "singel_price": "单价53727元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688477.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/cd191425-ffa0-4c08-80fc-9ed4396e4a40.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，光线充足",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室0厅|48.02平|中区/5层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭五小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "258万"
+}{
+  "singel_price": "单价52927元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4645598.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170519/a9057382-522c-4edf-a6b0-0b8f625ede72.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "地铁房，高区采光好，装修精美，满五减税",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室0厅|44.4平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "康平小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "235万"
+}{
+  "singel_price": "单价49276元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4633445.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170512/446c14d4-35d6-4824-bc0b-fb5a41a029d1.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，视野开阔",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|32.47平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "临汾路1320弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "160万"
+}{
+  "singel_price": "单价52085元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4515150.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170220/b8c7c347-9ccc-4b71-bf02-88abec579d60.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室0厅|56.83平|中区/5层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭五小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "296万"
+}{
+  "singel_price": "单价55193元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4487865.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170117/3b1d658a-d6de-4f61-9962-76a628a29367.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|39.86平|中区/5层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭五小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价46868元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4300322.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/f0492011-5067-4ddf-8c59-be0cd25a01e2.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，交通便利，高区阳光房，简单装修",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|50.14平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "岭南路700弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "235万"
+}{
+  "singel_price": "单价61151元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861620.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/3cd92163-ccac-4d75-8da2-3975ef168075.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，黄金楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室0厅|27.8平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "康平小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "170万"
+}{
+  "singel_price": "单价52808元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842699.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/6cbeb787-8dfd-43c3-b195-439430011f2c.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁房，楼层好",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|47.72平|中区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "252万"
+}{
+  "singel_price": "单价52897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828992.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/f7534a3e-5032-4b8f-8f81-76d4547445db.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，高区景观好",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|41.59平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "兴泉小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价52687元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825236.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/4fe71c13-c815-4d50-9b2b-860ae5b63645.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，视野很好",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|37.96平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "场中路2401弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价50403元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813097.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/6144b651-e579-4c9d-8c03-ffb484c63dbb.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室0厅|49.6平|高区/6层"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "250万"
+}{
+  "singel_price": "单价53485元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776737.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/1a25645c-1173-48d2-87d1-b80f18ba720e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，视野开阔",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|35.15平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "银都一村(闸北)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "188万"
+}{
+  "singel_price": "单价50000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711402.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/07ae512e-dd1e-40c5-83e6-05b740877f3f.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "稀罕南北通，卧室全南，地铁沿线，高区景观房",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室0厅|35.6平|高区/6层|朝南北"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "康平小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "178万"
+}{
+  "singel_price": "单价55434元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648163.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/d6f3e913-ccb4-47d7-ad16-53a606b27368.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，好楼层",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|46.0平|中区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "三泉安居苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "255万"
+}{
+  "singel_price": "单价50407元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556303.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/4fc6129c-3354-4ac6-8387-aa1f1f6e46f7.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "2室1厅|51.58平|高区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "闻喜小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价47619元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832607.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/6fa8d7d7-b50d-4e2c-a13b-30c58f54f6e0.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|43.05平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "205万"
+}{
+  "singel_price": "单价51676元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830586.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/c524fc04-1f2c-425c-a981-054454d0bfc2.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，楼层好",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室1厅|39.67平|中区/5层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "彭五小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "205万"
+}{
+  "singel_price": "单价58445元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/zhabei",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817773.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/0a5a8912-ab1e-4521-a0ae-7660ca19c62b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "彭浦",
+  "house_desc": [
+    "1室0厅|31.14平|低区/6层|朝南"
+  ],
+  "district": "闸北二手房",
+  "house_detail": "平顺小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pengpu",
+  "house_price": "182万"
+}

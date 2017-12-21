@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价36607元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733164.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/2e7ec653-6701-4d84-bb07-dbc1bed10f15.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，省装修费",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "2室1厅|56.0平|中区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "205万"
+}{
+  "singel_price": "单价29357元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4588256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/b6fd476b-331a-4411-9925-7e8a31a64cbc.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "上下楼方便，简单装修，满五减税，看房方便",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "2室1厅|54.5平|低区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "香花新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "160万"
+}{
+  "singel_price": "单价29940元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4632089.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170211/ceecfee6-c801-4de1-8d51-453db868cbca.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，高区景观好，精装修",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|63.46平|高区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "190万"
+}{
+  "singel_price": "单价30248元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4426434.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161207/1896f236-c190-4cb8-9db9-f940d529eeea.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，采光好，拎包入住",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|49.59平|高区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "150万"
+}{
+  "singel_price": "单价29977元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828783.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170523/5b54de23-bd44-4297-bb85-9833ca0d46db.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "光线充足，装修精美，房本满五年，实地看房",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|49.37平|中区/11层|朝北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "148万"
+}{
+  "singel_price": "单价29032元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742265.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/b7500cc1-809b-4349-9a9f-1170eb3df3f9.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，楼层好，房本满五年",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|70.61平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "香花新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "205万"
+}{
+  "singel_price": "单价27659元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707376.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/d52009cb-255e-4735-9f30-0cd22a017b1a.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，好楼层，省装修费，房本满五年",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|70.5平|中区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "香花新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "195万"
+}{
+  "singel_price": "单价31914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171128/294f2270-7e1e-4cd4-a0e7-afd3b4f209b2.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，装修精美",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|47.0平|低区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "150万"
+}{
+  "singel_price": "单价31914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785426.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/0238dc32-ebf4-4093-8458-5999866311d6.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野很好，满2年",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|47.0平|高区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "150万"
+}{
+  "singel_price": "单价29411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/6a964541-5f26-45e0-85df-ed2f35566817.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北直通，客厅朝南，好楼层，满5年",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室2厅|102.0平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "香花中路54弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "300万"
+}{
+  "singel_price": "单价33160元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815640.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/6f682df7-2961-4ff3-9259-61d9cbeaf807.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，好楼层，满五年，上门实勘",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|48.25平|中区/11层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "160万"
+}{
+  "singel_price": "单价25976元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685799.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/9c317def-0060-44f4-b25e-24c964da8fdc.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北户型，厨卫全明，好楼层，房本满五年",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|103.94平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "香花新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价29708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683106.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/2d3a74bb-8b77-46a3-bfff-c78e15f30bc8.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，光线充足，中等装修，房本满五年",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|77.42平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "北青公路9322弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价29185元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4600071.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/81775511-4495-4f3f-9802-fe2d8c547a42.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野很好，装修精美",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|65.1平|高区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "香花新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "190万"
+}{
+  "singel_price": "单价29307元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840061.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/af7f3a6f-ce7c-4ec1-8e92-c1269a2fa9ec.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低区出入方便，装修精致",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|47.77平|低区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "140万"
+}{
+  "singel_price": "单价32264元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549214.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/5e8b4df3-37f3-4277-bd93-14a37c516bb8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，光线充足，品质装修",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|49.59平|中区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "160万"
+}{
+  "singel_price": "单价39219元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/26636466-5faa-459f-923a-9eb662b1b6bc.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "高区阳光房，品质装修，热门房源，高清实拍",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|47.17平|高区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "185万"
+}{
+  "singel_price": "单价21008元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780960.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/c5e733f4-0fa7-477a-8f3f-3704d8de93b9.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，中等装修",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室2厅|99.96平|中区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "香花中路22弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "210万"
+}{
+  "singel_price": "单价32777元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727209.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/6ac3c66e-c2fe-4074-8b8b-d53102339f70.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带卫，卧室全南，光线充足，精装修",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|50.34平|中区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "165万"
+}{
+  "singel_price": "单价25317元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4268201.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160914/447ee61c-d0e4-423b-ac5d-6cab318dbf9c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "视野很好，品质装修，房本满五年，高清实拍",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室2厅|236.99平|高区/3层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "600万"
+}{
+  "singel_price": "单价32758元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799765.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/af8bdaa4-c9e1-4aa3-b4ae-2d52ed58698a.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，视野开阔，毛坯房",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "2室1厅|91.58平|高区/12层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富兴雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "300万"
+}{
+  "singel_price": "单价23142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586765.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170210/dc93cb57-4396-4460-adc2-485ea208f9b1.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "梦盈花园别墅，楼层好，满二年，上门实拍",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "4室2厅|175.0平|低区/1层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "梦盈花园别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "405万"
+}{
+  "singel_price": "单价32725元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4577934.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161126/fa6403c8-be78-4af9-b0ae-fb6fccc1fc05.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，光线充足，中等装修，满二年",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室1厅|64.17平|中区/11层|朝北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "210万"
+}{
+  "singel_price": "单价18620元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4299643.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161231/5149bbbb-f505-4dae-afc4-31d151eaed62.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "2室2厅|83.24平|低区/25层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "中宇花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "155万"
+}{
+  "singel_price": "单价27548元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860735.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/58ca8f50-edbf-4691-8951-3a3eee3e6583.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，楼层好，简单装修，高清实拍",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|72.6平|中区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "北青公路9322弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "200万"
+}{
+  "singel_price": "单价25934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855607.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/d3625e77-95f3-41b2-a48f-2921d3a2b2bc.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，上门实拍",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "2室1厅|71.72平|低区/4层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "民惠佳苑（九区）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "186万"
+}{
+  "singel_price": "单价32017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846558.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/7294d14a-a392-47e1-b1c0-cb1618bd2be6.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，好楼层，装修精致",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "2室1厅|46.85平|中区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "150万"
+}{
+  "singel_price": "单价25287元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4714949.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170712/92f786d9-b8ab-408c-b9f5-860dc4524e00.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "都汇华庭，采光无遮挡，拎包入住，上门实勘",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "5室2厅|229.36平|高区/3层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "都汇华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "580万"
+}{
+  "singel_price": "单价33064元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534670.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/2a2695dc-2b7c-4150-a4b7-018b0600ee78.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，视野很好，毛坯房",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "1室2厅|69.56平|高区/12层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富兴雅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价24733元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4527389.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161130/ca70d845-e52d-406c-845f-b88b85b00167.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，楼层好，中等装修，上门实拍",
+  "s_cate": "香花桥",
+  "house_desc": [
+    "3室1厅|78.84平|中区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "普光路121弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xianghuaqiao",
+  "house_price": "195万"
+}

@@ -1,0 +1,16 @@
+{
+  "singel_price": "单价21008元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842740.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/d1abb863-6301-4320-b086-87c3a940c01d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "高区采光好，拎包入住，房本满五年，上门实勘",
+  "s_cate": "叶榭",
+  "house_desc": [
+    "3室2厅|121.38平|高区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新源人家",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yexie",
+  "house_price": "255万"
+}

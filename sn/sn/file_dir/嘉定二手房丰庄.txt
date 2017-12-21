@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价45607元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/6a28b9dd-fdbb-4985-a9bb-253989ebf860.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，交通便利，视野开阔",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|65.34平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "298万"
+}{
+  "singel_price": "单价52525元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713029.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/66314fbb-c26a-42fd-aa84-e793c14e549c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，黄金楼层",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "1室1厅|44.74平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "235万"
+}{
+  "singel_price": "单价45000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648940.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/0e61d058-dab6-49bf-b0f2-1ac87e0afde5.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区阳光房",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|60.0平|高区/7层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金丰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价47612元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777901.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/b79fa812-c2df-44d6-bdab-434170807f32.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，上下楼方便",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|71.41平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金丰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "340万"
+}{
+  "singel_price": "单价47900元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739948.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/29ec0072-1e1d-45b4-b0ce-a7dbaff39d7e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，视野很好",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|70.98平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金丰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "340万"
+}{
+  "singel_price": "单价43737元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730449.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/4454362c-da13-47b5-932d-2ae2d0dcb8bb.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅带阳台，出行方便，上下楼方便",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "3室2厅|122.32平|低区/14层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "住嘉佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "535万"
+}{
+  "singel_price": "单价46979元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674641.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/ae1d3ccd-1f56-49e3-b650-5b46e29926f6.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "1室1厅|44.7平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "210万"
+}{
+  "singel_price": "单价46942元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652437.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/74edcd72-2e8c-4177-8f9e-0e7c75cfee9a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，低区出入方便",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "3室1厅|76.69平|低区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "360万"
+}{
+  "singel_price": "单价53275元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779725.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/7ffeded7-6c1c-4034-b0a9-51659a847eb3.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，好楼层",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "1室1厅|50.68平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金祥坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价58410元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4528718.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170302/62608354-26e3-4910-9e17-58d5e3d72952.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，低区出入方便",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室2厅|88.34平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "汇丰佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "516万"
+}{
+  "singel_price": "单价48759元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691677.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/43ad4a05-7cf6-4466-a726-7e940719ac1c.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，光线充足，省装修费",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|58.45平|中区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "285万"
+}{
+  "singel_price": "单价51264元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4559758.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/b791c1ef-0564-4984-9d6d-fe6cd9157bbf.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，中等装修",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "1室1厅|43.89平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "225万"
+}{
+  "singel_price": "单价54737元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610588.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161228/438055ae-f72c-4a48-bed2-011c229e2248.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，地铁房，低楼层",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|76.73平|低区/12层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金沙嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "420万"
+}{
+  "singel_price": "单价45619元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839079.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/49978839-8fc4-4090-a32f-a6361f717a4c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，高区采光好",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|63.57平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "290万"
+}{
+  "singel_price": "单价49354元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831699.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/738b18f3-f622-45e4-b666-96ecb93b0c4c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|65.85平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "325万"
+}{
+  "singel_price": "单价49600元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814475.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/ebc1b2f7-a605-4c88-b23d-e9a5d0e04071.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，视野开阔",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|62.5平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "310万"
+}{
+  "singel_price": "单价55056元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799363.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/1acf7ded-8497-4040-b94d-f0d25476eeb6.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁直达，光线充足",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室2厅|89.0平|中区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "汇丰佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "490万"
+}{
+  "singel_price": "单价49109元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786751.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/60c2fbd9-75d5-4ab4-a198-284811f5de51.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低楼层",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|60.07平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "295万"
+}{
+  "singel_price": "单价48359元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781693.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/b3b6c8ef-5285-4f40-a0f3-1c38930d4c8a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "出行方便，上下楼方便，简单装修，满五减税",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|71.34平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "345万"
+}{
+  "singel_price": "单价55369元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707700.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/c65c79d9-bd33-4058-9b62-5dc8e05cf22d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁沿线，上下楼方便",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室2厅|89.4平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金沙嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "495万"
+}{
+  "singel_price": "单价50558元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/36d1ccdf-0c88-45b5-8ee0-62f7bd634a78.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，地铁直达，低楼层，简单装修",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "1室1厅|47.47平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "240万"
+}{
+  "singel_price": "单价55238元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4660713.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/0d380320-60e8-427f-a4d3-52ff1c6d0785.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，出行方便，高区阳光房，中等装修",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室2厅|105.0平|高区/12层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金沙嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "580万"
+}{
+  "singel_price": "单价58181元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4635872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/28cfd09e-4f51-4e71-9894-4e34398c6681.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，客厅朝南，地铁直达，高区景观房",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室2厅|106.22平|高区/20层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金沙丽晶苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "618万"
+}{
+  "singel_price": "单价61282元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4633506.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/0c163587-0f50-4665-8928-81c39e921dcc.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，采光好",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室2厅|101.17平|高区/14层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉宝都市港湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价53884元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4531613.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/0851c257-48c1-4018-a402-58c76f55af22.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通，地铁沿线，低楼层，简单装修",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|57.53平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "金祥坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "310万"
+}{
+  "singel_price": "单价50000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830537.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/26462544-74de-46ca-83d8-ab6b79bf70fb.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "楼层好，简单装修，满五减税，看房有钥匙",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|55.0平|中区/7层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉利坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "275万"
+}{
+  "singel_price": "单价51330元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808392.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/a2829490-5507-49fb-8d3f-a9001d07b8ac.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低区出入方便，简单装修",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|69.16平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉和坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "355万"
+}{
+  "singel_price": "单价54854元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667445.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/ebd22399-10db-4df0-b0aa-839a7af706c7.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线充足，简单装修",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "1室1厅|48.31平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉美坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "265万"
+}{
+  "singel_price": "单价46553元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844703.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/2be3754a-023b-4ffb-89c7-d14b510c1b99.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低楼层",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|82.7平|低区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丰庄十二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "385万"
+}{
+  "singel_price": "单价52153元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843270.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/2217ca16-30bd-4c84-aac2-170a0b562a0d.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "丰庄",
+  "house_desc": [
+    "2室1厅|67.11平|中区/7层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "丽景新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengzhuang",
+  "house_price": "350万"
+}

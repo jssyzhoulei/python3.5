@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价29464元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809712.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/95de62a3-9dbc-40e5-adc8-ed666f2b2d27.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，客厅带阳台，黄金楼层，毛坯房",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|89.94平|中区/12层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "逸皓华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "265万"
+}{
+  "singel_price": "单价28486元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810346.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/d8680bc2-fe77-43ef-9bb3-7615d8193085.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，厨卫全明，光线非常好，省装修费",
+  "s_cate": "重固",
+  "house_desc": [
+    "4室2厅|91.27平|高区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "夏阳金城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价31129元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783430.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/00c93605-b2f9-4cf2-b327-6e97b5c3a709.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，采光好，品质装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|88.34平|高区/7层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金城上品（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "275万"
+}{
+  "singel_price": "单价34632元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757413.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/00cdc155-9548-4d6b-9039-6eead6db54d3.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，厨卫全明，采光无遮挡，精装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|80.85平|高区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚景苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价32310元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650688.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/b93dabe5-f690-4e1c-a674-363884d3d0cb.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "视野很好，精装修，满5年，人气房源",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室1厅|73.66平|高区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "现代华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "238万"
+}{
+  "singel_price": "单价34328元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770743.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/79a3f808-82b5-4941-a29d-8d7d725ff834.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，高区采光好，拎包入住",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室1厅|67.0平|高区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "夏阳金城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价30087元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819726.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/dbb5c397-7199-4227-a56f-357b164081c0.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "现代华庭，高区景观好，满5年，上门实勘",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|109.68平|高区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "现代华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价35631元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813576.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/21ee51fe-9ff4-4480-9403-e7e035047b7d.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "低区出入方便，中等装修，满五年，高清摄影",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室1厅|64.55平|低区/7层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金城上品（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价37555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161125/dacb29e3-1d83-4a3c-ac94-ff6a15b649a3.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通透，客厅朝南，好楼层，拎包入住",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|79.35平|中区/11层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚景苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "298万"
+}{
+  "singel_price": "单价32979元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800535.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/1028ec73-03fc-466e-8e08-fbdedf1b79b0.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，装修精致",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室1厅|69.74平|低区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "现代华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价37078元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799865.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/3b8951f5-98f4-48a0-beaf-c82178b4ecba.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，黄金楼层，精装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|89.0平|中区/11层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚景苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价37078元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796842.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/30a6a063-9794-4e23-af3e-3da1e4993f47.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，好楼层，拎包入住",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|89.0平|中区/11层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚景苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价36430元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787547.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/7c83f066-e67a-4452-8998-526901d554a2.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，低楼层，房本满五年",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|94.7平|低区/10层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚源（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "345万"
+}{
+  "singel_price": "单价33548元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740973.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/0302e8c6-a549-455c-88b8-0a2026050928.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，满五年",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室1厅|62.0平|中区/4层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "康博佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "208万"
+}{
+  "singel_price": "单价29233元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733669.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160922/418bb0a8-5eb9-44b1-81ec-19c93deb4d4e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，楼层好，中等装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|88.94平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "福泉山路401弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价27358元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715214.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/16ced6ac-0fbc-498b-b283-347fbaf106c4.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，低楼层，品质装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|91.38平|低区/7层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金城上品（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "250万"
+}{
+  "singel_price": "单价30146元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/81a75a7a-2bb9-416e-af11-df9190021762.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，客厅朝南，上下楼方便，品味装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|88.9平|低区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "夏阳金城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "268万"
+}{
+  "singel_price": "单价31596元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684328.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161124/6772d9eb-1944-472e-b936-2a8f03e885f8.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，黄金楼层，装修精美",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|90.2平|中区/12层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "逸皓华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "285万"
+}{
+  "singel_price": "单价35916元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4660216.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161107/56f09ae3-d269-4a92-9211-a33ef7b37fff.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，低楼层，拎包入住",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室1厅|79.35平|低区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚景苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "285万"
+}{
+  "singel_price": "单价33863元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4659288.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/f0a318f2-f893-4e64-ac56-9626a1ecae09.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，采光好，房本满五年",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|72.35平|高区/7层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金城上品（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "245万"
+}{
+  "singel_price": "单价26438元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589945.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170425/8b858f1a-7ad7-47d9-8a63-a2d9d34849e2.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，厨卫全明，黄金楼层，拎包入住",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|113.47平|中区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "现代华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价33565元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806886.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/6c6be69e-06cb-4d2c-b8e5-cbcc176c7044.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，客厅朝南，视野开阔，装修精致",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|75.97平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "夏阳金城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "255万"
+}{
+  "singel_price": "单价27418元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802289.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/d9e183f0-223d-44b8-8901-6240b7b1ce51.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，客厅朝南，光线充足，中等装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|193.3平|低区/2层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "逸皓华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "530万"
+}{
+  "singel_price": "单价33477元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785422.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/c0dd4fec-c744-45ac-bc23-a1456b68d885.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，高区阳光房，精装修，房本满两年",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室1厅|67.21平|高区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "夏阳金城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "225万"
+}{
+  "singel_price": "单价36546元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733840.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/cb5981b0-f507-4555-b9b8-ecd0964b3402.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，厨卫全明，好楼层，装修精致",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|79.35平|中区/11层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚景苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "290万"
+}{
+  "singel_price": "单价42405元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713314.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/80ec8836-0a85-4adc-bee4-146286ed768c.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，光线非常好，装修精致，满2年",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|79.0平|高区/11层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科尚景苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "335万"
+}{
+  "singel_price": "单价30080元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678467.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/b85872e1-400c-4b85-812b-dfc62e6ec3a3.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，带飘窗，黄金楼层，品质装修",
+  "s_cate": "重固",
+  "house_desc": [
+    "2室2厅|89.76平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "现代华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "270万"
+}{
+  "singel_price": "单价32713元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603577.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170425/7ff0a782-104d-486d-8313-c44d6e661484.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "高区景观好，省装修费，人气房源，高清实拍",
+  "s_cate": "重固",
+  "house_desc": [
+    "1室2厅|67.25平|高区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "夏阳金城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价28350元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170404/ff63bddc-ea16-4a41-8e0f-aae103a64531.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "逸皓华庭，光线充足，热门带看，高清实拍",
+  "s_cate": "重固",
+  "house_desc": [
+    "5室2厅|194.0平|低区/2层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "逸皓华庭（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "550万"
+}{
+  "singel_price": "单价31509元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/5e20951b-158d-42b7-bfca-14eb76a2d643.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "现代华庭，毛坯房，满五减税，高清摄影",
+  "s_cate": "重固",
+  "house_desc": [
+    "3室2厅|206.29平|地上1层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "现代华庭（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chonggu",
+  "house_price": "650万"
+}

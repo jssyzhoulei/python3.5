@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价64155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847049.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/35124958-6751-4c35-9bd7-8b12a30abd3c.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，视野很好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|62.66平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙南三四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "402万"
+}{
+  "singel_price": "单价68604元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802477.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/c19f67b5-7ab5-4945-8c3b-acd9a6e121e1.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区景观好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "3室1厅|86.0平|高区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南华侨新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "590万"
+}{
+  "singel_price": "单价72282元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779009.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/78e1daaa-0864-4dca-a055-667201485979.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，光线充足，经典装修",
+  "s_cate": "龙华",
+  "house_desc": [
+    "3室2厅|107.91平|中区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙华雅居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "780万"
+}{
+  "singel_price": "单价69227元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759661.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/60f6ce48-153e-4eaa-88b8-42bf4eca6fdc.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低楼层",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室0厅|44.78平|低区/4层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "310万"
+}{
+  "singel_price": "单价71513元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757041.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/e47da4ba-a9cb-4bfb-b3dc-164dfe7ac45a.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通方便，黄金楼层",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|50.34平|中区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "机场新村（龙华）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "360万"
+}{
+  "singel_price": "单价62043元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692121.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/eadc2c4e-2e15-44b7-9ce3-9c316076546c.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|68.5平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙南三四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "425万"
+}{
+  "singel_price": "单价75132元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581466.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161113/03f35379-e681-4547-9ad8-1317b2687f77.jpg_200x150.jpg",
+  "house_time": [
+    "1967年建"
+  ],
+  "house_title": "卧室全南，地铁房，好楼层，省装修费",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室1厅|33.94平|中区/4层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东航小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "255万"
+}{
+  "singel_price": "单价72649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581344.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/6d01d65d-36b9-4eec-9393-9b560c105a7d.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，低楼层",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|70.2平|低区/20层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "煤科公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "510万"
+}{
+  "singel_price": "单价64263元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4565983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/df7eb96e-a6c9-4120-988c-852c6ab7e89c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，地铁房，低楼层，简单装修",
+  "s_cate": "龙华",
+  "house_desc": [
+    "3室1厅|91.81平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "狮城花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "590万"
+}{
+  "singel_price": "单价96368元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4477701.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161020/a4f7a02e-0948-43a3-8ba9-632b7daddab4.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁直达，光线非常好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "3室2厅|143.2平|高区/23层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "临江豪园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "1380万"
+}{
+  "singel_price": "单价80811元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825551.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/31a5769e-aa97-4e32-b3d8-7c9e393ba8b3.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，上下楼方便",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室1厅|34.03平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "金龙花苑玫瑰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "275万"
+}{
+  "singel_price": "单价59550元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788311.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/a2f85223-7eee-454c-ac0e-1cd2905e1a7f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观房",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|66.33平|高区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "395万"
+}{
+  "singel_price": "单价67360元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674773.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/934460c2-7f1e-4b10-8db1-1eb4a416522c.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁房，高区景观房",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|74.97平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "机场新村（龙华）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "505万"
+}{
+  "singel_price": "单价62136元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810507.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/a4eb45ca-13d1-4564-a36e-f043880ec922.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，高区景观房",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|61.96平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙南七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "385万"
+}{
+  "singel_price": "单价81545元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771494.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/1722066f-4e31-424d-8d46-1efadf2eaa32.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，上下楼方便",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室1厅|34.95平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "285万"
+}{
+  "singel_price": "单价55535元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705277.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/a56630a5-9444-4a60-887f-07d3162e8cf8.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，黄金楼层",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室2厅|81.93平|中区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙南三四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "455万"
+}{
+  "singel_price": "单价74994元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692826.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/4f3f119e-f921-450b-8a70-2d8a8494dff7.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁房，采光好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|48.67平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "365万"
+}{
+  "singel_price": "单价60704元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648401.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/3eb243d7-923d-48a7-b915-ec05b6734287.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区景观好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室1厅|45.96平|高区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙南三四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "279万"
+}{
+  "singel_price": "单价80443元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556985.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/ccc0f38c-d4a1-4b47-8724-503fb180aa57.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区景观房",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室1厅|36.05平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "申航小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "290万"
+}{
+  "singel_price": "单价72857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549437.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/ea57496d-dca7-4df2-b6fd-a1f0f22e5b7a.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "南北直通，客厅朝南，交通方便，高区阳光房",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|70.0平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南华侨新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "510万"
+}{
+  "singel_price": "单价77864元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4542501.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/be7403d1-4b7f-476a-9280-3704547fae6e.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野很好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室0厅|44.95平|高区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "350万"
+}{
+  "singel_price": "单价77821元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4494882.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170204/3557fdd4-f3f6-41fa-8430-54600978c6ad.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，好楼层",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室1厅|35.98平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "280万"
+}{
+  "singel_price": "单价85714元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819522.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/f09c1d3e-0d87-43dc-b2c1-d07abe94b47d.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，高区阳光房",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室0厅|35.0平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东安五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "300万"
+}{
+  "singel_price": "单价81944元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789881.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/9156f2f3-9c84-4c37-84d7-2503a2b9f5d9.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，黄金楼层",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室1厅|36.0平|中区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "295万"
+}{
+  "singel_price": "单价61500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734551.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/1c5f4f60-378c-4d0e-9b80-8e1d8cbf0e64.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，低区出入方便",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|56.91平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "俞三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "350万"
+}{
+  "singel_price": "单价85257元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4720448.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/fce9e43d-8aa6-40dc-81be-59ea15712698.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，光线非常好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "1室0厅|28.15平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "240万"
+}{
+  "singel_price": "单价71682元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628068.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/9017d192-64a1-43d7-8f2b-64856a078f1b.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "交通便利，上下楼方便，中等装修，满2年",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|84.4平|低区/24层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "协昌小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "605万"
+}{
+  "singel_price": "单价70986元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4602012.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/b58c8aa5-bb39-472e-8629-b769742b220e.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，交通便利，高区采光好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|54.94平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "上缝小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "390万"
+}{
+  "singel_price": "单价63403元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4479197.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/dfb528a8-7e96-4c40-a5d5-4638e670b366.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，地铁沿线，好楼层",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|78.86平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "天龙苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "500万"
+}{
+  "singel_price": "单价73796元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839981.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/a55ddef2-32c8-47f9-a44e-686ace01ad1a.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "南北通，客厅朝南，交通便利，光线非常好",
+  "s_cate": "龙华",
+  "house_desc": [
+    "2室1厅|46.75平|高区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宛南二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/longhua",
+  "house_price": "345万"
+}

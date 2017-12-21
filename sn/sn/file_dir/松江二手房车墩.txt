@@ -1,0 +1,495 @@
+{
+  "singel_price": "单价29328元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747299.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/60997c3e-3327-490d-ad90-0eb220161b7f.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观好，简单装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "2室1厅|46.03平|高区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "135万"
+}{
+  "singel_price": "单价31521元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793288.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/fadd902b-fa50-48ba-b667-eaa908eb222b.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，楼层好，简单装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "2室1厅|46.0平|中区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "145万"
+}{
+  "singel_price": "单价29534元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4617300.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/40b97002-e99a-47f6-9c7b-f0a85af62d2d.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，装修精致",
+  "s_cate": "车墩",
+  "house_desc": [
+    "2室1厅|69.41平|中区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "205万"
+}{
+  "singel_price": "单价30286元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671419.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/b8fee3bc-081c-4b7c-81ec-bd7192a2b98b.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，楼层好，毛坯房",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|89.15平|中区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "270万"
+}{
+  "singel_price": "单价29021元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796250.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/8b2c4d7b-a009-4067-952c-c022f61e7dba.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，带飘窗，低区出入方便，看房方便",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|89.59平|低区/8层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "旭辉安贝尔花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "260万"
+}{
+  "singel_price": "单价24256元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728779.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/b1e3757a-3c8e-4495-baae-89fcae78e6f7.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，客厅朝南，好楼层，毛坯房",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|123.68平|中区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "祥峰家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "300万"
+}{
+  "singel_price": "单价28815元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4722189.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/ebdabfe6-8312-4a2f-b49b-8fae0001ac16.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "毛坯房，有钥匙，实地看房，上门实拍",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|211.69平|地上1层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "雅居乐星徽",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "610万"
+}{
+  "singel_price": "单价29746元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784329.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/6eb0c6ee-27b3-455d-acb2-55d6ad531305.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "房型正气，厨卫全明，光线非常好，拎包入住",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室1厅|83.37平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "248万"
+}{
+  "singel_price": "单价32169元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648815.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161011/68f35e5c-c8c6-4c68-8f99-1872e8e3d632.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区阳光房，拎包入住",
+  "s_cate": "车墩",
+  "house_desc": [
+    "1室2厅|58.44平|高区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "188万"
+}{
+  "singel_price": "单价28855元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4580414.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/eef10a0a-b4aa-4759-bd8b-1c6d136847ec.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通透，厨卫全明，采光无遮挡，省装修费",
+  "s_cate": "车墩",
+  "house_desc": [
+    "2室1厅|69.31平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "200万"
+}{
+  "singel_price": "单价32258元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/ef6dc6dc-e470-41f9-9592-8765a6f85273.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "楼层好，毛坯房，房本满两年，来电即看",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室1厅|89.9平|中区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "290万"
+}{
+  "singel_price": "单价33095元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697263.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/4da18b95-849a-4a47-b128-b45c5161fc60.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，光线充足，省装修费",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室1厅|84.0平|中区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "278万"
+}{
+  "singel_price": "单价34375元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4750404.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/1bb5d129-66dd-4686-9882-0c06c3ce9c1d.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，毛坯房",
+  "s_cate": "车墩",
+  "house_desc": [
+    "1室0厅|32.0平|低区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "110万"
+}{
+  "singel_price": "单价28901元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850997.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170418/c5f5e784-9882-41b2-bdb8-08f4135d015e.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，光线充足，钥匙房",
+  "s_cate": "车墩",
+  "house_desc": [
+    "1室2厅|58.82平|中区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "车峰路452号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "170万"
+}{
+  "singel_price": "单价30898元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846074.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/06081acc-6400-4339-a264-028ebd792b11.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，卧室带卫，拎包入住，钥匙在手",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|89.0平|地上8层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "旭辉安贝尔花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "275万"
+}{
+  "singel_price": "单价36608元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/62b108b4-9481-4621-9151-51f3e89b1063.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "旭辉安贝尔花园，看房方便，上门实拍，链家真房源",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|117.46平|地上1层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "旭辉安贝尔花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "430万"
+}{
+  "singel_price": "单价27412元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683777.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/215dd7fd-8491-45bb-b56d-5901d2823b3b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，带飘窗，低楼层，简单装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "4室2厅|143.0平|低区/12层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "雅居乐星徽",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "392万"
+}{
+  "singel_price": "单价31024元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831937.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/20865e78-07c3-4dbb-a61a-972c2019d3b7.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，中等装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "2室1厅|69.3平|低区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "215万"
+}{
+  "singel_price": "单价28787元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756367.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/c33958bc-2f1e-4d3e-90f5-ad5f95614789.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "稀缺南北通，卧室全南，好楼层，简单装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室1厅|83.37平|中区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "240万"
+}{
+  "singel_price": "单价24626元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799648.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/0929182f-a813-4457-8a98-740364314a83.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，客厅带阳台，上下楼方便，火爆热销",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|134.0平|低区/12层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "雅居乐星徽",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "330万"
+}{
+  "singel_price": "单价43983元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843199.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/ac05509b-2157-4c4b-ac2f-25eda7a730b9.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，厨卫全明，高区景观好，品质装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "5室2厅|88.67平|高区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "390万"
+}{
+  "singel_price": "单价37871元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842759.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/c6d4a0e4-3efc-4782-b455-4ec034070bb2.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，中等装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "1室0厅|33.27平|中区/6层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "126万"
+}{
+  "singel_price": "单价32022元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829350.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/6e80c3c1-3e85-4a71-a952-97f83cfa4a2b.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，低楼层，品质装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室1厅|89.0平|低区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "285万"
+}{
+  "singel_price": "单价31559元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799281.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/b11a16fc-87ce-4291-ad4c-0ee65995a466.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，简单装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "1室0厅|33.27平|低区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "105万"
+}{
+  "singel_price": "单价32587元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770840.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/535c7c6f-23cf-4b91-be3d-9a43ee285ac4.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，采光无遮挡，简单装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "2室0厅|46.03平|高区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "150万"
+}{
+  "singel_price": "单价31485元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751940.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/6a0822fd-7d15-4c85-bdbf-ef53c75b5cd2.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，带飘窗，好楼层，拎包入住",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室2厅|88.93平|中区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "280万"
+}{
+  "singel_price": "单价31218元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699958.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/131e1d3b-b771-4952-b332-58c3c3a19de4.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，楼层好，拎包入住",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室1厅|88.73平|中区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "277万"
+}{
+  "singel_price": "单价40449元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4686653.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170620/a3bf955c-1704-4fca-84f4-06c0716f29ed.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，高区景观房，省装修费，房本满两年",
+  "s_cate": "车墩",
+  "house_desc": [
+    "5室2厅|89.0平|高区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "360万"
+}{
+  "singel_price": "单价33291元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663284.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160715/e36ad9d3-9595-4c18-ab8b-d8f7859b7169.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "黄金楼层，品味装修，房本满两年，热门房源",
+  "s_cate": "车墩",
+  "house_desc": [
+    "3室1厅|88.61平|中区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润玫瑰芳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "295万"
+}{
+  "singel_price": "单价29805元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624809.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/6a08c9b6-c1cc-4700-bd8f-b7b8e9da8f3a.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通，卧室带阳台，高区景观房，简单装修",
+  "s_cate": "车墩",
+  "house_desc": [
+    "2室0厅|46.3平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "好莱坞小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/chedun",
+  "house_price": "138万"
+}

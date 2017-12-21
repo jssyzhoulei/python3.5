@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价57422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4646719.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/04c1ab02-c7ee-45e0-9f5d-e6188765ed7e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，高区景观房",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|70.53平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芳草路352弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "405万"
+}{
+  "singel_price": "单价71195元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813707.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161007/67559aae-bbd0-4874-a837-e01ace0d597a.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北直通，地铁房，高区采光好，装修精美",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "3室2厅|134.84平|高区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "锦三角花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "960万"
+}{
+  "singel_price": "单价60498元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790701.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/ace39702-7751-4311-8449-eaaf3f83806c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，低楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|53.72平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "由由四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "325万"
+}{
+  "singel_price": "单价57709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787588.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/9a96e73a-0d9b-4644-8a6d-ed6c116d4d24.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|67.58平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芳草路352弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "390万"
+}{
+  "singel_price": "单价59118元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738386.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/746c266c-7f04-4edb-836f-762d2d3cc421.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，交通方便，好楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "1室1厅|55.82平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芳华路713弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "330万"
+}{
+  "singel_price": "单价60564元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685621.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/a5d61121-a382-4fde-b676-1a801a323952.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，上下楼方便",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室2厅|72.65平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芳华路253弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "440万"
+}{
+  "singel_price": "单价65116元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682369.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/a68efb9c-f1fb-4116-a996-eed217f0627e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "地铁房，光线非常好，简单装修，满五减税",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|53.75平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金旋小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "350万"
+}{
+  "singel_price": "单价62282元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668098.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/621d54d0-2c34-4c99-8fd7-6002c947154e.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，出行方便，高区采光好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "3室2厅|120.42平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "锦华花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "750万"
+}{
+  "singel_price": "单价59135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4653878.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170525/8d262c3c-2718-49e5-b48e-1f758a07b02e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，上下楼方便",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "1室1厅|56.65平|低区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "培花七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "335万"
+}{
+  "singel_price": "单价80356元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4636469.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/0226bd73-3027-4944-9bb0-14bc84d53f99.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北直通，厨卫全明，出行方便，光线充足",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "3室2厅|97.69平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "万邦都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "785万"
+}{
+  "singel_price": "单价74195元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4301431.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160929/464b0e65-b81a-4bf3-bd1a-32da780665d0.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，好楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|79.52平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "锦博苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "590万"
+}{
+  "singel_price": "单价60085元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4336632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161030/0c347089-d7d2-4756-83ba-e3f301cb7b8f.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，低楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室2厅|97.86平|低区/16层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "培花久远公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "588万"
+}{
+  "singel_price": "单价55344元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4602524.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/522f746a-6f7a-4ae7-ab5f-1304dbe366ac.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，好楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室2厅|86.73平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "由由一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "480万"
+}{
+  "singel_price": "单价61194元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837348.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/06b1b9d6-72f1-4484-8300-298c5d5a14b4.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线充足",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "1室1厅|47.39平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芳华路580弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "290万"
+}{
+  "singel_price": "单价56327元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823070.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/f895c4e1-6c56-43a6-8147-37f21e6046a5.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，高区采光好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室2厅|83.44平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海东公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "470万"
+}{
+  "singel_price": "单价62483元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798246.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/285c0c23-6e03-4033-8359-8dd594ab99e2.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "交通方便，上下楼方便，装修精美，满五年",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "1室1厅|38.25平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "由由二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "239万"
+}{
+  "singel_price": "单价60693元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784017.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/6cd21f1c-9566-4cb2-a995-29f24df4a905.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，低区出入方便，省装修费",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室0厅|51.9平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "由由二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "315万"
+}{
+  "singel_price": "单价60073元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769427.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/24104590-6b56-4b20-9119-8079e50342e9.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "1室1厅|54.6平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芳草苑（浦东）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "328万"
+}{
+  "singel_price": "单价58164元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713637.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/a4f71713-8b00-4c99-b514-e6281481a8fd.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北直通，卧室全南，地铁直达，高区采光好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|46.42平|高区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "由由六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "270万"
+}{
+  "singel_price": "单价59832元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/34c29138-e295-43fd-b25e-b18782723c35.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "3室1厅|75.21平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "由由一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "450万"
+}{
+  "singel_price": "单价62199元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692317.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/064b19fa-cf1d-4a9c-8a91-cb631508b905.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁沿线，高区阳光房",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|49.84平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "培花七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "310万"
+}{
+  "singel_price": "单价60956元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586496.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/5cb5bffe-3d05-480e-8310-ee22a85d9d62.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通方便，高区景观好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|63.98平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "天池二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "390万"
+}{
+  "singel_price": "单价59635元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4573464.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170403/0baf96f8-4c44-4cd7-bf69-8b36d539afcb.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "1室1厅|47.79平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芳草路352弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "285万"
+}{
+  "singel_price": "单价57833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561044.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/2e95fd47-42cf-455f-9427-2777f011cf21.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|57.06平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "培花七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "330万"
+}{
+  "singel_price": "单价60739元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800511.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/824f94c8-a143-4c40-8d8f-5fd72b2bff73.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|79.52平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "培花七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "483万"
+}{
+  "singel_price": "单价58600元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755770.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/76904a12-c1e2-43d5-b18c-a886ea96f061.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "3室1厅|76.45平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "由由五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "448万"
+}{
+  "singel_price": "单价63414元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4702825.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/35741ff5-ca0b-45a3-82ca-c54d54973236.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，黄金楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "1室1厅|41.0平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "惠德新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "260万"
+}{
+  "singel_price": "单价60647元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4695683.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/9e27c1dd-0b04-444b-b7e2-e96eab4c5f3b.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，好楼层",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "2室1厅|65.79平|中区/7层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "培花久远公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "399万"
+}{
+  "singel_price": "单价68106元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681878.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/71da6d37-2100-43f7-87ed-b79fd3fa4c1a.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通方便，高区景观房",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "5室2厅|187.94平|高区/11层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "万邦都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "1280万"
+}{
+  "singel_price": "单价75619元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673725.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/255ffe5c-55b1-4830-bf5e-cf7f8ee0640b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，卧室带卫，地铁直达，楼层好",
+  "s_cate": "北蔡",
+  "house_desc": [
+    "4室2厅|158.69平|中区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海上国际花园（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beicai",
+  "house_price": "1200万"
+}

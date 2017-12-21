@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价71974元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821260.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160927/62ee4413-88b9-4eab-af6c-778b9485c00c.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，视野开阔",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|44.46平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙山新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价63642元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626774.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170508/837b8002-fa27-4edb-8cbe-cda91227081a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室2厅|86.42平|低区/19层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "爱中爱华公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "550万"
+}{
+  "singel_price": "单价69000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4548188.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170315/d0d8811c-6129-4c3d-9e50-2c0f4e65f565.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|50.0平|高区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华富小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "345万"
+}{
+  "singel_price": "单价75399元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4502529.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170214/1949812f-06c2-421e-858a-5f70a0e4e31b.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，好楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室0厅|33.82平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙吴路9弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "255万"
+}{
+  "singel_price": "单价72436元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4412720.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161127/2967c4e7-477a-48d3-83fe-e78e9b7271e4.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，视野很好",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "3室2厅|132.53平|高区/21层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "兆嘉园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "960万"
+}{
+  "singel_price": "单价99268元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4299610.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/e2dabee6-243d-477a-b2d7-6de46990fe67.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，地铁直达，低区出入方便",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室2厅|99.73平|低区/32层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宏润花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "990万"
+}{
+  "singel_price": "单价78383元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4157826.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160718/4a1f30af-0841-48dc-bff2-2bcd2ad9efaa.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁沿线，好楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "3室1厅|73.74平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕溪四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "578万"
+}{
+  "singel_price": "单价80128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840992.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/c8de2e06-9282-4f62-8430-f96e69b0f39c.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线充足",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室1厅|55.91平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕溪四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "448万"
+}{
+  "singel_price": "单价70266元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626149.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/ec95d6a8-96c9-4d03-a3b4-669b0b74ebe2.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，采光无遮挡",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|40.56平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙山新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "285万"
+}{
+  "singel_price": "单价70552元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856287.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/3d23eb3d-8ae3-48cc-b49a-ccd2dc5e3755.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，高区景观房",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室0厅|32.6平|高区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙山新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "230万"
+}{
+  "singel_price": "单价72514元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798400.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/46af1f6a-50e5-4146-8c6d-4e5614752853.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，好楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "3室1厅|100.67平|中区/22层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "住友公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "730万"
+}{
+  "singel_price": "单价76119元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780448.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/6ed04c1b-fe7b-478c-98d8-282c29110c80.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁沿线，低楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室1厅|56.49平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凯翔小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "430万"
+}{
+  "singel_price": "单价65520元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724456.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/756ab54b-5615-4651-b283-11e9e8a3fd3f.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，上下楼方便",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室2厅|109.89平|低区/15层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "明佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "720万"
+}{
+  "singel_price": "单价63909元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4702310.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/a1818c4d-1dc9-4f80-a29f-88c9c1a1809a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "3室2厅|133.0平|低区/24层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙山公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "850万"
+}{
+  "singel_price": "单价71499元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655597.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/3b11ce37-e9f1-4d5e-98c4-4b90465beacb.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "交通方便，高区采光好，简单装修，满五年",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室0厅|40.56平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙山新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "290万"
+}{
+  "singel_price": "单价67411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4625166.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/e615da3a-399d-40ce-aba4-670e04ad6a6d.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，低楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室0厅|51.92平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙山新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价61785元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4611542.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/39fac2d5-bffc-4bca-99ab-283531a7284a.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁房，低区出入方便",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室1厅|76.07平|低区/18层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凯翔小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "470万"
+}{
+  "singel_price": "单价72745元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4510358.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170217/ddafe972-3e07-4553-a4eb-885c23293fc4.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，高区景观好",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|39.59平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙吴路13弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "288万"
+}{
+  "singel_price": "单价65140元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836442.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/8a8c3284-570b-4106-9caf-154db1b1b25d.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区采光好",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室1厅|56.8平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙吴路11弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "370万"
+}{
+  "singel_price": "单价77096元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4744112.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/1fe2427d-8b51-457c-b201-ba755c134445.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "南北通，卧室带阳台，交通便利，光线非常好",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室0厅|53.18平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕溪四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "410万"
+}{
+  "singel_price": "单价80689元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4622232.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170505/27399bdc-85d5-4840-9a73-d9527f993933.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "地铁直达，高区阳光房，简单装修，满五年",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "3室1厅|91.09平|高区/18层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凯翔小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "735万"
+}{
+  "singel_price": "单价76495元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4540212.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160309/05b90580-184c-44c6-b9fe-884b8ed6c831.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅带阳台，交通方便，好楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室1厅|71.9平|中区/24层|朝东"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "银星名庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "550万"
+}{
+  "singel_price": "单价76866元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843391.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/cf74ce0b-829a-48a2-997f-b37fc249c51b.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室1厅|54.64平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙吴路9弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "420万"
+}{
+  "singel_price": "单价80036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/4a2be857-c227-4e07-81af-81fc1e540540.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁房，楼层好，满5年，有钥匙立即看",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|43.73平|中区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕溪二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价62370元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730337.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/a525ec69-d893-4ad8-945e-9d7468fac341.jpg_200x150.jpg",
+  "house_time": [
+    "1953年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，黄金楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室0厅|48.1平|中区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "龙山新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "300万"
+}{
+  "singel_price": "单价74748元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2324934.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160705/ec3bf161-e392-42ab-a513-9c944b8656e4.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁沿线，上下楼方便",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "2室1厅|42.81平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕溪四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价73525元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/fe43e74a-ad5a-4143-aedb-dae2f6c82cf8.jpg_200x150.jpg",
+  "house_time": [
+    "1976年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|39.17平|中区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "零陵路640号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "288万"
+}{
+  "singel_price": "单价91279元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792104.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/ccc8a1dc-463b-4112-b859-7cd892fa5e0f.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "3室2厅|132.56平|低区/35层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "宏润花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "1210万"
+}{
+  "singel_price": "单价71872元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737409.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160904/1b7676eb-ff5d-4a58-8b7d-5214c26b85fb.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，视野开阔",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|43.41平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "天钥新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "312万"
+}{
+  "singel_price": "单价69477元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4722505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/a3352e65-a9e2-4401-b1ef-f4a9a0bc32ba.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低区出入方便",
+  "s_cate": "万体馆",
+  "house_desc": [
+    "1室1厅|42.46平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕溪四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wantiguan",
+  "house_price": "295万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价30547元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827212.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/f6eaefb5-41ff-45e2-85d2-1bc5f3253da3.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，高区采光好，毛坯房",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|73.0平|高区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "223万"
+}{
+  "singel_price": "单价24553元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778421.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/20336f87-d56f-44a1-a495-58e28aba0760.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，楼层好，马上看房",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|83.49平|中区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "205万"
+}{
+  "singel_price": "单价25679元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4539120.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170321/f2a82ca7-ccad-44c5-8f50-e9b0c99417d1.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "北郊御墅，钥匙房，多次带看，上门实勘",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室3厅|214.18平|地上3层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "北郊御墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "550万"
+}{
+  "singel_price": "单价23851元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738066.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170801/7025b1fa-8f7e-4815-b64b-89fbe4411010.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，带落地窗，高区阳光房，简单装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|79.66平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝通家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "190万"
+}{
+  "singel_price": "单价27783元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753493.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160917/1680a2d9-e06c-4af5-9069-b4f0f1f61e7d.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，好楼层，省装修费，满5年",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|100.42平|中区/5层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "279万"
+}{
+  "singel_price": "单价24815元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4635190.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/1dab4d4c-1098-4809-a77d-4b6ce0002137.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，厨卫全明，楼层好，毛坯房",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|82.61平|中区/6层|朝东南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "205万"
+}{
+  "singel_price": "单价21186元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4617870.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/eba6347f-4550-4ce4-95ec-f90e07408347.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，卧室带卫，光线充足，毛坯房",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|118.0平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "250万"
+}{
+  "singel_price": "单价28770元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4568599.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/4fe05901-d747-41ba-8308-8d4ddaee1d39.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，视野开阔，简单装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室1厅|83.42平|高区/18层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "240万"
+}{
+  "singel_price": "单价24722元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4869775.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/693a9ec9-5d57-4305-b9bd-a5929f036a27.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，好楼层，省装修费",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室2厅|82.92平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "205万"
+}{
+  "singel_price": "单价26971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821202.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/4fa06836-86d9-489e-b40d-5a837e5ed653.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，低区出入方便，品质装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室1厅|83.42平|低区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "225万"
+}{
+  "singel_price": "单价29246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810038.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/509ee50b-40ea-4319-af29-9fc5f19906cb.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，高区采光好，简单装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|67.7平|高区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "198万"
+}{
+  "singel_price": "单价29243元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783009.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/32d32546-7b85-4494-9091-a2dab8fffcd0.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，高区景观好，品质装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室1厅|83.78平|高区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "245万"
+}{
+  "singel_price": "单价19662元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781197.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/bd5ef867-9c58-4bb3-8afa-37f38cbb8c80.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，客厅朝南，低区出入方便，精装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|178.0平|低区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "北郊一号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "350万"
+}{
+  "singel_price": "单价27961元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648358.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170216/992c7746-ab0a-4744-9988-0f6028fe165f.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北户型，厨卫全明，好楼层，经典装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|96.56平|中区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "270万"
+}{
+  "singel_price": "单价27640元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4552673.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/76a46fc2-a8e7-4db1-8d8e-a29cee6ec1b3.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，高区景观房，省装修费",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室2厅|83.21平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "230万"
+}{
+  "singel_price": "单价28000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4536812.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170306/0b58cd5b-84d1-4221-a387-8190ebe149c3.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通，厨卫全明，低区出入方便，装修精美",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|100.0平|低区/7层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价29466元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784193.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/03f0f357-d504-4523-b6df-91e6ea21f339.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，带飘窗，高区景观房，省装修费",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|106.9平|高区/7层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "315万"
+}{
+  "singel_price": "单价30764元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/3fe308f2-2e54-460b-ab35-843eab260944.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，高区阳光房，装修精致",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "4室1厅|132.62平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "408万"
+}{
+  "singel_price": "单价27274元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820286.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/4e59c58c-716b-41c4-b1fd-f5c9fd241cd0.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，带落地窗，好楼层，拎包入住",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|62.33平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝通家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "170万"
+}{
+  "singel_price": "单价23333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813645.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/c9c7c8d0-d3c8-4470-bbb9-b41781b17063.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，客厅朝南，采光无遮挡，装修精致",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|120.0平|高区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝悦家苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价28147元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4509874.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/fd3fc566-faa3-4bfe-ad4b-1e13eaf36258.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "高区阳光房，装修精美，满5年，上门实勘",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室1厅|83.49平|高区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝虹家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "235万"
+}{
+  "singel_price": "单价32238元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747847.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/a7219bf2-07ee-4987-aab8-422363dab15e.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，高区景观好，省装修费",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|67.0平|高区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "216万"
+}{
+  "singel_price": "单价30428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561936.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/99a73f81-914d-4e76-9318-b30fb1ad8b08.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "带飘窗，卧室全南，低区出入方便，省装修费",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|67.7平|低区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "206万"
+}{
+  "singel_price": "单价27203元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826929.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/9c1c9dff-f56f-4de7-9744-0df42a829ab8.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低楼层，毛坯房",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室2厅|73.52平|低区/18层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "200万"
+}{
+  "singel_price": "单价30769元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766835.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/3aa77d6b-f52d-440e-bede-5d748c6e411e.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，低楼层，装修精致",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室1厅|91.0平|低区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价32674元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4725491.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/26c82b49-ff24-46c1-8768-57483ceae343.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，卧室全南，视野很好，省装修费",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "2室1厅|67.33平|高区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "220万"
+}{
+  "singel_price": "单价28000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710650.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/2ba85862-a604-4acd-bb93-1da5b6f7dbb9.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，带落地窗，楼层好，省装修费",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|100.0平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价31295元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4687550.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/8bc2c99d-ac3d-4cb1-b563-86877587361d.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，客厅朝南，低区出入方便，拎包入住",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|102.25平|低区/7层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价29057元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679541.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/b9ee370e-2c4c-4d83-a96d-cb37c168db68.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，采光无遮挡，简单装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|96.36平|高区/18层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价30292元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671743.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170610/00ce9710-516c-4f4a-bab0-2056918a5db5.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，客厅朝南，光线充足，精装修",
+  "s_cate": "罗泾",
+  "house_desc": [
+    "3室2厅|85.83平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "旭辉澜悦湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luojing",
+  "house_price": "260万"
+}

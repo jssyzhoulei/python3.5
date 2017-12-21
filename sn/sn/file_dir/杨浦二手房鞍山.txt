@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价69644元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817328.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/7c4a5e8d-1efa-4ae9-95d9-ad0ab01dd796.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，好楼层",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室1厅|45.23平|中区/7层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "双辽新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "315万"
+}{
+  "singel_price": "单价63307元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809590.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/6e2244bb-b6d3-43d9-8a9b-ab629e4a24b6.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "交通方便，楼层好，简单装修，满五年",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室0厅|39.49平|中区/7层|朝北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "双辽支路70弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "250万"
+}{
+  "singel_price": "单价65977元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785091.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/996a5d93-ad1a-4dd4-8545-cbac5617094f.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，交通方便，上下楼方便，装修精美",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|28.04平|低区/6层|朝西北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "辽源三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "185万"
+}{
+  "singel_price": "单价66246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734935.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/28ccb62b-66fe-4c53-a250-21c9c20738d5.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，采光无遮挡",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|31.7平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "辽源三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "210万"
+}{
+  "singel_price": "单价62866元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4632341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/53de43b2-ac4b-4ef9-8b50-12872b4ab34f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，交通便利，光线充足",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室1厅|47.72平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "公交新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "300万"
+}{
+  "singel_price": "单价79383元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4554476.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170318/ee0a9ec8-cd9a-422b-ac43-bb1ae2f61e0c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室2厅|85.66平|低区/34层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "和平花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "680万"
+}{
+  "singel_price": "单价66889元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4526345.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/d1182c12-ac21-4cb3-afda-67925394333b.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "带落地窗，卧室带阳台，交通便利，低楼层",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室0厅|53.82平|低区/7层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "双辽新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "360万"
+}{
+  "singel_price": "单价75900元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4516067.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/0e791efa-dca9-446e-a85f-37349750fc50.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁沿线，上下楼方便",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室1厅|90.25平|低区/34层|朝西北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "和平花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "685万"
+}{
+  "singel_price": "单价63533元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794975.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170214/ce4aef1f-f944-41b5-937c-96fc2cdd5767.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，交通便利，高区景观好",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室1厅|49.58平|高区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "辽源四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "315万"
+}{
+  "singel_price": "单价75000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743035.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/cbf7da9e-d5e2-4b88-ade9-a537f523eb97.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "卧室全南，地铁房，楼层好，满五减税",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|34.0平|中区/5层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "255万"
+}{
+  "singel_price": "单价69252元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858763.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171117/ff56a92f-cac5-4303-814f-4951df30bd23.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，地铁直达，低楼层",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室2厅|90.25平|低区/34层|朝西北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "和平花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "625万"
+}{
+  "singel_price": "单价69701元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851789.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/ba4bd520-c49d-4862-8e9f-eca88c6a89c0.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，楼层好",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|31.85平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "222万"
+}{
+  "singel_price": "单价69247元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848397.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/fba3d97f-6d30-454d-8e5a-a185847abf64.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，黄金楼层",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|31.77平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "辽源三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "220万"
+}{
+  "singel_price": "单价70588元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836591.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/d6958085-721f-4bfa-91a8-dbab41fe1b62.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，视野很好",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|34.0平|高区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价86437元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/7952032c-8fb5-487a-b3eb-0c60c73afc03.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，采光无遮挡",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室1厅|48.59平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "同济新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "420万"
+}{
+  "singel_price": "单价74706元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831673.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/4f171a7d-9b58-40f2-9d25-ac9bfe1b5902.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，黄金楼层",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室1厅|37.48平|中区/6层|朝西南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山四村第一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "280万"
+}{
+  "singel_price": "单价76893元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818733.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/89431ee4-32c6-409c-9c58-238ed84b42ff.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北直通，厨卫全明，出行方便，光线充足",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室0厅|52.02平|中区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "400万"
+}{
+  "singel_price": "单价70707元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817203.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/e09b709f-a0a9-44db-b903-4c3ecf33b867.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "南北通透，出行方便，黄金楼层，毛坯房",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室1厅|49.5平|中区/5层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价85621元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/56983e41-efb6-4577-ba74-10b1d1894cff.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|30.95平|中区/6层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "同济新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "265万"
+}{
+  "singel_price": "单价73621元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715027.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/b07d6c46-23e4-4cdd-82e0-f9100193e327.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "卧室全南，地铁直达，视野开阔，简单装修",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|31.92平|高区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "235万"
+}{
+  "singel_price": "单价69144元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708876.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/5253ee11-16a4-4a5a-97d2-c52e97535f74.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "交通方便，低楼层，拎包入住，房本满五年",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室1厅|80.7平|低区/18层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "建信大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "558万"
+}{
+  "singel_price": "单价69023元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699350.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/f194eae0-4f3a-4f7f-9eda-c8ef23887f6f.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，高区采光好",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室1厅|47.81平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "铁岭路10弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "330万"
+}{
+  "singel_price": "单价80118元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699069.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/cb4ab074-3b84-4174-9be7-9d750171df57.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，光线充足",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室0厅|47.18平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "378万"
+}{
+  "singel_price": "单价61516元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688728.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170619/edee3d32-ed12-4a36-8b9f-c955a2250a9a.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，光线充足",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室0厅|34.95平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "215万"
+}{
+  "singel_price": "单价75187元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4552900.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170317/44b5dd42-a0d2-41c9-9b15-38eba39c09ab.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室1厅|49.21平|中区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "370万"
+}{
+  "singel_price": "单价96573元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4530895.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161020/72694409-f829-47af-8461-d2ab7d232678.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "交通便利，光线非常好，精装修，满5年",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室1厅|32.1平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "公交新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "310万"
+}{
+  "singel_price": "单价71002元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4473534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170114/168d64a5-c9b8-48b9-8841-81ef63775d89.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "1室1厅|35.21平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "打虎山路6弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "250万"
+}{
+  "singel_price": "单价77570元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4427168.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161205/12980866-9f2d-46b4-ab80-5d6606299df8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "地铁直达，高区阳光房，毛坯房，满五年",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "3室2厅|135.36平|高区/38层|朝西南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "和平花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价73968元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4424192.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161012/1e47dc04-bca3-4fc2-9ac3-5a4b7da79a9e.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，中等装修，满五减税",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室0厅|48.94平|低区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "鞍山三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "362万"
+}{
+  "singel_price": "单价75757元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4363261.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160827/1f6c21a4-8b21-4d98-a758-d1ea428a3af1.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "鞍山",
+  "house_desc": [
+    "2室2厅|72.6平|低区/20层|朝东南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "冶金公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/anshan",
+  "house_price": "550万"
+}

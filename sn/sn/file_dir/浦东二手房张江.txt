@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价57235元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793801.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/052212e7-205e-4813-a8f4-1811f153bb3c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，视野很好",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室1厅|58.53平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "华陇建中小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "335万"
+}{
+  "singel_price": "单价58718元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715131.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/e8f75ec8-7bc7-4b89-887b-a78ca4faca5b.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "交通便利，楼层好，拎包入住，满5年",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|129.43平|中区/15层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中芯花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "760万"
+}{
+  "singel_price": "单价83939元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664157.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160620/7c752a87-a8c7-497b-8a1e-ee0f197ee9e0.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通方便，上下楼方便",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|89.35平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "张江汤臣豪园三期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "750万"
+}{
+  "singel_price": "单价60557元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4343872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160807/139a9017-b046-417c-94a3-69a1f727942f.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，好楼层，简单装修",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室1厅|62.75平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "香楠小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "380万"
+}{
+  "singel_price": "单价65568元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4312203.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161004/097260ad-b85d-49c9-9eae-1c2e3945807d.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通便利，低楼层",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|137.26平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "张江汤臣豪园二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "900万"
+}{
+  "singel_price": "单价54888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4591094.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170414/df1f9869-e929-4e4e-91c0-851df05ec6b7.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，地铁沿线，高区景观房，装修精美",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|126.62平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "贝越流明新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "695万"
+}{
+  "singel_price": "单价61810元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/49934f48-b1b7-43d9-84f1-f0d63a110742.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，出行方便，低楼层",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室2厅|113.25平|低区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "阳光花城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "700万"
+}{
+  "singel_price": "单价69309元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760914.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/c16290af-6b47-4f47-9aa9-33356fca5104.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，地铁直达，好楼层",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|154.38平|中区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "城市经典(四期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "1070万"
+}{
+  "singel_price": "单价70088元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4621240.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/f32e0d41-56b6-43c0-8001-5e70ed7785c8.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁房，视野开阔",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|134.83平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "阳光花城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "945万"
+}{
+  "singel_price": "单价66584元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4608639.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/f00c2ee6-9ae1-481f-a4aa-b522ea48da96.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，地铁沿线，低楼层",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|138.17平|低区/16层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "张江汤臣豪园二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "920万"
+}{
+  "singel_price": "单价82623元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606106.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/d18da5ab-c194-45e7-8876-90883663934d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，带飘窗，出行方便，采光无遮挡",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|119.82平|高区/16层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "张江汤臣豪园二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "990万"
+}{
+  "singel_price": "单价64863元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4391379.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/d869c6a7-0b2f-4449-aa11-4656b0d4b945.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，上下楼方便",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室2厅|100.21平|低区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "阳光花城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "650万"
+}{
+  "singel_price": "单价81792元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832896.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/520cf7b6-7a86-4e03-97c3-934f46d06f59.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，客厅朝南，出行方便，低楼层",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室2厅|89.25平|低区/12层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "张江汤臣豪园三期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "730万"
+}{
+  "singel_price": "单价57168元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704339.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/79927c38-f1f4-4abb-9336-ca2850f0a31a.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，带落地窗，交通方便，视野很好",
+  "s_cate": "张江",
+  "house_desc": [
+    "1室2厅|66.47平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中芯花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "380万"
+}{
+  "singel_price": "单价81305元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664299.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/fb3f12f8-fb3f-4d90-91b2-e35a725491eb.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁房，低区出入方便",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室2厅|90.4平|低区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "张江汤臣豪园四期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "735万"
+}{
+  "singel_price": "单价66581元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590004.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/6b243723-370f-4708-a1b2-fce405559dcc.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁沿线，光线充足",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|141.18平|中区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "日月光水岸花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "940万"
+}{
+  "singel_price": "单价58900元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4565861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/e490e58d-a595-4e10-8925-efe8536fa134.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，带落地窗，交通方便，楼层好",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室2厅|91.68平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "兰沁苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "540万"
+}{
+  "singel_price": "单价83152元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4469893.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/d7026480-6275-4c02-a448-a89f8df6f5a5.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅朝南，交通方便，采光无遮挡",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|138.3平|高区/16层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "张江汤臣豪园二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价70229元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863201.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/ee7b0e27-0e15-4eb1-aad6-599632ad405d.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，客厅朝南，交通方便，光线充足",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室2厅|87.57平|中区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "日月光水岸花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "615万"
+}{
+  "singel_price": "单价67434元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556363.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/1a52ac74-58be-4b84-ab92-64fc9f343138.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "低楼层，品味装修，房本满五年，多次带看",
+  "s_cate": "张江",
+  "house_desc": [
+    "5室2厅|177.95平|低区/3层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汤臣豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价44691元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839335.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/920336b8-aed9-4e71-b6e8-3fbc4d46eeca.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，卧室全南，视野很好，中等装修",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室1厅|84.58平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "杨镇新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "378万"
+}{
+  "singel_price": "单价46753元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4746425.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/5290fdf6-c00f-4e69-982f-8cb31de17f0a.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，卧室全南，采光无遮挡，省装修费",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室1厅|75.93平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "益丰新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "355万"
+}{
+  "singel_price": "单价74986元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738840.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/6e1635f4-bbdc-40dc-b81f-4cba54cceb6c.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "房型正气，客厅朝南，低区出入方便，精装修",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室2厅|133.09平|低区/15层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汤臣高尔夫(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "998万"
+}{
+  "singel_price": "单价50251元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4721093.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/9f464d81-a4eb-4bf6-bf9c-88a67c80be56.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，高区阳光房，品味装修",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室1厅|59.7平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "川杨新苑二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价57450元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590868.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/2b363de7-2803-43d9-a598-649b9d39804e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，厨卫全明，低区出入方便，中等装修",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室1厅|54.83平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "川杨新苑一期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "315万"
+}{
+  "singel_price": "单价93277元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556396.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/70427040-dd94-4da4-894f-650d934a45b5.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "品质装修，满五减税，看房方便，火爆热销",
+  "s_cate": "张江",
+  "house_desc": [
+    "6室4厅|416.82平|地上2层|(进门)北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汤臣高尔夫(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "3888万"
+}{
+  "singel_price": "单价44705元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4539674.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/6c76412b-3cfd-43b7-8dad-9496c93bafa4.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "低楼层，简单装修，满五年，随到随看",
+  "s_cate": "张江",
+  "house_desc": [
+    "3室1厅|86.12平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "春港丽园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "385万"
+}{
+  "singel_price": "单价81420元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4238617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/6d68cd36-1238-416c-85bb-16ef23442654.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，中等装修，满5年，来电即看",
+  "s_cate": "张江",
+  "house_desc": [
+    "4室2厅|386.88平|地上3层|(进门)南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汤臣湖庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "3150万"
+}{
+  "singel_price": "单价73225元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1165686.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161231/6d5ad8fa-e098-4210-8978-4b96e8a422d1.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，光线非常好，品质装修，满五减税",
+  "s_cate": "张江",
+  "house_desc": [
+    "6室2厅|191.19平|高区/3层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汤臣豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价54973元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674217.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/b581f633-b713-4e61-8ad3-bd7d0bab1a5d.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，出行方便，好楼层",
+  "s_cate": "张江",
+  "house_desc": [
+    "2室2厅|98.23平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "兰沁苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhangjiang",
+  "house_price": "540万"
+}

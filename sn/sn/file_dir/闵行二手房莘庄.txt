@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价51831元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/aef38b9e-ebd2-43d4-8043-ae2b5b1d6bee.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁房，上下楼方便",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|113.83平|低区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "紫欣公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "590万"
+}{
+  "singel_price": "单价58365元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818767.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/c2e948ff-d764-4d09-a131-9af75b9b3f14.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁沿线，低区出入方便",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|82.24平|低区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申府邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "480万"
+}{
+  "singel_price": "单价62809元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601835.html",
+  "house_img": "",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，地铁房，高区阳光房",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|121.0平|高区/32层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新梅莘苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "760万"
+}{
+  "singel_price": "单价51034元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4530085.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/32163d6d-dc60-4386-a81d-e23a51a35be7.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，卧室带卫，出行方便，低楼层",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|145.0平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "江南苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "740万"
+}{
+  "singel_price": "单价47692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4459776.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170302/7abe0fff-c21d-45bb-ab41-d51bc640bec9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，地铁直达，高区采光好，毛坯房",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|97.5平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "春申府邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "465万"
+}{
+  "singel_price": "单价64173元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4424968.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161213/382785ab-0a28-46fe-a11e-092d67b4afbe.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "地铁沿线，高区景观好，简单装修，满五减税",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|116.87平|高区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "莘梓苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "750万"
+}{
+  "singel_price": "单价71982元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4665880.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/2a03875c-9993-4de4-8c3d-db2c0fefb8cc.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "交通方便，中等装修，满五年，随时看房",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "4室2厅|180.6平|地上3层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "圣陶沙花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价73697元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4616009.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160926/42815031-2048-46d2-a621-b4378f16b467.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "4室2厅|135.69平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "莘梓苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价67391元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849527.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/61195839-3858-4360-942a-051cfb124fa9.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，交通便利，上下楼方便",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|92.0平|低区/32层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新梅莘苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价44110元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818884.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/3bab2454-3564-4e5a-969f-b6b514f67263.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|96.35平|中区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "美丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "425万"
+}{
+  "singel_price": "单价53226元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4556870.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/7c233256-6a73-4872-8fc3-8af82ece16a6.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室1厅|72.52平|高区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "开城新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "386万"
+}{
+  "singel_price": "单价55444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4547395.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170314/fce4dcff-106e-4e59-804d-84240569e416.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，卧室带卫，地铁房，低区出入方便",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|140.68平|低区/10层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "绿水家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "780万"
+}{
+  "singel_price": "单价57372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4505980.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170212/66f4edc8-5c37-4584-a7c1-92a0b279f60f.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，交通便利，高区景观好，毛坯房",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|122.01平|高区/17层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中祥哥德堡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "700万"
+}{
+  "singel_price": "单价37497元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4197797.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/72ad01d5-7228-4ac5-8434-6a2baa125a6c.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，低楼层",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "6室2厅|261.35平|低区/17层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "绿茵苑（闵行）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "980万"
+}{
+  "singel_price": "单价48172元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837465.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/05119cca-7a8a-4a43-823e-2fc0c2d89cea.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，低楼层",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "1室1厅|48.16平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "星丰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "232万"
+}{
+  "singel_price": "单价49660元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820786.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/be97332d-4378-4202-8666-a16198ac6575.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁房，视野很好",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|82.56平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "星丰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "410万"
+}{
+  "singel_price": "单价65229元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772444.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160917/a1410fa0-e255-4a11-9e88-69807163d47f.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "出行方便，精装修，满五年，随到随看",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "4室2厅|306.61平|地上2层|(进门)西"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "当代艺墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "2000万"
+}{
+  "singel_price": "单价46102元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771352.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/1667a545-b6a6-471a-869e-162abe0d887e.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，视野开阔",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|86.33平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "美丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "398万"
+}{
+  "singel_price": "单价38709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/91832589-6de2-402e-affd-ec4432627cc4.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "房型正气，交通方便，高区景观房，简单装修",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|124.0平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "星丰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "480万"
+}{
+  "singel_price": "单价51555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692084.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/b36bcae6-bead-43b7-81d1-a4fd6258041d.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，地铁房，上下楼方便，简单装修",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|112.5平|低区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "绿水家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "580万"
+}{
+  "singel_price": "单价60437元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/21c11b02-111a-48d3-b82f-bff0b3790d4b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，低区出入方便",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "1室2厅|64.53平|低区/15层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "奥塞花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "390万"
+}{
+  "singel_price": "单价60748元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4637696.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/28f1639b-28dd-44df-b9e5-0dfd9b87ec4b.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，地铁沿线，楼层好，拎包入住",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|80.66平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "小富人家",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "490万"
+}{
+  "singel_price": "单价61696元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4625949.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/6066ec56-0a23-46b1-b17f-85f14d350610.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁沿线，采光好",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室1厅|77.8平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "明物大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "480万"
+}{
+  "singel_price": "单价59686元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4600952.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/8d1aacbf-36a1-4fa4-913a-fb507d33751e.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通便利，高区阳光房",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|120.63平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "江南苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "720万"
+}{
+  "singel_price": "单价51516元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4504658.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170213/56435609-de14-4e44-b228-a339ad0c446d.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "出行方便，低楼层，简单装修，满五减税",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|104.82平|低区/14层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "沁春园三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "540万"
+}{
+  "singel_price": "单价59372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4497201.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/ce8d4965-9634-45d7-92b9-e99742448e7a.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|94.32平|低区/11层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "柏林春天",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "560万"
+}{
+  "singel_price": "单价54964元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4441436.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161225/44f82578-dd8a-40da-9c31-d5b4164fd6e0.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，地铁直达，好楼层，精装修",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|138.27平|中区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "绿水家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "760万"
+}{
+  "singel_price": "单价56076元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4255574.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160922/73128975-e9e9-43e4-b8af-f98db78f9432.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，带飘窗，地铁房，低楼层",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "3室2厅|130.18平|低区/18层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中祥哥德堡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "730万"
+}{
+  "singel_price": "单价49799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626761.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/c2c1267c-a549-4954-af5a-1776ed2b5fb7.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，黄金楼层",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|117.47平|中区/14层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "地铁明珠苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "585万"
+}{
+  "singel_price": "单价51676元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/5ad5b6d3-38ba-4d72-afa9-fab70362865f.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "莘庄",
+  "house_desc": [
+    "2室2厅|90.95平|中区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "沁春园三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenzhuang",
+  "house_price": "470万"
+}

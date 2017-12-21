@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价30737元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798102.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/9a26775e-2c78-4be0-9acf-937ffac33267.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，厨卫全明，视野开阔，满5年",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|82.96平|高区/4层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宜浩佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "255万"
+}{
+  "singel_price": "单价23215元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768408.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/7ae3ea76-d4c9-4504-a497-e5d89bd75fd4.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，厨卫全明，黄金楼层，拎包入住",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "1室1厅|64.18平|中区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海汇清波苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "149万"
+}{
+  "singel_price": "单价23183元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768374.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/01576eb7-64ae-4b05-9568-3ffd2d8f4bd7.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，黄金楼层，品味装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "1室1厅|64.27平|中区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海芦镜湖苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "149万"
+}{
+  "singel_price": "单价21916元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4602605.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/78995713-46b2-4936-8236-cd11fff19d19.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，厨卫全明，低区出入方便，毛坯房",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|88.06平|低区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临港海滨国际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "193万"
+}{
+  "singel_price": "单价30387元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4495109.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170207/638de3e4-9fba-47f2-bc83-aace1aee3e2e.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，好楼层，中等装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "1室2厅|75.03平|中区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宜浩佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "228万"
+}{
+  "singel_price": "单价31538元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709650.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161116/2b5cb78f-b2c1-4160-b5ad-83162f1c0658.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|82.44平|低区/4层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宜浩佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "260万"
+}{
+  "singel_price": "单价28409元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808938.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/ec68506e-ac5d-46e2-82c0-c452c790c14a.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，客厅朝南，低楼层，品质装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|88.0平|低区/4层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宜浩佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "250万"
+}{
+  "singel_price": "单价29996元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696393.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/f8a71696-601b-48fe-959d-d20e9060eb91.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，厨卫全明，视野开阔，装修精致",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "1室1厅|75.01平|高区/4层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宜浩佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "225万"
+}{
+  "singel_price": "单价26889元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4681854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170614/664db007-5515-4ba8-a560-35c1cdb449b8.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "楼层好，品质装修，来电即看，火爆热销",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "1室0厅|55.04平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地蓝海庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "148万"
+}{
+  "singel_price": "单价26964元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650107.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/2b7f1c2b-1dfd-4c98-b6d2-570532c5927f.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，客厅带阳台，楼层好，随时可看",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|86.41平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东岸涟城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "233万"
+}{
+  "singel_price": "单价19400元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629249.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170519/201a7f47-c739-4cd3-98dd-f7dd18e47457.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通透，卧室带卫，低楼层，毛坯房",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "3室1厅|200.0平|低区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "滴水湖馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "388万"
+}{
+  "singel_price": "单价27325元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4598995.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170519/700e2788-af20-4a09-9563-a1683eee50e4.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，好楼层，毛坯房，有钥匙立即看",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室1厅|86.0平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东岸涟城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "235万"
+}{
+  "singel_price": "单价25842元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4569142.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/f6920acc-a9cf-4cbe-a4c0-30c7a7a79c48.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，楼层好，钥匙房",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|89.0平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东岸涟城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "230万"
+}{
+  "singel_price": "单价21401元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809547.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/85d9cf6d-2103-4078-80e3-6d27080ef8dc.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，采光好，精装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|80.37平|高区/4层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚明徕苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "172万"
+}{
+  "singel_price": "单价24705元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761349.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/425da009-2aab-4716-8e29-605e3bdad443.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通，客厅朝南，好楼层，精装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|85.0平|中区/7层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临港海滨国际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "210万"
+}{
+  "singel_price": "单价25291元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712044.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/fe5d1f62-b513-42f6-861f-7706e699a67c.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，光线非常好，拎包入住",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "3室2厅|90.94平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东岸涟城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "230万"
+}{
+  "singel_price": "单价18095元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4634708.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/c1b6274c-73b5-4bb8-b623-1497026ea5c4.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，高区阳光房，毛坯房",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "3室2厅|105.0平|高区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海汇清波苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "190万"
+}{
+  "singel_price": "单价27167元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593080.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170511/53f940a1-9df5-47de-ae80-a9a4ac4a99b1.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，黄金楼层，毛坯房",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室1厅|80.98平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东岸涟城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "220万"
+}{
+  "singel_price": "单价24607元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871479.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/2f85838e-755e-454f-b6d6-b0c0ea9ec17e.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，客厅朝南，低区出入方便，省装修费",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|87.37平|低区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临港海滨国际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "215万"
+}{
+  "singel_price": "单价32098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731645.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/ce7aca21-9097-41de-983a-800dc80d6ce6.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，高区阳光房，毛坯房",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室1厅|81.0平|高区/4层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "滴水湖馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "260万"
+}{
+  "singel_price": "单价25349元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4720026.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/3248bbd4-a26a-4be0-ba27-9223f35963ae.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，视野很好，精装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|88.76平|高区/4层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临港家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "225万"
+}{
+  "singel_price": "单价24719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715170.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/39531753-0d2b-4557-9dc7-4657b0438489.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，带落地窗，低楼层，看房有钥匙",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "3室2厅|89.0平|低区/13层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临港海滨国际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "220万"
+}{
+  "singel_price": "单价24422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699987.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/0f9c5716-0deb-488a-8f27-33d15abf2079.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，带落地窗，光线充足，有钥匙房源",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "3室2厅|106.46平|中区/13层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临港家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "260万"
+}{
+  "singel_price": "单价29887元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694128.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/82e7433a-4840-40b7-b909-0a036dbc26f4.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "采光好，毛坯房，来电即看，人气房源",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|85.99平|高区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "滴水湖馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "257万"
+}{
+  "singel_price": "单价27030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558135.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/38a55c34-b368-4357-b661-b4bf904b2e57.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，客厅朝南，楼层好，毛坯房",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|83.24平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地东岸涟城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "225万"
+}{
+  "singel_price": "单价22222元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756726.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/bcbc4215-c809-462f-8f6e-bbe539a58982.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，低区出入方便，装修精美",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室1厅|63.0平|低区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新芦苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "140万"
+}{
+  "singel_price": "单价20603元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4745315.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/6ea49699-066d-4e39-8eff-f0b0e482c7e3.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，厨卫全明，上下楼方便，精装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|82.51平|低区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海汇长风苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "170万"
+}{
+  "singel_price": "单价25806元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715947.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/9f5b7656-62f1-4948-93f9-565606f2a0af.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低楼层，精装修",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "1室1厅|62.0平|低区/13层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临港海滨国际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "160万"
+}{
+  "singel_price": "单价19922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/70edfb1a-6b92-4758-a7a7-12c02ebf6324.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "采光好，装修精致，满五减税，热门带看",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "3室2厅|121.97平|高区/4层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海芦镜湖苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "243万"
+}{
+  "singel_price": "单价29885元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4665094.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/e06725b5-fc06-4651-9a19-78b0351dd32b.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，低楼层，装修精致",
+  "s_cate": "临港新城",
+  "house_desc": [
+    "2室2厅|110.42平|低区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "宜浩佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lingangxincheng",
+  "house_price": "330万"
+}

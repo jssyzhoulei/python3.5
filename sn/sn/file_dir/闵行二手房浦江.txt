@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价43328元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4656073.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/d70acda5-4ded-4612-866d-5320339c2729.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁沿线，低楼层",
+  "s_cate": "浦江",
+  "house_desc": [
+    "4室2厅|124.63平|低区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "540万"
+}{
+  "singel_price": "单价62288元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4515493.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160813/335fffd6-b367-4357-a127-688097ac5d6d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，卧室带卫，出行方便，楼层好",
+  "s_cate": "浦江",
+  "house_desc": [
+    "3室2厅|133.25平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "一品漫城（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "830万"
+}{
+  "singel_price": "单价57344元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4480414.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170110/7ca44e00-1b73-4f7f-85d7-943e6909e30b.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "地铁房，上下楼方便，品质装修，满五年",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|90.68平|低区/13层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "一品漫城（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "520万"
+}{
+  "singel_price": "单价48360元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867215.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/d8f40f87-ac77-40d6-9193-23a941766352.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，带飘窗，交通方便，低区出入方便",
+  "s_cate": "浦江",
+  "house_desc": [
+    "3室2厅|140.61平|低区/13层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "一品漫城（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "680万"
+}{
+  "singel_price": "单价47512元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778170.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/c5417752-fcfd-4596-88d1-57a9a8d77597.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，带飘窗，地铁房，好楼层",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|75.77平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园八街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "360万"
+}{
+  "singel_price": "单价47412元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652290.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/a149c12c-5ff5-47a5-b3b3-d75065c5cd7d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁沿线，光线充足，毛坯房，满5年",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|75.93平|中区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园十五街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "360万"
+}{
+  "singel_price": "单价48002元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508611.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/854f4be2-d033-457e-a2c1-f4110aeb1906.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，视野很好",
+  "s_cate": "浦江",
+  "house_desc": [
+    "1室1厅|58.33平|高区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园九街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "280万"
+}{
+  "singel_price": "单价45348元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830201.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/2dba0303-80c5-46ec-a724-5193e0d2d979.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通便利，低区出入方便",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|90.41平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "鲁陈路3955弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "410万"
+}{
+  "singel_price": "单价42188元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824985.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/56689659-62c9-4499-9dc4-d3af3ff0ea66.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁房，视野很好",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|80.59平|高区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园七街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "340万"
+}{
+  "singel_price": "单价44943元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739062.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/ff762c1f-e4b2-46b8-b19b-703b937f410f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁直达，好楼层",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|80.1平|中区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园十街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "360万"
+}{
+  "singel_price": "单价49170元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727250.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/c9604679-cb78-41e6-b127-3d69257a5407.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，光线充足",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|65.08平|中区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "320万"
+}{
+  "singel_price": "单价68372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4723410.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/763cf6d4-bb65-4382-805a-87a70a7af590.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，交通便利，楼层好",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|90.68平|中区/13层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "一品漫城（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "620万"
+}{
+  "singel_price": "单价60708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4660254.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/253ca602-e92f-4983-881a-8950d7e94839.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，出行方便，低楼层",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|88.95平|低区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江颐城（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "540万"
+}{
+  "singel_price": "单价63743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610577.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/01c41826-3081-417d-8999-07eb1241aa5c.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，出行方便，低区出入方便，毛坯房",
+  "s_cate": "浦江",
+  "house_desc": [
+    "4室2厅|180.41平|低区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江颐城（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价53739元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4480091.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/51851e6d-84d6-47ba-aa5e-7dfb131a5a3e.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，地铁房，低区出入方便，品味装修",
+  "s_cate": "浦江",
+  "house_desc": [
+    "3室1厅|92.67平|低区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江智汇园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "498万"
+}{
+  "singel_price": "单价40000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4653185.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/8eb09774-4174-4580-84fd-2d8eb073a96c.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "交通便利，毛坯房，满五减税，钥匙房",
+  "s_cate": "浦江",
+  "house_desc": [
+    "5室3厅|500.0平|地上2层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江颐城（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "2000万"
+}{
+  "singel_price": "单价38077元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757050.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/149e3804-a791-4fcf-9c50-d8277c3ecc01.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，客厅朝南，采光无遮挡，毛坯房",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|80.1平|高区/17层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "水语人家北苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "305万"
+}{
+  "singel_price": "单价40695元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756692.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/7f2333d9-0ade-473b-a254-cd0e928e2741.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，好楼层，毛坯房",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|72.49平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "水语人家南苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "295万"
+}{
+  "singel_price": "单价42365元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4515185.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170306/7e3a26cd-9d6d-4f3d-9997-deb90940d213.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野很好，精装修",
+  "s_cate": "浦江",
+  "house_desc": [
+    "1室1厅|55.47平|高区/14层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹浦新城北区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "235万"
+}{
+  "singel_price": "单价36292元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4460529.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/4fc1b839-de26-4b6c-8f9f-93972ee9e94a.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，毛坯房",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|76.6平|中区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "汇颂南苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "278万"
+}{
+  "singel_price": "单价38708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4382741.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/d8603cc5-cb35-4593-98b8-bc6a404aff15.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，光线充足，中等装修",
+  "s_cate": "浦江",
+  "house_desc": [
+    "1室1厅|60.71平|中区/11层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "闵浦新苑六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "235万"
+}{
+  "singel_price": "单价53825元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4277956.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170307/4bbea235-2c75-4e0b-a7b8-3c768fcddc81.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，楼层好，简单装修，满5年",
+  "s_cate": "浦江",
+  "house_desc": [
+    "4室2厅|174.64平|中区/4层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新浦江城（江栀路500弄）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "940万"
+}{
+  "singel_price": "单价42688元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783299.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/fe180c50-d4f8-409f-8930-f6ba9545a7a9.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀罕南北通，出行方便，低区出入方便，品质装修",
+  "s_cate": "浦江",
+  "house_desc": [
+    "4室3厅|245.97平|低区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江颐城（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价65625元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704755.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170703/1611ff09-0eda-4862-a8a6-fdf1934bbd87.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，地铁直达，低楼层，毛坯房",
+  "s_cate": "浦江",
+  "house_desc": [
+    "3室2厅|160.0平|低区/10层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江颐城（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价58154元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4690801.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160904/732957ef-60e0-4af5-91c3-193aae331f56.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，出行方便，光线充足，毛坯房",
+  "s_cate": "浦江",
+  "house_desc": [
+    "3室2厅|154.76平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江颐城（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "900万"
+}{
+  "singel_price": "单价55308元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4611406.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/4607f0d8-8400-46ce-9ba1-5e8a02fb93a0.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通透，带飘窗，出行方便，采光无遮挡",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|105.77平|高区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江颐城（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "585万"
+}{
+  "singel_price": "单价60570元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4440239.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/ebf262c4-19fe-4b8a-be94-dba956197a19.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，出行方便，光线充足",
+  "s_cate": "浦江",
+  "house_desc": [
+    "3室2厅|102.36平|中区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江华侨城6期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "620万"
+}{
+  "singel_price": "单价46854元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863131.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161215/420f205e-5cd0-402d-a616-d6c6a7a6197f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，好楼层",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室1厅|77.9平|中区/4层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园八街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "365万"
+}{
+  "singel_price": "单价46487元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835323.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/922b254b-b505-4101-8a42-a1f184e6c99f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，带飘窗，交通便利，好楼层",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|77.44平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园九街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "360万"
+}{
+  "singel_price": "单价49883元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740591.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170801/591927f3-50a3-4fb4-8cfa-58ee35eb4869.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，黄金楼层",
+  "s_cate": "浦江",
+  "house_desc": [
+    "2室2厅|81.79平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "浦江世博家园四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/pujiang1",
+  "house_price": "408万"
+}

@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价87888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781290.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/e0547e50-614b-4fe2-948c-fcb03a0d849a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁沿线，视野很好",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室2厅|93.3平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "紫荆新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "820万"
+}{
+  "singel_price": "单价89444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4261168.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160909/5567778c-8bb6-428b-87d9-5e237c4a66f6.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "地铁房，楼层好，装修精美，满5年",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|129.69平|中区/22层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "弘辉名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1160万"
+}{
+  "singel_price": "单价82550元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796795.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/221413d6-2906-406f-9e6f-4ec59ac25b56.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "卧室全南，出行方便，采光无遮挡，简单装修",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "1室0厅|29.8平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瞿溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "246万"
+}{
+  "singel_price": "单价78050元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706568.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/bd45af65-db3f-46a5-80c4-688c5c17721a.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室全南，交通便利，高区景观好，简单装修",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "1室0厅|33.44平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "春江小区(卢湾)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "261万"
+}{
+  "singel_price": "单价97517元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861169.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/71d26b89-afb6-43c7-96c3-0b4d8b3c6e15.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，出行方便，高区阳光房",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|122.03平|高区/33层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "弘辉名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1190万"
+}{
+  "singel_price": "单价85169元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798020.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/9fc71cc7-36de-451f-b31a-d2fea88bbc17.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，好楼层",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室1厅|73.97平|中区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "新华南园大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "630万"
+}{
+  "singel_price": "单价92667元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4596265.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170419/264175e4-ff4d-4ece-a019-6dd08dc7fd3a.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，卧室带卫，交通便利，低楼层",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|124.1平|低区/33层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "弘辉名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价92372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4567429.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170329/f5851817-f724-46bc-93f7-06b05f3e365a.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，出行方便，好楼层",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室1厅|75.78平|中区/25层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "越纪公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "700万"
+}{
+  "singel_price": "单价144626元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511378.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/7fde29f3-84a6-4280-b1df-92f6f4c74a67.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁直达，采光无遮挡",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|129.99平|高区/34层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "耀江花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1880万"
+}{
+  "singel_price": "单价80147元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4466776.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161229/bda7b3f1-10ff-48ee-8eb5-a93d3bbcbba5.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "南北户型，厨卫全明，出行方便，楼层好",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "1室0厅|32.44平|中区/6层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瞿溪新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "260万"
+}{
+  "singel_price": "单价84135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4407070.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161125/6df91e2b-7115-4847-a355-99be2d67bb01.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "客厅带阳台，地铁房，上下楼方便，精装修",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|140.25平|低区/30层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "白玉兰家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1180万"
+}{
+  "singel_price": "单价80809元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783353.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/98f43120-7baf-4214-a2f1-a61c9f12f204.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室0厅|63.73平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "铁道路776弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "515万"
+}{
+  "singel_price": "单价120555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849548.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/f65cb2d3-dd34-4993-9838-f28494fc0f20.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "带落地窗，客厅带阳台，交通方便，低区出入方便",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室2厅|114.47平|低区/36层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "融创滨江壹号院",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1380万"
+}{
+  "singel_price": "单价112286元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4599736.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/ab8c5ea0-981d-44c5-8190-4bbbeb62025d.jpg_200x150.jpg",
+  "house_time": [
+    "1976年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，高区采光好",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室0厅|46.31平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中山南一路206号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "520万"
+}{
+  "singel_price": "单价85337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762838.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/a4aa4885-319c-46b4-9f7e-c5ab4df030a4.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，光线充足，中等装修",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "1室1厅|64.45平|中区/27层|朝西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "鲁班大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "550万"
+}{
+  "singel_price": "单价79037元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708031.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/a102ca12-9433-41dd-aae3-5caceed81c1f.jpg_200x150.jpg",
+  "house_time": [
+    "1960年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，高区阳光房",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室0厅|55.67平|高区/5层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "唐家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "440万"
+}{
+  "singel_price": "单价78775元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604525.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170425/16cd6ed9-6b36-47be-8421-d942519c657a.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北通，卧室带卫，地铁直达，低楼层",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室1厅|44.43平|低区/6层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中山南一路161弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "350万"
+}{
+  "singel_price": "单价80234元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863286.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/dba4f8a8-8d7e-49bb-bb6a-4b89d0d66d12.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，地铁沿线，高区景观好，简单装修",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "1室1厅|54.59平|高区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "新华南园大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "438万"
+}{
+  "singel_price": "单价84250元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822933.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/d942d754-add4-4571-bec8-72c79622b8bb.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，上下楼方便",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "1室1厅|44.51平|低区/17层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "益元大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "375万"
+}{
+  "singel_price": "单价95261元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818382.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/8b8f3f4d-5b7d-4715-9eaa-145d24065319.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通透，带落地窗，地铁沿线，楼层好",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|120.72平|中区/18层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "精文苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价87873元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813692.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/396eae5e-2abf-4be4-b272-1dcd057e1157.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，视野很好",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室1厅|73.97平|高区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "新华南园大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "650万"
+}{
+  "singel_price": "单价88992元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763907.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/6523b3fd-4aec-438c-b87a-c7a3c1ca9f22.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北户型，交通方便，黄金楼层，简单装修",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室1厅|73.04平|中区/17层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "益元大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "650万"
+}{
+  "singel_price": "单价98404元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/39c8c15d-3204-453a-8ce7-43e69c8dbb9f.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "地铁沿线，视野开阔，简单装修，满五年",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室1厅|85.87平|高区/25层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "越纪公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "845万"
+}{
+  "singel_price": "单价106877元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704300.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/4c61e59b-b41d-4818-9304-0cb8bf9f6979.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，厨卫全明，出行方便，视野开阔",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室2厅|107.6平|高区/13层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "白玉兰家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价93941元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663328.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/cb9a6069-66c1-4914-8523-42565db5e2ba.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，好楼层",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室1厅|73.45平|中区/14层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "惠祥公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "690万"
+}{
+  "singel_price": "单价94251元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4632720.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170518/b624a110-be0e-4c6a-95b0-eac2a1514c9c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，低区出入方便，简单装修",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室1厅|85.41平|低区/25层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金中苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "805万"
+}{
+  "singel_price": "单价99272元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4575474.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/3393035a-c966-490f-a598-fb4a9604cad2.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "2室1厅|75.55平|中区/10层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "南康公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "750万"
+}{
+  "singel_price": "单价95744元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574551.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/c3c1c42a-a798-4bd8-8043-c81f788c741b.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，出行方便，光线充足",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|141.0平|中区/26层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "卢湾城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价96696元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571409.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/c8a7a529-49fd-4730-9a24-ea58405d7a74.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，出行方便，视野很好",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|124.1平|高区/33层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "弘辉名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价71672元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4527718.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/b3636661-0444-4cd6-a9b5-80d41aa67282.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "出行方便，黄金楼层，精装修，满五减税",
+  "s_cate": "世博滨江",
+  "house_desc": [
+    "3室2厅|143.71平|中区/22层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "弘辉名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shibobinjiang",
+  "house_price": "1030万"
+}

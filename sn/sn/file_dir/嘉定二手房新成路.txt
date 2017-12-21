@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价27422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780711.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/d2dda4cb-404b-4fd7-ae44-c5269866315a.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线非常好，精装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|66.37平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村五坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "182万"
+}{
+  "singel_price": "单价47341元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663625.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161023/cdce6825-3307-4d92-a14d-6af41b49c28a.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "省装修费，满五年，马上看房，抢手火热",
+  "s_cate": "新成路",
+  "house_desc": [
+    "4室2厅|173.21平|地上3层|(进门)南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "爱里舍花园(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "820万"
+}{
+  "singel_price": "单价28691元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/b7904ca1-f444-485f-a126-11a887820286.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线非常好，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|62.04平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村四坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "178万"
+}{
+  "singel_price": "单价33209元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/45dd6db3-151f-44d1-a863-c8913834c279.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，厨卫全明，光线充足，房本满五年",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室2厅|126.47平|中区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "鸿达嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "420万"
+}{
+  "singel_price": "单价29368元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4687607.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/21c8f33f-e863-4ca6-a715-79327285ad6c.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野开阔，拎包入住",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室1厅|81.72平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新成三坊四坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "240万"
+}{
+  "singel_price": "单价32179元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831571.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/d53c6ca2-6faf-4de5-bd8d-04dfd92d1b41.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|49.1平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村十坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "158万"
+}{
+  "singel_price": "单价28996元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691908.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170622/285cf473-b212-4be0-a9b1-449fc8550497.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区景观好，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|76.56平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南陈小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "222万"
+}{
+  "singel_price": "单价31640元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626758.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/b956480d-61e3-45e5-bf68-b3775c42901a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，厨卫全明，高区阳光房，拎包入住",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|64.79平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南陈小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "205万"
+}{
+  "singel_price": "单价32382元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4626755.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/b3ffc8c5-2dcb-4d44-bce1-913a8d16115f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区阳光房，精装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "1室1厅|51.88平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南陈小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "168万"
+}{
+  "singel_price": "单价29078元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4611502.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170727/0d938b5e-318d-4d90-afa4-c208c4feaccc.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，视野很好，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|98.01平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "沧海绿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "285万"
+}{
+  "singel_price": "单价27777元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813277.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/0c0e4bd5-c13d-4b5d-a203-890220d9e1fd.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，低区出入方便，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室0厅|55.8平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村五坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "155万"
+}{
+  "singel_price": "单价29786元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699769.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/b8b4017d-18b1-4af2-a96a-54d5e6a3341a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野开阔，中等装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|73.86平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新成十坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "220万"
+}{
+  "singel_price": "单价28036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4528373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/3672e637-cad5-45d7-8d77-18d05c2c4138.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线非常好，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|67.77平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村十坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "190万"
+}{
+  "singel_price": "单价31459元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4483247.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/f0c47e15-93bb-405e-8884-c9f1688381bf.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，厨卫全明，好楼层，中等装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室2厅|120.79平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园路300弄65支弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "380万"
+}{
+  "singel_price": "单价28749元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842558.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/5bc62cc4-2c7b-4c4e-9d39-a79a9e74b11a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低楼层，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室2厅|88.35平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "塔城东路487号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "254万"
+}{
+  "singel_price": "单价34171元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831411.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/f412bf63-a011-49e1-bccd-94d89383586d.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区景观房，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "1室1厅|40.97平|高区/6层|朝西"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村十坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "140万"
+}{
+  "singel_price": "单价28164元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663144.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/79068902-7580-451e-b21e-9caf25e857cc.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区采光好，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|59.65平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村十一坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "168万"
+}{
+  "singel_price": "单价32451元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4869363.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/4912a885-fbbb-430a-bdfe-053edbd09b82.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观好，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|49.92平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新成五坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "162万"
+}{
+  "singel_price": "单价30365元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4555228.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170318/62d518f7-22a8-4f03-8c16-f0616db652c1.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，中等装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室2厅|92.21平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园路351弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "280万"
+}{
+  "singel_price": "单价35031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849612.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/4818853e-dd3a-4f9a-ad79-16b83d6d4eea.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观房，省装修费",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室2厅|157.0平|高区/4层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "爱里舍花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "550万"
+}{
+  "singel_price": "单价30590元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/2b2adfcb-33b8-422f-a21d-eae118fcb98f.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "楼层好，装修精美，满5年，人气房源",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|66.36平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园新村五坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "203万"
+}{
+  "singel_price": "单价28616元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/23a8f6db-ff39-47a8-882f-80015688d46d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区阳光房，拎包入住",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|69.89平|高区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉星小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "200万"
+}{
+  "singel_price": "单价27782元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815311.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/f61d84cd-501c-4018-93bd-0b2d61b9902b.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，采光无遮挡，省装修费",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|64.79平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "南陈小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "180万"
+}{
+  "singel_price": "单价32802元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799784.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/163e236e-9fb2-43bc-b02d-12edb467170c.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北户型，带飘窗，低区出入方便，品味装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室2厅|106.7平|低区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉源小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "350万"
+}{
+  "singel_price": "单价31313元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792021.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/c858573b-1f1d-438f-8116-958cbd720f39.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，厨卫全明，上下楼方便，装修精致",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室2厅|99.0平|低区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "鸿达嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "310万"
+}{
+  "singel_price": "单价26643元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775412.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/e522d92f-249a-4990-a163-33e15d4656b2.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，客厅朝南，光线非常好，精装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室2厅|127.61平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "鸿达嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "340万"
+}{
+  "singel_price": "单价27250元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672070.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/a350bba5-58ce-486d-a5cc-dd85bf2e35b7.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区阳光房，拎包入住",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|80.0平|高区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新成六坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "218万"
+}{
+  "singel_price": "单价31559元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508238.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170215/376cc969-539a-48ca-b703-f71fd8e0d342.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线充足，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|66.54平|中区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "迎园三坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "210万"
+}{
+  "singel_price": "单价28206元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4288217.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160924/b00925a5-081c-4737-97a4-1657c79fc1ba.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，好楼层，简单装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "3室2厅|134.72平|中区/5层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "嘉源小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "380万"
+}{
+  "singel_price": "单价30674元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4203796.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160814/c93e4443-5c51-4cac-82c0-29fddc0529d0.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，厨卫全明，高区采光好，中等装修",
+  "s_cate": "新成路",
+  "house_desc": [
+    "2室1厅|60.31平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "新成三坊四坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchenglu1",
+  "house_price": "185万"
+}

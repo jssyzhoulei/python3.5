@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价85121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4419937.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161018/43e4bd6f-2294-4b7d-af95-0dd7577f11c3.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，出行方便，低区出入方便",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室2厅|101.62平|低区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上海未来",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "865万"
+}{
+  "singel_price": "单价60776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806628.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/ed4270e4-15d2-42d9-9b5a-c0892781d65d.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，光线非常好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|49.69平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨新村十街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "302万"
+}{
+  "singel_price": "单价57919元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4703574.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170408/67139f0a-ee48-40b3-8e9e-8296fbf50adc.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区景观好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "1室1厅|42.3平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "245万"
+}{
+  "singel_price": "单价51091元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669844.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/9f1aa0dd-581c-48d6-b50d-8884adc867ee.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "交通方便，高区景观好，简单装修，满五减税",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|64.59平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "330万"
+}{
+  "singel_price": "单价60879元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655451.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/8071e5e7-8657-4f39-9feb-046089108bdf.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，上下楼方便",
+  "s_cate": "金杨",
+  "house_desc": [
+    "1室1厅|44.35平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨新村五街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价63192元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4547219.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/1c054add-6042-4e73-8e03-d226e513e206.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "出行方便，黄金楼层，简单装修，满5年",
+  "s_cate": "金杨",
+  "house_desc": [
+    "3室1厅|83.08平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨六街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "525万"
+}{
+  "singel_price": "单价52264元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4497205.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/16675552-8899-4577-82ed-25c8458146d7.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区阳光房",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|68.88平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "360万"
+}{
+  "singel_price": "单价77457元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4359539.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161030/15f2587b-558f-4a9a-b26c-34eb27a79b8a.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北户型，带飘窗，地铁沿线，低区出入方便",
+  "s_cate": "金杨",
+  "house_desc": [
+    "3室2厅|113.61平|低区/7层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方知音苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "880万"
+}{
+  "singel_price": "单价54347元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844744.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/8f5de44d-a8af-4276-b626-f4844a7e1094.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "金杨",
+  "house_desc": [
+    "1室1厅|46.0平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "250万"
+}{
+  "singel_price": "单价57520元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833387.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/c2e9ca10-9277-4eaa-9eea-72eef49e0dab.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，高区景观房",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|58.24平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨新村三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "335万"
+}{
+  "singel_price": "单价58664元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814294.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/1010ed8d-8aaf-40b8-8c52-6e6fcee922fb.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁沿线，视野开阔",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|63.07平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨新村九街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "370万"
+}{
+  "singel_price": "单价57863元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/7dc84a0a-5fb2-45b2-a623-bddabae3a57a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，视野很好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|67.4平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "香山新村西北街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "390万"
+}{
+  "singel_price": "单价62324元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604030.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/eff60c56-312e-465f-a6f0-351867b5ea8d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，地铁沿线，低楼层，简单装修",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|56.96平|低区/6层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "仁和花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "355万"
+}{
+  "singel_price": "单价55961元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4516610.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161217/5e3cc789-97fc-4500-9ce2-f5f13581bd59.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野很好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|67.01平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨一街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "375万"
+}{
+  "singel_price": "单价45047元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4477848.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170107/16af536c-5046-40d1-9450-1b4d3f54d44c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁沿线，高区景观好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "4室3厅|190.91平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金芙苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "860万"
+}{
+  "singel_price": "单价82535元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/9be76215-4da6-4670-b1df-5b04c98cf3ef.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线非常好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|67.85平|高区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "黄山始信苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "560万"
+}{
+  "singel_price": "单价51912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819637.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/4a834b54-8b17-4d11-98ca-033f9668f7e2.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，视野很好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|70.31平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨七街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价84527元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815823.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/56722d69-37ce-46b9-8495-2c6a27cce7cd.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁沿线，好楼层",
+  "s_cate": "金杨",
+  "house_desc": [
+    "3室2厅|124.22平|中区/7层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方知音苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价72302元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813101.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/6a21588c-9dbb-41f2-b10f-001b66212f44.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通方便，低楼层",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室2厅|89.9平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "通联苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "650万"
+}{
+  "singel_price": "单价86008元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812846.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160807/230f3793-aba4-4ab5-8964-15b05be56e84.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，地铁房，低区出入方便，拎包入住",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|56.39平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "黄山始信苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "485万"
+}{
+  "singel_price": "单价70769元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769390.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/c04cd979-db85-4282-984f-4405f8056a94.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，交通方便，高区阳光房",
+  "s_cate": "金杨",
+  "house_desc": [
+    "3室2厅|121.38平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "住友名人花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "859万"
+}{
+  "singel_price": "单价60961元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757730.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/8ee06ce8-7dd4-4b58-82bf-565f6de0fe18.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "金杨",
+  "house_desc": [
+    "1室1厅|44.29平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨新村五街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价54237元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739993.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/b2e9f83a-fca1-405f-8f24-94b0466fb122.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北户型，卧室全南，地铁直达，高区阳光房",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|59.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨七街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "320万"
+}{
+  "singel_price": "单价78332元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724589.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/6ed1fda7-f870-4682-b0f9-52503f6c19a4.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，地铁沿线，楼层好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|75.32平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "黄山始信苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "590万"
+}{
+  "singel_price": "单价54986元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639682.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/4ca1c956-915b-4c76-a3c5-0f90f162cbe8.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，高区采光好",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|53.65平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "295万"
+}{
+  "singel_price": "单价60686元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629476.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/3ec5641c-6a89-4ac1-b117-2712fbda7155.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低楼层",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|56.85平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨七街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "345万"
+}{
+  "singel_price": "单价76735元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605334.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170427/123bb198-7f25-4dec-a5a6-ffc1ecbe4779.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "金杨",
+  "house_desc": [
+    "1室1厅|41.05平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨六街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "315万"
+}{
+  "singel_price": "单价50144元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/b055887e-f5c7-4401-b242-ea0bac4a2a94.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区景观房",
+  "s_cate": "金杨",
+  "house_desc": [
+    "2室1厅|58.83平|高区/7层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨新村三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "295万"
+}{
+  "singel_price": "单价55405元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4279879.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161217/9467ceaf-2dc8-4821-a445-adc8d216389c.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，低楼层",
+  "s_cate": "金杨",
+  "house_desc": [
+    "3室1厅|74.0平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金杨新村九街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "410万"
+}{
+  "singel_price": "单价63272元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4870326.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171127/566bff6e-0219-419f-8248-305b972c21d0.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，低楼层",
+  "s_cate": "金杨",
+  "house_desc": [
+    "1室1厅|33.98平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "罗山三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinyang",
+  "house_price": "215万"
+}

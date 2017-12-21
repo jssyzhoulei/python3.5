@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价100980元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778315.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/c8f44f9e-c396-4048-952f-ec8fad00afd9.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "客厅朝南，地铁房，光线充足，品质装修",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "3室2厅|68.33平|中区/15层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "690万"
+}{
+  "singel_price": "单价86767元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4680426.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/20062bd3-b6ca-4037-9597-2463559b9177.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室0厅|27.66平|高区/6层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "西凌新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价89887元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773473.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/9aca9433-9744-4d4d-852c-f017fa3b23a0.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，高区景观房",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室1厅|26.7平|高区/6层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海南西弄64号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价96084元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842928.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/bb817e5c-6808-4453-9737-f2c74d444a3b.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，交通便利，低楼层",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室2厅|110.32平|低区/30层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "金日世家",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "1060万"
+}{
+  "singel_price": "单价85402元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801105.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/2bbad802-f0bb-43ae-8100-395c7c3d50ef.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|76.11平|中区/32层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "西凌新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "650万"
+}{
+  "singel_price": "单价98916元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735993.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/5b7f96d0-b2ac-4cff-ae9e-d413918a354e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "卧室带卫，出行方便，好楼层，中等装修",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|42.46平|中区/15层|朝西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "420万"
+}{
+  "singel_price": "单价105432元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4725956.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/83cb1915-5f16-4985-ac86-e9d1c9148f08.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通便利，好楼层",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室2厅|40.31平|中区/15层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "425万"
+}{
+  "singel_price": "单价78840元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4656800.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161229/9dd63020-7f35-47f3-9d77-4a41aac2a03e.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀罕南北通，地铁房，上下楼方便，装修精致",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室2厅|117.96平|低区/32层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "黄浦新苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "930万"
+}{
+  "singel_price": "单价93688元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4560033.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170322/003b508a-8bc6-4140-80ee-471bb1d0c29c.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "出行方便，上下楼方便，简单装修，满五减税",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室0厅|30.42平|低区/6层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "西凌新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "285万"
+}{
+  "singel_price": "单价91908元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4557236.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/1bd154e3-bb74-49c2-8b0d-dc12eab3505a.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，地铁房，高区采光好，品质装修",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "3室2厅|127.3平|高区/33层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "明珠家园（黄浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "1170万"
+}{
+  "singel_price": "单价106673元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4535093.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/3691cea6-b958-45d3-9ea2-1b4434c6fa3e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通方便，高区采光好",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室2厅|40.31平|高区/15层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "430万"
+}{
+  "singel_price": "单价102449元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4575318.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/f1b15b54-8974-461e-a8e8-ff7d69fbdc89.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，地铁沿线，楼层好，精装修",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室1厅|42.46平|中区/15层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "435万"
+}{
+  "singel_price": "单价78154元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813038.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160929/269ae97e-de3d-4d30-9546-ee762da582f9.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，高区阳光房，装修精致",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|79.33平|高区/30层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "西凌新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "620万"
+}{
+  "singel_price": "单价82343元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1087361.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160914/d5e3cf58-d125-49fb-bad0-9df6cce1f3c8.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，采光好",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|47.97平|高区/6层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "保屯路50弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "395万"
+}{
+  "singel_price": "单价90215元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1078679.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161204/fdbe5890-2ddc-41ee-a0e6-8be3503805f9.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "交通方便，黄金楼层，马上看房，热销房源",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室0厅|72.05平|中区/23层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "银南大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "650万"
+}{
+  "singel_price": "单价110075元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835973.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/e5482f7c-aada-4ae5-afc6-981084f82771.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通，卧室带卫，出行方便，采光无遮挡",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|62.23平|高区/33层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福浦江汇",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "685万"
+}{
+  "singel_price": "单价73891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762971.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/7e788a05-dab6-4498-b3bb-ab846e69b8f6.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低区出入方便",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室1厅|40.6平|低区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "保屯路50弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "300万"
+}{
+  "singel_price": "单价78500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160919/a48e81b3-6576-4486-88b4-c91473267a4e.jpg_200x150.jpg",
+  "house_time": [
+    "1964年建"
+  ],
+  "house_title": "地铁直达，上下楼方便，简单装修，来电即看",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室0厅|31.21平|低区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瞿溪路129号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "245万"
+}{
+  "singel_price": "单价69724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849526.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/09231bb4-4f2d-4338-8f29-742c613682e2.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，交通便利，低楼层，中等装修",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|54.5平|低区/7层|朝北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "西凌新邨",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "380万"
+}{
+  "singel_price": "单价92783元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/6707029f-b574-45ab-aa83-6d5bb8b704d2.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，光线充足",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室1厅|48.5平|中区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "海潮公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "450万"
+}{
+  "singel_price": "单价89834元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825211.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/074c1410-169e-4124-9bcc-9ce13048c146.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "出行方便，光线充足，精装修，房本满五年",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "4室2厅|169.2平|中区/15层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "黄浦新苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "1520万"
+}{
+  "singel_price": "单价73483元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797429.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/44df837a-bcb4-488d-b0bc-7a8a616c4e7e.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁房，低楼层",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室2厅|112.95平|低区/28层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "新中苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "830万"
+}{
+  "singel_price": "单价100025元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792754.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/8f7318cb-d252-4314-8fd5-41fe63f253d2.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通方便，视野很好",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室2厅|79.98平|高区/19层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "800万"
+}{
+  "singel_price": "单价93918元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790823.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/faaa87d3-4f1e-46e3-9e33-1c6a32a13c77.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，采光无遮挡",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|74.0平|高区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "百花公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "695万"
+}{
+  "singel_price": "单价86580元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789074.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/af70e0de-6e14-40cc-a8c8-887ccfb50d52.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "地铁直达，低楼层，品质装修，满五年",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "4室2厅|196.35平|低区/19层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "黄浦新苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价92798元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778572.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/1106915b-22b5-4dbd-bc1f-eaecf572dd21.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，地铁沿线，高区采光好",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室1厅|76.51平|高区/18层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "惠国公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "710万"
+}{
+  "singel_price": "单价97501元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777039.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/fee52e11-f41c-45c8-9f22-6b2389f40e72.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，地铁直达，好楼层",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室2厅|82.05平|中区/19层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "800万"
+}{
+  "singel_price": "单价100025元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770204.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/0ee00a33-6cf2-440d-9554-9a27c3107066.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通方便，黄金楼层",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室2厅|79.98平|中区/19层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "800万"
+}{
+  "singel_price": "单价92401元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764105.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/675bdea7-2519-4524-a722-0b54b174caf0.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "带落地窗，客厅带阳台，地铁沿线，上下楼方便",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "2室2厅|96.86平|低区/20层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "明珠家园（黄浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "895万"
+}{
+  "singel_price": "单价110692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747695.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170329/3d3aae8f-92da-4662-a68b-5f22697a53ad.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，出行方便，光线非常好，装修精美",
+  "s_cate": "蓬莱公园",
+  "house_desc": [
+    "1室2厅|42.46平|高区/15层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中福花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/penglaigongyuan",
+  "house_price": "470万"
+}

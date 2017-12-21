@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价20750元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700655.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170630/bd666827-f0d3-43bd-bb19-b8d7295d159e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，楼层好，中等装修，满五减税",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|80.0平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "康碧苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "166万"
+}{
+  "singel_price": "单价19872元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668999.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/9456afa7-df42-42c7-9df5-af82eb4032ce.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "低楼层，简单装修，满5年，钥匙在手",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|62.9平|低区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "125万"
+}{
+  "singel_price": "单价15869元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765578.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/25d8562e-5ce2-4c93-b50a-869203a9896e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，简单装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室2厅|81.92平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "130万"
+}{
+  "singel_price": "单价23812元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793829.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/74b68c9d-9894-41bc-80eb-663aac676d5a.jpg_200x150.jpg",
+  "house_time": [
+    "2016年建"
+  ],
+  "house_title": "南北通，厨卫全明，黄金楼层，品味装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|69.29平|中区/15层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地风清苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "165万"
+}{
+  "singel_price": "单价23582元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734960.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/28483e0b-53ef-43a5-9cbb-1bf40d12d6e1.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，上下楼方便，简单装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "1室2厅|67.0平|低区/8层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "新城花屿湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "158万"
+}{
+  "singel_price": "单价23188元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733227.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/32860c11-b06f-458e-aa82-ae1e8b6d59ba.jpg_200x150.jpg",
+  "house_time": [
+    "2016年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观房，毛坯房",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|69.0平|高区/15层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地风清苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "160万"
+}{
+  "singel_price": "单价14907元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4680771.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170615/86c521e7-2f54-4822-8ecc-fab37aea7c80.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区阳光房，钥匙在手",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|73.79平|高区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "110万"
+}{
+  "singel_price": "单价12322元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4649142.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170525/df803a18-144a-4ca0-b01a-abbcab2c528a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，黄金楼层，随时可看",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|111.99平|中区/3层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "唐城街26弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "138万"
+}{
+  "singel_price": "单价19007元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804974.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/2eebde52-f402-49ef-ae19-4a9eb48344ba.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，厨卫全明，高区采光好，省装修费",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室2厅|94.7平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "康碧苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "180万"
+}{
+  "singel_price": "单价17613元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799557.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/ba33ab90-7896-476a-b5db-b3c4f70b6898.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，简单装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室1厅|88.0平|中区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "155万"
+}{
+  "singel_price": "单价15829元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760554.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/b7b51a89-a75a-4b11-b309-32cd1fafd755.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，楼层好，拎包入住，满五年",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室1厅|91.6平|中区/4层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "洪南路214弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "145万"
+}{
+  "singel_price": "单价18723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/0e6989c2-0da5-45a8-a5fc-986cf3bfb51c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "高区景观房，满五减税，热销房源，高清摄影",
+  "s_cate": "奉城",
+  "house_desc": [
+    "1室1厅|47.0平|高区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "88万"
+}{
+  "singel_price": "单价19640元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738136.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/44c792ee-040b-4cfd-b60e-998ce6f398e0.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，满五年",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|72.3平|低区/11层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "142万"
+}{
+  "singel_price": "单价14306元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4658972.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/e61aeb6e-687b-49c6-8885-cdaff12ee62d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，采光无遮挡，精装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室2厅|95.06平|高区/3层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "唐城街25弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "136万"
+}{
+  "singel_price": "单价18532元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4409879.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/13208fac-8b07-4a5c-8cee-e78a75e8454a.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，厨卫全明，高区景观好，省装修费",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室2厅|94.43平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "康碧苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "175万"
+}{
+  "singel_price": "单价23084元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801916.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/78e81800-3fed-456b-8d22-626438060139.jpg_200x150.jpg",
+  "house_time": [
+    "2016年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区采光好，有钥匙立即看",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|69.31平|高区/15层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "绿地风清苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "160万"
+}{
+  "singel_price": "单价15000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759565.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/0295f0b0-103a-45db-9098-29007d4d3867.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "低区出入方便，看房方便，热门带看，上门实拍",
+  "s_cate": "奉城",
+  "house_desc": [
+    "4室2厅|124.0平|低区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "东大村K区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "186万"
+}{
+  "singel_price": "单价14946元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867490.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/8bf6c4dc-311c-441d-9559-1e9cfbef0dc7.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，毛坯房",
+  "s_cate": "奉城",
+  "house_desc": [
+    "1室1厅|56.87平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "锦苑花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "85万"
+}{
+  "singel_price": "单价15456元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822827.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/6d0e1eb6-0bc6-4078-a184-c51237d0cdb8.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，光线非常好，满五年，热门房源",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室1厅|85.4平|高区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "132万"
+}{
+  "singel_price": "单价15533元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4803331.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/5a1f94a5-372f-436a-b686-38633b26d1a2.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，采光好，省装修费，房本满五年",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室1厅|103.0平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "竹园新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "160万"
+}{
+  "singel_price": "单价13986元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/a85bbbb9-246f-4b7b-8bc6-7328c52baf30.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "毛坯房，满5年，热门房源，上门实勘",
+  "s_cate": "奉城",
+  "house_desc": [
+    "5室2厅|286.0平|地上3层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "娜欧佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "400万"
+}{
+  "singel_price": "单价20457元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778940.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/9f510bb9-ff44-4d32-a36f-5f4f9fc26315.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，采光无遮挡，精装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室2厅|90.43平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "龙达新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "185万"
+}{
+  "singel_price": "单价21014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773197.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/e7d22775-bfe9-46a5-8aba-98374f20f46d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，楼层好，房本满五年",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|69.0平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "145万"
+}{
+  "singel_price": "单价17004元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766426.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/b2829131-c021-4f32-b0d5-afccbe3f1f23.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，卧室全南，黄金楼层，简单装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|79.39平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "锦苑花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "135万"
+}{
+  "singel_price": "单价19507元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763744.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/defdbe39-1532-4f79-89bb-0fedb2d5f403.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通透，客厅朝南，采光好，满五减税",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室2厅|97.4平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "奉德苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "190万"
+}{
+  "singel_price": "单价19310元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760737.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/2a039a19-a311-4230-b058-546e807fa13d.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，高区阳光房，毛坯房",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室2厅|87.0平|高区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "龙达新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "168万"
+}{
+  "singel_price": "单价22123元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747749.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/f0d7a084-83af-4307-bd05-68c1b857a238.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，上下楼方便，装修精致",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室2厅|83.62平|低区/6层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "华盛新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "185万"
+}{
+  "singel_price": "单价18235元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747416.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/b9c14125-def0-49be-b4c5-a253beb5771c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，楼层好，中等装修",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室1厅|85.0平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "155万"
+}{
+  "singel_price": "单价19736元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747198.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/4163cb44-19c8-4ce5-93b2-37d49d4ba5ce.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，高区采光好，拎包入住",
+  "s_cate": "奉城",
+  "house_desc": [
+    "2室1厅|76.0平|高区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "紫苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "150万"
+}{
+  "singel_price": "单价22100元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4484489.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170115/f578016d-a4cd-40e7-95ae-1ec71f26ce91.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，带落地窗，采光无遮挡，装修精致",
+  "s_cate": "奉城",
+  "house_desc": [
+    "3室2厅|122.17平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "华盛新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/fengcheng",
+  "house_price": "270万"
+}

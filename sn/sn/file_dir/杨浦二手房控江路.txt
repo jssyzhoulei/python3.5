@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价69543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844663.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/5c52bc01-de5b-468f-ab89-7291046090df.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|48.89平|低区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "340万"
+}{
+  "singel_price": "单价65088元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821213.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/c29c19f6-b31d-4203-b49b-78bc651e6cf1.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，低楼层",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室0厅|33.8平|低区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价63189元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807967.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/ed95b775-d485-42d6-8080-28b5642b116b.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室1厅|37.19平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江路680弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "235万"
+}{
+  "singel_price": "单价69140元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795550.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/85a9b571-a6ee-4373-8a43-ab1cc04d5da9.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "控江路",
+  "house_desc": [
+    "3室2厅|129.88平|中区/10层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "大运盛城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "898万"
+}{
+  "singel_price": "单价69637元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795221.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/bcb584fa-47f6-44c5-8d47-36f2c57c49f5.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "出行方便，光线充足，精装修，满五年",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室0厅|35.9平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "250万"
+}{
+  "singel_price": "单价61119元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795090.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/cf33c274-1ce4-4749-b393-a4320e42f410.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，视野很好",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|67.9平|高区/7层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "永吉路97弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "415万"
+}{
+  "singel_price": "单价62222元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790527.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/e99748d8-88b3-4df0-8d9a-154f38c0f29f.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，光线充足",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室0厅|45.0平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江路740弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价75989元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782998.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170904/2e78bb4f-519c-4298-a2de-27d86106a414.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，交通便利，楼层好",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室2厅|98.04平|中区/16层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "大运盛城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "745万"
+}{
+  "singel_price": "单价62500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781702.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170721/8c1a2b5e-bc92-4832-a433-e6e61cb91e00.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线非常好",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室1厅|33.28平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "208万"
+}{
+  "singel_price": "单价63522元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747156.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/6b0cd8f5-d2ae-4738-9e20-958bc7243000.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通，交通便利，高区采光好，品质装修",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|51.95平|高区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价67479元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734540.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/2b8f8599-94f1-4ea5-b654-706317a9277c.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，低区出入方便",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室1厅|38.53平|低区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价57915元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696221.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161217/73df6630-21e4-48ca-acf2-2fe555b3e715.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，采光无遮挡",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室0厅|51.8平|高区/6层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江路640弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价75923元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601047.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160813/cc84ebe7-0ea5-41cf-8162-2af3930c4ee7.jpg_200x150.jpg",
+  "house_time": [
+    "1973年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，低区出入方便",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室1厅|44.65平|低区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "339万"
+}{
+  "singel_price": "单价69914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4567223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/e68eacfb-979f-4f74-8ca8-893fdafbee73.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通便利，光线充足",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室2厅|112.28平|中区/28层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "大运盛城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "785万"
+}{
+  "singel_price": "单价69402元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508324.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170215/5dc9570d-d93b-402d-9725-7abe936dd48e.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，视野很好",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|45.82平|高区/5层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "318万"
+}{
+  "singel_price": "单价71114元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4853519.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/916ef5ae-909c-41e1-84b7-6ec79f8ca83e.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，高区景观房",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室1厅|29.53平|高区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "210万"
+}{
+  "singel_price": "单价95238元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713880.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170712/bcb11203-e997-4198-9ee8-5b1dd324d6da.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|63.0平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "600万"
+}{
+  "singel_price": "单价70151元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833148.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/105eb3f4-0dc1-4879-a65e-f810c5a263ed.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，上下楼方便",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|59.87平|低区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "420万"
+}{
+  "singel_price": "单价60150元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809169.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/99245612-a1d2-4846-acd1-e0ff84d8ca48.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，光线充足",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室0厅|33.25平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "延吉东路555弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价63074元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800189.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170228/1830f550-0f8b-405b-b93b-137b430648b0.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通便利，好楼层",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|69.6平|中区/7层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "永吉路97弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "439万"
+}{
+  "singel_price": "单价55106元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781532.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/4c6422de-d5f8-4d1f-98ca-5204df538664.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "房型正气，地铁沿线，低区出入方便，简单装修",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室0厅|59.34平|低区/5层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "327万"
+}{
+  "singel_price": "单价63943元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762190.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/363a13b8-99f6-4c00-b379-0c90b479fabc.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北通，厨卫全明，出行方便，高区景观好",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室1厅|52.39平|高区/5层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江路874弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "335万"
+}{
+  "singel_price": "单价77018元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756319.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/5af7cfcb-a29e-4d05-9a45-d2ff87a23c0e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，上下楼方便",
+  "s_cate": "控江路",
+  "house_desc": [
+    "2室2厅|104.52平|低区/17层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "泰鸿新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "805万"
+}{
+  "singel_price": "单价55355元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747999.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160712/cec539f9-f1b7-4e6d-8364-386e17875f4e.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，出行方便，光线充足，简单装修",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室1厅|36.13平|中区/5层|朝北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价50923元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709725.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/20b705b0-84aa-4811-808f-d8ee9ad5d367.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，高区阳光房",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室1厅|42.22平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "长白路166号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "215万"
+}{
+  "singel_price": "单价66844元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628046.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170620/f0c6f86d-bdcb-4711-96d8-f87776f4d0dc.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，低区出入方便",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室0厅|29.92平|低区/5层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价61278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4544188.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/fa4afbb6-d0d8-49c4-902b-219e397b99f1.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室全南，出行方便，视野很好，简单装修",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室0厅|34.27平|高区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "凤城三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "210万"
+}{
+  "singel_price": "单价62052元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4510160.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170215/c8a2b8a1-c107-4ca1-aa55-0c4f32ea8f6e.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，好楼层",
+  "s_cate": "控江路",
+  "house_desc": [
+    "1室0厅|33.52平|中区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "控江二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "208万"
+}{
+  "singel_price": "单价63666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4498924.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/fd092574-1c81-4bed-9c7b-71adc2d013ea.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，交通方便，低楼层",
+  "s_cate": "控江路",
+  "house_desc": [
+    "3室2厅|116.23平|低区/13层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "益晖新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "740万"
+}{
+  "singel_price": "单价66389元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4395128.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161119/f39dd237-a980-476a-8712-876d43269d8f.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "控江路",
+  "house_desc": [
+    "3室2厅|108.3平|中区/17层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "益晖新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kongjianglu",
+  "house_price": "719万"
+}

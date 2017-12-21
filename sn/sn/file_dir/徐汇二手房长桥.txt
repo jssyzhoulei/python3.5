@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价55479元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736570.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/5fede8e7-01a0-493b-b99d-3df9bca1c118.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，上下楼方便，满五减税",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|43.8平|低区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "罗秀新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "243万"
+}{
+  "singel_price": "单价56332元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/1618a5ec-251c-4a98-a590-38e056fe0692.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "视野开阔，简单装修，满五减税，有钥匙",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室0厅|47.93平|高区/16层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价61763元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4412353.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/036c9616-dbbb-4f4e-a4d9-03342afb3417.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "上下楼方便，毛坯房，满5年，看房有钥匙",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室2厅|105.24平|低区/15层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "徐汇新城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "650万"
+}{
+  "singel_price": "单价70422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4181700.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/85969554-c5b6-4561-ad55-e6b203cef95c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，楼层好，品味装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "3室2厅|113.6平|中区/12层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "徐汇新城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "800万"
+}{
+  "singel_price": "单价56965元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863099.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/b99dca4b-9010-44df-a755-bb5801410ec3.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "房型正气，厨卫全明，视野很好，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|50.03平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价57219元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4750320.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170809/9d2ac360-597e-4904-ad7e-72565ff94acc.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室0厅|52.08平|低区/6层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "298万"
+}{
+  "singel_price": "单价58642元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4638025.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/609f21b8-1970-4533-945b-0e62b6667fbe.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "高区景观好，简单装修，满五减税，钥匙房",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室0厅|35.81平|高区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "210万"
+}{
+  "singel_price": "单价53124元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4517846.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/f0e57daf-c3d2-4661-96fd-6d40af3c2592.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野开阔，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室2厅|71.53平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "罗秀新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "380万"
+}{
+  "singel_price": "单价71092元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760420.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160902/b021a2f7-8be2-4f2d-aef5-877ef67cf43e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "低区出入方便，装修经典，满5年，钥匙房",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|70.05平|低区/16层|朝东"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "498万"
+}{
+  "singel_price": "单价96374元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4493798.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170204/22e34e3b-e956-4f8e-8b31-ef2ef66711b1.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，好楼层，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|43.58平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "420万"
+}{
+  "singel_price": "单价85119元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4656816.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/3dfbf881-53fc-4d3e-ab21-faec1a08db88.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "楼层好，毛坯房，满二减税，有钥匙房源",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室2厅|98.45平|中区/8层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "书香逸居",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "838万"
+}{
+  "singel_price": "单价54691元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847113.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/5209daf8-1e7e-4768-8bbd-a7c962c9eb42.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，好楼层，简单装修，满5年",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|41.14平|中区/6层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "225万"
+}{
+  "singel_price": "单价63193元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783488.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/dd653133-df9e-4a8d-a4c1-724ebd124633.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室0厅|38.77平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "245万"
+}{
+  "singel_price": "单价56615元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698246.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/7e34b720-092a-4579-a57b-12721832545d.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，高区景观好，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|47.69平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价49104元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670210.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/bd48606f-7461-467e-acea-735d35ba70b5.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野开阔，毛坯房",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|69.24平|高区/16层|朝东"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "340万"
+}{
+  "singel_price": "单价50770元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663676.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/1465aaee-6c7b-434c-be99-91003145a5d5.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "高区采光好，毛坯房，满五减税，有钥匙房源",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|57.12平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价64267元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860738.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/4d1780a1-1a13-44cd-9a64-4793733cc0d9.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "上下楼方便，精装修，满5年，随时看房",
+  "s_cate": "长桥",
+  "house_desc": [
+    "3室1厅|70.02平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "450万"
+}{
+  "singel_price": "单价63039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859407.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/2f1ce634-df3a-421c-ae36-7245fe8e9e46.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "光线非常好，简单装修，满五减税，看房方便",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室0厅|30.14平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "190万"
+}{
+  "singel_price": "单价56461元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849508.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/b6944adf-26e9-4a93-9c97-84808261e245.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线非常好，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|63.76平|高区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "360万"
+}{
+  "singel_price": "单价58441元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844323.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/0dea7a03-c042-4ee8-8c9d-c198153dfa78.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，黄金楼层，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|46.2平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价60137元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670437.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/2a782bde-0706-4000-9f6d-bfc637b855e8.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，黄金楼层，房本满五年",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|46.56平|中区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "280万"
+}{
+  "singel_price": "单价61211元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4599778.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/a01d78de-2463-413d-9ef6-f631c7a8c051.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|46.56平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "285万"
+}{
+  "singel_price": "单价57628元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743412.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/ecbd8b0b-f292-4fff-9d71-316b675c97e6.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，光线充足，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|65.94平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "罗秀新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "380万"
+}{
+  "singel_price": "单价80645元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4554344.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/12ea4486-3656-48a3-b8c3-9d9bff669e5d.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室0厅|52.08平|低区/6层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "420万"
+}{
+  "singel_price": "单价71618元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4450242.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161227/d8cb12c8-42a9-4ea1-9a1b-12a5e92a4543.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，品质装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室2厅|90.06平|中区/11层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "徐汇新城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "645万"
+}{
+  "singel_price": "单价58639元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652824.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170524/828c6c47-c021-426f-b573-095420ea0967.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "光线非常好，简单装修，满二减税，来电即看",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|57.64平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "338万"
+}{
+  "singel_price": "单价63118元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4615268.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170209/4640a920-3a9c-4f02-9c94-af8cb15d2b96.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|58.62平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "370万"
+}{
+  "singel_price": "单价64587元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730549.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/00a2bff9-945e-40d9-89b2-65581683f04b.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低楼层，满五减税",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室1厅|44.9平|低区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价62232元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707980.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/15ff87ec-9de3-4802-ac54-fde6b002aa86.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低楼层，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "2室0厅|51.42平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "320万"
+}{
+  "singel_price": "单价62200元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4566239.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/e4b0eb85-65f1-4104-bc18-bf58b8a49ecb.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低区出入方便，简单装修",
+  "s_cate": "长桥",
+  "house_desc": [
+    "1室1厅|41.8平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "长桥三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changqiao",
+  "house_price": "260万"
+}

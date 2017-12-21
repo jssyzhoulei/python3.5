@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价71155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845937.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/5447ca24-077c-44be-a077-f254276d5fe6.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低楼层",
+  "s_cate": "长风",
+  "house_desc": [
+    "1室0厅|28.81平|低区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桂巷新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "205万"
+}{
+  "singel_price": "单价66875元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794551.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/07e17f85-104c-4e20-8884-9d7bcc7e574f.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，高区景观好",
+  "s_cate": "长风",
+  "house_desc": [
+    "1室0厅|28.71平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（风荷园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "192万"
+}{
+  "singel_price": "单价61937元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/1422babd-3912-47b4-95c2-0918720aae2a.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁沿线，高区阳光房",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室1厅|57.8平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（风荷园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "358万"
+}{
+  "singel_price": "单价69565元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/6b830a65-2efd-456c-82a2-ec031ced40cd.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁房，低区出入方便",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室1厅|46.0平|低区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（风荷园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "320万"
+}{
+  "singel_price": "单价67313元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820639.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/fde22da7-8ab9-4abb-9015-cfa4a76b5428.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，低楼层",
+  "s_cate": "长风",
+  "house_desc": [
+    "1室1厅|31.94平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（风荷园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "215万"
+}{
+  "singel_price": "单价64724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/2a37b4d2-3c9e-4afb-97d1-887c4d7366f9.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，低区出入方便",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室1厅|86.52平|低区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "海鑫公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "560万"
+}{
+  "singel_price": "单价68252元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809657.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/bdf702f3-1e1c-449e-80d8-13435d1ded1b.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "南北通透，卧室全南，交通方便，高区采光好",
+  "s_cate": "长风",
+  "house_desc": [
+    "1室1厅|31.94平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（风荷园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "218万"
+}{
+  "singel_price": "单价67471元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800757.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/6bfb5dae-b42e-4133-80f2-5aa3a4101db6.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，黄金楼层，装修精美",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|42.24平|中区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（长风馨苑）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "285万"
+}{
+  "singel_price": "单价61960元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791805.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/2e5d93a9-2794-458a-aa47-d08f062f7b10.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通，卧室带阳台，交通方便，视野很好",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室1厅|51.0平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "316万"
+}{
+  "singel_price": "单价62028元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786274.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/3f8f3a48-8548-458a-8197-59aaee90ba11.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "地铁直达，楼层好，简单装修，满五减税",
+  "s_cate": "长风",
+  "house_desc": [
+    "1室2厅|69.0平|中区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "海鑫公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "428万"
+}{
+  "singel_price": "单价61004元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764992.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/24b97053-2818-485a-a6cc-df3b9a061c72.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通便利，光线非常好",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|41.8平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（长风馨苑）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "255万"
+}{
+  "singel_price": "单价62718元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757312.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/0e319b75-ef42-4720-8767-568b00ec556e.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "卧室全南，交通便利，楼层好，满五减税",
+  "s_cate": "长风",
+  "house_desc": [
+    "1室1厅|34.28平|中区/8层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风一村小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "215万"
+}{
+  "singel_price": "单价55343元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757086.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/c508f5be-d6d1-41ee-8be3-c14622967227.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，客厅朝南，交通便利，光线充足",
+  "s_cate": "长风",
+  "house_desc": [
+    "3室2厅|131.0平|中区/31层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "申汉小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "725万"
+}{
+  "singel_price": "单价60889元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727562.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/5c5e9323-556f-402c-be51-ff26f049da7f.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "长风",
+  "house_desc": [
+    "3室1厅|64.05平|中区/17层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桂巷新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "390万"
+}{
+  "singel_price": "单价68476元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718542.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/748cbff4-ac79-4efd-8426-399dac79fc4c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁房，采光无遮挡",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室2厅|84.7平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "怒江新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "580万"
+}{
+  "singel_price": "单价62742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677628.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/7a6e360c-8edc-4b65-8a2c-e8d4755860b5.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，上下楼方便",
+  "s_cate": "长风",
+  "house_desc": [
+    "1室1厅|38.73平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "243万"
+}{
+  "singel_price": "单价62230元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4644321.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/b78bb37e-804d-4a1d-b28d-9a366becc83e.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁直达，高区景观好",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|41.78平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（长风馨苑）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "260万"
+}{
+  "singel_price": "单价63897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589422.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161018/5c48b7e4-d02a-40db-aa23-72fd4bda94dd.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室2厅|90.77平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "书香名第",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "580万"
+}{
+  "singel_price": "单价60578元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679500.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/b9fde2d5-be94-4152-9e84-d59fd92c03db.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，黄金楼层，满两年",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|43.25平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "262万"
+}{
+  "singel_price": "单价64233元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849553.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/ab64d9b4-9dfc-448f-8996-52670682ab9c.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区采光好",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室1厅|63.83平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "410万"
+}{
+  "singel_price": "单价64145元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800915.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/9f667717-b609-4b9a-b58e-391993f961e9.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区阳光房",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室1厅|41.78平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（长风馨苑）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "268万"
+}{
+  "singel_price": "单价62799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4687756.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/1525fb3e-ca47-4d02-a2d8-b552f36878bf.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "交通方便，好楼层，简单装修，满五年",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|43.79平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桂巷新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "275万"
+}{
+  "singel_price": "单价69039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4853052.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/d15185bb-06d3-4836-9673-58bf334423c8.jpg_200x150.jpg",
+  "house_time": [
+    "1980年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线非常好",
+  "s_cate": "长风",
+  "house_desc": [
+    "3室1厅|65.18平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "华师大一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "450万"
+}{
+  "singel_price": "单价66571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831536.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/e9851b84-4a56-43cb-be1f-9877ce509c34.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁房，光线非常好",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|48.82平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（风荷园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "325万"
+}{
+  "singel_price": "单价74698元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685573.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/419ad8b4-b57f-44f9-81fd-bf64609f718a.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通透，客厅朝南，交通方便，楼层好",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室2厅|83.0平|中区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金玉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "620万"
+}{
+  "singel_price": "单价67020元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807698.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/8b76448f-003e-4907-bded-c4f0e2f89201.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，地铁直达，好楼层",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室2厅|77.29平|中区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "怒江苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "518万"
+}{
+  "singel_price": "单价55639元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775716.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/10857dc1-7e2e-4ac7-b72d-d047a575aa31.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁沿线，低楼层",
+  "s_cate": "长风",
+  "house_desc": [
+    "3室1厅|98.85平|低区/18层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "海鑫公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "550万"
+}{
+  "singel_price": "单价63427元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4720516.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/0d2defa7-a9a1-49c3-af1a-d93e9991b9b0.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，出行方便，好楼层",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|41.78平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（长风馨苑）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "265万"
+}{
+  "singel_price": "单价63372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4660342.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/9c4da9cb-78d9-4ade-94eb-2ad416dadb99.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，出行方便，黄金楼层",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室2厅|85.21平|中区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙江小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "540万"
+}{
+  "singel_price": "单价59543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643507.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/49279cd4-30c7-438a-8372-7a889c3fb24e.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通便利，光线充足",
+  "s_cate": "长风",
+  "house_desc": [
+    "2室0厅|43.33平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长风二村（风荷园）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changfeng1",
+  "house_price": "258万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价87591元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1121593.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161029/cd481b38-0c40-4781-8b97-c572e05df465.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，交通便利，视野开阔",
+  "s_cate": "新华路",
+  "house_desc": [
+    "4室2厅|205.5平|高区/30层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "申亚新华府",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价64650元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4702459.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161217/2f71d7c7-4e00-4a9c-9113-a411d8a4f203.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "地铁直达，低区出入方便，装修精美，满5年",
+  "s_cate": "新华路",
+  "house_desc": [
+    "4室2厅|148.49平|低区/20层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "淮海世纪花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "960万"
+}{
+  "singel_price": "单价76480元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4568044.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/7950d876-0948-4881-ac28-107ab3162289.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，卧室带卫，地铁直达，低楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "4室2厅|189.59平|低区/30层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "申亚新华府",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "1450万"
+}{
+  "singel_price": "单价69225元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4233273.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160828/e6c406d8-0490-420d-81f2-7f24c4f4b2a5.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，楼层好，省装修费",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室0厅|47.67平|中区/7层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "中华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价71653元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823035.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/164fab0b-ef0c-49a5-b904-ef40542fe776.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，光线充足",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|57.22平|中区/7层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "又一村（长宁）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "410万"
+}{
+  "singel_price": "单价60590元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802216.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/ab772aee-d414-4595-b2e0-f50f2c375c46.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，低楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室2厅|117.18平|低区/34层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "浦江大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "710万"
+}{
+  "singel_price": "单价89671元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800039.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/e34dc78a-1d27-4693-b696-7d6fb1c67721.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|62.45平|低区/18层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "红庄小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "560万"
+}{
+  "singel_price": "单价76329元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792811.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/554c6a88-3e4a-4a59-b32b-fa8eb26315ad.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，客厅朝南，出行方便，低楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室2厅|111.36平|低区/33层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "凯旋都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "850万"
+}{
+  "singel_price": "单价78845元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768874.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/b7cb5005-8a31-44dc-a99b-e707334e992c.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，采光无遮挡",
+  "s_cate": "新华路",
+  "house_desc": [
+    "3室1厅|74.83平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "百花村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "590万"
+}{
+  "singel_price": "单价70920元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749404.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/dc4a14b5-1bd9-478d-bea2-701ef78e0e3c.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，出行方便，低楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|56.26平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "长中小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "399万"
+}{
+  "singel_price": "单价68580元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4695899.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/27fa2b48-ee32-407f-9bb4-aaf0a0268d9c.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区采光好",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|62.7平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "西镇小区（长宁）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "430万"
+}{
+  "singel_price": "单价78571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666174.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/2d7f2c1e-858a-4b7d-b2c0-5fe4b2acb407.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室0厅|56.0平|低区/7层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "番禺路222弄11支弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "440万"
+}{
+  "singel_price": "单价54308元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4559362.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/1fc8249a-78cc-4e6e-a42f-009539ba9a74.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，交通便利，好楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室2厅|110.48平|中区/34层|朝北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "浦江大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "600万"
+}{
+  "singel_price": "单价68213元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4503785.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170212/eb53b317-b1eb-4c49-926b-1e27e8030cd8.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，好楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|71.1平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "长虹小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "485万"
+}{
+  "singel_price": "单价72176元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4456064.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160827/27604a1e-53fa-4aac-b227-bbeb460c4a65.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室0厅|70.66平|低区/29层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "番禺大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "510万"
+}{
+  "singel_price": "单价61728元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4269616.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160913/c42c08c5-be60-42e7-9a2f-8f563933aec9.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观好",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|44.55平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "法华镇路878弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "275万"
+}{
+  "singel_price": "单价81281元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3899748.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161226/e704146a-a22f-4c7c-b5f6-9ab7f824374b.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，交通方便，视野很好",
+  "s_cate": "新华路",
+  "house_desc": [
+    "3室3厅|180.36平|高区/28层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "今日丽园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "1466万"
+}{
+  "singel_price": "单价68669元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3800863.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/666fea0f-26d3-4f5c-b0ac-aa83431c2449.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "房型正气，厨卫全明，交通方便，低区出入方便",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室0厅|51.26平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "化工小区（长宁）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "352万"
+}{
+  "singel_price": "单价80037元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772087.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/7a73dc4a-d234-4dca-acee-03eeafe60912.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，上下楼方便",
+  "s_cate": "新华路",
+  "house_desc": [
+    "1室1厅|42.48平|低区/7层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "法华镇路681弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "340万"
+}{
+  "singel_price": "单价69230元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171114/4a123ebb-ca1a-4a74-b066-cae9faf1c7a7.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，光线充足",
+  "s_cate": "新华路",
+  "house_desc": [
+    "1室1厅|39.0平|中区/7层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "中华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "270万"
+}{
+  "singel_price": "单价78378元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/0a32ac75-1998-463d-9fc6-e6fda25eac42.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，视野开阔",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室2厅|74.0平|高区/22层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "延武机电大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "580万"
+}{
+  "singel_price": "单价96000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848203.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/4bd77a26-cd7f-4dd0-94cc-95452da98dc0.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，卧室带卫，出行方便，黄金楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室2厅|125.0平|中区/28层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "今日丽园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价71995元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804090.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/0dc1f671-6365-42ec-85ad-40d74d844bc4.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁房，低楼层",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|54.17平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "延西小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "390万"
+}{
+  "singel_price": "单价79500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730129.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/45272059-f46c-42de-b41f-297a651ca2e5.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁直达，采光好",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|40.88平|高区/7层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "中华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "325万"
+}{
+  "singel_price": "单价74059元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708063.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/cf557c83-d1ff-4b96-b04c-c23726d15343.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁沿线，高区阳光房",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|49.96平|高区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "定西路601弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "370万"
+}{
+  "singel_price": "单价73409元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4506184.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170314/27f228a8-b782-4ab9-b041-e2b64c9133f8.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|67.43平|高区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "杨宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "495万"
+}{
+  "singel_price": "单价62128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4381535.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161210/44936b9d-f179-4af5-a457-c9d91fb45a4f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，视野很好",
+  "s_cate": "新华路",
+  "house_desc": [
+    "1室0厅|37.02平|高区/7层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "中华小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价73809元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4331435.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161104/787c939b-48fe-4532-983d-3c027a694687.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，采光好",
+  "s_cate": "新华路",
+  "house_desc": [
+    "1室1厅|42.0平|高区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "安顺路231弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "310万"
+}{
+  "singel_price": "单价81158元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846902.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/37b9eebb-4c3b-4012-9206-65d99a7c8d23.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "地铁沿线，楼层好，简单装修，满5年",
+  "s_cate": "新华路",
+  "house_desc": [
+    "2室1厅|45.59平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "番禺路295弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "370万"
+}{
+  "singel_price": "单价74354元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809417.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/94a3e59c-6e08-4acb-91b3-0e9d62f8978a.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，光线非常好",
+  "s_cate": "新华路",
+  "house_desc": [
+    "1室1厅|38.33平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "纺大小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinhualu",
+  "house_price": "285万"
+}

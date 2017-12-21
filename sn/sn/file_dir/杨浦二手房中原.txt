@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价50602元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4580625.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170406/58590f6a-cb74-4166-833a-94e5896da3be.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，高区阳光房",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|41.5平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "开鲁四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "210万"
+}{
+  "singel_price": "单价52415元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4868133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/d8fd444c-ff76-4bf4-83c2-5384d37df205.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|43.88平|低区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "工农三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "230万"
+}{
+  "singel_price": "单价60362元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860904.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160602/de327989-dd20-44e0-a78f-38c018f6ee94.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|69.58平|高区/18层"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "420万"
+}{
+  "singel_price": "单价74749元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854873.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/be9a4a5e-a0b7-4975-b126-d23f8b6f09c4.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁房，采光无遮挡",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室2厅|97.66平|高区/12层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "翔殷心秀",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "730万"
+}{
+  "singel_price": "单价56779元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830541.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/aff32799-fc0e-4254-8336-f75ba602ca1f.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，好楼层",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|59.0平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "工农三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "335万"
+}{
+  "singel_price": "单价68134元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826397.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/04dbe02f-ad3d-46bd-b90a-ac46862c8c6e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，交通便利，楼层好",
+  "s_cate": "中原",
+  "house_desc": [
+    "3室2厅|139.43平|中区/17层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "莱茵半岛",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "950万"
+}{
+  "singel_price": "单价59337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780493.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/b721de5f-5599-48a9-93b8-b432d6c325c4.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|60.67平|低区/6层|朝东南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市京一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "360万"
+}{
+  "singel_price": "单价56689元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768679.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/729a5a57-ed05-4a28-be64-9a5473935683.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，采光好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|39.69平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "225万"
+}{
+  "singel_price": "单价57064元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705733.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/50d461ec-1333-4f9e-8133-f7d5fadcee98.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，上下楼方便",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|62.21平|低区/6层|朝西南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "开鲁三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "355万"
+}{
+  "singel_price": "单价64294元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579615.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/c39a912c-a3c4-45e2-9f99-0eace7eb0681.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，楼层好",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|69.99平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "长海路137弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "450万"
+}{
+  "singel_price": "单价51129元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4562714.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/61341759-2e46-4ff8-98fa-9350189ed198.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，高区采光好，简单装修",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|70.41平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "世界路99弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "360万"
+}{
+  "singel_price": "单价55073元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546170.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/81ec7f1e-b54f-4507-a76a-e1bbfe6cfb24.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线非常好",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|72.63平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "400万"
+}{
+  "singel_price": "单价55253元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514479.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/eeb02e55-72e0-463c-b1d3-bcbae8541ee6.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "出行方便，光线非常好，简单装修，满5年",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|57.01平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "315万"
+}{
+  "singel_price": "单价50803元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501493.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170211/c58df318-a842-48f2-9b1f-b884be2eb216.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区采光好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|42.32平|高区/6层|朝东南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "民星二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "215万"
+}{
+  "singel_price": "单价57211元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4436647.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/aacc682e-01b4-493a-882e-f4e374523a9b.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，高区采光好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|45.97平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "国和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "263万"
+}{
+  "singel_price": "单价57846元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4411883.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161126/5c0d898d-f0a8-4bb6-8d67-68e171cbfab6.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线非常好",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室0厅|49.96平|高区/5层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "三门路24弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "289万"
+}{
+  "singel_price": "单价57388元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862947.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/e53e6030-bd6a-45d7-9dd2-9e60902bef6c.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通透，客厅朝南，交通便利，低区出入方便",
+  "s_cate": "中原",
+  "house_desc": [
+    "3室1厅|69.7平|低区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "400万"
+}{
+  "singel_price": "单价68102元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4565417.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/d9bb6451-3282-4af8-a76d-eedf6630c4d1.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "中原",
+  "house_desc": [
+    "3室2厅|126.28平|高区/9层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "阳光欧洲公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "860万"
+}{
+  "singel_price": "单价61787元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863138.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/d8cebb4a-7a29-43ee-9cc7-388d5941223a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光好",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|72.83平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "长海二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "450万"
+}{
+  "singel_price": "单价54665元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862336.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/5cd4add2-8910-4ba0-9a60-d6a5f76a811f.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线非常好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|42.44平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "工农三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "232万"
+}{
+  "singel_price": "单价49519元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860705.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/8db9306e-5d2d-44da-aecf-2b98f1e2f851.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|68.66平|中区/18层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "340万"
+}{
+  "singel_price": "单价54208元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855956.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/b0ed40f4-8dcd-4663-bcaf-c39729fef8b8.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，视野很好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|35.05平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "工农二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "190万"
+}{
+  "singel_price": "单价60420元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851405.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/324d8577-7f1c-4e95-8179-fd23752b02dd.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通便利，低楼层",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|53.79平|低区/4层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光路70弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "325万"
+}{
+  "singel_price": "单价59382元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844857.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/08818b5e-652a-4b79-b247-3f1c5af09fab.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，低区出入方便",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|33.68平|低区/3层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "世界路91弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "200万"
+}{
+  "singel_price": "单价58593元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839958.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/da79b857-2da0-4a16-aa00-00a52dce6f65.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，采光好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|40.96平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "国和二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "240万"
+}{
+  "singel_price": "单价54570元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818976.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/368f8016-8f61-4548-883b-c393b1728d6a.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，高区采光好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|36.65平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "200万"
+}{
+  "singel_price": "单价60846元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813265.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170424/617a2f6c-08f8-47a2-8d3f-31f995d299dd.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁直达，好楼层，精装修，满五减税",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|37.8平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "市光二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "230万"
+}{
+  "singel_price": "单价56522元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802981.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/d44dedeb-019a-43a6-8dc6-bcc829ca87e1.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，楼层好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室1厅|48.83平|中区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "长海一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "276万"
+}{
+  "singel_price": "单价64697元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706682.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/9482cff8-fc84-4387-a08a-4283c3552b42.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，光线非常好",
+  "s_cate": "中原",
+  "house_desc": [
+    "1室0厅|35.55平|高区/6层|朝南"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "黑山小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "230万"
+}{
+  "singel_price": "单价57818元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/yangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663558.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/555194c7-47eb-43b3-8471-b9042730b76f.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通便利，好楼层",
+  "s_cate": "中原",
+  "house_desc": [
+    "2室1厅|55.0平|中区/6层|朝南北"
+  ],
+  "district": "杨浦二手房",
+  "house_detail": "国和一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuan1",
+  "house_price": "318万"
+}

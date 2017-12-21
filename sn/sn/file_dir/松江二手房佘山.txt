@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价58096元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4464339.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161128/cc6c2cfd-3c3f-41ff-a551-eebba35f1a49.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通方便，毛坯房，满5年，有钥匙立即看",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室3厅|654.08平|地上2层|(进门)北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "3800万"
+}{
+  "singel_price": "单价38662元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828504.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/97c3a674-1e68-4267-a6fd-49850c05f0c5.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通便利，经典装修，满5年，热门房源",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室2厅|351.76平|地上2层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1360万"
+}{
+  "singel_price": "单价55857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501401.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170223/f9594db4-bf8b-46f8-8914-fc5ccec27f00.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，出行方便，毛坯房，房本满五年",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室4厅|769.81平|地上2层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "4300万"
+}{
+  "singel_price": "单价31929元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4617755.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/2df32e10-c600-4269-9afe-71f3b5368a8d.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，楼层好，毛坯房",
+  "s_cate": "佘山",
+  "house_desc": [
+    "1室2厅|58.88平|中区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "翠鑫苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "188万"
+}{
+  "singel_price": "单价63451元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668077.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/255d2d15-e36e-4262-912b-d09088158a84.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "地铁直达，毛坯房，满五减税，实地看房",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室3厅|788.0平|地上2层|(进门)西"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山月湖山庄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "5000万"
+}{
+  "singel_price": "单价50420元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/c868371c-3f8e-421b-9218-6ef4861edad3.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "出行方便，精装修，房本满五年，热门带看",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室3厅|595.0平|地上2层|(进门)东南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山月湖山庄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "3000万"
+}{
+  "singel_price": "单价30303元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4600414.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170205/aced13f6-8585-4aa0-88b1-5148057756bf.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，交通方便，装修精美，房本满五年",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室3厅|330.0平|地上2层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价48945元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4570086.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/68961973-c7f3-4059-9ee8-9d0d77a050ea.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通方便，中等装修，满5年，热门房源",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室3厅|265.6平|地上2层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价74728元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1076875.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20151215/a730d3fb-7d18-4684-821c-3136925684a6.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "出行方便，毛坯房，满五年，有钥匙立即看",
+  "s_cate": "佘山",
+  "house_desc": [
+    "6室3厅|936.72平|地上2层地下1层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "7000万"
+}{
+  "singel_price": "单价28000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712122.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/ca0f1a2c-2b7a-4f56-a06d-69059c90ed05.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，低区出入方便，毛坯房",
+  "s_cate": "佘山",
+  "house_desc": [
+    "1室1厅|60.0平|低区/6层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江秋新苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "168万"
+}{
+  "singel_price": "单价40891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835421.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/fa9a00d1-dfbe-492f-9498-e6f9385f3973.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "精装修，满5年，热销房源，上门实勘",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室3厅|293.46平|地上2层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天马高尔夫别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价29082元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685520.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170720/6c1ae29c-4e2c-4668-8c12-8f60b70ffdd4.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，毛坯房，满5年，热推好房",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室2厅|447.0平|地上2层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天马高尔夫别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价101626元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1081661.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161104/14961da4-da07-47c3-8239-f83a3d73de87.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "毛坯房，满两年，有钥匙房源，人气房源",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室2厅|334.56平|地上2层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "中凯曼荼园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "3400万"
+}{
+  "singel_price": "单价43165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762337.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/783eca04-2b85-4a48-b08b-ae2f0b3ac4d6.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通便利，装修经典，房本满两年，热门带看",
+  "s_cate": "佘山",
+  "house_desc": [
+    "3室2厅|417.0平|地上2层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价32791元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692370.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/2f9771e2-c5f5-4a18-ab07-14b56366429c.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北户型，卧室带卫，毛坯房，随到随看",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室3厅|283.0平|地上4层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "世茂佘山里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "928万"
+}{
+  "singel_price": "单价32229元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691141.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/7348387c-4b96-4f19-ba66-7f987f9d0a6c.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀罕南北通，毛坯房，有钥匙，实地看房",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室3厅|287.0平|地上4层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "世茂佘山里",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "925万"
+}{
+  "singel_price": "单价30528元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806088.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/efcafa7f-8318-436d-88c7-30ddbe793827.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "品质装修，满五年，热门房源，高清摄影",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室2厅|458.59平|地上2层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天马高尔夫别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价57843元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4458903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170321/f45f8de8-6331-4dc9-8d0d-4238d5cbc671.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "毛坯房，满5年，钥匙房，上门实勘",
+  "s_cate": "佘山",
+  "house_desc": [
+    "6室3厅|518.64平|地上2层|(进门)北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天马高尔夫别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "3000万"
+}{
+  "singel_price": "单价64902元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4457266.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160912/64523eb6-2a3d-4c0a-9060-8bfbb7f3c517.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "毛坯房，满五年，热门带看，高清实拍",
+  "s_cate": "佘山",
+  "house_desc": [
+    "3室2厅|338.97平|地上2层|(进门)北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "紫都上海晶园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "2200万"
+}{
+  "singel_price": "单价102055元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4456982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161226/9efbdac0-090c-41f3-b962-2dd461caa779.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，毛坯房，满五年，钥匙房",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室3厅|423.3平|地上2层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "上海紫园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "4320万"
+}{
+  "singel_price": "单价23807元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4393254.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160831/5a444830-068b-4449-86a7-c6750a42a0d2.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，厨卫全明，好楼层，精装修",
+  "s_cate": "佘山",
+  "house_desc": [
+    "3室2厅|134.41平|中区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江秋新苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价135318元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4380456.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/83dd2d40-519d-4f4c-afaa-a4843e1f47bc.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "毛坯房，满五减税，热门带看，高清摄影",
+  "s_cate": "佘山",
+  "house_desc": [
+    "7室3厅|368.02平|地上2层|(进门)西"
+  ],
+  "district": "松江二手房",
+  "house_detail": "中凯曼荼园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "4980万"
+}{
+  "singel_price": "单价63353元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4745156.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/809d2855-4a1c-43b3-b57d-39d3aad80d42.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，交通便利，品味装修，满五减税",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室3厅|757.65平|地上2层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "4800万"
+}{
+  "singel_price": "单价89982元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571792.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170412/fc8b621e-5a31-432e-b892-616750a28e3f.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，出行方便，拎包入住，满5年",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室4厅|1000.2平|地上2层地下1层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "9000万"
+}{
+  "singel_price": "单价33333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4456747.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161230/2cabfadb-0642-4f32-a2a3-25f0908559bf.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "出行方便，装修精美，满5年，高清摄影",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室2厅|330.0平|地上2层|(进门)东"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山高尔夫郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价39515元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/e6f63c06-9b65-4da0-b4f7-4e000885dbd8.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "简单装修，房本满五年，火热出售，上门实勘",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室2厅|316.33平|地上2层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "天安别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价23166元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807985.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/bf483506-99ef-4020-81cd-b6180784775a.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "毛坯房，满五减税，火爆热销，高清实拍",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室3厅|518.0平|地上2层|(进门)东西"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山3号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价46025元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4532044.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/3e4a07ca-60e2-4aac-8c78-c457293532c7.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "毛坯房，房本满五年，热推好房，高清摄影",
+  "s_cate": "佘山",
+  "house_desc": [
+    "3室3厅|239.0平|地上2层|(进门)北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "佘山3号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价44280元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4336786.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/61062293-63d7-4d93-993a-93e1e69d5f32.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "毛坯房，满5年，火爆热销，高清实拍",
+  "s_cate": "佘山",
+  "house_desc": [
+    "5室3厅|519.42平|地上2层|(进门)西南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "紫都上海晶园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价24336元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810348.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/efa7a82a-6439-4f41-8732-4488dfcc374b.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "毛坯房，房本满两年，抢手火热，上门实拍",
+  "s_cate": "佘山",
+  "house_desc": [
+    "4室2厅|226.0平|地上1层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "江秋新苑(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/sheshan",
+  "house_price": "550万"
+}

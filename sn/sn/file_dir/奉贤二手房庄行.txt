@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价19684元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698363.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/0a720683-bbd9-4509-9099-b33d90b9261f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，简单装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|82.3平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "162万"
+}{
+  "singel_price": "单价26243元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1839109.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161010/509a2585-d18a-40de-8ccc-971e12915482.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，上下楼方便，毛坯房",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|131.46平|低区/22层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "345万"
+}{
+  "singel_price": "单价17225元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802478.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161204/eb3be9e3-7b40-40ad-a58d-8a8789052224.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "好楼层，毛坯房，钥匙房，火爆热销",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室1厅|85.34平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "147万"
+}{
+  "singel_price": "单价26339元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797837.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/ed9ba587-e7fe-402e-8ee9-dec3502589e1.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，卧室全南，高区采光好，精装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|112.0平|高区/24层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "295万"
+}{
+  "singel_price": "单价20434元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763593.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/1bddc58f-752a-4382-ac40-849d8380262c.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，厨卫全明，光线充足，中等装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室1厅|85.64平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "175万"
+}{
+  "singel_price": "单价19767元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762949.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/32ea1ed7-61ba-4916-8ecb-204b5c2ee904.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，厨卫全明，楼层好，毛坯房",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|86.0平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "170万"
+}{
+  "singel_price": "单价19649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757151.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/d24962a8-aedf-4485-a0ff-65f26eeb7eed.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，低楼层，毛坯房",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|89.06平|低区/4层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "175万"
+}{
+  "singel_price": "单价21198元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739165.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/8127eb69-d1bc-4914-a1ae-b369e0c1354a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，卧室全南，好楼层，品质装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|84.91平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "180万"
+}{
+  "singel_price": "单价26363元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796227.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/c5aa9bb4-b9d5-4e27-9b04-f08629bb3eec.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，上下楼方便，精装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|110.0平|低区/24层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "290万"
+}{
+  "singel_price": "单价28105元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742191.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/2272a7e7-db39-46d6-bc09-ac996716081f.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，带飘窗，上下楼方便，品味装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|110.3平|低区/24层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "310万"
+}{
+  "singel_price": "单价22004元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711755.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/e3b4cd28-3797-4202-96e6-c7e0da06f1f1.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，视野很好，品质装修，满五减税",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|89.98平|高区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "198万"
+}{
+  "singel_price": "单价17204元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619171.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170504/1dbb8d00-c29e-4f5c-9571-b4e754e90f5d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅朝南，光线充足，精装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|131.36平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "226万"
+}{
+  "singel_price": "单价18658元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4607371.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170205/56c8d9bc-5f6c-4e61-b549-3ef11f4bdd6c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野很好，中等装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|95.4平|高区/6层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "庄南小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "178万"
+}{
+  "singel_price": "单价21263元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840260.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/4ab58788-6c84-4bdc-bd7e-d2af99097b0d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，楼层好，简单装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|82.3平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "175万"
+}{
+  "singel_price": "单价20588元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806843.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/32bf8c3e-ad9b-492d-b8b6-f0a7999dafa1.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，装修精美",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|85.0平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "175万"
+}{
+  "singel_price": "单价20211元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4805778.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/6e730164-54d3-452d-a318-ebe6fcf5ab04.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，好楼层，品质装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室1厅|89.06平|中区/4层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "180万"
+}{
+  "singel_price": "单价19039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788710.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/3e358f9b-2146-4205-a842-e983ab870ba4.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线充足，毛坯房",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室1厅|81.41平|中区/4层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "155万"
+}{
+  "singel_price": "单价25454元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764465.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/6e642c1e-9df0-46a9-89b3-3d92f003efd8.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，光线充足，装修精美",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|110.0平|中区/22层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "280万"
+}{
+  "singel_price": "单价32407元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4740697.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/0f08fdc0-6593-4028-b0c4-cf7ab62dc147.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "高区景观好，毛坯房，满二减税，火热出售",
+  "s_cate": "庄行",
+  "house_desc": [
+    "1室1厅|54.0平|高区/11层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "175万"
+}{
+  "singel_price": "单价22260元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677922.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/dd9cf1ce-7609-425c-9b7b-2126a206e17b.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，低区出入方便，中等装修",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|121.29平|低区/22层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价20173元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767411.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/6dd37737-0365-45fe-86a3-6030e3fa763f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，高区采光好，品质装修，满五年",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|131.36平|高区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "265万"
+}{
+  "singel_price": "单价16528元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4730155.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/33e9f4d2-f1e3-440e-a563-33a35c829a98.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区景观好，满五年",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|96.8平|高区/6层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "校南新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "160万"
+}{
+  "singel_price": "单价19031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4542199.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/d7fe0025-0403-4413-8fbf-043188f6d8c1.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，黄金楼层，毛坯房",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|131.36平|中区/4层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "250万"
+}{
+  "singel_price": "单价22093元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751699.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/95432383-56a2-40f1-8ceb-76a2f3ac90b4.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，低区出入方便，热销房源",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|129.0平|低区/11层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "285万"
+}{
+  "singel_price": "单价34036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828279.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161204/8b141082-f56b-40d3-94f1-ca9d088af6ff.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北通，厨卫全明，楼层好，毛坯房",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|88.14平|中区/14层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "佳兆业8号(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价25468元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825076.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/5378fa89-84de-46e2-9477-34cf6ea176d7.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，楼层好，热门房源",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室1厅|87.56平|中区/7层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "佳兆业8号(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "223万"
+}{
+  "singel_price": "单价25897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824831.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161010/63985414-9abe-4ee9-8b20-da505659caf9.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北通透，带飘窗，低区出入方便，装修精致",
+  "s_cate": "庄行",
+  "house_desc": [
+    "2室2厅|89.97平|低区/7层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "佳兆业8号(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "233万"
+}{
+  "singel_price": "单价17500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641968.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170114/e9f7bbe6-dd16-44a5-a5f3-4cae92925169.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，低楼层，毛坯房",
+  "s_cate": "庄行",
+  "house_desc": [
+    "4室3厅|240.0平|低区/11层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "420万"
+}{
+  "singel_price": "单价17742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4607675.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/acafa3f0-2c79-4e29-a5e0-279f5c6d1295.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，高区景观房，毛坯房，热门房源",
+  "s_cate": "庄行",
+  "house_desc": [
+    "4室2厅|169.09平|高区/3层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "丽水湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价24475元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4516068.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/5c985308-b7b4-48be-a0d8-9c1dc8fde9a3.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "景源名墅，低楼层，人气房源，上门实勘",
+  "s_cate": "庄行",
+  "house_desc": [
+    "3室2厅|111.54平|低区/24层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "景源名墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhuanghang",
+  "house_price": "273万"
+}

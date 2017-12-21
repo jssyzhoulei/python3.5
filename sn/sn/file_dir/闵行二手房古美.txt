@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价68587元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601181.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/8a6ba026-16b9-4c35-a83e-b672187105c0.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，低区出入方便",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室0厅|34.7平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东兰小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "238万"
+}{
+  "singel_price": "单价59980元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858618.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/c9eb0803-7c17-4ea7-b21a-3853df1f594e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，上下楼方便",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|62.52平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南方新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "375万"
+}{
+  "singel_price": "单价50033元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854463.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/27af3f98-ee3d-4396-a9c4-1f24f264c76b.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北户型，卧室带卫，出行方便，上下楼方便",
+  "s_cate": "古美",
+  "house_desc": [
+    "3室2厅|119.92平|低区/7层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新梅公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "600万"
+}{
+  "singel_price": "单价55206元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814327.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/9de7b0e8-a3c0-43d4-8c12-8fd66b4ad5af.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北户型，交通便利，高区景观房，省装修费",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|58.87平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新梅花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "325万"
+}{
+  "singel_price": "单价62829元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789667.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/67eadbb1-6d5d-4af4-b6f3-d64863f0dd3d.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，低区出入方便",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|47.43平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南方新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "298万"
+}{
+  "singel_price": "单价61951元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780300.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/cdbd2f57-7854-42ee-9e3b-a294c40572ff.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，客厅朝南，交通便利，上下楼方便",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室2厅|116.22平|低区/12层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东苑绿世界花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "720万"
+}{
+  "singel_price": "单价54428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758855.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/3872f396-64d5-4da4-9340-a9b996ed02f0.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|60.63平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "平阳新村四街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "330万"
+}{
+  "singel_price": "单价69800元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747007.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/a89d65f8-8cf0-4320-b8fd-22dde1314290.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室2厅|70.2平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "平阳三街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "490万"
+}{
+  "singel_price": "单价84627元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4728688.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/98859fbc-d989-4c2d-bd7c-52738a842943.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁沿线，黄金楼层",
+  "s_cate": "古美",
+  "house_desc": [
+    "4室2厅|172.52平|中区/17层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万源城朗郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "1460万"
+}{
+  "singel_price": "单价55975元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666423.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/c6b9f11f-21c8-4fa5-bf4a-199052b5c688.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁直达，好楼层，简单装修，满5年",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|66.1平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东兰小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "370万"
+}{
+  "singel_price": "单价89779元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4587325.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170410/11f178f2-06fd-47a2-b82b-88caec9ea6b5.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|57.92平|高区/14层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南方城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "520万"
+}{
+  "singel_price": "单价64666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4559249.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170321/d0236804-d8e1-4e72-b29c-46c50ba85a0d.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "房型正气，交通便利，黄金楼层，装修精美",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室2厅|111.34平|中区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "欧风花都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "720万"
+}{
+  "singel_price": "单价55896元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546953.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170316/212d3886-7d2a-4427-89ef-3a4cb0a49b99.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，楼层好",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|55.46平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "古美西路420弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "310万"
+}{
+  "singel_price": "单价55981元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4521098.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170223/9beef4f6-9469-4440-9eae-143b589642cb.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线充足",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|50.91平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "海上新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "285万"
+}{
+  "singel_price": "单价52435元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4507964.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/181e61fa-11a8-459b-8525-85e193ce3d4d.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|66.94平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "平吉一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "351万"
+}{
+  "singel_price": "单价72376元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4410048.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161127/def795ec-4e68-4dc7-97b7-fe0dc7d25f37.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁房，高区阳光房，品质装修，满五年",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|66.32平|高区/17层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "同济华城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "480万"
+}{
+  "singel_price": "单价56543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4870136.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160927/d699f2ff-f746-4709-a1ab-1fccd57af032.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁房，高区采光好",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|72.51平|高区/3层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "古龙苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "410万"
+}{
+  "singel_price": "单价53921元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852238.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/15dcc5c0-42bc-44e7-9159-844925d5829d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北直通，客厅朝南，出行方便，视野很好",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|51.0平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "平吉二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "275万"
+}{
+  "singel_price": "单价55464元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781433.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/79d06d70-02a0-4900-bccd-f24912798c9d.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，光线非常好",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|54.63平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "古美西路316弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "303万"
+}{
+  "singel_price": "单价74375元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775567.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/006be2b4-617e-4381-b82c-f52e78f7c495.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，地铁房，低区出入方便",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|80.0平|低区/5层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "华一新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "595万"
+}{
+  "singel_price": "单价51020元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718971.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/f16577c4-f3bb-43e6-a10c-718154eca42f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，采光无遮挡",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|49.0平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹莘新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "250万"
+}{
+  "singel_price": "单价51184元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699864.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/07d69575-e5f2-41ab-897e-b9db006f74cf.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，地铁房，高区阳光房",
+  "s_cate": "古美",
+  "house_desc": [
+    "3室2厅|130.9平|高区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新梅公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "670万"
+}{
+  "singel_price": "单价56212元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4415134.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170320/739fe58b-0782-4ddb-93ec-870133f64e81.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区景观好",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|76.14平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "海上新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "428万"
+}{
+  "singel_price": "单价55072元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1124508.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/cd14bf47-dad8-4dfe-a2b8-46555bf721ba.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁直达，采光好",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|72.45平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东方御花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "399万"
+}{
+  "singel_price": "单价54347元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850862.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/df460843-77f4-48ac-bd20-f44d7e932afa.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，地铁房，楼层好",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|92.0平|中区/7层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "新梅公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "500万"
+}{
+  "singel_price": "单价57448元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812781.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/3e4240c9-450f-4908-bed9-5940b4ab5431.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁直达，黄金楼层",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室2厅|75.72平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "古美西路420弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "435万"
+}{
+  "singel_price": "单价63198元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798621.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/884df060-9411-4078-88e5-ced0860f9f46.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁房，光线充足",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室2厅|88.61平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "华梅花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "560万"
+}{
+  "singel_price": "单价84599元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792619.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/6c058194-65b8-4e62-beea-cc5a19fdd49e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "古美",
+  "house_desc": [
+    "1室1厅|57.92平|高区/14层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南方城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "490万"
+}{
+  "singel_price": "单价55774元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780295.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/b8f9eb20-7f4c-4b93-a5ba-76bfbd68f2eb.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，采光好",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室2厅|91.44平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东兰兴城（东兰新村）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "510万"
+}{
+  "singel_price": "单价58774元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773049.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/83350e44-90e8-40da-928b-8677cb79b9ff.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通，交通方便，低区出入方便，省装修费",
+  "s_cate": "古美",
+  "house_desc": [
+    "2室1厅|60.4平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "古美八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gumei",
+  "house_price": "355万"
+}

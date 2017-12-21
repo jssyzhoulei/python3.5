@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价44481元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545245.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170412/e02dd39f-6c3c-46d9-8665-af34e8ca2b79.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，客厅朝南，上下楼方便，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室1厅|71.94平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "康桥月苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "320万"
+}{
+  "singel_price": "单价40863元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748669.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/bdda9944-c5c7-437f-bb0d-650ec36207fa.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁房，上下楼方便",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室1厅|85.65平|低区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "350万"
+}{
+  "singel_price": "单价45439元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729721.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/931f698d-3456-480d-9426-be62f74090f0.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，交通方便，楼层好",
+  "s_cate": "康桥",
+  "house_desc": [
+    "1室1厅|59.42平|中区/12层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价44006元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594644.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/b06c096e-82a8-4f95-b33f-9947938773cc.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "康桥",
+  "house_desc": [
+    "1室1厅|58.4平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "257万"
+}{
+  "singel_price": "单价43740元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662170.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/36b1f88a-d6d1-4ded-9774-166b9e193329.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，上下楼方便",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室1厅|88.02平|低区/14层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "385万"
+}{
+  "singel_price": "单价49504元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847076.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/4e840365-73a2-425d-829b-a476567ac38e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，光线充足，省装修费",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室2厅|101.0平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "美林小城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "500万"
+}{
+  "singel_price": "单价40740元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835146.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/801f1774-e068-4796-81d3-ddd35b420afb.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，厨卫全明，好楼层，装修精美",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室1厅|81.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚康庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "330万"
+}{
+  "singel_price": "单价38918元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830041.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/26ec24d5-8d68-47be-845d-c575a9871f52.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，黄金楼层，精装修",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室1厅|74.0平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚康庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "288万"
+}{
+  "singel_price": "单价37993元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804221.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/24613e85-44f6-4630-a17e-011b71b9ad15.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅朝南，高区景观房，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室2厅|115.02平|高区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇业公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "437万"
+}{
+  "singel_price": "单价44883元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/76d6c86a-b6b3-480f-9cde-c557d65c48ab.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，楼层好，简单装修",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|105.83平|中区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "城中花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "475万"
+}{
+  "singel_price": "单价51767元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793261.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/f8028606-90ce-48b9-a311-1ad1ee4ced78.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅朝南，光线充足，品质装修",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|96.2平|中区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中邦城市",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "498万"
+}{
+  "singel_price": "单价50505元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792082.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/28ba9606-b270-4640-8d89-68065a88c9fe.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，楼层好，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|80.19平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "美林小城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "405万"
+}{
+  "singel_price": "单价43448元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790178.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/fe652d11-22e8-452a-b284-90bca3894707.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，高区景观房，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|73.65平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱龙家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "320万"
+}{
+  "singel_price": "单价41162元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764406.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/44f0a692-6a3d-42d8-ab22-e2872342375d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，高区景观好，品味装修",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|82.6平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "周康一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "340万"
+}{
+  "singel_price": "单价41428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763188.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170419/e361492b-45d8-447a-bb81-8a04f013db7d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，客厅朝南，高区阳光房，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "1室2厅|70.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "周康一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价52329元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/69ccaf07-1edc-4238-abe4-96a492b92877.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅朝南，黄金楼层，省装修费",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|99.37平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "中邦城市",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "520万"
+}{
+  "singel_price": "单价43642元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/1f953d5e-8d0a-4454-b235-1710ea20168a.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，黄金楼层，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|76.76平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "达城锦园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "335万"
+}{
+  "singel_price": "单价51080元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678705.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/124351c1-1087-4997-90ab-a146b9a83f0d.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，带飘窗，上下楼方便，装修精美",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室2厅|101.8平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "美林小城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "520万"
+}{
+  "singel_price": "单价59293元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673270.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/ef44a3ea-b7b2-4272-a9db-9bbc0e4c84fc.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，品味装修，房本满五年，随时看房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "4室3厅|222.62平|地上3层|(进门)南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "康桥半岛（秀沿路1177弄）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "1320万"
+}{
+  "singel_price": "单价50877元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4637372.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170523/e37930e5-8976-4578-92d0-5583c7505999.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，厨卫全明，楼层好，装修精美",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室2厅|114.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿地康桥新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "580万"
+}{
+  "singel_price": "单价54945元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4553471.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/5608826a-01b9-4172-9067-a6b71b809f94.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "装修经典，房本满五年，随到随看，热推好房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "7室3厅|455.0平|地上2层|(进门)南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "万科提香别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "2500万"
+}{
+  "singel_price": "单价43527元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4547746.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/6e659368-a20b-4e32-bea8-828be685561f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，光线充足，品味装修，房本满五年",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室2厅|142.44平|中区/16层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "城中花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "620万"
+}{
+  "singel_price": "单价64136元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4530619.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/cab68199-fc75-407c-a640-2bc8f278fae6.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，省装修费，满五减税，钥匙在手",
+  "s_cate": "康桥",
+  "house_desc": [
+    "4室2厅|227.64平|地上3层|(进门)南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "康桥半岛（沪南路2727弄）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "1460万"
+}{
+  "singel_price": "单价40880元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4523116.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170224/4992de2c-7e31-4b05-a575-670190300cf8.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，客厅朝南，光线非常好，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "3室2厅|95.4平|高区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "康桥月苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "390万"
+}{
+  "singel_price": "单价44903元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4501316.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170210/11e1b5e6-9912-4436-846b-604b037fdce7.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅朝南，上下楼方便，装修精美",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|92.42平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "美林小城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "415万"
+}{
+  "singel_price": "单价39547元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4405871.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/70b9be9b-22ca-4cd7-bfe3-dd81d8aff6ff.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，厨卫全明，低楼层，省装修费",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|73.33平|低区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚康庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "290万"
+}{
+  "singel_price": "单价45260元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770473.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/76ae4354-c0bc-4b14-b561-ad762971f3f4.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，交通方便，楼层好",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|75.12平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "340万"
+}{
+  "singel_price": "单价42978元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4622659.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/7165e3c2-2bf2-4493-b62b-e7c2816b0174.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，地铁沿线，高区景观好，简单装修",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室1厅|79.11平|高区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海尚乐苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "340万"
+}{
+  "singel_price": "单价43835元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780884.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/1c358be7-f445-4403-93bf-54e65ff1812a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，楼层好，毛坯房",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|73.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱龙家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "320万"
+}{
+  "singel_price": "单价48612元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861191.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/aefe697b-fead-4b40-906e-a92c6190f139.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，好楼层，品味装修",
+  "s_cate": "康桥",
+  "house_desc": [
+    "2室2厅|84.34平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "美林小城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/kangqiao",
+  "house_price": "410万"
+}

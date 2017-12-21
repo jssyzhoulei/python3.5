@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价40219元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574449.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/ef5f366e-a78f-4915-9ce3-7ed246ea421f.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "上下楼方便，毛坯房，满五年，有钥匙立即看",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|175.29平|低区/3层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "龙湖滟澜山（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "705万"
+}{
+  "singel_price": "单价39207元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822764.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/f871b26d-d22e-4442-ae31-758b61417b19.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通，带飘窗，地铁直达，采光好",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室1厅|91.82平|高区/18层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地新里派克公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "360万"
+}{
+  "singel_price": "单价39207元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4502203.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161123/9edc7c18-d01b-4357-a48d-0c7b45f82352.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北户型，出行方便，高区景观房，精装修",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|91.82平|高区/18层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地新里派克公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "360万"
+}{
+  "singel_price": "单价36281元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669852.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161209/25fd13d2-15c0-465e-b085-1e3e1848cdcd.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "毛坯房，满五减税，有钥匙房源，实地看房",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "4室2厅|275.62平|地上3层|(进门)西"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "凯迪澳澜湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价35016元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594035.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/ec98c254-08f2-4390-8b00-ba2461ab437b.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|122.8平|低区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "龙湖紫悦湾（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "430万"
+}{
+  "singel_price": "单价40296元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4246295.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160903/98a6710b-b690-4150-a651-ee2fd35ca21f.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "出行方便，光线非常好，钥匙在手，热门房源",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|91.82平|高区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地新里派克公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "370万"
+}{
+  "singel_price": "单价36594元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781638.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170104/0ef6383c-2af3-4354-9bfa-7ddd1e1c7264.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通便利，视野开阔",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室1厅|81.98平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "巷佳华苑（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价39699元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778220.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/d7288540-3d11-4f9d-acc3-a09937d745b8.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，客厅朝南，交通便利，光线充足",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室2厅|95.72平|中区/8层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "合生御廷园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "380万"
+}{
+  "singel_price": "单价37804元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712839.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/a6f04412-db03-498b-b865-18add143bb5a.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室1厅|82.0平|高区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "巷佳华苑（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "310万"
+}{
+  "singel_price": "单价44417元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4657639.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/6d2b3a8b-4aed-4ffd-8347-ae15e2457ecf.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，毛坯房，满5年，随到随看",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "4室3厅|198.12平|地上3层|(进门)南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "凯迪澳澜湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "880万"
+}{
+  "singel_price": "单价32662元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4341234.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161022/5947400d-4885-4471-bf7c-0376be8a3c21.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "毛坯房，满五减税，随到随看，抢手火热",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "4室2厅|244.93平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "合生朗廷",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "800万"
+}{
+  "singel_price": "单价37490元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4721618.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/43747138-0e61-43d1-af97-219def9b2ae5.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，交通便利，毛坯房，满五年",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室1厅|192.05平|地上3层|(进门)南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科晶源",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "720万"
+}{
+  "singel_price": "单价39439元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863481.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/2a5aade9-ff94-4648-8bcb-3d3a29b70aee.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，地铁房，低楼层",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "1室1厅|50.71平|低区/11层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "崧泽华城秀景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "200万"
+}{
+  "singel_price": "单价30956元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696588.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/057ae1c5-ccc2-4bfa-8950-b6e03be8504a.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "好楼层，简单装修，满二减税，有钥匙房源",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室2厅|87.22平|中区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "龙湖滟澜山（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价39772元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4617053.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/a25b21f7-55ac-468d-9a9d-001a52c073f9.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通便利，低楼层",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室1厅|56.32平|低区/18层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "崧泽华城秀景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "224万"
+}{
+  "singel_price": "单价47821元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4595920.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/0d10e2ec-6f79-4ecd-80a3-903312f73cf8.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "地铁沿线，毛坯房，满2年，抢手火热",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室1厅|112.92平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "合生御廷园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "540万"
+}{
+  "singel_price": "单价38710元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4473239.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170107/57fa26c5-3713-4244-8590-0f59953f5ab7.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁房，低楼层",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室2厅|94.29平|低区/8层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "合生御廷园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价46488元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4397886.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161120/d1dc6dc8-c3a8-440c-a698-f56ed844ea7a.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁房，好楼层",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|89.27平|中区/8层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科锦源（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "415万"
+}{
+  "singel_price": "单价43554元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4356573.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161024/d4f284df-5718-461c-9007-56bec400aaa0.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，厨卫全明，交通便利，高区阳光房",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室1厅|91.84平|高区/8层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "合生御廷园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "400万"
+}{
+  "singel_price": "单价36817元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835823.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/e966d6c1-5649-47ed-8b2f-f16d18b697f2.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "装修精美，有钥匙，火热出售，高清实拍",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "5室3厅|421.0平|地上2层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地国际山庄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "1550万"
+}{
+  "singel_price": "单价39678元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774483.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/6f33b63c-9ae8-4169-8737-abfd0a44b80c.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，交通方便，上下楼方便",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|97.03平|低区/8层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "合生御廷园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "385万"
+}{
+  "singel_price": "单价31450元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697217.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/2e356410-0d53-44cc-a2af-331aada2fc6b.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "简单装修，随时可看，多次带看，上门实拍",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "4室3厅|381.55平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "凯迪澳澜湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价31950元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4454877.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/e53c3ba7-d7ef-4a2f-a8d9-d6b578c46fa7.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "光线充足，毛坯房，看房有钥匙，热销房源",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "1室1厅|82.94平|中区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "龙湖滟澜山（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "265万"
+}{
+  "singel_price": "单价36390元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814253.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/59a2aebc-b888-4458-bfc7-914d42a1b52b.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "拎包入住，满五减税，热销好房，高清实拍",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "4室2厅|467.16平|地上2层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地国际山庄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "1700万"
+}{
+  "singel_price": "单价40354元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161215/0f233601-f168-40c5-87f7-07e292924976.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，黄金楼层",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "1室1厅|50.8平|中区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "崧泽华城秀景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "205万"
+}{
+  "singel_price": "单价33953元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/c949d819-5056-443f-907c-0b5f0a909960.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "交通方便，毛坯房，多次带看，高清实拍",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|191.44平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万科晶源",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "650万"
+}{
+  "singel_price": "单价35928元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773385.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/ffd29142-8337-446d-8f73-7727859f199d.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，上下楼方便",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室1厅|80.16平|低区/11层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "崧泽华城秀景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "288万"
+}{
+  "singel_price": "单价38439元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766423.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/e4335641-9817-424a-91e4-ce7dbba95239.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，交通便利，高区景观好",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "2室1厅|69.46平|高区/11层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "崧泽华城秀景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "267万"
+}{
+  "singel_price": "单价34781元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756710.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/60e5fcfe-5235-44d6-8fda-b3ea8f5682bd.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，上下楼方便",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室1厅|89.99平|低区/12层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "联美品悦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "313万"
+}{
+  "singel_price": "单价31983元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747626.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161202/92097fbe-ba87-47d1-9d94-9f31e4893c2c.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "出行方便，毛坯房，火爆热销，上门实拍",
+  "s_cate": "赵巷",
+  "house_desc": [
+    "3室2厅|156.33平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "合生御廷园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhaoxiang",
+  "house_price": "500万"
+}

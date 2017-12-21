@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价47053元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825322.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/c77b3d9a-22df-44fe-a221-b511979cb0eb.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，好楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "1室1厅|42.08平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "198万"
+}{
+  "singel_price": "单价46082元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771689.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/6f8039e0-a0a7-446d-9bed-e1fb7a89251c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，采光好",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|69.44平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价59953元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738905.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/2aa25a72-fa0c-4c84-afd0-631f9e5ffdb7.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，客厅朝南，地铁直达，好楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室2厅|77.56平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "逸居苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "465万"
+}{
+  "singel_price": "单价43676元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4702500.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/c468d6b0-f914-47b7-a9fb-cbb767ddeb32.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，光线非常好",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|68.0平|高区/6层"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "华浜二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "297万"
+}{
+  "singel_price": "单价56232元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4390589.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170114/61e8d7f0-2093-49dc-871b-2e133af14dee.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁沿线，上下楼方便",
+  "s_cate": "淞南",
+  "house_desc": [
+    "3室2厅|117.37平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "鎏园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "660万"
+}{
+  "singel_price": "单价45505元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4344020.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/d3efb1ee-671d-4a9a-8677-acdae09c12f7.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，出行方便，高区采光好",
+  "s_cate": "淞南",
+  "house_desc": [
+    "4室2厅|124.16平|高区/9层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "逸兴家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "565万"
+}{
+  "singel_price": "单价45927元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816971.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/71a0195f-2c50-41f0-8ee7-d5cf427d8d80.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|65.32平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "300万"
+}{
+  "singel_price": "单价47743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816492.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/b901d714-498d-4e59-85ec-660a02781819.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，光线充足",
+  "s_cate": "淞南",
+  "house_desc": [
+    "1室1厅|46.08平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "220万"
+}{
+  "singel_price": "单价40000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4523012.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/9493101a-188d-4276-a6d6-9b9350dc33d8.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|55.0平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "长江路28弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "220万"
+}{
+  "singel_price": "单价42683元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831397.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/ccd19cb5-0af9-4151-9551-18925483964e.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通方便，好楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|66.77平|中区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "285万"
+}{
+  "singel_price": "单价54043元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820718.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/39657123-162f-4c65-b96d-29268c262781.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，地铁直达，低楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室2厅|78.64平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "长宏新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "425万"
+}{
+  "singel_price": "单价49719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797873.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/a5c52828-d465-4a25-b35f-66d2f91266ce.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "淞南",
+  "house_desc": [
+    "1室1厅|39.22平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "华浜新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "195万"
+}{
+  "singel_price": "单价58363元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788977.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/2a46a1fc-1ff7-4f40-bc02-faa033eafd17.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁直达，光线充足",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室2厅|95.95平|中区/12层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "鎏园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "560万"
+}{
+  "singel_price": "单价47911元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4653590.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/801678de-cf11-4ecf-9b16-9b67491a6e0c.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，出行方便，黄金楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室2厅|104.36平|中区/11层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "尚城汇景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "500万"
+}{
+  "singel_price": "单价47743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818858.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/3bc31338-406e-4f2a-a038-3c088b9684ab.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，光线充足",
+  "s_cate": "淞南",
+  "house_desc": [
+    "1室1厅|46.08平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "220万"
+}{
+  "singel_price": "单价44776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/520e8312-80df-4996-9fb8-52918256dbfa.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区阳光房",
+  "s_cate": "淞南",
+  "house_desc": [
+    "1室1厅|50.92平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "228万"
+}{
+  "singel_price": "单价40737元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841773.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/19c816b8-5d54-4665-8a7a-22fef1201e99.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，楼层好",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室0厅|46.64平|中区/5层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "华浜新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "190万"
+}{
+  "singel_price": "单价39777元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824671.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/d73cda89-90df-4c7c-9b8b-794b540e42b8.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，带飘窗，地铁直达，低区出入方便",
+  "s_cate": "淞南",
+  "house_desc": [
+    "3室2厅|150.84平|低区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "鎏园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "600万"
+}{
+  "singel_price": "单价52005元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842131.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/83d2931a-f418-4baf-b2f7-b214e4a04ada.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，客厅朝南，交通方便，视野开阔",
+  "s_cate": "淞南",
+  "house_desc": [
+    "3室2厅|134.6平|高区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "尚城汇景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "700万"
+}{
+  "singel_price": "单价45442元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4550732.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161012/905212c4-ea60-4613-85eb-23c1d09cf1aa.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "地铁沿线，采光好，简单装修，满五年",
+  "s_cate": "淞南",
+  "house_desc": [
+    "3室2厅|148.54平|高区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "长宏新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "675万"
+}{
+  "singel_price": "单价55584元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847184.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/c40a3083-4df9-4da1-a162-beacded79754.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，带飘窗，光线非常好，简单装修",
+  "s_cate": "淞南",
+  "house_desc": [
+    "3室2厅|114.78平|高区/14层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "新城尚景",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "638万"
+}{
+  "singel_price": "单价42528元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823061.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/cb16bfde-327c-42af-84ba-ee29a7643b65.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，楼层好，简单装修",
+  "s_cate": "淞南",
+  "house_desc": [
+    "1室1厅|43.5平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "185万"
+}{
+  "singel_price": "单价49683元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4446178.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161217/7d4e234f-6f1b-425d-b9a4-1e27d07cf327.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，客厅朝南，低区出入方便，装修经典",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室2厅|99.63平|低区/11层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "宝景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "495万"
+}{
+  "singel_price": "单价43707元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4609354.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170427/3aa65162-a911-4727-a929-551cc01a65bf.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，地铁房，采光无遮挡",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|54.91平|高区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价63082元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856520.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/e0d2ab44-37af-4eda-b934-d8fa2769f4ba.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通便利，低楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室2厅|91.15平|低区/11层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "盛世宝邸（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "575万"
+}{
+  "singel_price": "单价46774元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847572.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/0eeede9c-e6c5-4a82-8aa7-ff3d628bed54.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，上下楼方便",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|60.93平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "285万"
+}{
+  "singel_price": "单价62603元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832354.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/0e852109-5dca-4f50-9550-e933a6a41f1c.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁直达，光线充足",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室2厅|72.68平|中区/14层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "新梅淞南苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "455万"
+}{
+  "singel_price": "单价40254元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822856.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/8bc2319f-7498-4277-a971-67fef69d20a1.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|59.62平|低区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "华浜新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价46446元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821794.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/e5972ab6-cfea-4cc5-9670-211d0fe06b10.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，上下楼方便",
+  "s_cate": "淞南",
+  "house_desc": [
+    "2室1厅|64.59平|低区/6层|朝南北"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "300万"
+}{
+  "singel_price": "单价46340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/baoshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812786.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/c1c31b02-00ed-477b-8cbd-9de08ae0e212.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，黄金楼层",
+  "s_cate": "淞南",
+  "house_desc": [
+    "1室1厅|42.08平|中区/6层|朝南"
+  ],
+  "district": "宝山二手房",
+  "house_detail": "淞南三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/songnan",
+  "house_price": "195万"
+}

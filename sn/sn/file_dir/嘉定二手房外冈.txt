@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价29922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/32666b33-11a6-49df-8a80-681d11b9cf51.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "毛坯房，满五年，有钥匙房源，热销好房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "5室2厅|243.96平|地上3层|(进门)南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "顺驰兰郡名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "730万"
+}{
+  "singel_price": "单价32347元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774900.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/4cf0c824-da3a-40c1-af25-6a6b3685ff05.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "毛坯房，满2年，有钥匙，火爆热销",
+  "s_cate": "外冈",
+  "house_desc": [
+    "5室2厅|231.86平|地上3层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "兰郡九里澜溪谷",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "750万"
+}{
+  "singel_price": "单价20588元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629774.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/5bb75cab-f6f1-4925-9f3b-b034bad7d752.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北户型，带飘窗，上下楼方便，简单装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|119.0平|低区/18层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "245万"
+}{
+  "singel_price": "单价28851元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770387.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/43ae689e-246d-4a69-b2a9-0dabe2e8b78e.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "毛坯房，随到随看，热销好房，上门实勘",
+  "s_cate": "外冈",
+  "house_desc": [
+    "5室3厅|166.37平|地上1层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "上海villa",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "480万"
+}{
+  "singel_price": "单价27179元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650836.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170703/1faeedf9-5976-4a3d-b5a1-094c2fa07fd6.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，毛坯房，有钥匙立即看，热推好房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "5室2厅|228.11平|地上3层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "顺驰兰郡名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价21278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808623.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/5441d7ab-209b-423d-bcd3-8c8149188364.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，视野开阔，中等装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室2厅|93.99平|高区/5层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "200万"
+}{
+  "singel_price": "单价30293元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670308.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170423/03fccb5b-5dfb-4d7c-a06e-1b28376ef518.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "毛坯房，房本满两年，马上看房，热门带看",
+  "s_cate": "外冈",
+  "house_desc": [
+    "4室2厅|224.47平|地上4层|(进门)南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "上海庄园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "680万"
+}{
+  "singel_price": "单价36188元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4502802.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170212/d9ef1fc0-2c42-452f-88f5-9e64e7aff097.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "上海院子，钥匙房，实地看房，高清实拍",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|192.88平|地上3层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "上海院子",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "698万"
+}{
+  "singel_price": "单价20554元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804068.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/a331497d-b00f-4952-9766-bc559d5fed5f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，采光无遮挡，装修精致，满5年",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|122.6平|高区/5层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "252万"
+}{
+  "singel_price": "单价20369元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794360.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/49bf3549-e2cb-4ffc-bf04-0d7d4336e113.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，光线充足，装修精致",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|122.73平|中区/5层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "250万"
+}{
+  "singel_price": "单价21491元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821599.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/45207c0c-3146-450c-9608-a2818c8c6aeb.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，厨卫全明，黄金楼层，毛坯房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室2厅|93.99平|中区/5层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "202万"
+}{
+  "singel_price": "单价23846元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814299.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/a24042ce-ac62-413f-b5c7-75dadc001b38.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，简单装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室1厅|65.0平|低区/5层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "155万"
+}{
+  "singel_price": "单价25886元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784268.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/bc3ac096-bbcb-4f63-8ef7-6ea79dade94f.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "毛坯房，满五减税，热销好房，上门实拍",
+  "s_cate": "外冈",
+  "house_desc": [
+    "5室2厅|204.74平|地上3层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "顺驰兰郡名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "530万"
+}{
+  "singel_price": "单价21063元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780108.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/2320d8c4-8490-4d0a-9228-9074fdb87397.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，光线非常好，省装修费",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室2厅|94.0平|高区/5层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "198万"
+}{
+  "singel_price": "单价23406元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743515.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/cd20208f-c82d-4d77-af16-1aa598dc75ea.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，带飘窗，视野开阔，省装修费",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室2厅|93.99平|高区/5层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "220万"
+}{
+  "singel_price": "单价17873元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668168.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170605/586406f4-b323-48da-b693-ba9045ed6388.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，卧室带卫，黄金楼层，简单装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|128.68平|中区/5层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "230万"
+}{
+  "singel_price": "单价24253元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811439.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/22252623-92ee-42fc-ab6b-2cfd1fbaa38b.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，低区出入方便，精装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室2厅|80.4平|低区/18层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "195万"
+}{
+  "singel_price": "单价22764元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650071.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170522/fe9356f2-0beb-41f3-ad94-1ba50de1cea1.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，上下楼方便，精装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室2厅|85.66平|低区/6层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "冈峰新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "195万"
+}{
+  "singel_price": "单价19813元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639877.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/6cd69988-6aba-4581-a599-4f4391dd087c.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅朝南，黄金楼层，拎包入住",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|128.7平|中区/5层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "255万"
+}{
+  "singel_price": "单价23750元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832471.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/10af1844-0ffe-4064-aa9f-91161fc5d469.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通透，带飘窗，视野开阔，简单装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室1厅|80.0平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "190万"
+}{
+  "singel_price": "单价21044元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606338.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/1b376588-848d-41e3-af76-4c4b1a573055.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，厨卫全明，光线充足，毛坯房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|122.6平|中区/5层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "258万"
+}{
+  "singel_price": "单价28421元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4393921.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161231/1c2d67a4-f346-4c95-be24-3b4e705e7a9c.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "毛坯房，满五年，热门带看，上门实拍",
+  "s_cate": "外冈",
+  "house_desc": [
+    "4室2厅|228.7平|地上3层|(进门)西南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "顺驰兰郡名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "650万"
+}{
+  "singel_price": "单价23437元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758652.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/851d3779-b408-4641-bd07-debd0ce0ee0f.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，卧室带卫，楼层好，精装修",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|128.0平|中区/5层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价21671元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4744718.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/73e15a33-96b9-41b2-ad37-842ca8bbadfe.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，采光无遮挡，毛坯房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "4室2厅|161.5平|高区/5层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "350万"
+}{
+  "singel_price": "单价20202元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628573.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/705ddf0e-3337-43b8-8a8d-7bebf4030354.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "3室2厅|128.7平|低区/5层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "260万"
+}{
+  "singel_price": "单价25833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763438.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/27e6e1da-4a8a-4605-83e3-50eb676533dc.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，楼层好，毛坯房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "1室1厅|60.0平|中区/18层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "155万"
+}{
+  "singel_price": "单价25823元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664575.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/b84afcb5-73c0-4d74-81a3-b299d4e99c37.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，毛坯房，热推好房，高清摄影",
+  "s_cate": "外冈",
+  "house_desc": [
+    "5室2厅|243.96平|地上3层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "顺驰兰郡名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "630万"
+}{
+  "singel_price": "单价27179元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663519.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/d34c6ea4-f515-46d4-b806-8db7f56a8064.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，品味装修，热销房源，上门实勘",
+  "s_cate": "外冈",
+  "house_desc": [
+    "4室2厅|228.11平|地上3层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "顺驰兰郡名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "620万"
+}{
+  "singel_price": "单价26707元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4651448.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/60e265b6-b83b-494e-a757-346d53b1d4d2.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，高区景观房，热销好房",
+  "s_cate": "外冈",
+  "house_desc": [
+    "1室1厅|59.16平|高区/18层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "外冈佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "158万"
+}{
+  "singel_price": "单价30732元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4608998.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/a1f17733-22b9-45eb-8385-40aa25961848.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，毛坯房，多次带看，高清摄影",
+  "s_cate": "外冈",
+  "house_desc": [
+    "2室2厅|165.95平|地上3层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "河畔艺墅（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/waigang",
+  "house_price": "510万"
+}

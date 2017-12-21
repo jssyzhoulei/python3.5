@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价98646元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4560656.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/b5dc5bec-1863-4114-acab-c3b9cdf74b5e.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "交通方便，光线充足，品质装修，房本满五年",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室0厅|33.25平|中区/7层|朝西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "蒙西小区，",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "328万"
+}{
+  "singel_price": "单价81914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841855.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171031/6a810305-789d-46bb-ad58-9b7c39af9ac6.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，交通方便，采光好",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室1厅|47.0平|高区/7层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "五里桥路252号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "385万"
+}{
+  "singel_price": "单价83333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4750258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/3cc51cff-906d-4018-b964-3220a9e30e1d.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，视野很好，毛坯房",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室1厅|42.6平|高区/7层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "北蒙三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "355万"
+}{
+  "singel_price": "单价101607元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511269.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/4fd8825a-e278-4575-9654-450ac2f54ae6.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，出行方便，视野开阔，装修精致",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "3室2厅|143.69平|高区/33层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "汇龙新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "1460万"
+}{
+  "singel_price": "单价75571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4294027.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160928/e0c5e8ff-ecb7-4c3b-b3e1-9086763e0022.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "交通便利，采光好，简单装修，满五减税",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室0厅|41.55平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瞿溪路937弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "314万"
+}{
+  "singel_price": "单价79950元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3792664.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160823/6ebd90d3-3bc1-41de-a0e0-7b1b6731ad75.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北直通，卧室全南，交通方便，高区采光好",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室1厅|40.65平|高区/7层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "斜土路486弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "325万"
+}{
+  "singel_price": "单价90659元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856816.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/a1489507-ae88-4d1d-8685-a570457cd7c6.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，低区出入方便",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室1厅|36.4平|低区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "蒙自新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "330万"
+}{
+  "singel_price": "单价96642元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842035.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/48124d49-fd54-4aa9-ab3a-e3ee63fae1ad.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，黄金楼层",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室1厅|78.64平|中区/23层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "百汇大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "760万"
+}{
+  "singel_price": "单价83908元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833626.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/08fa607f-9475-470c-a933-5202f23283d3.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，高区景观好，简单装修",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室2厅|87.0平|高区/26层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "大众汽车公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "730万"
+}{
+  "singel_price": "单价84699元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823639.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/5859ab34-ee25-47e6-90d9-6c4afa0df4de.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，采光好，简单装修",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室0厅|54.9平|高区/7层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "北蒙三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "465万"
+}{
+  "singel_price": "单价98819元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780124.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/417643af-ce0e-4c46-8ff4-574af6a4381f.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，出行方便，高区景观房",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "3室2厅|114.35平|高区/34层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "新家坡园景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "1130万"
+}{
+  "singel_price": "单价97484元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775608.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/0b7ae692-d57a-4634-8cb1-85704d2a0c4c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，光线非常好",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室2厅|79.5平|高区/23层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "百汇大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "775万"
+}{
+  "singel_price": "单价96195元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4591081.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170414/470c34ee-2d71-4bcc-8b5d-b031384981b0.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "地铁房，高区景观房，精装修，房本满五年",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "3室2厅|114.35平|高区/34层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "新家坡园景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价105918元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4539551.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170801/f7632d7c-3ca2-4c17-be10-ffae4516b664.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通便利，高区景观房",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "3室2厅|151.06平|高区/28层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "汇龙新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "1600万"
+}{
+  "singel_price": "单价72475元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4309238.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161004/0c46453f-8062-4768-beb0-b8857879a632.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室1厅|61.4平|高区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "蒙自路395弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "445万"
+}{
+  "singel_price": "单价71341元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4306177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161003/94587fad-f549-42c6-9875-8254c8d426f9.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "地铁房，低区出入方便，满五年，有钥匙立即看",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "3室2厅|123.35平|低区/26层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "大众汽车公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "880万"
+}{
+  "singel_price": "单价94240元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4294729.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161019/080e2254-bd38-4f8a-a97f-b318e41a824f.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，地铁房，视野开阔，拎包入住",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "3室2厅|132.64平|高区/16层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "银杏家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价73156元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4875014.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/22c5fe54-25a6-4a2e-adb4-cbc1869a38f8.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，视野开阔",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室0厅|33.9平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瞿溪路1003弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "248万"
+}{
+  "singel_price": "单价85416元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792753.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/677ddf36-d70e-40e7-bbf8-d428bb387c14.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，高区采光好",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室0厅|48.0平|高区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "局三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "410万"
+}{
+  "singel_price": "单价93116元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4609393.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160813/e3acf8ac-0ebf-48fe-ad77-f5088a7fe0dc.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，黄金楼层",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "3室2厅|99.66平|中区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "鼎达公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "928万"
+}{
+  "singel_price": "单价81463元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804062.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/a9c91501-e635-4b9b-876f-9ca9c54edd2d.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "交通便利，低区出入方便，中等装修，看房有钥匙",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室1厅|32.53平|低区/7层|朝西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "蒙西小区，",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "265万"
+}{
+  "singel_price": "单价87778元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790213.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/160ddf25-eb4c-464f-a164-0d69dbcf007b.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，上下楼方便",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室1厅|44.43平|低区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "斜土路486弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "390万"
+}{
+  "singel_price": "单价88992元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781927.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/a428faf4-ed02-43d7-8c17-008b35a4a942.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，地铁房，上下楼方便，毛坯房",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室1厅|42.7平|低区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瞿溪路937弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "380万"
+}{
+  "singel_price": "单价87950元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619085.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/82135bcd-9126-4dc2-bdde-f1170d450839.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "地铁直达，高区阳光房，品味装修，钥匙房",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "4室2厅|261.51平|高区/30层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "华丽家族汇景天地（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价72785元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589445.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170412/72e3583d-3c34-46b0-bf27-84f7a6bed669.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，低楼层，中等装修",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室1厅|56.33平|低区/6层|朝西南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "蒙自路601弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "410万"
+}{
+  "singel_price": "单价89581元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4527329.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170228/d0773abf-0a25-4081-a092-44f8468f7b6e.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室全南，交通便利，上下楼方便，中等装修",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "1室0厅|30.14平|低区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "桥一小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "270万"
+}{
+  "singel_price": "单价124095元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171117/88200cfa-9257-43b5-a427-c3d85127176f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带卫，地铁房，低楼层",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室2厅|106.37平|低区/31层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "永业公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "1320万"
+}{
+  "singel_price": "单价103795元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852406.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/0384ca63-e00c-48ce-b699-2bff1c3deb0f.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北户型，地铁房，黄金楼层，省装修费",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室2厅|101.16平|中区/18层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "德福苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价80152元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845278.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/33c38380-c8f1-4d21-9811-a55b632b7d82.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁房，黄金楼层",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室0厅|52.4平|中区/7层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "五里桥路254号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "420万"
+}{
+  "singel_price": "单价86560元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837504.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/c0ddec5d-922b-47e6-a7ee-edc5201394ce.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "五里桥",
+  "house_desc": [
+    "2室1厅|43.9平|中区/7层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "五里桥路254号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wuliqiao",
+  "house_price": "380万"
+}

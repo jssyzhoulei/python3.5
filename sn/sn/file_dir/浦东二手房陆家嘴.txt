@@ -1,0 +1,501 @@
+{
+  "singel_price": "单价89279元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856512.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/41471d0a-2803-4811-b716-7185de467cb6.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，上下楼方便",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|136.65平|低区/20层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "江临天下",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1220万"
+}{
+  "singel_price": "单价80128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780804.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/45f47c97-8a4c-4638-a3c9-8532b303ee33.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，地铁房，好楼层，品质装修",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室1厅|78.0平|中区/25层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "久阳滨江公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "625万"
+}{
+  "singel_price": "单价131296元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735714.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/b461d082-ea01-4615-bb5e-aba59404db0a.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁直达，光线充足",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室2厅|83.78平|中区/26层|朝东北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "仁恒滨江园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价87441元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4707915.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/1cf965ef-6ed5-4263-95ef-cfd2d57b0a60.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|120.08平|中区/34层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "菊园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价109794元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662557.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/28bb4b2f-c868-49e0-a380-15f873ace140.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，地铁房，楼层好，装修精美",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|264.13平|中区/47层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "盛大金磐",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "2900万"
+}{
+  "singel_price": "单价102497元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624709.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/e21814b9-b010-42b5-8e77-9e3983d6b87a.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "地铁房，高区景观房，品味装修，满五年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|165.76平|高区/33层|朝西北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "仁恒滨江园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1699万"
+}{
+  "singel_price": "单价75862元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619472.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170512/8efcaede-e99c-4780-9791-3c49c2d2f912.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线非常好",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室0厅|58.0平|高区/25层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "陈家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "440万"
+}{
+  "singel_price": "单价74188元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4570418.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/d2566dd0-b878-4390-a43e-4daeadf8556d.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观房",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室1厅|71.44平|高区/16层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东昌大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "530万"
+}{
+  "singel_price": "单价92407元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564214.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/6362fda7-c848-484b-90d9-74c57e192edd.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|129.86平|低区/32层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇豪天下",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价89257元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4517898.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/4683f6c9-10c0-409e-afe2-0ead6eb50582.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "交通方便，光线充足，品味装修，满五年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "4室2厅|257.68平|中区/32层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "仁恒滨江园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价92449元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4439923.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/0d8bef7d-98dd-4703-b496-e124f8690509.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "地铁直达，高区阳光房，精装修，房本满五年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|232.56平|高区/60层|朝东西"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "世茂滨江花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "2150万"
+}{
+  "singel_price": "单价104119元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4353307.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161024/9b7180fe-9681-4fea-b592-210ae2e921a3.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，地铁沿线，采光好，精装修",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|264.12平|高区/47层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "盛大金磐",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "2750万"
+}{
+  "singel_price": "单价87997元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4270412.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160918/61b19b77-baf4-4a70-9193-3e3b035d6462.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，出行方便，低楼层",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|170.46平|低区/33层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "仁恒滨江园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价106825元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1062850.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160619/c51bddf0-f688-48ba-b0a3-c7c573e0c630.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "交通方便，低楼层，省装修费，满5年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室2厅|88.93平|低区/35层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇豪天下",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "950万"
+}{
+  "singel_price": "单价99987元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1062726.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/224748c9-80a0-48e3-9d11-4e2cddf05e18.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "交通方便，光线充足，品质装修，满5年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|237.93平|中区/49层|朝西"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "世茂滨江花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "2379万"
+}{
+  "singel_price": "单价73860元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4255832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160905/61f8fe8e-16b1-4aeb-8ea4-b03541a55a64.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北户型，厨卫全明，出行方便，视野很好",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室0厅|55.51平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "兰园小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "410万"
+}{
+  "singel_price": "单价57909元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814536.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/2f44b2ec-a56d-4caf-a268-21c9d7f8026b.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通，卧室带卫，地铁房，上下楼方便",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "4室2厅|166.64平|低区/26层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东园四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "965万"
+}{
+  "singel_price": "单价69970元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4340169.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/50ab9183-dfe6-40d5-931c-a0f07d267469.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "出行方便，黄金楼层，简单装修，满五减税",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室1厅|68.6平|中区/26层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "上船大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "480万"
+}{
+  "singel_price": "单价84538元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814889.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/fac19038-f045-4834-982a-9f4524505eaa.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，交通方便，上下楼方便",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|126.57平|低区/34层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "菊园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1070万"
+}{
+  "singel_price": "单价70651元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709443.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/83ab89b7-aff9-40e4-b4af-f7956a569968.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室全南，出行方便，上下楼方便，省装修费",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "1室1厅|70.77平|低区/25层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "久阳滨江公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "500万"
+}{
+  "singel_price": "单价75880元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700764.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161118/b61da290-0a6c-40c0-9cad-1fa5da390bd7.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "地铁房，采光无遮挡，装修精美，房本满五年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "5室3厅|283.34平|高区/35层|朝西北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "江临天下",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "2150万"
+}{
+  "singel_price": "单价83969元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669308.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/9ca7682f-acdc-4c42-b393-b3789036c431.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，出行方便，低区出入方便，中等装修",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|131.0平|低区/20层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "菊园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价68101元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4656583.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/a6704002-dc38-48c9-a781-a951f014290c.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室1厅|73.42平|低区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "陈家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "500万"
+}{
+  "singel_price": "单价73649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4636306.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/7e3bf32d-bf3b-489f-a971-9721ed9eabf4.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，交通便利，低楼层",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室1厅|61.1平|低区/7层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "崂山二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "450万"
+}{
+  "singel_price": "单价96368元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624397.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/ef3cfd42-b8d8-47db-8a42-9f5f2cf9fd49.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带卫，交通方便，低楼层，简单装修",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "2室2厅|126.39平|低区/53层|朝东西"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "世茂滨江花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1218万"
+}{
+  "singel_price": "单价101537元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4516406.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/490acbe5-d125-493b-a927-2a8a3c992013.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁直达，光线非常好",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "1室1厅|34.47平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东昌新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "350万"
+}{
+  "singel_price": "单价68386元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4243240.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160831/0cea7e53-0d29-48ad-b995-570e0515d048.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "地铁沿线，视野开阔，中等装修，满5年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|102.36平|高区/26层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东园三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "700万"
+}{
+  "singel_price": "单价94513元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4539535.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170308/75483e9e-76b0-41ca-a8ad-c3b401e0eeb9.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁房，光线充足",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|135.43平|中区/35层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "江临天下",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1280万"
+}{
+  "singel_price": "单价89779元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4567689.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/dbea85d2-ad3f-41c9-a42b-333a487cff42.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "地铁沿线，楼层好，装修精美，满二年",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "3室2厅|206.06平|中区/61层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "世茂滨江花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "1850万"
+}{
+  "singel_price": "单价91317元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861267.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/26f7638c-db34-4421-a180-49d82dbd2a14.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，高区景观房",
+  "s_cate": "陆家嘴",
+  "house_desc": [
+    "1室0厅|33.4平|高区/6层|朝西"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东园二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/lujiazui",
+  "house_price": "305万"
+}

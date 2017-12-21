@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价60672元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811097.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/bda6c35f-d5f1-4bfc-852d-8b6a0ed8f8af.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，楼层好",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室1厅|63.95平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新长征花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "388万"
+}{
+  "singel_price": "单价55449元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818648.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/3fe09d01-22c0-4d18-837e-9e3f2229686a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁房，低楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "1室1厅|47.25平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "嘉云苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "262万"
+}{
+  "singel_price": "单价77098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769311.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/ef12b5f1-8cd0-4e66-a56c-8d95c86bd9eb.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通，客厅带阳台，出行方便，黄金楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|96.63平|中区/18层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "745万"
+}{
+  "singel_price": "单价67555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749445.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/532fd2ec-fea3-42f5-a6d1-94de727b3555.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅带阳台，交通便利，采光无遮挡",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|111.02平|高区/11层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（四期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "750万"
+}{
+  "singel_price": "单价59267元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749280.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/b1701203-5a82-436e-8a1a-f8cc0b35e4c4.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "房型正气，卧室全南，出行方便，采光好",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室1厅|64.96平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新长征花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "385万"
+}{
+  "singel_price": "单价52363元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4634473.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/9b5adac1-d48a-4142-91c4-6cefa17e9696.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通方便，采光好",
+  "s_cate": "长征",
+  "house_desc": [
+    "3室2厅|147.05平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙嘉年华",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "770万"
+}{
+  "singel_price": "单价65847元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4573432.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/ff63c0db-0791-4881-b127-269d4cd3fffe.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通，带飘窗，交通便利，上下楼方便",
+  "s_cate": "长征",
+  "house_desc": [
+    "3室2厅|124.53平|低区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "万景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "820万"
+}{
+  "singel_price": "单价63075元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4357667.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161030/c25c1fcd-2d81-42e8-bcd0-59e5ed794fcb.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，地铁沿线，上下楼方便，中等装修",
+  "s_cate": "长征",
+  "house_desc": [
+    "3室2厅|132.38平|低区/11层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "象源丽都",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "835万"
+}{
+  "singel_price": "单价66666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813740.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/656ab36b-66c7-440e-9a5c-7edbbc5559e9.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北直通，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|99.0平|低区/4层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "万景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "660万"
+}{
+  "singel_price": "单价82584元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860754.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171117/db797d61-d4d3-4bd2-9a58-029ccdc84435.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，地铁沿线，光线非常好",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|89.0平|高区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（四期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "735万"
+}{
+  "singel_price": "单价50139元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698733.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/9a237c65-b34f-4756-996d-7febd16dfa4b.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，高区阳光房",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|71.8平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "运旺新村阳光世家",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价58644元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4856019.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/3fb6157b-109d-455d-b874-83ce311b74f2.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，上下楼方便",
+  "s_cate": "长征",
+  "house_desc": [
+    "1室1厅|42.63平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金莲坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "250万"
+}{
+  "singel_price": "单价60705元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4683399.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/ae77adb3-50fc-431b-95ed-c79d59c85562.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "1室1厅|42.5平|中区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金莲坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "258万"
+}{
+  "singel_price": "单价56676元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4636732.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/f8caf89d-988a-4b8a-a68e-b305008a2f10.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，交通方便，采光无遮挡",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室1厅|72.34平|高区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "泰宸苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "410万"
+}{
+  "singel_price": "单价59242元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4576755.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170412/cfd7d739-4a2c-410f-9246-6b9a983e6650.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "交通方便，黄金楼层，中等装修，满五年",
+  "s_cate": "长征",
+  "house_desc": [
+    "3室2厅|99.59平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "泰宸苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "590万"
+}{
+  "singel_price": "单价62337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4332313.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161015/3c431a98-2fba-4c57-a45b-7bac2f859afb.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，地铁沿线，采光无遮挡，品味装修",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|92.24平|高区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "575万"
+}{
+  "singel_price": "单价58278元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835536.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/7d5af53a-97e5-4531-937e-51907dc70f3c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，黄金楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室1厅|71.21平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "建德花园紫荆苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "415万"
+}{
+  "singel_price": "单价73522元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662333.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171101/1db9e060-730d-4a3d-bcfd-11a69985b5ca.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，地铁直达，高区采光好",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|103.37平|高区/18层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "760万"
+}{
+  "singel_price": "单价68503元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801341.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/45cfb829-729f-4194-adfa-5bc56c361329.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，客厅朝南，交通方便，光线充足",
+  "s_cate": "长征",
+  "house_desc": [
+    "3室2厅|127.0平|中区/12层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙嘉年华",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "870万"
+}{
+  "singel_price": "单价63112元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4521106.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170223/cd822e3b-055d-4971-8b20-74cbf6b1cd8e.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，低楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "1室1厅|55.14平|低区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金江家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "348万"
+}{
+  "singel_price": "单价74830元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4426840.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170223/7e24e443-f6e4-4be1-88e7-42cd240107b2.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "交通便利，低区出入方便，毛坯房，满五年",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|98.89平|低区/26层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "绿洲湖畔花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "740万"
+}{
+  "singel_price": "单价50873元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4686461.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161123/1def9b38-59f5-40f6-9e7b-e2db9b56e7aa.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，高区采光好，房本满五年",
+  "s_cate": "长征",
+  "house_desc": [
+    "3室1厅|97.3平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "建德花园百合苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "495万"
+}{
+  "singel_price": "单价59723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682626.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170227/92ebc46e-ec6c-4c05-bac7-37aa2ffc82a4.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光无遮挡",
+  "s_cate": "长征",
+  "house_desc": [
+    "1室1厅|47.72平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "新长征花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "285万"
+}{
+  "singel_price": "单价62797元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628601.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/de39c54b-f7f7-4608-b1f5-d140b7ac40fe.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，光线非常好，中等装修",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室1厅|58.92平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "梅六小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "370万"
+}{
+  "singel_price": "单价58997元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812881.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/ffb2349f-1669-417e-8966-7feef73c9b45.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁直达，好楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|71.19平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "建德花园海棠苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "420万"
+}{
+  "singel_price": "单价71031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862161.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/f172f41c-af3d-4931-9ee6-cad6e63be99e.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁房，光线非常好",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|93.62平|高区/17层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（四期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "665万"
+}{
+  "singel_price": "单价81005元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798588.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/70067fe7-7f8a-4cff-807d-9789dcfc353a.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁沿线，楼层好",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|85.55平|中区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "693万"
+}{
+  "singel_price": "单价66772元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795316.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/c28bdbca-219f-4e34-95ea-49073dd2a5ca.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，交通方便，上下楼方便",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|94.35平|低区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "630万"
+}{
+  "singel_price": "单价71247元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785220.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/76fd587f-3df6-4f52-803d-0ed6f3d04223.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，交通便利，黄金楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "2室2厅|94.74平|中区/19层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "金沙雅苑（四期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "675万"
+}{
+  "singel_price": "单价62648元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783830.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/d797458b-736d-4168-a4b0-275773a6e3a0.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通，带飘窗，出行方便，低楼层",
+  "s_cate": "长征",
+  "house_desc": [
+    "3室2厅|113.33平|低区/7层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "丽和苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changzheng",
+  "house_price": "710万"
+}

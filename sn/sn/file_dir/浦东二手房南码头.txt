@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价54824元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827091.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/bd06574b-a436-403a-b462-387ec66ab707.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，高区采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|36.48平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "200万"
+}{
+  "singel_price": "单价57575元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802839.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/28225f8d-f2e6-4e8b-804f-1fede383708e.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，高区景观好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室1厅|59.4平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "342万"
+}{
+  "singel_price": "单价61165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676962.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/8bc71f08-6dd0-4a1c-8cbd-73df5ef3e21f.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，楼层好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室0厅|51.5平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "315万"
+}{
+  "singel_price": "单价54812元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672569.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/75caec97-16aa-407e-b7e3-ebcffa9a230b.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室0厅|52.36平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "287万"
+}{
+  "singel_price": "单价78571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854024.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/60223055-b8c8-4da5-b294-7014eeab88ea.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通便利，高区采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室2厅|98.0平|高区/30层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "光鸿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "770万"
+}{
+  "singel_price": "单价51627元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839747.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/ab989712-ab7f-48b3-ae8b-5b7f85c4a3ad.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区景观好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|39.32平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "203万"
+}{
+  "singel_price": "单价58888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4834807.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/c56fce8e-1770-4e88-92b4-550b8a2bf46b.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，采光无遮挡，简单装修",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|36.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "212万"
+}{
+  "singel_price": "单价54824元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/078c9e60-a929-487d-af5a-8b2fbb962030.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|36.48平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "200万"
+}{
+  "singel_price": "单价59921元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708266.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/902874ff-c025-4d1f-bb69-5a3b8ab41537.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁直达，光线非常好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室0厅|50.9平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "港机新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "305万"
+}{
+  "singel_price": "单价62540元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4429511.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160915/2611af72-e94e-4844-b6f8-bde573fd6f11.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "地铁沿线，采光好，简单装修，满五减税",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室0厅|30.7平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "沂南路54弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "192万"
+}{
+  "singel_price": "单价60354元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808277.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/431f2fbe-6735-4a04-a48a-ee429ee33641.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|37.28平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "225万"
+}{
+  "singel_price": "单价78036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773847.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160718/41a731ff-220b-431f-8421-7f7f3e273e29.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "带飘窗，卧室全南，地铁直达，上下楼方便",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室1厅|79.45平|低区/32层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "光鸿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "620万"
+}{
+  "singel_price": "单价56585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760673.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/a8a15841-ce29-43c7-9628-be82c81dd144.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，出行方便，视野开阔",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室0厅|41.53平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "235万"
+}{
+  "singel_price": "单价57753元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748508.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/1bff59d3-5c01-489d-8a27-86e95a980d3c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，低楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室0厅|34.63平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "锦南浦三小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "200万"
+}{
+  "singel_price": "单价60327元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676759.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170610/3d7c96fb-8a85-4bf2-a0c2-8ea8704ccc9c.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，楼层好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室0厅|48.9平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "295万"
+}{
+  "singel_price": "单价57640元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670186.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/a7396316-cded-451a-ade6-ae8274257140.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区景观房",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|37.3平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "215万"
+}{
+  "singel_price": "单价55207元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4609194.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170427/af501380-6e2b-44a5-acca-879c72b4542b.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，高区景观房",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|39.85平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "220万"
+}{
+  "singel_price": "单价74992元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534510.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170306/a7bab886-3d3f-4230-9773-df95493cc235.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁直达，楼层好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "3室2厅|157.35平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "龙阳花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "1180万"
+}{
+  "singel_price": "单价57857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802108.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160911/3bf911c3-257b-43f2-a4f3-1a43664bb400.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "2室1厅|74.32平|低区/25层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "430万"
+}{
+  "singel_price": "单价65764元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825903.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/ac5dfca7-ba23-4161-b4ca-6808fa5af7d1.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁直达，高区采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "3室1厅|51.7平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "340万"
+}{
+  "singel_price": "单价55082元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766383.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/1c44f3c0-ef8c-4643-9ae0-463ccb6149d2.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，视野很好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室0厅|37.58平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "207万"
+}{
+  "singel_price": "单价58045元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711750.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161130/1e3dcf0f-685e-44de-899d-73a9cbc6db4a.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，黄金楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|37.04平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "215万"
+}{
+  "singel_price": "单价52821元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709006.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/d2f88e32-225f-419b-8aee-46e3cf285b4b.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "地铁沿线，楼层好，简单装修，房本满两年",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|41.65平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "220万"
+}{
+  "singel_price": "单价60285元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699673.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/ae30d729-9a66-4724-88c5-e942a3f294d0.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，高区采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|35.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "211万"
+}{
+  "singel_price": "单价53442元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4563925.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/0eaa9c31-ff8f-4824-bbcc-8c13accfd19a.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|40.23平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "215万"
+}{
+  "singel_price": "单价57135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4853174.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/033b18da-0090-4c4d-8d74-3cd08ebd60dc.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，好楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|39.38平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "225万"
+}{
+  "singel_price": "单价79237元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802228.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/2b58988c-716c-444a-98f2-ca8ad773f255.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，好楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "3室2厅|118.0平|中区/11层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方名筑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "935万"
+}{
+  "singel_price": "单价76268元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4750403.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170809/49df5626-ff8e-4f97-a34a-f9705115501d.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|56.38平|中区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "华丰新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "430万"
+}{
+  "singel_price": "单价60799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727760.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/e96d051c-8553-4e1d-8ca5-79620054d490.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，好楼层",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室0厅|34.54平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "浦东南路3649弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "210万"
+}{
+  "singel_price": "单价56730元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698025.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/5f56fd07-a5f6-4b8a-b34a-e59853ffc2bd.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "南码头",
+  "house_desc": [
+    "1室1厅|38.78平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "临沂一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/nanmatou",
+  "house_price": "220万"
+}

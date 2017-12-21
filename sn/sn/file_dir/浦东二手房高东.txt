@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价42457元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4625973.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/084070ad-9d70-436e-96b1-6a260832a3ff.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，交通方便，上下楼方便",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|80.08平|低区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "340万"
+}{
+  "singel_price": "单价45719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4529205.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170302/cc93927a-7fe9-4aee-b085-2a0484119550.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，交通便利，低区出入方便",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|56.65平|低区/12层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲(二期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "259万"
+}{
+  "singel_price": "单价62731元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790130.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/b2740ff1-2e87-4b9e-a771-fb23c74bce57.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，地铁直达，光线非常好",
+  "s_cate": "高东",
+  "house_desc": [
+    "4室2厅|159.41平|高区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "森兰名佳",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价62543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/337507e5-43fe-4540-97aa-5416f33d3963.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁沿线，黄金楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "4室2厅|158.29平|中区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "森兰名佳",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "990万"
+}{
+  "singel_price": "单价41841元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817425.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/e8ed3c64-32d2-4f44-869b-75ed64c982ed.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通便利，低楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|74.09平|低区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "310万"
+}{
+  "singel_price": "单价48648元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677238.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170614/d3b73060-e5df-44c3-bab4-0754c6b4bd3d.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁直达，好楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|74.0平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "360万"
+}{
+  "singel_price": "单价47134元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763045.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/edc68157-fdeb-44c7-9e7a-83f39df4eff8.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线充足",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|54.1平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "255万"
+}{
+  "singel_price": "单价39411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779581.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/6ac2d11b-9e38-4f9b-bda7-bc1949acfdf9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，带飘窗，高区阳光房，装修精致",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室2厅|85.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欣连佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "335万"
+}{
+  "singel_price": "单价43263元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4754650.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/687e49e9-f511-43ce-bcd6-b3f5382d73a9.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，卧室全南，视野开阔，毛坯房",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|56.63平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欣连佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "245万"
+}{
+  "singel_price": "单价35883元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4262201.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160910/484217c9-0b31-47d4-902f-53c89a4d3a3c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "高区景观房，中等装修，满五年，钥匙在手",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|69.67平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高东新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "250万"
+}{
+  "singel_price": "单价47039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810794.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/05332be4-b19b-4c68-ab0d-24d8f68caca4.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，带飘窗，交通便利，好楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|54.21平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "255万"
+}{
+  "singel_price": "单价62988元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4591448.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170418/24f5955e-98be-4570-afe3-512f95cdf290.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁沿线，好楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "4室2厅|158.76平|中区/12层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "森兰名佳",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价34562元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850574.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/3671bc78-f141-49af-bed0-5fcd1223cff5.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，简单装修",
+  "s_cate": "高东",
+  "house_desc": [
+    "3室1厅|82.46平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "杨园四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "285万"
+}{
+  "singel_price": "单价36368元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698279.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/fa6bd343-c8b9-4d62-a24a-93d3805377da.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区景观好，中等装修",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|82.49平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "杨园一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "300万"
+}{
+  "singel_price": "单价42007元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4686797.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/e737c9a3-bfc4-42c4-90dc-7c709992cacc.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，黄金楼层，中等装修",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|42.85平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高东新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "180万"
+}{
+  "singel_price": "单价41907元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4496075.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170205/c6aa3867-f0ef-4b52-8167-a8415a7baa50.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁直达，低区出入方便",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|65.62平|低区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "275万"
+}{
+  "singel_price": "单价41780元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766412.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/df55a3a3-ef22-44db-942e-764b750a9095.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，光线充足，毛坯房",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|55.05平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "扬盛佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "230万"
+}{
+  "singel_price": "单价45945元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605464.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170426/3f1e6fdd-48cf-46cb-8b8e-6d44639b95e1.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "上下楼方便，毛坯房，有钥匙立即看，实地看房",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|74.0平|低区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲(四期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "340万"
+}{
+  "singel_price": "单价39260元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765643.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/4d565d31-cfd3-467a-a5be-2e2782f9ceea.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，厨卫全明，低楼层，装修精致",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室2厅|86.6平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高东馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "340万"
+}{
+  "singel_price": "单价41633元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747500.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/3292a13d-3cb1-40ae-8ea2-ccbf436f6805.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区景观房，装修精致",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|75.66平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "盛世东苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "315万"
+}{
+  "singel_price": "单价38823元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/f5564cdc-0de6-4f08-86e0-a9661453f0b7.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，带飘窗，光线充足，毛坯房",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室2厅|85.0平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "欣连佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "330万"
+}{
+  "singel_price": "单价42007元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4658479.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/14a99957-adf8-4090-82b2-3dd946729aa4.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，卧室全南，低区出入方便，毛坯房",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|42.85平|低区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高东新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "180万"
+}{
+  "singel_price": "单价40061元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629559.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/17f65a7a-0234-471a-81eb-c43e1af0279a.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，厨卫全明，高区阳光房，装修精致",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|78.63平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高东馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "315万"
+}{
+  "singel_price": "单价66351元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4841258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160916/81519c51-2e63-4328-adfe-92025fff4076.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁沿线，好楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "3室2厅|118.31平|中区/13层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "森兰名佳",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "785万"
+}{
+  "singel_price": "单价45925元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836821.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/21a5f906-0d24-4164-9c1e-9645d6524469.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，地铁房，黄金楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "1室1厅|54.0平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "248万"
+}{
+  "singel_price": "单价46236元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812622.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/48149301-b580-472d-87f6-9ab877cca633.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，带飘窗，地铁直达，光线充足",
+  "s_cate": "高东",
+  "house_desc": [
+    "3室1厅|93.0平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "430万"
+}{
+  "singel_price": "单价49729元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800236.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/1f9bd8fb-8794-46c8-8bd7-76b91b1a51c8.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，地铁直达，高区景观好",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室2厅|74.0平|高区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "368万"
+}{
+  "singel_price": "单价47235元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4582907.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160910/08e5b864-21c1-4799-8a65-fb4f4fab14b5.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|79.39平|中区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲(二期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "375万"
+}{
+  "singel_price": "单价47567元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4506970.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161212/8a0c9ea7-b0f1-4e26-9871-7c1ab77f4e5c.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|74.0平|中区/14层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高行绿洲五期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "352万"
+}{
+  "singel_price": "单价39844元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800762.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170629/76b76719-3091-4828-bcd4-5fe8c702ed1d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，厨卫全明，好楼层，简单装修",
+  "s_cate": "高东",
+  "house_desc": [
+    "2室1厅|53.96平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "高东新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/gaodong",
+  "house_price": "215万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价51702元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/ff0c5636-aae7-46a9-9db0-c8bc911dd0a3.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通便利，上下楼方便，精装修，满五年",
+  "s_cate": "九亭",
+  "house_desc": [
+    "1室1厅|40.23平|低区/13层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "青春驿站",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "208万"
+}{
+  "singel_price": "单价48249元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4746392.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/94b2a2db-b44e-4e0e-89a8-801d191a7c21.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，带飘窗，地铁沿线，低区出入方便",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|130.57平|低区/14层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "嘉和阳光城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "630万"
+}{
+  "singel_price": "单价44802元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4572320.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/7ab286a7-6ba7-4915-b8de-a5fa46eaa9cc.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，卧室全南，地铁直达，楼层好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室1厅|83.7平|中区/11层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "375万"
+}{
+  "singel_price": "单价54587元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546386.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/30c53614-96bf-49cb-ae39-ab6e09495945.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁沿线，光线非常好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "1室1厅|43.05平|高区/13层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "青春驿站",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "235万"
+}{
+  "singel_price": "单价49652元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4454498.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/5dd7960e-6b68-40f9-a365-1c12e757a70f.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北户型，客厅朝南，交通方便，黄金楼层",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|90.63平|中区/14层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "象屿名城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "450万"
+}{
+  "singel_price": "单价48614元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4400909.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161220/c16b1aa5-f2b0-453c-9cb5-0358b6d36773.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通便利，楼层好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|89.48平|中区/4层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "435万"
+}{
+  "singel_price": "单价45121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4305400.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160929/503bc205-898f-40ee-a693-8c84c1ae11bc.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通便利，光线充足",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|90.2平|中区/13层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "407万"
+}{
+  "singel_price": "单价42194元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4274715.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160918/3ee60be2-fbf5-4d21-b43d-be57be03ad36.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "九亭",
+  "house_desc": [
+    "1室2厅|73.47平|低区/16层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "310万"
+}{
+  "singel_price": "单价50579元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685309.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/1e6162f3-3263-48bd-b6ec-1408a757682e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁房，黄金楼层",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|81.06平|中区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "410万"
+}{
+  "singel_price": "单价45751元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872018.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/26ebd86a-0a84-4fec-992a-6e8ef98f2644.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，带飘窗，交通便利，楼层好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|91.8平|中区/13层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "象屿名城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "420万"
+}{
+  "singel_price": "单价43108元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668440.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/d2c66e20-8742-4867-96ff-44ede25c1143.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，地铁直达，楼层好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|86.99平|中区/16层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "美丽星城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "375万"
+}{
+  "singel_price": "单价48962元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4557561.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/0587935a-96b3-4ede-ab0a-663e76554176.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通透，带飘窗，地铁房，低区出入方便",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|120.5平|低区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "590万"
+}{
+  "singel_price": "单价35165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839930.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/62fde298-e5d3-4620-87bd-3ff6078f73a2.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，上下楼方便",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|85.31平|低区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "沪亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "300万"
+}{
+  "singel_price": "单价50245元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812974.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/1b5dc67c-3d06-4e7c-b523-cea4a01cebec.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁房，低楼层",
+  "s_cate": "九亭",
+  "house_desc": [
+    "1室1厅|40.8平|低区/15层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "青春驿站",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "205万"
+}{
+  "singel_price": "单价39761元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777348.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/749b3f3e-4ee6-4125-ac6b-151f0505bfed.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁房，视野开阔",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|120.72平|高区/12层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "美丽星城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "480万"
+}{
+  "singel_price": "单价43668元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4572442.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/302e7dac-2394-4bbc-94e1-7b70b8e9bf6e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，出行方便，黄金楼层",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|125.95平|中区/11层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "550万"
+}{
+  "singel_price": "单价47014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4515511.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170224/57a7b01d-0eca-489d-aeef-9eb90abe81d2.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，黄金楼层",
+  "s_cate": "九亭",
+  "house_desc": [
+    "1室2厅|66.15平|中区/10层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "311万"
+}{
+  "singel_price": "单价38845元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806880.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/235eb5e5-f325-4319-b2de-24c6b4f99a01.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，带飘窗，上下楼方便，满五年",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|117.13平|低区/14层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "象屿都城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "455万"
+}{
+  "singel_price": "单价51708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4614394.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170519/b827104b-c37b-44f2-a8ae-e02e2996ce28.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通方便，高区景观好，装修精美，满二减税",
+  "s_cate": "九亭",
+  "house_desc": [
+    "1室1厅|44.48平|高区/15层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "青春驿站",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "230万"
+}{
+  "singel_price": "单价49411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4613875.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/68299d1a-5099-4a3a-bf16-5d8a738b9857.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁直达，楼层好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|85.0平|中区/14层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "象屿名城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "420万"
+}{
+  "singel_price": "单价46216元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814678.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/c697cb3a-250a-4018-ae54-2ed5babd1b43.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，厨卫全明，地铁沿线，楼层好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|134.15平|中区/13层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "620万"
+}{
+  "singel_price": "单价50875元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811005.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/36d2ca43-50d9-4d71-9b94-5616d1b25bcd.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通便利，高区景观好",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|84.52平|高区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "奥林匹克花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "430万"
+}{
+  "singel_price": "单价45409元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4274417.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161015/671aaf6d-9746-44aa-bb9d-fa97781bc9b0.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北户型，地铁直达，视野开阔，精装修",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|121.12平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "亭汇花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "550万"
+}{
+  "singel_price": "单价35679元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862128.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/b659127f-a676-4d7e-9595-6c53025dbad5.jpg_200x150.jpg",
+  "house_time": [
+    "1979年建"
+  ],
+  "house_title": "稀罕南北通，采光无遮挡，精装修，满5年",
+  "s_cate": "九亭",
+  "house_desc": [
+    "4室2厅|112.11平|高区/6层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "国亭花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "400万"
+}{
+  "singel_price": "单价50293元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781262.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/36b5e447-0134-496d-a036-4e917eff8896.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，低区出入方便，装修精美",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|88.48平|低区/16层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "九城湖滨国际",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "445万"
+}{
+  "singel_price": "单价56155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770318.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/ee2255c0-8e0d-45eb-8a0f-f50da936f7cd.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，卧室带卫，光线充足，毛坯房",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|117.53平|中区/18层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "贝尚湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "660万"
+}{
+  "singel_price": "单价48338元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4752981.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/1c706a80-1ff1-405c-ab69-e002a5dec5f4.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区景观房，简单装修",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室1厅|66.2平|高区/22层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "绿庭尚城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "320万"
+}{
+  "singel_price": "单价50015元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4727474.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/1cee5f62-ea2a-4ca5-952a-8ea89bca06a8.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，厨卫全明，好楼层，装修精致",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|129.96平|中区/14层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "九城湖滨国际",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "650万"
+}{
+  "singel_price": "单价46692元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4724755.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170720/a8c261b1-7381-4bee-afab-815243088fe1.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北户型，客厅朝南，视野很好，精装修",
+  "s_cate": "九亭",
+  "house_desc": [
+    "2室2厅|89.95平|高区/17层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "中大九里德(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "420万"
+}{
+  "singel_price": "单价40937元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/be106093-f611-422d-9265-380cfe20277e.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，光线充足，省装修费",
+  "s_cate": "九亭",
+  "house_desc": [
+    "3室2厅|89.16平|中区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "三盛颐景园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jiuting",
+  "house_price": "365万"
+}

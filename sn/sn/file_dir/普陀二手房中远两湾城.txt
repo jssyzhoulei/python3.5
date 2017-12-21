@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价71846元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/ce403360-0d06-4f5a-b17d-084b5768282e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "地铁直达，高区采光好，品质装修，房本满五年",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|97.43平|高区/30层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "700万"
+}{
+  "singel_price": "单价67186元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801092.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/4bc77606-abd8-4c01-8c3f-5439598fa391.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，高区阳光房",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|111.63平|高区/34层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "750万"
+}{
+  "singel_price": "单价72160元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759427.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/008c6f10-59b8-4e3d-82b2-955c0d19e7e0.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，出行方便，视野开阔，装修精美",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|121.95平|高区/30层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "880万"
+}{
+  "singel_price": "单价79517元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610980.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170516/786c3252-8e92-456d-8eb4-8d46de9d7ffa.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "出行方便，视野开阔，品质装修，房本满五年",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "1室2厅|72.94平|高区/33层|朝东"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "580万"
+}{
+  "singel_price": "单价63808元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4388455.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/11d1d9b5-b803-48fa-ae8c-65a780675b33.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀缺南北通，地铁房，高区景观房，精装修",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|139.48平|高区/33层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "890万"
+}{
+  "singel_price": "单价71933元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682487.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170303/0d7c21cc-0dd6-4b92-8f7a-bd2129d4c3e4.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "交通便利，低区出入方便，满五减税，热销房源",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|159.87平|低区/33层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价80031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829814.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/d3371e13-07be-4691-9701-98e5e2a4c880.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "出行方便，低区出入方便，拎包入住，满5年",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "1室2厅|64.35平|低区/34层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "515万"
+}{
+  "singel_price": "单价83654元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4827764.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/14162d41-af16-4d76-afbe-a98f1128dc31.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，出行方便，好楼层",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "1室2厅|75.31平|中区/34层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "630万"
+}{
+  "singel_price": "单价75852元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814105.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/17ec7121-7554-4c54-a09b-9ef41cb76a9c.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，低区出入方便",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|96.24平|低区/34层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "730万"
+}{
+  "singel_price": "单价72343元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682885.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170614/89bb8afd-9324-42c5-beca-d3c4edb1d328.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，交通方便，高区阳光房",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|102.29平|高区/32层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "740万"
+}{
+  "singel_price": "单价67880元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4659822.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/c7b11f28-a7b5-41e4-bd44-49eefa13cd56.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|108.72平|中区/33层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "738万"
+}{
+  "singel_price": "单价68279元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584384.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/7911c588-597a-457c-bbc1-616d9710cf84.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，出行方便，低区出入方便",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|102.52平|低区/33层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "700万"
+}{
+  "singel_price": "单价76891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4498976.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170208/3b929fe4-7c27-433b-b6bc-13d174e72fd4.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁沿线，光线充足",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|122.25平|中区/34层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "940万"
+}{
+  "singel_price": "单价79845元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4850620.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/51e6c150-01ab-4424-8356-9283c05cccc8.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，地铁直达，光线充足",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "1室2厅|72.64平|中区/34层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "580万"
+}{
+  "singel_price": "单价62630元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603450.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170501/dfc3753c-8e25-4ad2-b8e2-f0d0bf7ec3d8.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "卧室全南，地铁房，黄金楼层，简单装修",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "1室0厅|28.74平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中山北路1760弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "180万"
+}{
+  "singel_price": "单价64850元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823494.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161231/6547f64b-65bc-432d-9c8d-81c52b2c87df.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，交通便利，采光好，拎包入住",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|169.62平|高区/34层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价81307元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813818.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171105/5af603d3-f949-45c6-8b36-68218ac98fae.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，低楼层",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "1室2厅|59.65平|低区/34层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "485万"
+}{
+  "singel_price": "单价72555元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802019.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/f920254b-5a87-46fc-ae8c-1bbdb4698bc8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，卧室带卫，交通便利，采光无遮挡",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|141.96平|高区/34层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "1030万"
+}{
+  "singel_price": "单价76121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788608.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/ca9d6eb9-f023-4774-ae11-ca44a3bef119.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，低楼层",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|110.35平|低区/18层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "840万"
+}{
+  "singel_price": "单价69690元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/db116890-4169-41de-ac3c-b3d95e7d23df.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，交通方便，视野很好",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|96.14平|高区/34层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "670万"
+}{
+  "singel_price": "单价67537元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782892.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/46f8e660-9fc6-4e7c-8a85-1a8aa56a99ed.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，高区阳光房",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|112.53平|高区/34层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "760万"
+}{
+  "singel_price": "单价74792元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773173.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/007b7a00-5128-4d67-945b-9c574cc4c03d.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通方便，视野开阔",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|98.94平|高区/34层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "740万"
+}{
+  "singel_price": "单价67773元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769074.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/061d2ba0-b9e5-4af6-93bd-af2439577d6e.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通便利，低区出入方便",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|147.55平|低区/36层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "1000万"
+}{
+  "singel_price": "单价72730元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765010.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/99710044-aa93-4e72-9765-aa044c523668.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁沿线，上下楼方便",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|97.62平|低区/35层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "710万"
+}{
+  "singel_price": "单价69545元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736303.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/d94cd2a5-13c0-4c66-871d-989d2582a3ff.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁直达，低楼层，经典装修，房本满五年",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|150.98平|低区/33层|朝西南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价73304元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711285.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/789fab8c-30fa-42cc-85f5-1e0d97e5108e.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，出行方便，光线充足，装修精美",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "4室2厅|212.81平|中区/32层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "1560万"
+}{
+  "singel_price": "单价74091元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674384.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161016/0da805d9-714b-4418-b720-94d436119a0f.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，带飘窗，出行方便，低区出入方便",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "1室2厅|62.76平|低区/32层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "465万"
+}{
+  "singel_price": "单价67653元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669849.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/3b4b85d7-404a-4fdc-9e12-4776c873ec37.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，带飘窗，交通便利，低楼层",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|141.9平|低区/34层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "960万"
+}{
+  "singel_price": "单价69194元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4561591.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/d464dbd3-f868-42d2-81cf-44a662ab52a8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，地铁沿线，低区出入方便",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "3室2厅|141.63平|低区/34层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "980万"
+}{
+  "singel_price": "单价76427元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4527905.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170228/f5eb76a3-674c-47c2-83be-e1e1fe6ae95a.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，交通方便，黄金楼层",
+  "s_cate": "中远两湾城",
+  "house_desc": [
+    "2室2厅|99.44平|中区/35层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "中远两湾城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhongyuanliangwancheng",
+  "house_price": "760万"
+}

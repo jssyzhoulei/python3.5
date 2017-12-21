@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价49060元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4354825.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170204/f733cef7-73f0-4fe4-aca1-9bf19b445347.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "出行方便，楼层好，满5年，新出好房",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|71.34平|中区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦二村永汇新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "350万"
+}{
+  "singel_price": "单价42897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823296.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/8b098e42-7aa1-4f4f-a925-a379807e40dd.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野开阔",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|41.96平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "紫腾苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "180万"
+}{
+  "singel_price": "单价42592元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4802713.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161103/b3baf7ae-6e59-41a8-a904-e2cf82ab62d6.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，交通便利，好楼层，简单装修",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室0厅|54.0平|中区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "紫腾苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价50928元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797669.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/56cd2722-67fa-4ba8-9251-ec9875b8078e.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室0厅|33.38平|中区/7层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "紫腾苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "170万"
+}{
+  "singel_price": "单价45068元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4716350.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/cf64271b-14a9-490f-8e27-2002ee9e9401.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，交通便利，视野很好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "3室2厅|95.41平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦二村永汇新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "430万"
+}{
+  "singel_price": "单价44205元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712999.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/de6a788b-24db-4481-bda0-9e8c7d5245ea.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|62.21平|低区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦一村海棠苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "275万"
+}{
+  "singel_price": "单价44186元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672036.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/036ac233-a0f6-4496-9a09-f90faf3c3012.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，采光好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|43.0平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦七村雪松苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "190万"
+}{
+  "singel_price": "单价54831元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4644028.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/ad39965c-f45f-46d8-bf28-47056cbe7b8b.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通便利，低楼层",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室2厅|89.0平|低区/16层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "恒盛鼎城华公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "488万"
+}{
+  "singel_price": "单价61327元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4613417.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/0a578d35-e533-4e43-92e8-57d9540ad7e9.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，地铁沿线，黄金楼层，毛坯房",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "3室2厅|140.23平|中区/16层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "恒盛鼎城华公馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "860万"
+}{
+  "singel_price": "单价48986元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586422.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170410/c8024efe-e48b-4160-8b9c-d091a14fdfa2.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区采光好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室0厅|33.07平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "紫腾苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "162万"
+}{
+  "singel_price": "单价41333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537389.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/477948ac-fb79-41b3-8501-6da3a675c256.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|45.0平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦三村石榴苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "186万"
+}{
+  "singel_price": "单价42029元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4527618.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170227/d99613d4-9bb8-46da-abf8-e00889776253.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，采光无遮挡",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|64.24平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦三村白丽苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "270万"
+}{
+  "singel_price": "单价40493元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4523650.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/0dffe7ef-fb79-4152-8556-8ccc1a5a9735.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，楼层好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|60.75平|中区/5层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦一村瑞香苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "246万"
+}{
+  "singel_price": "单价40514元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4365050.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161105/4409d373-a504-40a9-9db2-3fda3c3badb8.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁沿线，高区阳光房",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|62.2平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦六村绿春苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "252万"
+}{
+  "singel_price": "单价43743元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4524127.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/bedbd317-c0d0-45be-b66e-939ad65663d1.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区阳光房",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|75.44平|高区/6层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦五村迎春苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价46449元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854330.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/114d0447-1450-4ac1-be3a-02692b618eac.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线充足",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室0厅|48.44平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦七村雪松苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "225万"
+}{
+  "singel_price": "单价42655元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826720.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/006b831c-021d-4044-bb71-55ee415a4324.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，楼层好，简单装修",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室0厅|53.92平|中区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "紫腾苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "230万"
+}{
+  "singel_price": "单价44444元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796193.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/eca2d214-5c5b-4251-9eff-363e3b087a2e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，楼层好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|45.0平|中区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦三村石榴苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价45435元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736734.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/13625525-df18-49d6-a170-f1afac830c3b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，视野开阔",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室0厅|48.42平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦七村雪松苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "220万"
+}{
+  "singel_price": "单价42851元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4671138.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/8e8986ca-548c-40b0-ba69-d3ac5b8555e7.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|54.14平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦七村雪松苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "232万"
+}{
+  "singel_price": "单价42406元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612455.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170501/2b1c3f39-c344-47eb-b135-9ebcca1511fc.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|59.66平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦五村杜鹃苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "253万"
+}{
+  "singel_price": "单价43274元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549624.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170404/dedaa3cc-f410-4930-afdc-b61e99ebccae.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，采光无遮挡",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|42.75平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦五村杜鹃苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "185万"
+}{
+  "singel_price": "单价43825元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4855827.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/a9a14ef9-08fa-467a-a68c-c7fd5713160d.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野开阔",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|77.58平|高区/26层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "安居锦竹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "340万"
+}{
+  "singel_price": "单价41200元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828227.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171129/94b5bfeb-cd14-4679-bfa1-348921353769.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，上下楼方便",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|67.96平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦三村石榴苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "280万"
+}{
+  "singel_price": "单价58255元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4823338.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171113/c89151b8-ab6c-4ca8-80c9-23a793de3a9c.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，交通便利，低楼层",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|65.23平|低区/35层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "荣和怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "380万"
+}{
+  "singel_price": "单价40261元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801252.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/9b05d9d2-6374-453a-bbdd-65e641874c4d.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，低楼层",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|39.74平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "桃浦六村樱花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "160万"
+}{
+  "singel_price": "单价39807元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791837.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/89b43c97-859c-41d9-ae56-ff76a81ce1d1.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线非常好",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|72.85平|高区/18层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "锦翔大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "290万"
+}{
+  "singel_price": "单价41906元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775966.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/0f94a148-9652-4ae2-be39-4419d04efce0.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，上下楼方便",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "2室1厅|57.27平|低区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "紫腾苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "240万"
+}{
+  "singel_price": "单价53147元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747910.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/998c5794-7cbc-4054-a417-f5436c0cc828.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "交通便利，黄金楼层，毛坯房，满2年",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|48.92平|中区/29层|朝东北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "荣和怡景园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价47349元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4608373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170427/f991a969-95b2-49f3-9bca-76383c89d6b9.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低楼层",
+  "s_cate": "桃浦",
+  "house_desc": [
+    "1室1厅|56.6平|低区/21层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "安居锦竹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/taopu",
+  "house_price": "268万"
+}

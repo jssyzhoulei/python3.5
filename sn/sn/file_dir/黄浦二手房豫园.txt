@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价103693元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861520.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171121/75386a56-6371-4d9d-9fdb-aaac5aaa1303.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，卧室带卫，交通便利，上下楼方便",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|125.37平|低区/33层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "东淮海公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价98695元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801722.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/831059fd-d950-44cf-88e2-3f961ab62e54.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带卫，客厅朝南，地铁直达，低楼层",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|141.85平|低区/28层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "东淮海公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价78947元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4612148.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/4de0a324-a030-44e0-8fc0-6f2b08e4d580.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "房型正气，地铁沿线，光线非常好，拎包入住",
+  "s_cate": "豫园",
+  "house_desc": [
+    "4室3厅|190.0平|高区/24层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "太阳都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价90105元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597760.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160926/8d4c4cd8-11a1-408f-a76b-c274e5de7524.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，黄金楼层",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|114.31平|中区/33层|朝东南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "太阳都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1030万"
+}{
+  "singel_price": "单价87002元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597721.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160926/d90dc7f9-cf2d-48e1-9497-94684bb34204.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "出行方便，黄金楼层，中等装修，满5年",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|95.4平|中区/33层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "太阳都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "830万"
+}{
+  "singel_price": "单价128976元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4838182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/269ddf0f-6d1e-428d-a2dd-78d11383bb8b.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "出行方便，光线充足，简单装修，房本满五年",
+  "s_cate": "豫园",
+  "house_desc": [
+    "1室0厅|23.26平|中区/6层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "柳江街19号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "300万"
+}{
+  "singel_price": "单价76062元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798267.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/a7b4bd0f-bf00-4e4c-935d-c778749c362d.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线非常好",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室0厅|44.7平|高区/7层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "县左街32号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "340万"
+}{
+  "singel_price": "单价96211元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/275744e9-6a09-4dd5-867d-f5dae2730cf6.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，地铁房，楼层好，装修精美",
+  "s_cate": "豫园",
+  "house_desc": [
+    "1室0厅|33.26平|中区/5层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "先棉祠街小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价84848元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765384.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/4afdcd33-234e-4b8d-8f18-9999c3b7a99f.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，交通便利，上下楼方便，简单装修",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室0厅|49.5平|低区/7层|朝东"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "光启路91号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "420万"
+}{
+  "singel_price": "单价131778元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4738964.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170801/4295dc0a-b705-4a85-becf-160b30da1351.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，地铁直达，光线非常好，装修经典",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|151.77平|高区/25层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "士林华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "2000万"
+}{
+  "singel_price": "单价62010元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718512.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170714/a9d93dbc-b43d-4873-977e-7593ffc24c39.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北户型，客厅朝南，交通方便，低楼层",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|153.2平|低区/20层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "蓬莱花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "950万"
+}{
+  "singel_price": "单价80219元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/cc09780f-906e-4fd1-b20b-457edeebd822.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通方便，采光好",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室1厅|47.37平|高区/6层|朝西北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "四牌楼路147号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "380万"
+}{
+  "singel_price": "单价78450元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697580.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/7b2e86ac-7246-4aed-a1f7-ba3b1a98092e.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，上下楼方便",
+  "s_cate": "豫园",
+  "house_desc": [
+    "1室1厅|40.79平|低区/6层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "中复小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价83373元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4695852.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/ef34df76-3c8e-4140-8cd3-6f8c98b60492.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，楼层好，简单装修",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|62.37平|中区/23层|朝东西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "瑞福北大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "520万"
+}{
+  "singel_price": "单价72830元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4593914.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/e624d962-89d7-4b05-a3ac-552aca4fa612.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁房，视野很好",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|157.9平|高区/28层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "东业大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价111780元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1063748.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170327/696ab202-b897-4171-9cc6-5b0be3b20dba.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通方便，视野很好",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|102.88平|高区/19层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "复地雅园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1150万"
+}{
+  "singel_price": "单价98176元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830655.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/fd36d831-0163-4783-ae27-2a0102fd014b.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，低楼层，拎包入住",
+  "s_cate": "豫园",
+  "house_desc": [
+    "1室1厅|35.65平|低区/7层|朝西"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "光启路105号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "350万"
+}{
+  "singel_price": "单价96882元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4241460.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/55bc330a-a744-4e44-a1d3-677ee6162a37.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通便利，低楼层",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|113.54平|低区/24层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "太阳都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价103174元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804823.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/af10eb1e-22f4-4dfd-a5e0-de7e52b0f2bb.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，卧室带卫，地铁沿线，低楼层",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|126.0平|低区/33层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "东淮海公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价84818元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606203.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170425/c90abd19-d222-4a74-80e2-913627b201cf.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，地铁沿线，楼层好",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|104.93平|中区/23层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "佳日公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "890万"
+}{
+  "singel_price": "单价80000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4486928.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170311/12984eb4-20bf-4da9-b401-489631ddbffc.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带卫，客厅朝南，地铁直达，高区阳光房",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|225.0平|高区/33层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "太阳都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价99134元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4834790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/b0cf47ad-367d-4ed9-9df3-021d5027bde8.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，带飘窗，地铁沿线，低区出入方便",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室2厅|143.24平|低区/25层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "士林华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1420万"
+}{
+  "singel_price": "单价94063元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773764.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/91f90dbf-e9ec-4622-81ee-fca6d4225766.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀缺南北通，交通便利，楼层好，中等装修",
+  "s_cate": "豫园",
+  "house_desc": [
+    "4室2厅|191.36平|中区/28层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "新地苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价112866元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769340.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/306a15ee-9065-47d6-b2ae-2b385f2fea15.jpg_200x150.jpg",
+  "house_time": [
+    "1974年建"
+  ],
+  "house_title": "地铁房，高区采光好，装修精美，满五年",
+  "s_cate": "豫园",
+  "house_desc": [
+    "3室1厅|44.3平|高区/5层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "学院路5号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "500万"
+}{
+  "singel_price": "单价92243元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753284.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/0cd98991-e9f6-4097-8604-121307ccc636.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，出行方便，低区出入方便",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|95.4平|低区/33层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "太阳都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "880万"
+}{
+  "singel_price": "单价75334元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732411.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/63722eba-41ec-4a62-ab90-72a1357e6d68.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀罕南北通，地铁沿线，采光好，装修精致",
+  "s_cate": "豫园",
+  "house_desc": [
+    "5室3厅|277.43平|高区/33层|朝南北"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "太阳都市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "2090万"
+}{
+  "singel_price": "单价102288元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4642373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/6ce8aac9-d3ba-4735-b41b-8e064c4212f4.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，地铁房，高区阳光房",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|117.12平|高区/33层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "东淮海公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1198万"
+}{
+  "singel_price": "单价84571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4599373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/58ffd3b7-d5d9-44ca-acb6-91312791f9ce.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，好楼层，简单装修",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室0厅|43.75平|中区/8层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "县左街6号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "370万"
+}{
+  "singel_price": "单价99543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597200.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/882a245b-321a-46b1-a7f2-f221e3185303.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "交通便利，光线充足，中等装修，房本满五年",
+  "s_cate": "豫园",
+  "house_desc": [
+    "2室2厅|120.55平|中区/21层"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "复地雅园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价71509元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/huangpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4497859.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170213/037fb49f-db25-4b90-ae43-4dcc98870746.jpg_200x150.jpg",
+  "house_time": [
+    "1912年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通方便，好楼层",
+  "s_cate": "豫园",
+  "house_desc": [
+    "1室1厅|53.14平|中区/3层|朝南"
+  ],
+  "district": "黄浦二手房",
+  "house_detail": "蓬莱路252弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yuyuan",
+  "house_price": "380万"
+}

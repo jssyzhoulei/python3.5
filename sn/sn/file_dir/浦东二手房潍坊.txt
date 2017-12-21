@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价90163元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822124.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/ef2a8b20-35c8-4425-abd6-1b38c60e6639.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带卫，卧室带阳台，地铁房，好楼层",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|30.5平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "275万"
+}{
+  "singel_price": "单价112402元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806548.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/8e59856d-7038-48c7-b91c-f5dadc42b0b4.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，楼层好",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|37.01平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "416万"
+}{
+  "singel_price": "单价84558元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779499.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/321c6789-6a67-4e98-a48b-2b1aecd4ed1b.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，光线充足",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|40.8平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "345万"
+}{
+  "singel_price": "单价72606元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736313.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/be505190-59dc-415d-85ff-9ec34bc92642.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "房型正气，厨卫全明，出行方便，黄金楼层",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|40.63平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "295万"
+}{
+  "singel_price": "单价89458元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729222.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170723/24d7b2fc-7e69-4fc2-905c-ea451761eef2.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|67.07平|中区/25层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "开发浦东",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "600万"
+}{
+  "singel_price": "单价83870元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4657257.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/f7c9f2e2-5f26-466d-884d-020ab8d57eb5.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "出行方便，视野很好，中等装修，房本满五年",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室0厅|31.0平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "浦电路303号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "260万"
+}{
+  "singel_price": "单价64860元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4765286.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/4031b009-db6f-469d-8b6e-25ff3684b76c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "出行方便，视野开阔，简单装修，房本满五年",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室2厅|138.76平|高区/26层|朝东南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "众城公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "900万"
+}{
+  "singel_price": "单价65798元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840217.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/095fb8fe-9d61-4f97-b08c-54e9043b2dd0.jpg_200x150.jpg",
+  "house_time": [
+    "1976年建"
+  ],
+  "house_title": "交通方便，采光好，装修精致，满五年",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|43.01平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东建新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "283万"
+}{
+  "singel_price": "单价74137元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821314.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/6054c3e9-358d-4534-b743-784b01d8a08f.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，高区阳光房",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室0厅|29.0平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东建新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "215万"
+}{
+  "singel_price": "单价71951元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718321.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/47cd79e1-590f-4657-a42c-64d071597e62.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，黄金楼层",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|39.61平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "285万"
+}{
+  "singel_price": "单价124251元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4622588.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/388faf81-e5c9-46e6-9aa0-e28bcdd813c7.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，高区景观房",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室0厅|33.4平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "朱家滩小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "415万"
+}{
+  "singel_price": "单价108236元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804721.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/55e1a6d4-e308-4de9-aa49-ffee3f49ec90.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "南北户型，出行方便，高区采光好，简单装修",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|37.88平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊路150号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "410万"
+}{
+  "singel_price": "单价101135元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4734494.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/68535375-ae57-4618-b46a-3e582686900f.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，上下楼方便",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|28.18平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "285万"
+}{
+  "singel_price": "单价73673元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4515956.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/a37d3923-51a5-460f-b80c-985b6416501f.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通方便，高区景观好",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|40.72平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价81752元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847433.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/75b6f147-e3cd-4326-9f34-7486d35d0304.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁沿线，楼层好",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室0厅|49.54平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "405万"
+}{
+  "singel_price": "单价90269元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842560.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171111/6a3267b7-9cca-489e-9d0b-b08ba12cbc7c.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，低区出入方便",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|55.39平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "500万"
+}{
+  "singel_price": "单价66680元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821281.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/8cd4ac73-dbfe-4040-9d38-56e09bbe9e7f.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，采光好，省装修费",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|48.74平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "325万"
+}{
+  "singel_price": "单价86476元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831413.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/dfa0fe81-5094-4f69-9e34-48532eac177e.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低楼层",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|67.07平|低区/25层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "开发浦东",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "580万"
+}{
+  "singel_price": "单价110870元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858934.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/fe90cac4-61c5-469a-b5d0-c3c4122a30ea.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，采光无遮挡",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|36.98平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "410万"
+}{
+  "singel_price": "单价112540元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858723.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/b9d21fda-4258-47f7-8617-59ccc3e81940.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|37.32平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "420万"
+}{
+  "singel_price": "单价120000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848379.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/a0d84e8a-e7d8-4b54-98de-52e574d8cede.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，视野很好",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|32.5平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "390万"
+}{
+  "singel_price": "单价101470元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846316.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/b241a545-e97e-4b8c-a0c9-195b5582401e.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低区出入方便",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|48.29平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "490万"
+}{
+  "singel_price": "单价71289元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4840647.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171030/df9427d9-ab22-42cb-b5a4-8f0c4aa35e00.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|51.2平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价80742元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837556.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/97b6951f-0c7d-47ae-b015-904522fb5e14.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，上下楼方便",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室0厅|49.54平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "400万"
+}{
+  "singel_price": "单价101187元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833791.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/141638cb-f55d-430b-a3de-df4d30b2eb4d.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|51.39平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "520万"
+}{
+  "singel_price": "单价125114元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824123.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/2a3b7820-28b5-4e67-ae4c-fbdc75efea8e.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光无遮挡",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|32.77平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "410万"
+}{
+  "singel_price": "单价105833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822171.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/7873d49f-4338-4e1d-b856-f40e2f16087e.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，低区出入方便",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|38.74平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "410万"
+}{
+  "singel_price": "单价111971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816605.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/d60673d0-83b1-40d6-a60f-4545e16e7164.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，光线充足",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室1厅|36.17平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "405万"
+}{
+  "singel_price": "单价114745元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816502.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/63845fcc-af76-4e3e-8612-01acdf8d1825.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，高区景观好",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "1室0厅|37.91平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "435万"
+}{
+  "singel_price": "单价75344元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789860.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/f356b7e9-5c6a-48a9-9758-274792b55eef.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，黄金楼层",
+  "s_cate": "潍坊",
+  "house_desc": [
+    "2室1厅|62.38平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "潍坊四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/weifang",
+  "house_price": "470万"
+}

@@ -1,0 +1,501 @@
+{
+  "singel_price": "单价47223元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760548.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/aa392244-7d30-431e-a900-ca3c27b859ce.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，厨卫全明，高区采光好，简单装修",
+  "s_cate": "航头",
+  "house_desc": [
+    "3室2厅|52.94平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海鑫苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "250万"
+}{
+  "singel_price": "单价29176元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795484.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/e947c119-b11f-4c5a-a347-1120aa69456c.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，厨卫全明，采光好，中等装修",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|85.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东升家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "248万"
+}{
+  "singel_price": "单价42416元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688912.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/2ddedc78-2c5f-46f7-ad8f-945d1548beef.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，高区阳光房，拎包入住",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|77.8平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海洲桃花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "330万"
+}{
+  "singel_price": "单价38332元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4663254.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/946b9541-9d49-4544-9990-7b94cb08e4fb.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，好楼层，装修精美",
+  "s_cate": "航头",
+  "house_desc": [
+    "1室1厅|59.74平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海洲桃花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "229万"
+}{
+  "singel_price": "单价32658元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4656558.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/e5150069-71ba-427c-b086-9b57475272f9.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，厨卫全明，高区景观房，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|76.55平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "250万"
+}{
+  "singel_price": "单价36096元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858829.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171117/77fe9b76-64a7-4345-93c2-78cba478c960.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|67.32平|低区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城昱星家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "243万"
+}{
+  "singel_price": "单价34454元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775660.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/d4e8093e-db05-4786-9a72-91ea226cd775.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，带飘窗，好楼层，拎包入住",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|84.17平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "长达佳苑宜居尚城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "290万"
+}{
+  "singel_price": "单价36961元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684419.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/bd4c4a31-70ce-4cde-bf1b-37708eb02a3b.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅朝南，高区景观房，满五减税",
+  "s_cate": "航头",
+  "house_desc": [
+    "1室1厅|54.11平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东升家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "200万"
+}{
+  "singel_price": "单价30227元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4645042.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/1e61ae25-e48d-4eed-b38c-1c845a09ae60.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，高区景观好，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|84.36平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东升家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "255万"
+}{
+  "singel_price": "单价37970元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788814.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170108/5031bf05-0b40-4754-8279-38135d437e81.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀缺南北通，楼层好，毛坯房，满5年",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|82.96平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海洲桃花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "315万"
+}{
+  "singel_price": "单价38596元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758610.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/c49dbc7c-a4df-49a6-a912-ca156f55b329.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，低区出入方便，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "1室1厅|57.0平|低区/14层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "220万"
+}{
+  "singel_price": "单价29629元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4577223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/32d084a0-5bf6-4b14-a2b8-d2eb35a8199f.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，高区景观好，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|81.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海鑫苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "240万"
+}{
+  "singel_price": "单价37179元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4548841.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/2065880a-282a-48ec-9ac8-ec43eb6e9a30.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，带落地窗，上下楼方便，拎包入住",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|78.0平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "海洲桃花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "290万"
+}{
+  "singel_price": "单价36842元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4837892.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/572ad654-e5d5-4d31-b4b7-868e3a3fd60d.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，视野很好，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "1室1厅|57.0平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城航武嘉园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "210万"
+}{
+  "singel_price": "单价34625元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832323.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/f36fd597-9ce9-4bce-8a92-da360adae13f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|67.87平|低区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城昱星家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "235万"
+}{
+  "singel_price": "单价34568元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794318.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/ba110b49-285b-471e-a472-bc37ff270178.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，满两年",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|76.66平|中区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "265万"
+}{
+  "singel_price": "单价35394元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4760735.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/0de20511-756f-417d-8db0-d3133bf86671.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|76.0平|低区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "269万"
+}{
+  "singel_price": "单价34547元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719458.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/0d43b3bc-a699-411b-8909-25043f3aa090.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅朝南，低楼层，省装修费",
+  "s_cate": "航头",
+  "house_desc": [
+    "1室1厅|53.55平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东升家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "185万"
+}{
+  "singel_price": "单价34805元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4714258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/5e0ae581-e31e-4b0f-9f21-3c378bd47881.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|77.0平|低区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "268万"
+}{
+  "singel_price": "单价38266元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713188.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/5c2e79d3-da11-477b-82de-e70cb1740fd2.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，高区景观好，简单装修",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|75.0平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城东茗苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "287万"
+}{
+  "singel_price": "单价29411元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4585707.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170411/87f57c6c-f2ec-4427-8bec-8b83f0e5f4cf.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，厨卫全明，高区阳光房，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|85.0平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "聚航苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "250万"
+}{
+  "singel_price": "单价36335元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4553713.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/184c671e-f15a-469d-af2a-cd6dc64e7efa.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通透，光线充足，毛坯房，满2年",
+  "s_cate": "航头",
+  "house_desc": [
+    "1室1厅|59.17平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城东茗苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "215万"
+}{
+  "singel_price": "单价36207元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4545982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/22a1c732-4224-49d0-ada7-fbac5d4290f1.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "上下楼方便，简单装修，房本满两年，钥匙在手",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|74.57平|低区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城东茗苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "270万"
+}{
+  "singel_price": "单价36004元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4519211.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/29eeeb07-5d3a-4b1b-9728-09f3c0257b37.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区景观好，简单装修",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|79.99平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城东茗苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "288万"
+}{
+  "singel_price": "单价40126元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4423275.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161204/d4af5ec3-d017-4fcc-abe9-ad1223e0095f.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，高区阳光房，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "1室1厅|57.07平|高区/14层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "229万"
+}{
+  "singel_price": "单价28112元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4302176.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161124/ceada00b-e081-4489-92dc-f1e579645f34.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，低区出入方便，毛坯房，满2年",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|87.15平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东升家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "245万"
+}{
+  "singel_price": "单价33510元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4229686.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160909/b0a4b89f-ac91-476d-bb7d-6217c4e4b3d9.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，光线非常好，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室2厅|79.08平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "昱丽家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "265万"
+}{
+  "singel_price": "单价30821元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706365.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/6c8f4303-6c09-4a51-8fc0-09da6f505b9d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，好楼层，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "3室2厅|116.8平|中区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤鸣新苑一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "360万"
+}{
+  "singel_price": "单价30012元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4597268.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/2dc954d6-48d1-4868-9bf0-f67f80771bb7.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低楼层，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "3室2厅|99.96平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东升家园（三期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "300万"
+}{
+  "singel_price": "单价36393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843065.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/b69bf987-5abf-473f-81ec-f04bc1d0af5f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，毛坯房",
+  "s_cate": "航头",
+  "house_desc": [
+    "2室1厅|67.32平|中区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "鹤沙航城昱星家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/hangtou",
+  "house_price": "245万"
+}

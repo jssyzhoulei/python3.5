@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价87313元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828040.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/4d7f7f11-25d8-4c32-9790-8dc798f66b29.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，地铁房，低楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|134.0平|低区/16层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "上海知音苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1170万"
+}{
+  "singel_price": "单价114522元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4818489.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/d7208e40-f2da-425e-9655-c7f1575710b9.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁直达，好楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|120.5平|中区/19层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "浅水湾恺悦名城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1380万"
+}{
+  "singel_price": "单价51178元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815394.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/34c70085-ac17-47f5-9b3f-57adde00aad4.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "交通便利，好楼层，毛坯房，满五年",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|158.27平|中区/20层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "长寿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "810万"
+}{
+  "singel_price": "单价64079元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809730.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/f4148915-2e09-4d03-8f98-dc6dcd31a683.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，黄金楼层，简单装修",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|109.24平|中区/20层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "澳门公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "700万"
+}{
+  "singel_price": "单价65974元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809005.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/b89818fb-9fa9-47bf-b949-df8b117fb8de.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，高区景观好",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|113.68平|高区/24层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "恒达公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "750万"
+}{
+  "singel_price": "单价111098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742672.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/864f5de8-eef2-4809-b35c-319518556d3c.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|86.41平|低区/34层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "华侨城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "960万"
+}{
+  "singel_price": "单价97560元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735144.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/fbca3c10-eac5-46ba-ad95-ac2d998c684d.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，低区出入方便",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "1室1厅|30.75平|低区/6层|朝东"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "澳门小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价85987元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710352.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170707/8805bc16-435a-44a2-829d-b78bca567ba0.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通方便，光线非常好",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|157.0平|高区/28层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "音乐广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1350万"
+}{
+  "singel_price": "单价69039元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694002.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/30e6aaa3-769d-42ff-8b4f-bc5ce0bb9fdd.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通，带落地窗，交通方便，低区出入方便",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|144.12平|低区/16层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "上青佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "995万"
+}{
+  "singel_price": "单价83178元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4294722.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161001/d33b6830-6896-40d8-8fb3-9f60feb1ae73.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "房型正气，交通方便，好楼层，拎包入住",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|102.19平|中区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "上海知音苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "850万"
+}{
+  "singel_price": "单价74605元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4524684.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/f0623c15-66ae-4d4e-b176-5ee835e99d9a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，视野开阔",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "1室1厅|34.18平|高区/7层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "德怡苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "255万"
+}{
+  "singel_price": "单价81733元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4299060.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/dc7680c0-ee3f-4b6a-918a-47f2319793b2.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通方便，高区阳光房",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室1厅|77.08平|高区/6层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "澳门小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "630万"
+}{
+  "singel_price": "单价89579元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792073.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/af9377ba-1314-4829-a4af-cf9c81ee7cd8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，地铁房，好楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|97.12平|中区/20层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "苏堤春晓名苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "870万"
+}{
+  "singel_price": "单价107731元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758588.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/8f9f102a-d21e-4bf5-9ba7-2707a4865bb7.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，出行方便，好楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "1室2厅|71.01平|中区/20层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "浅水湾恺悦名城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "765万"
+}{
+  "singel_price": "单价71882元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735046.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/e239a783-94b5-4684-ab1f-9993e3f02d2c.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "交通方便，上下楼方便，省装修费，房本满五年",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室1厅|59.82平|低区/25层|朝东"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "世纪之门",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "430万"
+}{
+  "singel_price": "单价77519元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4693174.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/c77c07d0-c00e-4c34-8bc8-214bd7375970.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，地铁沿线，低楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "4室2厅|178.02平|低区/32层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "半岛花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1380万"
+}{
+  "singel_price": "单价80632元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4659656.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170531/6fb200be-eae3-41a9-a816-97eb87a8e540.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，出行方便，低楼层，品质装修",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|130.22平|低区/33层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "上海知音苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价61205元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4513161.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/46ba170c-8eb6-40b6-b836-6b0854698235.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，上下楼方便，拎包入住",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|106.2平|低区/20层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "澳门公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "650万"
+}{
+  "singel_price": "单价69374元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4335893.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161109/f2cc7147-5946-43a5-b4de-be49bb15dd48.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，出行方便，低楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|158.56平|低区/22层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "西部俊园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价75482元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4270092.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160914/974655ba-d84a-454e-89d8-a9af34ac8136.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，交通方便，黄金楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "4室2厅|145.73平|中区/18层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "上青佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价56348元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4246617.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/31e4f0f4-d1a6-4138-929a-67e281311820.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|159.72平|低区/28层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "维多利广场",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "900万"
+}{
+  "singel_price": "单价85635元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733184.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/a86aeee6-3227-4c82-bcba-5a24d5f6e556.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，高区采光好",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "1室1厅|36.2平|高区/6层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "澳门小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "310万"
+}{
+  "singel_price": "单价82971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700005.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/7990440b-f06f-4aa2-b087-301391a88759.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，带飘窗，地铁沿线，采光好",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|106.06平|高区/17层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "上青佳园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "880万"
+}{
+  "singel_price": "单价71215元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674197.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160919/66de91dc-0c6b-44e6-9a13-b1bfa81b9b24.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "交通方便，视野很好，经典装修，房本满两年",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "1室1厅|36.93平|高区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "乐怡苑（普陀）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "263万"
+}{
+  "singel_price": "单价78559元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742084.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/063fd69f-7d80-44ea-964e-aa36c4b6a3d4.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线充足",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|67.21平|中区/7层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "乐怡苑（普陀）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "528万"
+}{
+  "singel_price": "单价56662元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh3707827.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161021/13be4020-5510-4bfd-9f28-f1c84fcbd066.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "地铁直达，楼层好，简单装修，满五减税",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|141.01平|中区/21层|朝东南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "上海本色",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "799万"
+}{
+  "singel_price": "单价103806元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/ff078414-d928-4725-8557-d66e693d290d.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "南北户型，厨卫全明，地铁房，高区阳光房",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "1室1厅|28.9平|高区/5层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "澳门小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价89527元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756437.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/1b7f2f69-90a1-483a-9557-1e50962db3eb.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，出行方便，低楼层",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "2室2厅|110.58平|低区/17层"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "大上海城市花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "990万"
+}{
+  "singel_price": "单价83291元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806001.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/63b52865-5827-4569-8db8-6444890e108a.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，出行方便，高区阳光房",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|140.47平|高区/32层|朝南"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "半岛花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1170万"
+}{
+  "singel_price": "单价88241元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/putuo",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779965.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161012/72c25ca9-eeda-4dce-8119-aff43fda2f74.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀缺南北通，交通方便，视野很好，经典装修",
+  "s_cate": "长寿路",
+  "house_desc": [
+    "3室2厅|135.99平|高区/21层|朝南北"
+  ],
+  "district": "普陀二手房",
+  "house_detail": "西部俊园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/changshoulu",
+  "house_price": "1200万"
+}

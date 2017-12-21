@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价79994元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170814/fc2cc73a-35ab-41f3-9487-c0839c3eca70.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，地铁房，低楼层",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "3室2厅|135.01平|低区/18层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "永兆豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价56422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4448144.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161225/cbda0aab-c24e-447c-b4ca-d2bf77285b61.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，出行方便，视野很好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|83.3平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "桂林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "470万"
+}{
+  "singel_price": "单价68675元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684272.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170418/931b643e-a92c-45f1-b0e2-e8efb981071e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|90.28平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "620万"
+}{
+  "singel_price": "单价71206元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691947.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/bd16336c-0552-4524-8756-d8722743a816.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区采光好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "1室1厅|44.94平|高区/16层|朝北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦江大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价68162元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4500182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170208/66ab1ec8-44f5-468b-855a-a04ce6c0cea2.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁房，低楼层",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|70.42平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "航天新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "480万"
+}{
+  "singel_price": "单价85969元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4538347.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170307/c7b8f663-c66e-4df1-805e-ca36430052df.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁沿线，低楼层",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "6室4厅|203.56平|低区/7层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "航天公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "1750万"
+}{
+  "singel_price": "单价68340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758531.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171027/f75bf91f-b952-4e9c-8085-cbbc5bc3f320.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，客厅朝南，地铁直达，上下楼方便",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "3室2厅|134.62平|低区/18层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "永兆豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "920万"
+}{
+  "singel_price": "单价59856元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806943.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/e0478371-67fa-4636-ab45-5fa1641bcab3.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|62.65平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "375万"
+}{
+  "singel_price": "单价67631元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4577463.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170403/acfa0c5a-5098-439a-a107-38d39321e0de.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北直通，客厅朝南，地铁沿线，视野开阔",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|73.93平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "航天新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "500万"
+}{
+  "singel_price": "单价63895元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4658506.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/2c1b566e-958e-47ae-a9a5-c8f9b854d3ef.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，采光好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|68.08平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "桂林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "435万"
+}{
+  "singel_price": "单价56513元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4628070.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170509/0a119392-f7da-45e5-88fa-5c0131c0cca0.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|134.48平|高区/16层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦江大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "760万"
+}{
+  "singel_price": "单价69055元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4496374.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170205/cb02eb06-234b-46a0-aa1b-4c95ba11f0d8.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，楼层好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "1室1厅|49.96平|中区/6层|朝北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "桂林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "345万"
+}{
+  "singel_price": "单价72223元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672431.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/6af88d54-a6ec-4ad5-b67f-92c25c03449e.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "高区景观房，品质装修，满5年，钥匙房",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|84.46平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "欣嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "610万"
+}{
+  "singel_price": "单价66896元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785094.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/31c9e254-f3e4-4873-bc7a-437c6c43b40c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线充足",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "1室1厅|40.66平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "272万"
+}{
+  "singel_price": "单价70812元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673122.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/d020ff4a-f4b1-4762-8304-27efe3f02736.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|61.43平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "桂林苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "435万"
+}{
+  "singel_price": "单价88066元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589850.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/9ba35801-376b-4f84-b787-cbd5d239721d.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，卧室带卫，地铁沿线，光线非常好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "3室2厅|136.26平|高区/18层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "航天公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "1200万"
+}{
+  "singel_price": "单价67777元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822899.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171014/1a738b77-d986-45f2-ae76-53580ae33a6a.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "房型正气，客厅朝南，交通便利，高区景观房",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|70.82平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "航天新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "480万"
+}{
+  "singel_price": "单价58856元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698348.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/59330501-21fb-4599-955b-598988e7cbcd.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|89.88平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "529万"
+}{
+  "singel_price": "单价77570元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606541.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/f07d35a4-32f6-411b-9cbe-9dfaeb706bc3.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，地铁直达，楼层好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "3室1厅|107.0平|中区/16层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "永兆豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "830万"
+}{
+  "singel_price": "单价100000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847379.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/99aef2f3-0dfa-4dd7-a3c5-50021b2e98cd.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通，卧室全南，出行方便，光线充足",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "3室2厅|145.0平|中区/11层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东方康洛",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "1450万"
+}{
+  "singel_price": "单价68635元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793673.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/b6f8bad2-f9a8-4595-9ccd-ea974ec95859.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野开阔",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|62.65平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "430万"
+}{
+  "singel_price": "单价73359元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4387136.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/6367aaa3-9701-4247-97b4-1513174f5cee.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|95.42平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "700万"
+}{
+  "singel_price": "单价64307元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731821.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/917b3432-6036-4999-853a-16bd53d39c60.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，光线充足",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|89.88平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "578万"
+}{
+  "singel_price": "单价61349元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712030.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/7e9f12b7-bd47-4ad0-b360-4233f517d1cb.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "地铁直达，采光好，装修精致，满2年",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "1室1厅|37.49平|高区/6层|朝西"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅路2800弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "230万"
+}{
+  "singel_price": "单价73809元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4657872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/d8f1a108-0cd6-480b-8265-07892a5054b4.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，上下楼方便，精装修",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|84.0平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "欣嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "620万"
+}{
+  "singel_price": "单价72872元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854098.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/d528b3aa-0bc7-489f-ab4e-89620c3b2192.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，地铁房，低区出入方便",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|94.0平|低区/16层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "永兆豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "685万"
+}{
+  "singel_price": "单价65136元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4721944.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/d11d0ace-44ff-45a2-b94c-216e4588607d.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，低楼层，简单装修",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|80.6平|低区/16层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦江大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "525万"
+}{
+  "singel_price": "单价59922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4454409.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/8d7cb612-50a6-41f3-be21-b48fa56dd7c3.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室全南，交通方便，好楼层，中等装修",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "1室1厅|56.74平|中区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦江路47弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "340万"
+}{
+  "singel_price": "单价68848元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4437726.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161211/1d302243-315f-4190-978e-1902cbb6b2d8.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "南北户型，客厅朝南，地铁直达，视野很好",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室2厅|82.79平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "航天新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "570万"
+}{
+  "singel_price": "单价68839元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830310.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/4fd67487-d4d6-4f1a-be06-43e228f0fcd0.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通便利，好楼层",
+  "s_cate": "漕河泾",
+  "house_desc": [
+    "2室1厅|70.89平|中区/16层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "钦江大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/caohejing",
+  "house_price": "488万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价50000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780243.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170905/6b559bf0-0404-4968-b295-4d4ac59bfae8.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，上下楼方便，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|64.0平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华泾五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价49645元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732150.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/2b0fc1d1-75eb-479f-8027-e612f0fed2f6.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，好楼层，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "1室1厅|49.35平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东湾小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "245万"
+}{
+  "singel_price": "单价47199元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4726142.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170424/dba96d54-bda9-438c-8604-959f028ded71.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，采光无遮挡，装修精致，满5年",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|64.62平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华发小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "305万"
+}{
+  "singel_price": "单价52347元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4680796.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/226b0e51-4dcb-457b-8ffd-b909ee8968c6.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，好楼层，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|61.13平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华发小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价51282元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4456842.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/954b4d3a-8f2d-4451-a3d3-709087b5e814.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，视野开阔，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|62.4平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华欣家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价49025元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4354894.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161024/0c63e8b8-f552-494d-89cd-8a5cdfd46dab.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通，带飘窗，楼层好，品质装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室2厅|77.51平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "光华绿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "380万"
+}{
+  "singel_price": "单价48876元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813901.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171202/e8079d2a-b4b8-4787-8994-98f29e191b39.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "上下楼方便，毛坯房，满两年，新鲜挂牌",
+  "s_cate": "华泾",
+  "house_desc": [
+    "3室1厅|89.0平|低区/28层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "盛华景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "435万"
+}{
+  "singel_price": "单价54166元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4720114.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/48b69e0b-0a94-42be-86b8-680aa9a46c74.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，楼层好，房本满五年",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|72.0平|中区/6层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "光华绿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "390万"
+}{
+  "singel_price": "单价48611元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4521790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/be2a8ec9-757e-4d61-baed-39a3e08b93ea.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，高区采光好，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|57.6平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华发小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价53225元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770593.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/98913543-4ac5-47dd-a08d-f0d4dcb21fe5.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野很好，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|62.0平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华欣家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "330万"
+}{
+  "singel_price": "单价48926元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763706.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/75c9695e-33e1-43cf-bc7a-f93335eec36a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，光线非常好，中等装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|58.66平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华发小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "287万"
+}{
+  "singel_price": "单价57947元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712186.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/a9aa54f2-ca40-4af8-93e1-2b08399ba987.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低区出入方便，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "1室1厅|43.66平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华欣家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "253万"
+}{
+  "singel_price": "单价41546元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701752.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170718/b5503d55-8f78-46b6-a2be-68bb65ac7196.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|55.36平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "紫阳花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "230万"
+}{
+  "singel_price": "单价56818元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700195.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/cc3abd9f-148e-4635-8aa9-f591f770bf00.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，厨卫全明，视野很好，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "1室1厅|44.0平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华欣家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "250万"
+}{
+  "singel_price": "单价55618元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4600165.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170421/ea8a2b4b-0ab9-4e34-9683-3142c3d7cc60.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低楼层，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "1室1厅|44.05平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华欣家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "245万"
+}{
+  "singel_price": "单价45586元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590894.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170413/77aec948-eeda-40c5-b085-966e73fd8c67.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，视野很好，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "1室1厅|48.26平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华泾四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "220万"
+}{
+  "singel_price": "单价47316元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4568083.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/d8b40418-b4d8-401e-8289-f7c94f98013a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，楼层好，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|64.46平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "紫阳花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "305万"
+}{
+  "singel_price": "单价40491元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788606.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/b41a9080-4f24-40b7-8b73-5eb1a5a0eb9e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，好楼层，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|66.68平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "光华绿苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "270万"
+}{
+  "singel_price": "单价48632元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736278.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170731/e6e0b29a-9ef8-4c5b-9475-7df2c65ef6ba.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|82.25平|中区/26层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "盛华景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "400万"
+}{
+  "singel_price": "单价50128元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4717727.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170418/0132df3a-8232-498c-bb64-dffd8487f30f.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，光线充足，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室2厅|85.78平|中区/29层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "盛华景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "430万"
+}{
+  "singel_price": "单价53493元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4558015.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170321/127f2a8d-64ac-4a2e-9695-c3c4814d169c.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，楼层好，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室2厅|89.73平|中区/28层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "盛华景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "480万"
+}{
+  "singel_price": "单价49606元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4510090.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161231/5ee74295-ed74-441f-8c1a-ecfd4a37651c.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "好楼层，中等装修，满两年，钥匙在手",
+  "s_cate": "华泾",
+  "house_desc": [
+    "1室1厅|63.5平|中区/32层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "盛华景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "315万"
+}{
+  "singel_price": "单价90084元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4870232.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/c55bdff5-d2fd-4f9d-b52b-844b8c0cd98d.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，黄金楼层，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "5室2厅|166.51平|中区/29层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "中海瀛台",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价45454元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829432.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/2aed9051-0cf8-4fca-90fa-28b9daa66b0d.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区采光好，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|66.0平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华泾四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "300万"
+}{
+  "singel_price": "单价53745元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772223.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/8ea6c27b-2b29-499e-ac94-dc4355865570.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，黄金楼层，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室0厅|60.47平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华发小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "325万"
+}{
+  "singel_price": "单价50413元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579295.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170405/d4f9048d-d2f3-491d-9f63-c1df4fc4e96c.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，高区采光好，品质装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "1室1厅|47.21平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "名人花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "238万"
+}{
+  "singel_price": "单价51010元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4571132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170330/2b115284-68cc-4268-aae1-081872aea6fd.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野很好，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|53.91平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华建一街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "275万"
+}{
+  "singel_price": "单价57111元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4481909.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/e482d5af-ecdf-4826-a1a0-c739ba788450.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，简单装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室0厅|54.28平|中区/7层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "华欣家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "310万"
+}{
+  "singel_price": "单价52001元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4543537.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170327/148853f7-0c68-4f78-bfb2-1fc5fcaa5eb6.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通透，厨卫全明，上下楼方便，毛坯房",
+  "s_cate": "华泾",
+  "house_desc": [
+    "3室2厅|126.92平|低区/29层"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "盛华景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "660万"
+}{
+  "singel_price": "单价45454元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170302/4aab1da9-b360-4e63-be3c-13ecf8b736c7.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，好楼层，中等装修",
+  "s_cate": "华泾",
+  "house_desc": [
+    "2室1厅|55.0平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "紫阳花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huajing",
+  "house_price": "250万"
+}

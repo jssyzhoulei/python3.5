@@ -1,0 +1,103 @@
+{
+  "singel_price": "单价29904元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815964.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/ceb84fbb-d593-4cbf-ba91-f2ac40dc680f.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "森海豪庭，楼层好，满五减税，上门实勘",
+  "s_cate": "朱泾",
+  "house_desc": [
+    "2室2厅|89.62平|中区/5层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "森海豪庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhujing",
+  "house_price": "268万"
+}{
+  "singel_price": "单价25216元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4584910.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170414/eedd2684-769b-4085-a4a5-c43be14011d2.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "稀缺南北通，视野开阔，精装修，满五减税",
+  "s_cate": "朱泾",
+  "house_desc": [
+    "3室2厅|111.04平|高区/6层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "金玉良苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhujing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价25335元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4511582.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/4cb4c2b1-5280-498a-92a7-b0138cc0ff8c.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北户型，光线充足，毛坯房，满二减税",
+  "s_cate": "朱泾",
+  "house_desc": [
+    "3室2厅|121.57平|中区/13层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "汤泉美地城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhujing",
+  "house_price": "308万"
+}{
+  "singel_price": "单价23020元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732157.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/b4bd4db9-2465-4044-af96-de864ee74de7.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "临源一村，光线非常好，中等装修，上门实勘",
+  "s_cate": "朱泾",
+  "house_desc": [
+    "2室1厅|60.38平|高区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "临源一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhujing",
+  "house_price": "139万"
+}{
+  "singel_price": "单价25241元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4714865.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170712/66defce5-6821-4f5d-8c14-ff920625ac17.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "临源二村，低区出入方便，上门实拍，真实在售",
+  "s_cate": "朱泾",
+  "house_desc": [
+    "3室1厅|72.5平|低区/6层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "临源二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhujing",
+  "house_price": "183万"
+}{
+  "singel_price": "单价28313元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4527400.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170227/a14e6a19-02c3-4977-bcc5-b902f0e82171.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "汇佳新苑，上下楼方便，中等装修，上门实拍",
+  "s_cate": "朱泾",
+  "house_desc": [
+    "2室2厅|104.19平|低区/10层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "汇佳新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/zhujing",
+  "house_price": "295万"
+}

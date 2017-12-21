@@ -1,0 +1,18 @@
+{
+  "singel_price": "单价12195元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4714945.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170712/a2796b0b-a183-4cd8-a40b-71dbf1fccb23.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "低楼层，省装修费，满五年，热门带看",
+  "s_cate": "廊下",
+  "house_desc": [
+    "3室2厅|123.0平|低区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "景乐南一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/langxia",
+  "house_price": "150万"
+}

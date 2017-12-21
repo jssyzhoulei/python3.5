@@ -1,0 +1,497 @@
+{
+  "singel_price": "单价27589元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4566582.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/7c22a576-b75d-43b5-befd-34d6ee7ea78c.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，黄金楼层，中等装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "3室2厅|86.99平|中区/18层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "启航城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "240万"
+}{
+  "singel_price": "单价25111元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4857410.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/922a6953-4742-498f-a78e-27fdf0d6177d.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "卧室带阳台，高区景观房，品味装修，房本满五年",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "1室1厅|51.77平|高区/16层|朝东南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "启航城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "130万"
+}{
+  "singel_price": "单价26973元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842707.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/65afd9d5-eb0c-447a-9c3f-b55517cbec05.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，好楼层，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室1厅|76.0平|中区/18层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "205万"
+}{
+  "singel_price": "单价26348元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742000.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170805/0715f2f2-f48b-4083-92d5-a1f21aa3f16e.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，低楼层，满两年",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室1厅|81.6平|低区/21层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "215万"
+}{
+  "singel_price": "单价14246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732299.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170728/bd694d1d-1466-4f26-b5f3-18ecbc3949bf.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北通，低区出入方便，毛坯房，满两年",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|182.5平|低区/28层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "260万"
+}{
+  "singel_price": "单价26630元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662293.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161006/9200b8f1-f61b-4289-81e8-0638e9d92d63.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北直通，客厅朝南，黄金楼层，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|84.49平|中区/22层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "225万"
+}{
+  "singel_price": "单价27060元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4607924.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161027/acde99e0-306d-48b6-bc8a-249be2d7ba1f.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，视野开阔，精装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|81.3平|高区/28层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "220万"
+}{
+  "singel_price": "单价27287元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546691.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170317/c09cd5b5-6eae-4a61-8ce6-32aa55cbbc4c.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线非常好，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "1室1厅|62.3平|高区/28层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "170万"
+}{
+  "singel_price": "单价23891元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4347677.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170330/197a3668-4c01-4b3f-b9bd-327817274687.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，好楼层，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|84.55平|中区/22层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "202万"
+}{
+  "singel_price": "单价25738元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2090098.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/37ae9a39-ba22-426f-aa08-f006af0d2c56.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，视野很好，拎包入住",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|81.59平|高区/22层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "210万"
+}{
+  "singel_price": "单价25396元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825582.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/c4eed0ff-c0fe-4903-a9dc-c946baa49699.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室全南，高区阳光房，马上看房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室1厅|63.0平|高区/28层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "160万"
+}{
+  "singel_price": "单价26489元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796160.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170404/51fdb194-3be5-49b0-b5e0-e5a6036401f8.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，低区出入方便，随时可看",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "1室1厅|62.29平|低区/28层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "165万"
+}{
+  "singel_price": "单价25260元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753383.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/1e8db0fb-6133-47ab-a66e-eec4eecf82ed.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，好楼层，拎包入住",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室1厅|81.55平|中区/22层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "206万"
+}{
+  "singel_price": "单价23882元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650239.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/799ddafc-2eb7-4eee-ba2e-5e54cb075562.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，上下楼方便，装修精致",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|85.0平|低区/22层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "203万"
+}{
+  "singel_price": "单价26241元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639204.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170616/0b461a70-9254-4a9c-98da-ddf36990cb7f.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，厨卫全明，上下楼方便，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|81.17平|低区/26层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "213万"
+}{
+  "singel_price": "单价27302元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4622898.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/24b88473-59e1-42d1-8be0-4b33d8ce7a5b.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北户型，客厅朝南，高区采光好，品质装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "3室2厅|83.51平|高区/18层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "启航城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "228万"
+}{
+  "singel_price": "单价25486元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4591801.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/088df52b-0dfc-4750-a5a7-d840fa44c754.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，厨卫全明，低楼层，拎包入住",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|86.32平|低区/18层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "启航城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "220万"
+}{
+  "singel_price": "单价26163元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863603.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/fd1ba6c5-b5f1-43e1-b92a-3ab9793d88b9.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低区出入方便，简单装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "1室1厅|62.3平|低区/28层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "163万"
+}{
+  "singel_price": "单价28897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784796.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/4cdc8d38-15b2-4bd9-a85a-5fbdab444d32.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，上下楼方便，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "1室1厅|62.29平|低区/28层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "180万"
+}{
+  "singel_price": "单价27437元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624422.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/bd476224-9868-43ca-a6d3-4e6267e29dd4.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低楼层，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|87.47平|低区/28层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "240万"
+}{
+  "singel_price": "单价26294元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618871.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/5e90adbf-475b-43a4-a2ec-495cb90be5e5.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北通透，客厅朝南，上下楼方便，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|87.47平|低区/28层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "230万"
+}{
+  "singel_price": "单价27710元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867364.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171124/ba467372-e95b-444d-be9e-05b7f6202e6a.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北户型，厨卫全明，高区景观房，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|83.0平|高区/17层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "230万"
+}{
+  "singel_price": "单价24005元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842584.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171103/b88acf69-4b09-42e2-b440-50bd89a9fd84.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，带飘窗，低区出入方便，简单装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|87.48平|低区/28层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "210万"
+}{
+  "singel_price": "单价33760元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785243.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170908/5ffccd22-f2dc-4038-aff6-903a81591a51.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "房型正气，客厅朝南，低楼层，经典装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "4室3厅|88.27平|低区/22层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "298万"
+}{
+  "singel_price": "单价24885元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775532.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/ffd05123-98a9-41f5-b2da-2fab0efb0c02.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室全南，客厅带阳台，高区采光好，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室1厅|76.35平|高区/16层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "190万"
+}{
+  "singel_price": "单价29429元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747081.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/87162f05-5438-4328-abd8-8b1417b0c2e3.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，厨卫全明，视野开阔，马上看房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|81.55平|高区/16层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "240万"
+}{
+  "singel_price": "单价25490元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706157.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/eca78894-766f-4769-8af5-f69c0d18eae4.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，客厅朝南，低楼层，毛坯房",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "3室2厅|102.0平|低区/14层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代嘉苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "260万"
+}{
+  "singel_price": "单价25830元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4329876.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160929/5c85ded2-6271-44ee-a756-00a3b2929745.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，低楼层，精装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|81.3平|低区/28层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "绿地时代名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "210万"
+}{
+  "singel_price": "单价26373元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812759.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/e9bd0fe7-4f9e-428a-84c8-74f90087a773.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室1厅|63.7平|低区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "鹤祥苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "168万"
+}{
+  "singel_price": "单价27476元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4614136.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/7229f9f3-c9c3-4715-a809-165d259418b6.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北直通，客厅朝南，视野很好，品质装修",
+  "s_cate": "白鹤",
+  "house_desc": [
+    "2室2厅|86.62平|高区/18层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "启航城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/baihe",
+  "house_price": "238万"
+}

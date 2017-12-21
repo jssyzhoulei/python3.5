@@ -1,0 +1,503 @@
+{
+  "singel_price": "单价19605元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4816934.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171104/f048b3cc-fa8f-45a9-82d7-36b78491de7a.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，客厅朝南，楼层好，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|102.01平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "爱家新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "200万"
+}{
+  "singel_price": "单价24782元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791975.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/ce937b42-bf40-4e74-bedd-2ba2377e59a4.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低区出入方便，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|92.0平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "228万"
+}{
+  "singel_price": "单价23928元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786497.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/df9e750b-c3a0-461b-84ae-b6390527ab46.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，上下楼方便，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室1厅|87.76平|低区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价24659元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4338291.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170309/2cc9e52a-407b-4234-a4f3-c84111b06e9d.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北通透，厨卫全明，视野开阔，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|92.46平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "228万"
+}{
+  "singel_price": "单价21230元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780538.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/a5dd7320-1aea-468e-9169-72730ee271b5.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "卧室全南，黄金楼层，装修精致，满五减税",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室1厅|65.0平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "南湾新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "138万"
+}{
+  "singel_price": "单价21904元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684768.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/89b6b25d-ab26-46ce-a16e-2403a70b84d9.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通，客厅朝南，视野开阔，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|126.0平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "永宁东路531弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "276万"
+}{
+  "singel_price": "单价23913元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872031.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/e9988397-69fc-4b3d-bab2-99db85f8353b.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|92.0平|低区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价20288元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753869.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/6b4bfbac-0bc0-427f-be16-a1b6dcc2e658.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，好楼层，满5年",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|83.79平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "三墩花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "170万"
+}{
+  "singel_price": "单价20288元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753868.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/e8096a0d-b36d-4e60-8f6e-5cf67851fd38.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，好楼层，满五减税",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|83.79平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "三墩花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "170万"
+}{
+  "singel_price": "单价20218元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706885.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/8983e946-a832-4ce5-a532-d6f15a81f37b.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，厨卫全明，光线充足，拎包入住",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|96.94平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "三墩花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "196万"
+}{
+  "singel_price": "单价24707元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666049.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/5bb62791-f859-4502-b30f-492d0f9775bf.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "光线非常好，装修精致，满五减税，上门实拍",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室1厅|89.04平|高区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金团花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价17346元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4602696.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170529/eadf05c4-55d6-4ec5-a9e6-2c69244964a0.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "高区采光好，品味装修，房本满五年，高清摄影",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|121.06平|高区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "三墩花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价26136元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4565133.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170605/4d173df0-6800-4566-93eb-cb50906b7303.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "高区采光好，品质装修，火爆热销，高清摄影",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|88.0平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "230万"
+}{
+  "singel_price": "单价20000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672063.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/96537b11-2778-46fb-87db-4a250afd39ca.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北通，卧室带阳台，高区采光好，省装修费",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|95.0平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "三墩花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "190万"
+}{
+  "singel_price": "单价17668元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808866.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/b7eb8780-6430-4c0f-b097-a2aa1fede5df.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "房型正气，厨卫全明，采光无遮挡，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室1厅|60.56平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "南湾新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "107万"
+}{
+  "singel_price": "单价31125元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4736230.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/b51e7d1d-6bcf-4280-a7b8-98d92866f0fd.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "楼层好，装修精致，人气房源，上门实勘",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|151.0平|中区/2层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "470万"
+}{
+  "singel_price": "单价24719元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4607488.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/8406571f-1de5-4d58-9735-9f528851e784.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "带飘窗，卧室全南，好楼层，中等装修",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|89.0平|中区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价15893元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603777.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/50789805-ecc2-43d3-9248-f8b1bcdde2a8.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，黄金楼层，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|106.96平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "芦洋花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "170万"
+}{
+  "singel_price": "单价23863元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4520529.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/98a06cd2-04e3-4c8a-a504-5d085297121d.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "好楼层，装修精美，热门带看，高清摄影",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|88.0平|中区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价17433元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712431.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/cd179a88-b08f-4605-a159-c74731f60e43.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，采光无遮挡，省装修费",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|143.4平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "南湾新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "250万"
+}{
+  "singel_price": "单价17054元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666195.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/20fab3b7-5994-4b50-9b4f-ee7266544aeb.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，黄金楼层，中等装修",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|129.0平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "南湾新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价27328元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819640.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/32fa3865-736d-4deb-804c-c8ac96352c9b.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "带飘窗，卧室全南，黄金楼层，拎包入住",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|87.82平|中区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "240万"
+}{
+  "singel_price": "单价29545元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4801466.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/36055add-057c-4a37-8ad0-752ca39054de.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "客厅朝南，客厅带阳台，光线非常好，省装修费",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室1厅|88.0平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "260万"
+}{
+  "singel_price": "单价24875元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788640.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/0cbb26bf-7119-4ffd-b87c-be97f3a83790.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，光线非常好，简单装修",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|92.46平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "230万"
+}{
+  "singel_price": "单价21150元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763057.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/02ee623e-957a-44f5-a366-531545976036.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，厨卫全明，高区采光好，装修精致",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|125.29平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "爱家新城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "265万"
+}{
+  "singel_price": "单价30837元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759402.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/bc2cb91c-9071-4c44-9280-ecfa2e2b7cef.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀缺南北通，光线非常好，简单装修，高清实拍",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|113.5平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "吉园坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "350万"
+}{
+  "singel_price": "单价31776元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715975.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170713/5ae523b0-672b-4b77-ae96-1b8f86714c33.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，带飘窗，采光好，拎包入住",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "3室2厅|116.44平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "吉园坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "370万"
+}{
+  "singel_price": "单价25068元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4702982.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170409/5b35edc6-061a-4fe3-aeff-c3446ae047a0.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，低区出入方便，毛坯房",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|87.76平|低区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价29505元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701589.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/488f395b-711e-4a92-86ea-306360120575.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "客厅朝南，卧室全南，楼层好，装修精致",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室1厅|88.12平|中区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "260万"
+}{
+  "singel_price": "单价25000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696653.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/09c3fbf8-37c4-43b1-ac33-ec214aa68719.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，黄金楼层，精装修",
+  "s_cate": "大团镇",
+  "house_desc": [
+    "2室2厅|88.0平|中区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "同润蓝美俊庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/datuanzhen",
+  "house_price": "220万"
+}

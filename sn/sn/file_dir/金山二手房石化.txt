@@ -1,0 +1,137 @@
+{
+  "singel_price": "单价19090元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807513.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171003/66f51fb2-473a-4d16-a3fc-8a3d2ebf32fb.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北直通，低区出入方便，简单装修，房本满五年",
+  "s_cate": "石化",
+  "house_desc": [
+    "2室1厅|77.0平|低区/23层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "东礁一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "147万"
+}{
+  "singel_price": "单价20931元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773220.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/0064d051-4e5e-44ff-89da-24493217ad5c.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "南北通，好楼层，中等装修，满五年",
+  "s_cate": "石化",
+  "house_desc": [
+    "2室1厅|59.72平|中区/6层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "梅州新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "125万"
+}{
+  "singel_price": "单价20839元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705482.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/02260d96-ccc8-4723-adf3-0871401fd0f7.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "高区阳光房，品质装修，满五减税，上门实勘",
+  "s_cate": "石化",
+  "house_desc": [
+    "2室1厅|64.78平|高区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "石化二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "135万"
+}{
+  "singel_price": "单价18418元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700222.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170628/89dbd188-f24d-4e80-bf61-f70ac3a0164e.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "视野很好，简单装修，满二减税，上门实勘",
+  "s_cate": "石化",
+  "house_desc": [
+    "2室1厅|46.15平|高区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "石化十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "85万"
+}{
+  "singel_price": "单价21153元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/2a701c96-d240-438d-a20c-7292842b368d.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北通，高区采光好，装修精致，上门实勘",
+  "s_cate": "石化",
+  "house_desc": [
+    "2室1厅|78.0平|高区/23层|朝南北"
+  ],
+  "district": "金山二手房",
+  "house_detail": "东礁一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "165万"
+}{
+  "singel_price": "单价22631元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747297.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/418a11d1-d5ef-4c80-a881-53e13807a801.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "山鑫公寓，上下楼方便，上门实拍，链家真房源",
+  "s_cate": "石化",
+  "house_desc": [
+    "3室2厅|114.0平|低区/6层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "山鑫公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "258万"
+}{
+  "singel_price": "单价19517元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/afd35aef-f8b0-4c05-b334-d796b39f4ede.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "石化十村，高区采光好，简单装修，上门实拍",
+  "s_cate": "石化",
+  "house_desc": [
+    "2室1厅|45.6平|高区/6层|朝南"
+  ],
+  "district": "金山二手房",
+  "house_detail": "石化十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "89万"
+}{
+  "singel_price": "单价17272元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jinshan",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712375.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/18da036c-cca3-4bbe-b7e6-1ed8fcb4f35c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "山鑫公寓，视野很好，上门实勘，真实在售",
+  "s_cate": "石化",
+  "house_desc": [
+    "3室2厅|110.0平|高区/6层"
+  ],
+  "district": "金山二手房",
+  "house_detail": "山鑫公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shihua",
+  "house_price": "190万"
+}

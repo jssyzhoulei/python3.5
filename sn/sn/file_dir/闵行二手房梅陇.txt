@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价66848元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4820779.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171011/6a4dfbce-096a-4d63-9360-0ed4c4796cfa.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁沿线，光线充足",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "3室2厅|169.04平|中区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "世纪苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "1130万"
+}{
+  "singel_price": "单价67381元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775811.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170914/a0cb2aaa-066f-459a-8134-2a387869f6e6.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，地铁直达，光线非常好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|93.2平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海阳城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "628万"
+}{
+  "singel_price": "单价47936元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678967.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/dd40a75b-e277-446b-8c2e-a08baca0d5bc.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，视野很好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室1厅|71.97平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗阳七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "345万"
+}{
+  "singel_price": "单价53754元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4667364.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/a676e769-647a-4f38-a5e2-32dc7966e6dc.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室全南，地铁房，低区出入方便，简单装修",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室1厅|62.32平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗阳七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "335万"
+}{
+  "singel_price": "单价51211元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4527632.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170304/35ec2334-6fb5-46d7-b926-b31bd1999f82.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，上下楼方便",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|50.77平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "梅陇二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "260万"
+}{
+  "singel_price": "单价54447元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/6a50bdf8-4813-4f49-9161-e660b319c28f.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，采光好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|37.1平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗阳七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "202万"
+}{
+  "singel_price": "单价54157元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4551003.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170322/5cddd525-58e8-4174-953d-a611ab5d0796.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，采光好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室1厅|57.24平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "梅陇二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "310万"
+}{
+  "singel_price": "单价55451元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4547267.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170313/96c9c154-876d-4323-bc0c-3c028be7355a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁沿线，高区景观房",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|74.84平|高区/7层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗秀新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "415万"
+}{
+  "singel_price": "单价52343元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4852798.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171122/1524240d-d39b-4e98-abba-c2a3f880be20.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "房型正气，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|84.06平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "朱梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "440万"
+}{
+  "singel_price": "单价56833元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826257.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/26a2c644-69b9-4a36-b0db-d55ed2ed93e4.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，上下楼方便",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|37.83平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "梅陇二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "215万"
+}{
+  "singel_price": "单价52060元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4766652.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/7f8e2349-bfc9-431c-9184-9e2c336fda73.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁房，黄金楼层",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室1厅|55.32平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗阳七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "288万"
+}{
+  "singel_price": "单价68365元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742620.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/8f274dd4-8cb3-4ebc-b2be-1110cc700da0.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，交通便利，高区景观房",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "3室2厅|128.72平|高区/12层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "西班牙名园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "880万"
+}{
+  "singel_price": "单价52722元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4713799.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/fa7760b3-a128-4557-9258-f86872f5a59e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，卧室全南，地铁直达，低区出入方便",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|46.47平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "紫藤二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "245万"
+}{
+  "singel_price": "单价56648元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594153.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/1f0cf069-3cde-4898-902d-9bca2c0a8530.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，出行方便，低区出入方便",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室1厅|67.08平|低区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗秀新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "380万"
+}{
+  "singel_price": "单价45008元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4557299.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170320/e6d46838-7d48-4944-997a-e32dcaeac47a.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，交通便利，高区阳光房",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "3室2厅|109.98平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗阳七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "495万"
+}{
+  "singel_price": "单价50537元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4506064.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170703/8179338c-e235-46b5-a0f6-a398465197b8.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，出行方便，视野很好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "3室2厅|170.17平|高区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "望族苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "860万"
+}{
+  "singel_price": "单价56724元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4867794.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/18787f75-6028-4441-bedc-73000abcdd03.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，出行方便，光线充足",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|126.93平|中区/12层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "世纪苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "720万"
+}{
+  "singel_price": "单价65717元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679365.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160325/b3c90139-3340-421f-877e-bf5cd8a80fd0.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁直达，低楼层",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|91.3平|低区/7层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海阳城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "600万"
+}{
+  "singel_price": "单价53897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514439.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170328/3402e1f9-cdb0-42dc-bef4-e5f8c17e2e2a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，低区出入方便",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室0厅|36.18平|低区/6层|朝东南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "梅陇二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "195万"
+}{
+  "singel_price": "单价64564元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4866231.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/f0f6ec38-6447-417f-8808-e3009e361b59.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，交通便利，楼层好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|92.93平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海阳城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "600万"
+}{
+  "singel_price": "单价53502元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833779.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/34d09004-09a8-4656-8a46-63736ddf73ca.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低区出入方便",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|46.54平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "梅陇二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "249万"
+}{
+  "singel_price": "单价53568元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790991.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170912/5a9adfd7-01b7-4d6c-9c2b-e628cb0c582a.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北通，卧室全南，地铁直达，光线充足",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室1厅|69.07平|中区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "梅陇一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "370万"
+}{
+  "singel_price": "单价51793元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771808.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/ab52d4dc-a6df-4ea2-a2fd-44508d956473.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|52.13平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "罗阳七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "270万"
+}{
+  "singel_price": "单价54414元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668286.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/bff60596-5a08-4735-adb1-dd83298d1b70.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，采光无遮挡",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|48.7平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "紫藤一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "265万"
+}{
+  "singel_price": "单价63438元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4690599.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/3769e584-2794-4b9b-9cd5-8912bbe5f56e.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，卧室带卫，视野开阔，毛坯房",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|107.19平|高区/24层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中梅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "680万"
+}{
+  "singel_price": "单价49879元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4687004.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/fd36b9a0-66bd-46b6-951e-f2480cdd8da0.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区景观房，简单装修",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室1厅|54.13平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "朱行四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "270万"
+}{
+  "singel_price": "单价63793元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/99004928-638f-4012-9a7d-17aeac186979.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，交通便利，楼层好",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|93.27平|中区/8层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海阳城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "595万"
+}{
+  "singel_price": "单价58036元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808129.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/72762de6-a0b4-4d25-b455-73d71318eff2.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，黄金楼层",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "2室2厅|81.5平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "朱梅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "473万"
+}{
+  "singel_price": "单价55317元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795733.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/9d13cfe1-1e1c-4bc6-ae7d-a8a11cb534fd.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，好楼层",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "1室1厅|44.29平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "梅陇一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "245万"
+}{
+  "singel_price": "单价61440元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737368.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/dc290400-d8cb-4354-b997-2fa1793c10ea.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，交通方便，好楼层",
+  "s_cate": "梅陇",
+  "house_desc": [
+    "3室1厅|87.89平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "上海阳城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/meilong",
+  "house_price": "540万"
+}

@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价81528元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4575506.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170402/d140b0de-e5d4-43d1-8ac0-8b759924a15c.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，视野开阔",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "1室1厅|39.25平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东安四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "320万"
+}{
+  "singel_price": "单价102720元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4863150.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/a0d11442-3e64-495d-be31-0ce18ec25edd.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁沿线，低区出入方便",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|141.16平|低区/18层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "颐峰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1450万"
+}{
+  "singel_price": "单价94265元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851050.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171109/2f2e24ba-5bb2-4049-8705-867f573fbe2e.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，地铁沿线，采光无遮挡",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "4室2厅|164.43平|高区/24层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "鑫国家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1550万"
+}{
+  "singel_price": "单价80988元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842219.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/9508888c-dd3b-4abd-89a0-bf49cbfe29ee.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，上下楼方便，简单装修",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室1厅|61.49平|低区/24层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "乐山大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "498万"
+}{
+  "singel_price": "单价70666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788232.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170910/95306644-cf82-4418-927c-c92ed5a9926f.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "卧室带阳台，交通便利，楼层好，品味装修",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室1厅|80.66平|中区/14层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "漕溪大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "570万"
+}{
+  "singel_price": "单价95615元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777352.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/1b8011f4-5d16-4d67-9ae3-6d3a90a43703.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，客厅带阳台，地铁沿线，光线充足",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|158.97平|中区/26层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "徐家汇花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1520万"
+}{
+  "singel_price": "单价123369元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770344.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/4120a08f-291a-408b-9c3f-8cec88b88443.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，地铁房，低楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室2厅|85.11平|低区/37层|朝东"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东方曼哈顿",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价47609元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4757009.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160227/e57f3c92-6b40-4132-afe8-8de1ef179d96.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "地铁沿线，楼层好，品质装修，满五减税",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室2厅|96.41平|中区/29层|朝北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "爱邦大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "459万"
+}{
+  "singel_price": "单价101847元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756908.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/cca7852e-d589-4984-a344-79c154b146c6.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，低区出入方便",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "1室2厅|68.73平|低区/24层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "电影华苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "700万"
+}{
+  "singel_price": "单价83568元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756503.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/b0742861-fe7d-4e7e-8380-30eeeaa4a022.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室2厅|95.61平|低区/24层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "裕德大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "799万"
+}{
+  "singel_price": "单价78222元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4732238.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/5750a102-a1b1-415e-9f37-df0b859a7c9a.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室1厅|63.92平|低区/24层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "乐山大楼",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "500万"
+}{
+  "singel_price": "单价79597元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4731433.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170725/db365fde-5f31-4664-9138-8f406a6b89c3.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，楼层好，简单装修",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "1室1厅|47.74平|中区/24层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "橡胶小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "380万"
+}{
+  "singel_price": "单价80934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4714887.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171102/57d71bdc-8b8b-4932-b6a7-4ff7681d2972.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，低楼层，品味装修",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "1室1厅|31.26平|低区/6层|朝西北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "东安二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "253万"
+}{
+  "singel_price": "单价82876元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4711612.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170708/d995842e-b0fe-4e7f-bf0a-52b1800ce129.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，好楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室1厅|74.81平|中区/24层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "乐山一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "620万"
+}{
+  "singel_price": "单价92772元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4709523.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/c3265a96-9158-4914-a954-c35cc322e463.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，交通便利，好楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室2厅|113.18平|中区/28层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凯旋花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1050万"
+}{
+  "singel_price": "单价90870元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698301.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/b3ad23a4-ec9e-45ca-841d-72f5c52a9ca8.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，卧室带卫，地铁沿线，楼层好",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室2厅|118.85平|中区/22层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "徐家汇花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1080万"
+}{
+  "singel_price": "单价90305元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4691534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/32917518-65a4-41df-bed5-bed60487688c.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，低楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|155.03平|低区/33层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "永新花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价64826元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4678794.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170324/bfcef8ce-88a2-4aa9-9c3e-7577af8f7016.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，交通方便，黄金楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|167.37平|中区/34层|朝东北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "佳安公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1085万"
+}{
+  "singel_price": "单价79269元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4675979.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/7c056213-2fc2-40ce-b714-5f5c3607d00f.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，采光好，省装修费",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室1厅|74.43平|高区/18层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "乐山八九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "590万"
+}{
+  "singel_price": "单价87532元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669798.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170606/c116db47-2a87-47a2-87de-f0d2b7e7837d.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，交通便利，光线充足",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|178.22平|中区/34层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "汇翠花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1560万"
+}{
+  "singel_price": "单价98492元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650457.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161025/7fbdb96a-6586-410c-9373-ec7922408fb4.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "房型正气，厨卫全明，出行方便，低楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|147.22平|低区/37层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "尊园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1450万"
+}{
+  "singel_price": "单价72242元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4627650.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170508/b1850444-cb53-4e18-b078-f5167a43f15a.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "地铁直达，黄金楼层，中等装修，满五年",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "1室1厅|35.99平|中区/6层|朝北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "斜土路2200弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "260万"
+}{
+  "singel_price": "单价78723元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4604616.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170424/18156c6f-ad78-4137-85fb-20d30a890528.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，交通方便，好楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "1室1厅|47.0平|中区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "零陵小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "370万"
+}{
+  "singel_price": "单价85244元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508065.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/96333f7f-f517-4dad-9872-9cbefd42272c.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，楼层好",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "1室1厅|64.52平|中区/26层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "申峰大厦",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "550万"
+}{
+  "singel_price": "单价64826元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4470440.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/2e6daf4e-2ab9-49f9-81d7-54664730e3df.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|167.37平|中区/34层|朝东北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "佳安公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1085万"
+}{
+  "singel_price": "单价101881元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4356219.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161027/08ae9c5a-5d00-4cee-8b41-9dacebd0f43a.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，客厅朝南，地铁直达，黄金楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|147.23平|中区/28层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹桥乐庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价86614元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4307444.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/6327ffb7-a52a-4cc3-bf08-231b0c3c3c37.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通方便，低楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|127.0平|低区/31层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "徐家汇花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价102332元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4256573.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160907/9e23d606-9687-409b-b998-9870b04e20ba.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "交通方便，视野很好，中等装修，满5年",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "2室2厅|94.3平|高区/28层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "锦汇苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "965万"
+}{
+  "singel_price": "单价83700元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4150071.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160722/ca163641-fb53-4511-b3ea-b1cbd6529c8b.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "稀罕南北通，交通便利，低区出入方便，品质装修",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|176.82平|低区/29层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "天际花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1480万"
+}{
+  "singel_price": "单价77705元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh2810529.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160831/ea9e3bbe-7f24-4c2e-896e-1b8ffe4f3994.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁直达，好楼层",
+  "s_cate": "徐家汇",
+  "house_desc": [
+    "3室2厅|154.43平|中区/25层|朝东"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "玉兰花苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xujiahui",
+  "house_price": "1200万"
+}

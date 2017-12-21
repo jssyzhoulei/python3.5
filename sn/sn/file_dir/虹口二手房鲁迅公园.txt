@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价73121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4564181.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/629011dd-ccc1-4ab5-88e1-2786ec8c5d5c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "3室1厅|84.79平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "曲阳新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "620万"
+}{
+  "singel_price": "单价62583元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814826.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/71cef2a9-2650-4811-8bcf-e39030a77cff.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，采光无遮挡",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室2厅|97.47平|高区/25层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "宏凯公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "610万"
+}{
+  "singel_price": "单价69151元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763068.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170821/b61f2f08-dc7f-4090-8aa7-2b0843e52620.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，出行方便，楼层好，简单装修",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|42.66平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欧阳路317号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "295万"
+}{
+  "singel_price": "单价67142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4743119.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/2a9ad3b0-e0d8-4033-b687-e9123ebf3051.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通方便，黄金楼层",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室0厅|35.0平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欧九小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "235万"
+}{
+  "singel_price": "单价89069元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655802.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170111/b013561b-7b82-41b4-9c8e-882397ee1454.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "带飘窗，卧室带卫，交通方便，采光好",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "5室2厅|194.23平|高区/20层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "世博花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "1730万"
+}{
+  "singel_price": "单价77438元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4470711.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170103/3fb41b12-8fe2-40f0-a5fc-423f1a2a4376.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，地铁房，好楼层",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|43.26平|中区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "何家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "335万"
+}{
+  "singel_price": "单价66895元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4431235.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170204/0643dd3a-a406-433f-812f-6b20537b2ddf.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁直达，高区景观好",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|55.31平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欧九小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "370万"
+}{
+  "singel_price": "单价86946元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4132906.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/2014/0531/C8757F433C51479B95A253523A3FEC98.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通透，带飘窗，交通便利，高区阳光房",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "6室3厅|258.78平|高区/11层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "世博花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "2250万"
+}{
+  "singel_price": "单价67255元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4512810.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/d1e983e1-8906-41cf-b634-09695ead5625.jpg_200x150.jpg",
+  "house_time": [
+    "1974年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|47.58平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欧四小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价70488元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4844565.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/aca95a64-1a51-43b9-b11f-9ee4a8f5108c.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，地铁沿线，低楼层",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室1厅|53.2平|低区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "何家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "375万"
+}{
+  "singel_price": "单价68945元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756232.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/b76ea4a8-96e8-467d-b531-f3f31d59f012.jpg_200x150.jpg",
+  "house_time": [
+    "1977年建"
+  ],
+  "house_title": "地铁房，低楼层，简单装修，满5年",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室1厅|34.81平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "四达路25弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "240万"
+}{
+  "singel_price": "单价59657元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4644851.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/fd4c6d65-04c1-4fbd-8475-efc0b06ceb9c.jpg_200x150.jpg",
+  "house_time": [
+    "1978年建"
+  ],
+  "house_title": "南北通，厨卫全明，地铁房，视野开阔",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室2厅|88.84平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "山阴路343弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "530万"
+}{
+  "singel_price": "单价65691元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170405/b7847db7-b392-4884-a952-ac64a0e79c75.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光无遮挡",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室1厅|40.34平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "何家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "265万"
+}{
+  "singel_price": "单价64000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4473964.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170106/9325808c-50ba-4e6c-8271-3139d311eb90.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，采光好",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|50.0平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "黄山路240号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "320万"
+}{
+  "singel_price": "单价66013元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4311166.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161003/7836852a-97c8-4d72-b59b-4d236f0dabac.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，高区景观房",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室1厅|49.99平|高区/7层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "同心路125弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "330万"
+}{
+  "singel_price": "单价75914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4821012.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/9cb879d7-6942-4c31-9da3-d5e33b931aa3.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，光线充足",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室2厅|89.97平|中区/28层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "嘉宏紫薇园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "683万"
+}{
+  "singel_price": "单价91014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4789819.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/5b85f2ef-a0ea-44bd-842f-a1c5dc5c2ef2.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "卧室带卫，卧室全南，地铁沿线，低楼层",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "3室2厅|137.34平|低区/23层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "世博花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "1250万"
+}{
+  "singel_price": "单价66216元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4782620.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170906/db86adec-b93e-4485-baa9-6e2fcb76bb31.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，交通便利，高区景观房",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|37.0平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "四达路166弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "245万"
+}{
+  "singel_price": "单价70971元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4698443.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170702/471c7e77-de2a-4cac-841b-cbd7021b4c2f.jpg_200x150.jpg",
+  "house_time": [
+    "1968年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，地铁直达，好楼层",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室1厅|35.93平|中区/2层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "祥德路139弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "255万"
+}{
+  "singel_price": "单价69980元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4679562.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/fb086f7c-8ea8-4a52-b6da-2a469c8c4ce2.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，地铁房，黄金楼层，简单装修",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室1厅|76.45平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "四平路421弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "535万"
+}{
+  "singel_price": "单价65426元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605699.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170425/cdc88e50-1311-43e9-a76d-a5b4d11adbd4.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线非常好",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室1厅|83.3平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "北郊小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "545万"
+}{
+  "singel_price": "单价74961元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4562530.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/0ee8a081-fc3d-49d3-976f-95e2bea58846.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，客厅带阳台，地铁房，上下楼方便",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|64.7平|低区/21层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "虹临花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "485万"
+}{
+  "singel_price": "单价67372元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4533420.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160910/b8a26ff8-20da-4044-90fe-ceee1c9fbbce.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "出行方便，光线充足，简单装修，满五年",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室0厅|33.99平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "何家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "229万"
+}{
+  "singel_price": "单价72408元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514185.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/69efe114-3ca4-4937-9766-a551020df69c.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，上下楼方便",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室1厅|39.36平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "水电路201号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "285万"
+}{
+  "singel_price": "单价68273元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4508382.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170216/4bd3194c-2960-47ea-8206-6bd3d3cc9f8b.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，黄金楼层",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室1厅|59.32平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "何家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "405万"
+}{
+  "singel_price": "单价63515元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712724.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/d4097ab9-6d44-4a67-8af3-c641e6d94d08.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，卧室全南，交通便利，楼层好",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室1厅|41.25平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欧四小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "262万"
+}{
+  "singel_price": "单价74466元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537330.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170312/a369de4e-c46d-451d-aaca-e27d21205e74.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，光线充足",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室0厅|55.73平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "何家宅小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "415万"
+}{
+  "singel_price": "单价75760元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4211392.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160819/939fa778-15e1-4b9b-9386-032922d2805e.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北直通，地铁沿线，视野开阔，品质装修",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "5室3厅|230.99平|高区/15层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "欧阳名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "1750万"
+}{
+  "singel_price": "单价79914元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4854633.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/af22447d-7384-4436-89ca-96bff7bc78b4.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，视野开阔",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "2室2厅|93.85平|高区/24层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "绿缘小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "750万"
+}{
+  "singel_price": "单价59488元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826978.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/30043451-7e97-4be6-8eab-1aa8bd11cb82.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，好楼层",
+  "s_cate": "鲁迅公园",
+  "house_desc": [
+    "1室0厅|33.62平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "商业一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/luxungongyuan",
+  "house_price": "200万"
+}

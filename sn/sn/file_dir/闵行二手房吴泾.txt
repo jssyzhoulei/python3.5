@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价50352元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833913.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/53385135-00de-4726-9c8f-033536440455.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低区出入方便，满五减税",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "1室0厅|29.79平|低区/5层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "150万"
+}{
+  "singel_price": "单价37390元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749137.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170809/ca96829d-895f-4876-9cfc-0b8d47d6a608.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，好楼层，拎包入住",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|53.49平|中区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "200万"
+}{
+  "singel_price": "单价37918元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712638.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170710/4863a5dd-e7dc-4758-99ca-03aeba0df11c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线充足，中等装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|76.48平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "通海二小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "290万"
+}{
+  "singel_price": "单价45047元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697231.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170701/9258242d-b8ac-4750-a489-5c157fe503c0.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通，客厅朝南，光线非常好，省装修费",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "3室2厅|79.25平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科阳光苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "357万"
+}{
+  "singel_price": "单价34448元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4845868.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161005/3a367074-4cfc-4e40-b35d-ea571a6e211c.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "视野很好，中等装修，满五年，来电即看",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|81.28平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙吴路5599弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价37500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700594.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/f9a6ed4e-91e5-426a-b2c4-22b248948905.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区景观好，精装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|52.0平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "氯碱小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "195万"
+}{
+  "singel_price": "单价35087元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674724.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170613/5a966bb9-7425-43a3-a0a7-b13f0462effe.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区采光好，简单装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|57.0平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "氯碱小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "200万"
+}{
+  "singel_price": "单价41502元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4620351.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/d45266c8-b0b9-4a33-bdf7-b150c2b6652e.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，采光好，中等装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "5室2厅|142.16平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "枫桦景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "590万"
+}{
+  "singel_price": "单价42481元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4547310.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170418/c1242af0-ba02-4c0a-b4fc-aa7052a0a072.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "上下楼方便，满五减税，有钥匙房源，热门带看",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|56.26平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "239万"
+}{
+  "singel_price": "单价41538元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779078.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/3bb1ed96-6a5e-4300-8557-3c917d0f933c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "南北户型，客厅朝南，视野开阔，品味装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "3室2厅|130.0平|高区/13层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "紫晶南园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "540万"
+}{
+  "singel_price": "单价43906元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4777563.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/03eb1c57-ccab-43a2-b8bd-4cb578da83ef.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，高区景观好，满五减税",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "3室1厅|89.28平|高区/14层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科阳光苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "392万"
+}{
+  "singel_price": "单价36420元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4746611.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/d15665e0-a65c-4310-acdb-2bcf4afd8ccb.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，卧室带卫，高区阳光房，中等装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "3室2厅|134.54平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹梅新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "490万"
+}{
+  "singel_price": "单价42412元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586590.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171008/8450f0b4-ba3c-4ae1-9306-837e708b9a59.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，楼层好，中等装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "3室2厅|129.68平|中区/18层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹梅新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "550万"
+}{
+  "singel_price": "单价42968元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4543674.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170318/56cf6bc7-40a6-4870-8568-0fb5e79bd05c.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，光线充足，毛坯房",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "1室2厅|64.0平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "紫晶南园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "275万"
+}{
+  "singel_price": "单价43231元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4313052.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161106/839d035b-8d79-4059-acd1-76c63f09bcc8.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "黄金楼层，简单装修，满五减税，看房有钥匙",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "1室1厅|37.01平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "160万"
+}{
+  "singel_price": "单价45904元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814066.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/fbb2e8f5-69fc-4eba-8f41-1fd0e0f69202.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，卧室全南，楼层好，省装修费",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "1室1厅|55.55平|中区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹梅新苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "255万"
+}{
+  "singel_price": "单价40983元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785242.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/a69af278-225e-4b86-83ca-a6d5181d5b78.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，黄金楼层，装修精致",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室2厅|93.94平|中区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹梅景苑一街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "385万"
+}{
+  "singel_price": "单价42897元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4762803.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/d2562685-be47-4494-bd50-eb26b234f253.jpg_200x150.jpg",
+  "house_time": [
+    "1982年建"
+  ],
+  "house_title": "南北直通，楼层好，精装修，满二减税",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|50.12平|中区/5层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "215万"
+}{
+  "singel_price": "单价50267元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742494.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170331/84e5f6ec-57bc-4460-b728-04df64f4a328.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "低区出入方便，装修精美，满二年，马上看房",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "1室2厅|76.59平|低区/17层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "嘉怡水岸（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "385万"
+}{
+  "singel_price": "单价38192元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4648586.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/eb2fde88-9954-4df3-8cb1-90402f371b50.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，采光无遮挡，省装修费",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室2厅|92.95平|高区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "紫晶南园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "355万"
+}{
+  "singel_price": "单价38998元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643846.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170602/7568c699-94af-4f56-b576-84e01e4553dc.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "带落地窗，客厅带阳台，低楼层，新鲜上架",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "1室2厅|68.72平|低区/14层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹梅景苑二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "268万"
+}{
+  "singel_price": "单价41991元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832966.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171022/a4d506bb-86bb-4a49-bbb5-d24d07718600.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通，厨卫全明，采光好，毛坯房",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室2厅|98.83平|高区/11层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科阳光苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "415万"
+}{
+  "singel_price": "单价40026元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806036.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/2ee22508-4ca3-4e33-8411-ae6aa732ba4b.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低楼层，毛坯房",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室0厅|45.47平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "182万"
+}{
+  "singel_price": "单价39764元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4793231.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/fecb4bff-26a4-4254-a08f-191687480708.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，品质装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|67.9平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "双柏小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "270万"
+}{
+  "singel_price": "单价32665元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4483205.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170112/658ceefa-479d-4d00-803c-24885ad32300.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，视野开阔，简单装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|70.41平|高区/5层|朝东"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "吴泾新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "230万"
+}{
+  "singel_price": "单价43078元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4448919.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161229/4eb91aed-cc7f-43c9-93ac-dd0e03e916d9.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，楼层好，满5年",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室1厅|69.64平|中区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "龙吴路5599弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "300万"
+}{
+  "singel_price": "单价42275元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4859200.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/4082f169-06bd-4114-be93-28fabc9ba5ca.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，带飘窗，采光无遮挡，装修精美",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室2厅|91.07平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "虹梅景苑二街坊",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "385万"
+}{
+  "singel_price": "单价44150元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4830286.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171021/b85718ce-cdc2-4f7d-8e2e-149ab04278b1.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，低区出入方便，品味装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "3室1厅|90.6平|低区/14层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "万科阳光苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "400万"
+}{
+  "singel_price": "单价36878元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669508.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170605/056a41c5-7bd5-4c1d-99bd-74bc48ad339d.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，简单装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "2室0厅|51.52平|低区/6层|朝东南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "永德小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "190万"
+}{
+  "singel_price": "单价40456元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796690.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/686092fa-41e9-41eb-a1cf-05f3e953a642.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅朝南，采光好，品味装修",
+  "s_cate": "吴泾",
+  "house_desc": [
+    "4室3厅|165.61平|高区/12层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "枫桦景苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wujing",
+  "house_price": "670万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价69132元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799051.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/9ae09445-7e73-4620-a0fc-1c2b1666c41d.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，交通方便，楼层好",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "1室2厅|60.03平|中区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "415万"
+}{
+  "singel_price": "单价70987元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4649681.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/4533703d-1c43-4c26-8354-af51ca6267e3.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，地铁沿线，低楼层",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "1室1厅|59.87平|低区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "425万"
+}{
+  "singel_price": "单价61349元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4610095.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/511d3833-bc78-4d72-add3-20c39e54e767.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，地铁沿线，楼层好，毛坯房",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|89.65平|中区/8层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "550万"
+}{
+  "singel_price": "单价61870元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4857491.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170101/cae4d450-9525-49c9-95d2-a036dde05c9c.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "出行方便，精装修，房本满五年，有钥匙房源",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "5室3厅|355.58平|地上2层|(进门)南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "圣马丽诺桥语",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "2200万"
+}{
+  "singel_price": "单价56683元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639842.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/5a0251d6-486a-46b7-9092-fba15c162da8.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，地铁房，视野开阔",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "1室1厅|59.1平|高区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿波城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "335万"
+}{
+  "singel_price": "单价55913元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4647665.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170601/515aaccb-285c-4ede-bbc1-7d33009f346d.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北直通，带飘窗，地铁房，光线充足",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|93.0平|中区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "520万"
+}{
+  "singel_price": "单价54785元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846770.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/c354a816-daff-41e5-b472-3bc389c701aa.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，地铁直达，楼层好",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|93.09平|中区/8层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "510万"
+}{
+  "singel_price": "单价56457元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4846396.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/3ffbed01-843e-431b-92ff-0c1e5f2d4115.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，地铁房，视野开阔",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|141.7平|高区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "保利御樽苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "800万"
+}{
+  "singel_price": "单价54173元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806186.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/8d70caf0-082b-4b2b-9f25-ce7e9847be19.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅带阳台，交通方便，视野很好",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "1室1厅|59.07平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿波城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "320万"
+}{
+  "singel_price": "单价64775元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783775.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/549968f9-5ea5-4629-b9aa-f83f40a05e53.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "带飘窗，客厅带阳台，地铁房，楼层好",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|89.54平|中区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（二期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "580万"
+}{
+  "singel_price": "单价62173元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4664260.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/841a9925-4223-4e4b-8d71-9ba08018bab7.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "地铁房，低区出入方便，拎包入住，满两年",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|90.07平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（二期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "560万"
+}{
+  "singel_price": "单价61008元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4497735.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/76123171-cf32-4db3-9f76-dd8c0c6700bc.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，采光好",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|93.43平|高区/8层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "570万"
+}{
+  "singel_price": "单价43761元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1151350.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160219/f97f4949-43bd-4a4b-bdbe-2b08db829d42.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "交通方便，毛坯房，满二年，随时可看",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "4室3厅|342.77平|地上3层|(进门)南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价103063元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770767.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170828/62a9b53b-c75c-454d-8f65-010e1c766abe.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "南北通，带飘窗，地铁房，低区出入方便",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|106.73平|低区/15层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿城玉兰花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价75893元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4824145.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171115/ae7eac17-bdaf-4dc5-8125-237973bc5401.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀罕南北通，卧室带卫，地铁直达，上下楼方便",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|100.14平|低区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "保利御樽苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "760万"
+}{
+  "singel_price": "单价49492元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4786637.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/55c57e42-54e8-4aa2-882e-d89384551e86.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，带飘窗，上下楼方便，简单装修",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室1厅|78.8平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金唐公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "390万"
+}{
+  "singel_price": "单价58989元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785157.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160830/1225b27a-846c-46cb-aecd-95ce026e2df7.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，好楼层，精装修",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|81.37平|中区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "保利金爵公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "480万"
+}{
+  "singel_price": "单价43602元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4343132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161022/82b0ddb7-5266-4e2e-84cf-083de65cb537.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，采光好，经典装修，满五减税",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|119.26平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "金利公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "520万"
+}{
+  "singel_price": "单价85790元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839812.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/c79a1fd8-7820-44ef-9742-6a2afd7c1a37.jpg_200x150.jpg",
+  "house_time": [
+    "2014年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，交通便利，楼层好",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|128.22平|中区/15层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿城玉兰花园（二期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价46902元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4710264.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170709/f777e728-4ac3-43c5-b179-80b9f9c4b615.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，出行方便，简单装修，钥匙房",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "4室2厅|319.81平|地上3层|(进门)南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价57142元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4842627.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170626/835909be-6495-40da-a0e4-2eedbcf6d526.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "地铁直达，视野开阔，省装修费，满五年",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室1厅|59.5平|高区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿波城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "340万"
+}{
+  "singel_price": "单价55000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836005.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/8d2e5bac-f3c4-4b25-984e-0f951b73f6e9.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，地铁直达，高区景观房",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "1室1厅|60.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿波城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "330万"
+}{
+  "singel_price": "单价57475元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829904.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171019/367a0a9e-5aaf-43a7-9d08-cac798affe74.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，客厅朝南，地铁房，光线充足",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|135.71平|中区/17层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "保利御樽苑（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "780万"
+}{
+  "singel_price": "单价62465元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761941.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/f6d67cc6-9931-4356-b39f-4f277d8499ce.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "地铁沿线，黄金楼层，品味装修，满五年",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|89.65平|中区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "560万"
+}{
+  "singel_price": "单价65669元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4714195.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170711/8cc7ac11-0644-41e2-b631-f67e15e5d5fa.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "交通方便，光线充足，装修精美，满五年",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "1室1厅|60.15平|中区/8层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "395万"
+}{
+  "singel_price": "单价44912元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4639425.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170515/fb6d1265-1d1e-4edc-b47e-71d664e1414e.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，地铁沿线，黄金楼层，精装修",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|129.14平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "齐爱佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "580万"
+}{
+  "singel_price": "单价56989元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4413771.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161128/c44b801d-f617-4af9-9bed-423fb1c62f89.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通透，交通便利，光线充足，拎包入住",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|93.0平|中区/8层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "毕加索小镇（一期）（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "530万"
+}{
+  "singel_price": "单价70930元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4873023.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171013/037e04dd-3f63-4dce-a12a-a0912b3db84e.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，高区阳光房，省装修费，满5年",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "3室2厅|86.0平|高区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "保利金爵公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "610万"
+}{
+  "singel_price": "单价53901元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769963.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/f6501280-35ef-45db-9519-588f9e8d9b17.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，厨卫全明，上下楼方便，品质装修",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "2室2厅|81.63平|低区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "保利金色唐城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "440万"
+}{
+  "singel_price": "单价52542元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808462.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170928/d5d8d011-dbdd-40e9-9e61-00eb8cd5b51a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅带阳台，地铁房，光线充足",
+  "s_cate": "唐镇",
+  "house_desc": [
+    "1室1厅|59.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "绿波城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/tangzhen",
+  "house_price": "310万"
+}

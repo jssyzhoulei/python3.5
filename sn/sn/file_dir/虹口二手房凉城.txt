@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价67691元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812193.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170309/5a7407c2-0639-40da-a68c-970fe8ce63fd.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低楼层",
+  "s_cate": "凉城",
+  "house_desc": [
+    "3室2厅|106.07平|低区/6层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "万峰梦湖苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "718万"
+}{
+  "singel_price": "单价81069元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719694.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/e1ac90a8-bf0e-47aa-907d-a26eb11c410f.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "出行方便，光线充足，品质装修，满五年",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室2厅|94.98平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "花园城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "770万"
+}{
+  "singel_price": "单价62083元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670125.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/d37ad9d4-beea-4c53-9723-50f2dc33f226.jpg_200x150.jpg",
+  "house_time": [
+    "1957年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|33.02平|低区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "广中三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "205万"
+}{
+  "singel_price": "单价60123元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666540.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160728/2f0c6ede-26bb-4a15-be0d-5ba5e0281bbc.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，光线非常好",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室1厅|87.32平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "金属新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "525万"
+}{
+  "singel_price": "单价54294元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655859.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/384c7c6b-29f4-402f-978d-cb1ad63f4787.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通便利，楼层好",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室1厅|40.52平|中区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "西宝兴路949弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "220万"
+}{
+  "singel_price": "单价57662元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4625785.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/6ffd73dc-c42b-492d-9273-5fb7063ea903.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，地铁房，好楼层",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室1厅|39.02平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "广中扩大小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "225万"
+}{
+  "singel_price": "单价68532元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4621890.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161002/3bdac025-378a-4a9b-b4fe-7c44962183fe.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通方便，高区景观好",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室2厅|87.55平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "水电路62弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "600万"
+}{
+  "singel_price": "单价67990元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618549.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/32239d11-391b-42a0-a785-5c7e20c2d165.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，低楼层",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|36.77平|低区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "海虹小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "250万"
+}{
+  "singel_price": "单价52083元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4607435.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170522/fc79d16a-f61b-48bb-9605-ddb7482c74be.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "卧室带阳台，地铁沿线，好楼层，毛坯房",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|33.6平|中区/5层|朝北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "商业二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "175万"
+}{
+  "singel_price": "单价54687元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4566294.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170327/891ea170-90d7-4c72-aa82-7b21dfc1e3fc.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，上下楼方便，简单装修",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室1厅|64.0平|低区/18层|朝西北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "明光公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "350万"
+}{
+  "singel_price": "单价62319元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4534001.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/a689096e-258c-41fb-aba1-01f3eeee31e6.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，交通方便，高区采光好",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室2厅|86.65平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "金属新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "540万"
+}{
+  "singel_price": "单价77306元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4409967.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161126/5f3cdadd-a8d1-4868-b1e1-0fa1c9c88b95.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，地铁沿线，低区出入方便",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室1厅|58.21平|低区/21层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "曲阳名邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "450万"
+}{
+  "singel_price": "单价62425元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4309829.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170318/0e3ede6a-8f14-45aa-b84b-da3355bd7524.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，楼层好",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室1厅|67.28平|中区/7层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "洛阳新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "420万"
+}{
+  "singel_price": "单价65564元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780665.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/35c93457-cb63-42d0-b41b-2a0912c465af.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁直达，黄金楼层",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室0厅|52.62平|中区/5层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "中山北一路865弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "345万"
+}{
+  "singel_price": "单价81729元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849714.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161117/b5ca61f3-4b6d-426a-84b3-757d640239c9.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "稀罕南北通，带飘窗，地铁沿线，光线充足",
+  "s_cate": "凉城",
+  "house_desc": [
+    "3室2厅|134.59平|中区/18层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "合虹公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价58934元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814315.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171005/d42f0c2b-a479-446d-bd76-ef1d3e83ffb1.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "卧室带阳台，交通方便，上下楼方便，满五年",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|31.9平|低区/5层"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "水电路703弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "188万"
+}{
+  "singel_price": "单价56003元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784264.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/a9276e4f-0324-4179-b832-91cf0485de9c.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，出行方便，光线充足",
+  "s_cate": "凉城",
+  "house_desc": [
+    "3室2厅|121.42平|中区/8层|朝东"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "海虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "680万"
+}{
+  "singel_price": "单价67857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778225.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/68faa848-b6bb-4327-b6dd-d71d0d7fe3eb.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "南北通透，卧室带阳台，出行方便，高区采光好",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室0厅|42.0平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "石油新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "285万"
+}{
+  "singel_price": "单价61014元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4770980.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/fd79f184-8aa9-45ff-88b6-bff52ee1c00d.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，光线充足",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|34.09平|中区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "灵新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "208万"
+}{
+  "singel_price": "单价62770元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4699153.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/5b64e06f-09be-4163-938a-ce245c0ca89d.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "地铁沿线，高区景观好，装修精致，满五年",
+  "s_cate": "凉城",
+  "house_desc": [
+    "3室0厅|71.69平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "水电小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "450万"
+}{
+  "singel_price": "单价66835元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4680016.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/ee5fae0e-9665-4220-b1fc-30e4c1335563.jpg_200x150.jpg",
+  "house_time": [
+    "1988年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，采光无遮挡",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室0厅|55.36平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "灵新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "370万"
+}{
+  "singel_price": "单价51428元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4629071.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/f24a7eea-8e78-4c7c-b669-a37d5958bc48.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，采光无遮挡",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|36.75平|高区/7层|朝东"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "西宝兴路949弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "189万"
+}{
+  "singel_price": "单价54878元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546204.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/43dd5da3-20d1-49bf-9d74-825ba696bbd8.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观房",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|32.8平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "水电路1013弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "180万"
+}{
+  "singel_price": "单价59366元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776208.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170901/3838f210-b762-4791-85db-4ed9e3ea44fd.jpg_200x150.jpg",
+  "house_time": [
+    "1989年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，高区阳光房",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|30.32平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "广中扩大小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "180万"
+}{
+  "singel_price": "单价52382元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4665854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170603/c09f480f-5def-44d4-8def-d5a24d72f47d.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "厨卫全明，地铁沿线，上下楼方便，简单装修",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|35.89平|低区/5层|朝北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "商业二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "188万"
+}{
+  "singel_price": "单价68506元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4614514.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/f8caa0e9-c37c-4263-8454-8f6fe511578e.jpg_200x150.jpg",
+  "house_time": [
+    "1981年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，黄金楼层",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室0厅|52.55平|中区/5层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "中山北一路865弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "360万"
+}{
+  "singel_price": "单价56362元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4594182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170417/fa6afee8-37a4-46b6-80c5-390396032853.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "南北通透，厨卫全明，地铁房，高区景观房",
+  "s_cate": "凉城",
+  "house_desc": [
+    "1室0厅|35.13平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "灵新小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "198万"
+}{
+  "singel_price": "单价56179元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4537037.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161003/d999e9c6-1608-4498-94f8-f7f4cb1c3deb.jpg_200x150.jpg",
+  "house_time": [
+    "1960年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁沿线，视野很好",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室1厅|72.09平|高区/6层|朝南北"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "洛阳新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "405万"
+}{
+  "singel_price": "单价51637元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4460179.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170414/43112e1e-bed9-43f4-9857-173a66f940ca.jpg_200x150.jpg",
+  "house_time": [
+    "1958年建"
+  ],
+  "house_title": "交通方便，高区阳光房，简单装修，满五年",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室1厅|73.59平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "建机新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "380万"
+}{
+  "singel_price": "单价72076元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/hongkou",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4874503.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/a57f7370-aaf3-422a-a682-6e29e79a5565.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，高区阳光房",
+  "s_cate": "凉城",
+  "house_desc": [
+    "2室0厅|37.46平|高区/6层|朝南"
+  ],
+  "district": "虹口二手房",
+  "house_detail": "海虹小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/liangcheng",
+  "house_price": "270万"
+}

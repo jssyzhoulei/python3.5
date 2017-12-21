@@ -1,0 +1,388 @@
+{
+  "singel_price": "单价20619元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4649516.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170530/2870f2cf-2f28-4c40-ae48-cf48cb55782f.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，客厅朝南，好楼层，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|84.87平|中区/15层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "175万"
+}{
+  "singel_price": "单价15965元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4858159.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171117/d74ad922-0697-46f0-88f1-8c30ed7a430a.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，低区出入方便，随时可看",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室1厅|72.03平|低区/5层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "海港新苑(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "115万"
+}{
+  "singel_price": "单价22171元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751815.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/bdd697ab-d7d0-4921-8aa9-a165406095ce.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线充足，拎包入住",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室1厅|65.4平|中区/17层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "145万"
+}{
+  "singel_price": "单价19075元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4756137.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170815/a6b08757-9de9-4f47-ba75-acaa1f650682.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，带飘窗，采光无遮挡，中等装修",
+  "s_cate": "四团",
+  "house_desc": [
+    "3室2厅|99.08平|高区/17层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "189万"
+}{
+  "singel_price": "单价17785元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4677636.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/371a6f22-b276-4388-8141-2f72e6a4a655.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "好楼层，满2年，热门房源，高清摄影",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|89.96平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "海港新苑(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "160万"
+}{
+  "singel_price": "单价23134元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668080.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170612/6b53b69e-33d1-4a28-ab85-a1ddeb3c4751.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，带飘窗，黄金楼层，省装修费",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|84.29平|中区/15层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "195万"
+}{
+  "singel_price": "单价18899元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4619780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170513/c69bb938-6876-4e27-80b6-7b96db0b2fe0.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，低区出入方便，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|84.66平|低区/17层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "160万"
+}{
+  "singel_price": "单价21798元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4416790.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/22749508-2066-409d-9254-61d41dbb7bb9.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，客厅朝南，光线非常好，品味装修",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|84.87平|高区/15层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "185万"
+}{
+  "singel_price": "单价15913元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4843354.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/75bce595-0cf1-4169-98a6-9b898e0dea04.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "房型正气，客厅朝南，楼层好，精装修",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室1厅|93.0平|中区/5层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平苑小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "148万"
+}{
+  "singel_price": "单价18824元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4838756.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171029/512ecff0-f285-4a8d-8650-f5f9cca88591.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，黄金楼层，满2年",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|90.31平|中区/5层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "海港新苑(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "170万"
+}{
+  "singel_price": "单价22164元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784797.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/1ddff1ba-1ed4-45e8-ad81-88aa36f62a5b.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，光线非常好，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "1室1厅|65.42平|高区/18层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "145万"
+}{
+  "singel_price": "单价22840元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669705.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170703/43eb89f3-5c4a-4c32-b05a-d35f72f78bba.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，好楼层，品质装修",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|96.32平|中区/18层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "220万"
+}{
+  "singel_price": "单价23761元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605463.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170428/b475f39c-4b02-437e-aa30-6e45fd18310f.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，黄金楼层，毛坯房，房本满两年",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|84.17平|中区/15层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "200万"
+}{
+  "singel_price": "单价18787元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4582243.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170407/4c59f215-9fd2-4dce-840c-6f8a35ab234c.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，客厅朝南，低楼层，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|95.81平|低区/17层"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "180万"
+}{
+  "singel_price": "单价20289元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4495308.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170504/0ef50f86-a217-4904-b124-80863a6aeba3.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，好楼层，简单装修，满2年",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|96.11平|中区/17层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "195万"
+}{
+  "singel_price": "单价21757元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4489861.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170319/7a8babc9-4ebc-4453-8451-d2e38cccf5a9.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，上下楼方便，装修精美",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|85.03平|低区/13层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "185万"
+}{
+  "singel_price": "单价20410元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4443932.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/4365dd80-de06-4f58-bf9e-eb6d0b5f42bb.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，客厅朝南，好楼层，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|95.54平|中区/17层|朝南"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "195万"
+}{
+  "singel_price": "单价22727元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794369.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/353711d3-64f8-4ffe-8545-2050af2e9fe8.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀缺南北通，客厅带阳台，光线非常好，品质装修",
+  "s_cate": "四团",
+  "house_desc": [
+    "3室1厅|88.0平|高区/16层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "佳源上海小城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "200万"
+}{
+  "singel_price": "单价23080元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624145.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/98d31878-eaff-4a20-a46c-b4122a5c16ba.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通透，厨卫全明，光线非常好，装修精致",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|99.65平|高区/17层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "230万"
+}{
+  "singel_price": "单价23685元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4502478.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/b7e39071-9987-46e9-9265-7764b6bdb9ac.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通透，厨卫全明，上下楼方便，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "1室1厅|65.44平|低区/17层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "155万"
+}{
+  "singel_price": "单价22844元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4298884.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/1b9316a3-e9fd-4822-9450-1d63bf35dea3.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，带落地窗，高区景观好，装修精致",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|87.55平|高区/18层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "200万"
+}{
+  "singel_price": "单价18309元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4669708.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20150903/2d5b5ac2-0c30-4ffd-948b-6ccff371aa45.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "房型正气，客厅朝南，光线充足，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|95.58平|中区/17层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "175万"
+}{
+  "singel_price": "单价22988元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/fengxian",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4630415.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20151128/b9c295b9-a018-49af-88b9-34aadac56d1c.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，厨卫全明，楼层好，毛坯房",
+  "s_cate": "四团",
+  "house_desc": [
+    "2室2厅|87.0平|中区/18层|朝南北"
+  ],
+  "district": "奉贤二手房",
+  "house_detail": "平安富邸",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/situan",
+  "house_price": "200万"
+}

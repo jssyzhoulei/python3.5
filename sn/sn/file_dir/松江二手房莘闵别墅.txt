@@ -1,0 +1,507 @@
+{
+  "singel_price": "单价50364元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4776596.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/27533d64-fad2-4a59-b0b4-64d13b5c52cb.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，品味装修，满五减税，看房方便",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|150.9平|地上3层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "雅仕轩",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "760万"
+}{
+  "singel_price": "单价38857元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763043.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/66b2680f-6322-48dc-a1bc-8c0ed16a0661.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低楼层，品质装修",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|99.08平|低区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "荣盛名邸（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "385万"
+}{
+  "singel_price": "单价43484元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682392.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170623/0dadd8da-e16d-4f49-853f-e405f0ab4a36.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，客厅朝南，楼层好，省装修费",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "2室2厅|72.44平|中区/5层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "万科白马花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "315万"
+}{
+  "singel_price": "单价43864元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643992.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170520/7f2c8897-dc30-42f1-a664-0a7dd28519dd.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "装修精致，满五年，随时看房，热销好房",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室3厅|177.82平|地上3层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "沿海丽水馨庭（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "780万"
+}{
+  "singel_price": "单价39053元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4643090.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170528/390b3a3b-6818-4193-9d95-722e8538123a.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "带飘窗，卧室带阳台，好楼层，满五年",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|85.78平|中区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "万科白马花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "335万"
+}{
+  "singel_price": "单价37647元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606056.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/c9712088-ad3a-4dd8-a663-c744a1c53933.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "简单装修，满5年，随时可看，多次带看",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|204.53平|地上3层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "丽水华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "770万"
+}{
+  "singel_price": "单价40795元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4598536.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/c542edaf-618c-4e23-b720-6287fad3cd79.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，黄金楼层，品质装修",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|148.3平|中区/16层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "绿洲香岛花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "605万"
+}{
+  "singel_price": "单价44747元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4538093.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/e8bf451b-a928-4e09-a680-012136a0b2e0.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通透，毛坯房，满五年，看房有钥匙",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "5室2厅|312.87平|地上3层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "锦轩新墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "1400万"
+}{
+  "singel_price": "单价51509元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4497562.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161205/daef0fb2-cccd-4f02-bbe3-0d739f8b39bb.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，毛坯房，房本满五年，随到随看",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|248.5平|地上3层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "河谷3号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "1280万"
+}{
+  "singel_price": "单价48543元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4429614.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170119/c93c4725-3762-4c28-88ef-f5a2dccf6857.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "简单装修，满五年，有钥匙，热推好房",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "5室2厅|267.8平|地上2层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "伊莎士花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "1300万"
+}{
+  "singel_price": "单价40748元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4872198.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160805/c511cab6-8690-480d-a6d9-3467787de37b.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "毛坯房，满5年，新鲜上架，有钥匙立即看",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|186.51平|地上5层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "同润加州（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "760万"
+}{
+  "singel_price": "单价44451元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4798249.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/154339b2-9ff9-4cac-bcd7-6e772db8e33d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，高区采光好，房本满五年",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "2室2厅|67.49平|高区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "万科白马花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价39535元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4654324.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170604/af875712-e7a4-4e07-8d00-cc7c23b18c10.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "装修精美，房本满五年，随到随看，实地看房",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|159.35平|地上4层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "丽水华庭",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "630万"
+}{
+  "singel_price": "单价40097元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4524062.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/4a89957a-1c6c-4433-970d-0a81084b4e4b.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北户型，客厅朝南，低区出入方便，精装修",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|139.66平|低区/16层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "绿洲香岛花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "560万"
+}{
+  "singel_price": "单价54834元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4518966.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170225/30499c13-7793-4ba0-8900-55fb89427425.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀罕南北通，毛坯房，房本满五年，看房方便",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|129.48平|地上3层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "河谷3号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "710万"
+}{
+  "singel_price": "单价39267元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4505538.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171026/ccef7339-06db-4de7-9011-9f7a36347274.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，光线充足，装修精美",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "2室2厅|76.4平|中区/5层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "万科白马花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "300万"
+}{
+  "singel_price": "单价39325元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4806386.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/a18b94ad-1d43-4084-9429-2be7dcdf7abe.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，光线充足，品味装修",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|89.0平|中区/5层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "万科白马花园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "350万"
+}{
+  "singel_price": "单价41314元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773607.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/2ea92d68-e01b-48ad-b4d4-55743ea76796.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北户型，精装修，满5年，有钥匙",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|213.0平|地上3层|(进门)南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "沿海丽水馨庭（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "880万"
+}{
+  "singel_price": "单价49356元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4752306.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160706/96f3d912-17ef-4567-a06b-8af75fc545b0.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "精装修，满五减税，随时可看，火热出售",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|186.4平|地上3层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "万科白马花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "920万"
+}{
+  "singel_price": "单价44508元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4751774.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/a534eb3e-a868-4429-a127-920ef1999a30.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，带飘窗，品味装修，满5年",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|173.0平|地上3层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "沿海丽水馨庭（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "770万"
+}{
+  "singel_price": "单价36034元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715045.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170712/61d699c5-f975-469f-ae77-29b445c564fd.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "带飘窗，卧室全南，低区出入方便，拎包入住",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "2室2厅|91.58平|低区/18层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "新弘国际城（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价36699元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4682465.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/29f53fa1-d98b-4d86-893f-7f048c824d1d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，低楼层，品质装修",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|100.82平|低区/11层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "荣盛名邸（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "370万"
+}{
+  "singel_price": "单价62393元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4590127.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170412/078cf2ed-7501-43cb-878d-bed485768c1b.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "毛坯房，满五年，随时可看，热推好房",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室1厅|88.15平|地上3层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "河谷3号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "550万"
+}{
+  "singel_price": "单价47788元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4573306.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/9241175b-6a2e-463c-a16d-1504a02e4ed3.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，视野很好，精装修",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "2室2厅|89.98平|高区/17层|朝南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "绿洲香岛花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "430万"
+}{
+  "singel_price": "单价33803元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4567510.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160911/1167701f-4221-48b5-9668-8312567d9ddb.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，卧室带阳台，品味装修，房本满五年",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "3室2厅|245.54平|地上3层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "达安圣芭芭花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "830万"
+}{
+  "singel_price": "单价36198元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4566958.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170803/e3dbded9-b25c-4864-b673-2a14d80ab405.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，厨卫全明，光线非常好，毛坯房",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "2室2厅|87.02平|高区/11层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "荣盛名邸（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "315万"
+}{
+  "singel_price": "单价34745元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4560736.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170525/7735086d-1277-45fc-b89a-49a23a7adc83.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，毛坯房，满五年",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "6室2厅|253.27平|地上3层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "沿海丽水馨庭（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "880万"
+}{
+  "singel_price": "单价43947元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549559.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170318/32e50cb5-481f-4632-9c21-9e2bab8e1e04.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "房型正气，厨卫全明，毛坯房，满5年",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|209.34平|地上3层"
+  ],
+  "district": "松江二手房",
+  "house_detail": "河谷3号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "920万"
+}{
+  "singel_price": "单价35143元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4461602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161114/02c19035-535b-4717-9332-3b058beef755.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "南北通透，低楼层，品质装修，满5年",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|176.42平|低区/4层|朝南北"
+  ],
+  "district": "松江二手房",
+  "house_detail": "绿洲长岛花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "620万"
+}{
+  "singel_price": "单价48098元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/songjiang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4443433.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160620/05342625-78f7-4cc0-a939-c42c902c69ba.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "毛坯房，满5年，有钥匙房源，多次带看",
+  "s_cate": "莘闵别墅",
+  "house_desc": [
+    "4室2厅|199.59平|地上3层|(进门)南"
+  ],
+  "district": "松江二手房",
+  "house_detail": "万科白马花园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shenminbieshu",
+  "house_price": "960万"
+}

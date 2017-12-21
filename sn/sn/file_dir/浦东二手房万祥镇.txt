@@ -1,0 +1,273 @@
+{
+  "singel_price": "单价18750元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4750295.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170810/160cdecc-b899-4c66-a270-e69ad6d23b01.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "房型正气，客厅朝南，高区景观房，毛坯房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "3室2厅|120.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "万祥馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "225万"
+}{
+  "singel_price": "单价23878元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4567408.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170409/3cbd4f7d-bd68-4842-b004-c8b25fb1d728.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，上下楼方便，中等装修",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室1厅|79.57平|低区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凯德新视界（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "190万"
+}{
+  "singel_price": "单价20382元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4676846.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/1caae277-ada5-4c7a-ad82-40c1e62317a3.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，带飘窗，低区出入方便，毛坯房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "3室2厅|126.58平|低区/11层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安菊苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "258万"
+}{
+  "singel_price": "单价24563元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815503.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171020/ea39dcae-0ff5-49a2-b908-ef653c901955.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "客厅朝南，卧室全南，上下楼方便，毛坯房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "1室1厅|59.03平|低区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凯德新视界（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "145万"
+}{
+  "singel_price": "单价25423元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4787946.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/a83aadf8-877a-432c-a6db-fc17b2ef23d9.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，光线非常好，马上看房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "1室1厅|59.0平|高区/18层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凯德新视界（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "150万"
+}{
+  "singel_price": "单价23093元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761758.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171112/7927c6cc-e7aa-4acd-9dd7-1692bda6bef7.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北直通，厨卫全明，光线充足，毛坯房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|80.11平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凯德新视界（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "185万"
+}{
+  "singel_price": "单价30422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783599.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/ab963643-d228-4e69-a6a4-04ad0fd1fd44.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "精装修，房本满五年，人气房源，上门实勘",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "4室2厅|213.0平|地上1层|(进门)南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "紫丁香花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "648万"
+}{
+  "singel_price": "单价22189元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673552.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/b4069b0c-4a5f-4fcd-8f6a-83dcc19692df.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，楼层好，毛坯房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|87.88平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "凯德新视界（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "195万"
+}{
+  "singel_price": "单价21459元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4805775.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/834bfc12-abef-4ace-a7d8-a1a3d6a7122d.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，光线充足，热门带看",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|97.86平|中区/6层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安兰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价20422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/298e275d-ff5d-4cb5-9267-386ad674d859.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，厨卫全明，黄金楼层，精装修",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|102.83平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安竹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价21050元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759928.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/c69a5996-dc79-4a13-9fad-ba6897ad5e31.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "楼层好，毛坯房，人气房源，高清实拍",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "3室2厅|121.14平|中区/11层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "万祥馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "255万"
+}{
+  "singel_price": "单价20737元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4744680.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/203c1fb9-92ff-42fc-92f6-613762ef1bc2.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，带飘窗，黄金楼层，装修精美",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|108.5平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安竹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "225万"
+}{
+  "singel_price": "单价19030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4668302.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/a30b5be6-cf89-49b9-8f66-2401de6cef96.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，上下楼方便，毛坯房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|108.25平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安竹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "206万"
+}{
+  "singel_price": "单价17602元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574816.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/99bfcb5b-23f0-4b08-924b-8d03a045b7b7.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "3室2厅|124.98平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安兰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价21367元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4871851.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171130/c23cee75-9a09-4532-9cc3-729d40fceaad.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，楼层好，品味装修",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|93.6平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安兰苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "200万"
+}{
+  "singel_price": "单价23120元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4540970.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/7bba049f-8e79-447c-862e-8a249026a54e.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，带飘窗，好楼层，上门实拍",
+  "s_cate": "万祥镇",
+  "house_desc": [
+    "2室2厅|90.83平|中区/11层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "祥安菊苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/wanxiangzhen",
+  "house_price": "210万"
+}

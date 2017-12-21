@@ -1,0 +1,505 @@
+{
+  "singel_price": "单价55095元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4366448.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160925/a31fdce4-84ba-45e2-91fb-92b3cb78e16a.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "精装修，满5年，随时可看，火热出售",
+  "s_cate": "马桥",
+  "house_desc": [
+    "3室3厅|299.48平|地上2层|(进门)北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "御涛园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "1650万"
+}{
+  "singel_price": "单价27927元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796610.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/00dabe45-90f3-411b-a635-0d927f4d735b.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "稀罕南北通，厨卫全明，采光好，满五减税",
+  "s_cate": "马桥",
+  "house_desc": [
+    "3室1厅|81.64平|高区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东新街19号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "228万"
+}{
+  "singel_price": "单价53413元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4600904.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/d5618301-6791-489f-b3b3-7a6c1507a3e1.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "拎包入住，满2年，随时可看，热销房源",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室3厅|439.96平|地上2层|(进门)北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "御涛园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "2350万"
+}{
+  "singel_price": "单价52272元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4790004.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/bf9d40f8-d3bd-4ee1-8e8d-1abe7a2e1c1f.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "满二减税，随时可看，火爆热销，上门实拍",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室3厅|440.0平|地上2层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "御涛园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价31435元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4739854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/aab2c29d-aea8-4156-981c-721e648a823e.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，高区阳光房，毛坯房",
+  "s_cate": "马桥",
+  "house_desc": [
+    "1室1厅|57.26平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "富岩路22号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "180万"
+}{
+  "singel_price": "单价39143元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh1083397.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20150905/51d57460-1f2b-43bb-80a2-a313833d56e7.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "简单装修，满五减税，随到随看，实地看房",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室4厅|763.34平|地上2层|(进门)东"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "长岛别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "2988万"
+}{
+  "singel_price": "单价41873元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4586672.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/6d7c9bb3-f1a6-4d02-8603-ddfaa8950dd1.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "简单装修，房本满五年，看房有钥匙，上门实拍",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室2厅|549.27平|地上2层|(进门)东"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中房森林别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "2300万"
+}{
+  "singel_price": "单价33870元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4807865.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/0c76d6a2-b396-4ea3-89fb-e474e645a465.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "旭丽花园，有钥匙房源，热推好房，上门实勘",
+  "s_cate": "马桥",
+  "house_desc": [
+    "4室2厅|292.29平|地上3层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "旭丽花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "990万"
+}{
+  "singel_price": "单价29246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4792634.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170913/58110e56-5b07-48f2-854a-26f7de1dc59a.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，高区阳光房，简单装修",
+  "s_cate": "马桥",
+  "house_desc": [
+    "2室2厅|90.61平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "马桥西街小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "265万"
+}{
+  "singel_price": "单价32180元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4695486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170613/7d4b74f7-3653-4d1e-843a-54a7aff36c2c.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "中等装修，满5年，火热出售，上门实勘",
+  "s_cate": "马桥",
+  "house_desc": [
+    "4室2厅|295.21平|地上3层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "旭丽花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "950万"
+}{
+  "singel_price": "单价33122元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4653608.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160803/d4160089-36fb-4897-b550-b213326f8595.jpg_200x150.jpg",
+  "house_time": [
+    "1991年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，高区景观房，精装修",
+  "s_cate": "马桥",
+  "house_desc": [
+    "2室1厅|53.74平|高区/5层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "南中街51号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "178万"
+}{
+  "singel_price": "单价38652元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4583512.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/be969143-5f69-43cd-ad27-d0e9878c6095.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，毛坯房，满5年，火爆热销",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室2厅|514.85平|地上2层|(进门)南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中房森林别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "1990万"
+}{
+  "singel_price": "单价28151元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4523915.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/96b5bf4d-1d95-48ff-865c-1cd98a214aee.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，中等装修",
+  "s_cate": "马桥",
+  "house_desc": [
+    "2室1厅|81.7平|中区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东新街9号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价25000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4446017.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/9d885ae1-5117-4896-b9f3-411ac2b30f24.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，高区景观好，毛坯房",
+  "s_cate": "马桥",
+  "house_desc": [
+    "3室2厅|124.0平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "马桥西街小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "310万"
+}{
+  "singel_price": "单价45310元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822613.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/2f383e13-98e8-4e66-b670-b73b013b00f6.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "精装修，马上看房，热门房源，上门实拍",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室4厅|529.68平|地上2层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "御涛园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "2400万"
+}{
+  "singel_price": "单价34683元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4580188.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170405/ebc85de5-66c6-4e0a-a6d2-6005b1a0e224.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "马桥",
+  "house_desc": [
+    "1室1厅|44.69平|低区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "东新街1号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "155万"
+}{
+  "singel_price": "单价28446元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4829538.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/9fa8c63e-27da-4fde-9f05-88c0d0600329.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，满五减税",
+  "s_cate": "马桥",
+  "house_desc": [
+    "2室2厅|91.4平|低区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "马桥西街小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "260万"
+}{
+  "singel_price": "单价29246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828986.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171018/585b35cf-7fec-491f-843b-05ba83ac9db6.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，光线充足，中等装修",
+  "s_cate": "马桥",
+  "house_desc": [
+    "2室2厅|90.61平|中区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "马桥西街小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "265万"
+}{
+  "singel_price": "单价54337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4828038.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171017/e9cc2a8f-4db5-4807-80dc-35ff875b5af9.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "拎包入住，房本满五年，热门带看，高清摄影",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室2厅|772.95平|地上2层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "绿城玫瑰园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "4200万"
+}{
+  "singel_price": "单价29202元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815939.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/d5f52da6-a50b-484b-b107-d44b87ece45a.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北通，厨卫全明，上下楼方便，装修精美",
+  "s_cate": "马桥",
+  "house_desc": [
+    "2室2厅|94.17平|低区/6层|朝南北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "马桥公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "275万"
+}{
+  "singel_price": "单价29874元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4774418.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170902/f6b4782f-d456-4e8b-a3ce-d49432dc51a6.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，卧室带阳台，高区阳光房，装修精美",
+  "s_cate": "马桥",
+  "house_desc": [
+    "3室1厅|76.99平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "富岩路14号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "230万"
+}{
+  "singel_price": "单价25585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670373.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170611/704789e5-f1f1-4deb-92f2-716422f5aa6f.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "采光无遮挡，精装修，房本满五年，热门带看",
+  "s_cate": "马桥",
+  "house_desc": [
+    "3室2厅|124.29平|高区/6层|朝南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "西街15号",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "318万"
+}{
+  "singel_price": "单价87118元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4596681.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160918/676819e9-b6f9-4203-9fe5-dced490e0cf3.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "毛坯房，满5年，人气房源，上门实拍",
+  "s_cate": "马桥",
+  "house_desc": [
+    "4室2厅|344.36平|地上2层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中房森林别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "3000万"
+}{
+  "singel_price": "单价40459元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4396614.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161118/708bfddd-ee27-4004-bf1c-8fef39d3a6a5.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "简单装修，满五减税，热门房源，上门实勘",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室3厅|519.04平|地上2层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中房森林别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "2100万"
+}{
+  "singel_price": "单价37261元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812274.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171006/0b96abf5-01e4-4f98-b123-d7788bb59fb9.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "装修精致，满五年，热推好房，上门实勘",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室3厅|295.21平|地上3层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "旭丽花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "1100万"
+}{
+  "singel_price": "单价40204元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4485618.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161116/39a208b3-8f37-4bbd-b203-7653d908c906.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "品质装修，房本满五年，热推好房，高清摄影",
+  "s_cate": "马桥",
+  "house_desc": [
+    "4室2厅|373.09平|地上2层|(进门)北"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "山水世纪",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价32145元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4344614.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161030/8b794de4-c850-4067-b080-657a9286eada.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "省装修费，满5年，热推好房，上门实勘",
+  "s_cate": "马桥",
+  "house_desc": [
+    "4室3厅|466.63平|地上2层|(进门)东西"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "长岛别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "1500万"
+}{
+  "singel_price": "单价40950元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4152482.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20151028/0632bdee-8068-4242-8161-0fba3ba2c669.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "毛坯房，满五年，热推好房，高清摄影",
+  "s_cate": "马桥",
+  "house_desc": [
+    "5室2厅|439.56平|地上2层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "长岛别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "1800万"
+}{
+  "singel_price": "单价29736元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764361.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/5248d117-afdf-4ec8-bbd1-e32c879e76a1.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "房型正气，厨卫全明，好楼层，房本满两年",
+  "s_cate": "马桥",
+  "house_desc": [
+    "2室2厅|80.71平|中区/6层"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "富岩路335弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "240万"
+}{
+  "singel_price": "单价66200元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/minhang",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4692553.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/00795507-753c-48bd-ad19-651f2bc3debd.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "毛坯房，满2年，抢手火热，高清摄影",
+  "s_cate": "马桥",
+  "house_desc": [
+    "4室3厅|438.06平|地上2层地下1层|(进门)南"
+  ],
+  "district": "闵行二手房",
+  "house_detail": "中星红庐",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/maqiao",
+  "house_price": "2900万"
+}

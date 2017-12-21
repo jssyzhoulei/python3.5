@@ -1,0 +1,497 @@
+{
+  "singel_price": "单价31038元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4833969.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171023/a6f4b373-a2f0-4c2a-8423-eb305d4e89ee.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，厨卫全明，高区景观好，省装修费",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室1厅|90.21平|高区/16层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价28718元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753043.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170811/cb01b425-6eb2-4796-b160-267b33192f73.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "带落地窗，客厅带阳台，好楼层，精装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|83.57平|中区/11层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "240万"
+}{
+  "singel_price": "单价29450元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670891.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161218/07cdbdd3-313b-439a-937e-dba992d6184d.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，高区采光好，简单装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|91.68平|高区/16层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "270万"
+}{
+  "singel_price": "单价25910元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795256.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170922/2798d34b-e86c-49f0-aab7-e42ebb983c93.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，高区阳光房，毛坯房",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|123.5平|高区/6层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "泰宸家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价28436元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4725155.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170722/a4062c14-4de3-4610-8341-6195a80fbd58.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "带飘窗，客厅朝南，楼层好，看房有钥匙",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室1厅|73.85平|中区/21层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "首创旭辉城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "210万"
+}{
+  "singel_price": "单价27586元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674771.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/d87dd084-f66e-4a97-935a-489581e6212b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "客厅朝南，客厅带阳台，好楼层，装修精美",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室1厅|87.0平|中区/21层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "首创旭辉城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "240万"
+}{
+  "singel_price": "单价27485元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4655440.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170927/04904467-52eb-4426-a024-50580421ebcb.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "客厅朝南，客厅带阳台，光线充足，装修精致",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|87.32平|中区/17层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "首创旭辉城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "240万"
+}{
+  "singel_price": "单价28757元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4614635.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170502/06f17942-fa4a-4674-b0c5-85bba0785cb2.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "房型正气，厨卫全明，低楼层，拎包入住",
+  "s_cate": "徐行",
+  "house_desc": [
+    "4室2厅|146.05平|低区/11层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "420万"
+}{
+  "singel_price": "单价28670元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4587264.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/dbb8ce1e-deb1-4a5a-bd89-b51144a6fc45.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "厨卫全明，客厅朝南，光线充足，品味装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|86.5平|中区/17层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "首创旭辉城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "248万"
+}{
+  "singel_price": "单价28355元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749257.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170309/db73fd95-9a37-4f4d-b778-e038ed5489f6.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "卧室全南，客厅带阳台，黄金楼层，满2年",
+  "s_cate": "徐行",
+  "house_desc": [
+    "4室2厅|186.91平|中区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿洲香格丽花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "530万"
+}{
+  "singel_price": "单价30650元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514278.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170309/7ec2c176-1273-47d8-b9c2-8f4c249747d0.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，客厅朝南，好楼层，毛坯房",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|127.24平|中区/13层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿洲香格丽花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "390万"
+}{
+  "singel_price": "单价45161元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4847727.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/3765acbf-89cf-4f0f-a4dd-6b416d370691.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "毛坯房，钥匙在手，实地看房，高清摄影",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|93.0平|地上1层|(进门)南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "首创旭辉城(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "420万"
+}{
+  "singel_price": "单价30708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666919.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/70b3ff44-b794-425c-a57a-d8dd97a55b2f.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北户型，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|127.0平|低区/13层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿洲香格丽花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "390万"
+}{
+  "singel_price": "单价28819元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4851457.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/617df008-eac0-4bb8-98e6-2239c7743e17.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北户型，毛坯房，满二年，随时看房",
+  "s_cate": "徐行",
+  "house_desc": [
+    "4室4厅|288.0平|地上1层|(进门)南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿洲香格丽花园(别墅)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "830万"
+}{
+  "singel_price": "单价27325元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4862197.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171120/cc75293a-147c-40a9-89fc-7ccc606fc087.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "低楼层，新鲜挂牌，随时看房，高清摄影",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室1厅|86.0平|低区/18层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "首创旭辉城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "235万"
+}{
+  "singel_price": "单价25025元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4849418.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/84fd9ce6-e4fe-4c15-befb-b1ccadfaba8a.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，上下楼方便，拎包入住",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|89.91平|低区/20层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "绿洲香格丽花园(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "225万"
+}{
+  "singel_price": "单价26838元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4771448.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/f3201a2f-527b-4267-bfb6-93841f333a25.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，光线非常好，经典装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|119.23平|高区/16层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价27637元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4674875.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170609/acd36df9-c43d-4d58-88cf-e5243f42c5ee.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，低楼层，精装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|85.03平|低区/16层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "235万"
+}{
+  "singel_price": "单价27744元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4662225.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/2fe9126b-56cc-499e-81b2-92762ce85e65.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "上下楼方便，品质装修，房本满两年，热推好房",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|84.7平|低区/16层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "235万"
+}{
+  "singel_price": "单价24752元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/158b3c42-ce80-455d-b13d-fb42840a51c6.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，厨卫全明，低区出入方便，品味装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|119.18平|低区/16层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "295万"
+}{
+  "singel_price": "单价25688元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4763214.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170820/4aa8a1c6-5209-4bb2-aa7f-7175e31162d9.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "视野很好，中等装修，满5年，上门实拍",
+  "s_cate": "徐行",
+  "house_desc": [
+    "3室2厅|109.0平|高区/6层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "泰宸家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价29446元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4666854.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170305/1e1df79a-8850-447b-9ca8-9515b807bdf6.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，楼层好，品质装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|84.9平|中区/16层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "250万"
+}{
+  "singel_price": "单价28666元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4764190.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170822/64db681a-055e-4451-a19a-37b994198f15.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "带飘窗，客厅朝南，上下楼方便，拎包入住",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|75.0平|低区/21层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "首创旭辉城(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "215万"
+}{
+  "singel_price": "单价29518元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4718124.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/cecb8b52-8c4a-4f10-a131-d13bd8a998a5.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，黄金楼层，品味装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|83.0平|中区/11层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "245万"
+}{
+  "singel_price": "单价29165元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848840.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171108/d1954925-5949-4f42-847d-95fa09d2bd1d.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，楼层好，拎包入住",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|91.89平|中区/16层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "268万"
+}{
+  "singel_price": "单价29664元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4825983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171016/216c8aae-5f17-4314-91d0-77ee6e836385.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，黄金楼层，装修精致",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|84.95平|中区/11层|朝东南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "252万"
+}{
+  "singel_price": "单价32070元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4791170.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170919/808f500d-19a5-4edc-8952-3706b3a26c00.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，低区出入方便，品质装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "1室1厅|65.48平|低区/16层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "210万"
+}{
+  "singel_price": "单价29518元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4772693.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170827/29d26555-8785-4df9-b6b2-f44a3502b2eb.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，低楼层，拎包入住",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|83.0平|低区/16层|朝南"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "245万"
+}{
+  "singel_price": "单价30471元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748564.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170807/7bca5724-ef26-409a-91d2-76de97170f61.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "稀缺南北通，客厅带阳台，楼层好，中等装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "2室2厅|91.89平|中区/16层"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "280万"
+}{
+  "singel_price": "单价28624元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/jiading",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688505.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170619/7d73cfee-6962-434e-aa40-95a40dcd5099.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通，厨卫全明，好楼层，品质装修",
+  "s_cate": "徐行",
+  "house_desc": [
+    "4室2厅|146.73平|中区/11层|朝南北"
+  ],
+  "district": "嘉定二手房",
+  "house_detail": "天居玲珑湾(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xuxing",
+  "house_price": "420万"
+}

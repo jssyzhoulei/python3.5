@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价55392元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799728.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/04923a71-3283-4a3b-8bce-bc7744540efb.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，上下楼方便",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|44.23平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "245万"
+}{
+  "singel_price": "单价56863元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673930.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170420/1336b14e-7792-4c4b-be0a-351f3c9286da.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，地铁房，黄金楼层，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "3室1厅|74.74平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅南路96弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "425万"
+}{
+  "singel_price": "单价55105元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4306074.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161003/677fa97b-3197-4fd3-bf89-684b8e019ef1.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通方便，黄金楼层",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|61.7平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凌云新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "340万"
+}{
+  "singel_price": "单价59090元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4836738.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/9e1426de-f7cf-4ae0-a384-d5af96e1b0e9.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，低区出入方便",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|44.0平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "260万"
+}{
+  "singel_price": "单价64621元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4796206.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/aca94cca-71fe-4ae4-b6c2-201d5e5e494b.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，地铁沿线，光线充足",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室2厅|82.79平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "锦隆苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "535万"
+}{
+  "singel_price": "单价56246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4656595.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170527/da94aa0b-55ff-4376-acc7-3cefb1b01bf2.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，出行方便，上下楼方便",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|49.07平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凌云新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "276万"
+}{
+  "singel_price": "单价57965元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4652099.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170618/fc10ecca-6710-4e1f-be56-846ef32c5939.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，低区出入方便",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室0厅|53.48平|低区/6层|朝西南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "310万"
+}{
+  "singel_price": "单价53949元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4469656.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170101/391fb1a9-2a5d-4301-9952-109c254838de.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "南北通，卧室带阳台，交通便利，低区出入方便",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|69.51平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "锦泰苑（徐汇）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "375万"
+}{
+  "singel_price": "单价57761元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4290924.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161002/19ae4c2f-497d-4676-9c8b-65b8628af405.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，楼层好",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|49.86平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "金塘小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "288万"
+}{
+  "singel_price": "单价58539元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4546510.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170507/1163a6ce-41a3-4919-92ef-23a20291cb62.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "稀缺南北通，卧室带阳台，地铁房，好楼层",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|53.81平|中区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "金塘小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "315万"
+}{
+  "singel_price": "单价58513元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4498503.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/4a9089cc-65f0-43ba-8030-117d06d39b25.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，视野开阔",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室0厅|34.18平|高区/6层|朝西"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "200万"
+}{
+  "singel_price": "单价69487元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4231655.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160902/577d0761-f1af-4360-b3b1-071a8972c4ec.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北直通，厨卫全明，交通便利，好楼层",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室2厅|97.86平|中区/17层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "森陇家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "680万"
+}{
+  "singel_price": "单价60422元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797712.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/753b5575-e0dd-46d2-9b58-5d2397fc0d7e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁直达，低楼层",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|46.34平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凌云新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "280万"
+}{
+  "singel_price": "单价54671元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606545.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/7693bd8e-2eda-424c-ab10-328361d767ef.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "南北通透，厨卫全明，交通便利，光线非常好",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|62.19平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅南路96弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "340万"
+}{
+  "singel_price": "单价58708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4826743.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/4a9feb79-e628-4039-a012-bef064125150.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，视野很好",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|56.21平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "330万"
+}{
+  "singel_price": "单价53888元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4811803.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170930/98ad211c-b103-43f5-a51c-215a7e9c410f.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "南北户型，厨卫全明，交通便利，楼层好",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室2厅|126.0平|中区/25层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "679万"
+}{
+  "singel_price": "单价57275元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4795231.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170916/1c47b7b1-c2b1-4ed4-a560-73de29ee2ada.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，采光好",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|64.6平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "虹梅南路96弄",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "370万"
+}{
+  "singel_price": "单价57031元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701185.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/553bf24a-ee98-4fe9-9b8c-97e403af6010.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区景观房",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|64.0平|高区/6层|朝东南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "365万"
+}{
+  "singel_price": "单价55337元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804743.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170924/d1ce0685-cf33-4694-89bf-78f8ca687f00.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，低楼层，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|43.37平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "240万"
+}{
+  "singel_price": "单价58587元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775453.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170830/f87b6b70-b869-4afd-98cb-62c5b26b9199.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室0厅|59.74平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇十一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "350万"
+}{
+  "singel_price": "单价53236元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4591405.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170415/ca3456d1-82f9-4c81-b14f-06f3587a1908.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，中等装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|71.38平|中区/18层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "380万"
+}{
+  "singel_price": "单价52060元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4329745.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161012/90dff6b9-f351-4353-96a3-8e579978f395.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|69.15平|中区/5层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "陇南小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "360万"
+}{
+  "singel_price": "单价56949元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4769022.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170825/4bd00e0a-9638-4a73-a1f0-94c6a8b56e5b.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北直通，卧室带阳台，出行方便，视野开阔",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|56.19平|高区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "320万"
+}{
+  "singel_price": "单价59259元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694587.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170625/8e5c0438-c326-4fcd-8d7c-04bcc7f83d3d.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光无遮挡",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|40.5平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凌云新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "240万"
+}{
+  "singel_price": "单价56726元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4463086.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161227/c55436ed-0134-4e87-ac6a-72bfd1cf92b2.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，上下楼方便",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|61.7平|低区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "凌云新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "350万"
+}{
+  "singel_price": "单价57155元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4834503.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/4739aa37-0306-4937-88d7-f9f21a452b0a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，交通便利，好楼层",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|45.14平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "258万"
+}{
+  "singel_price": "单价57973元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835455.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171024/827f696a-1c7e-426d-af84-42f65bc8e823.jpg_200x150.jpg",
+  "house_time": [
+    "1996年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|49.16平|中区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇十村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "285万"
+}{
+  "singel_price": "单价54030元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4794628.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/74005436-9abe-46a0-b6ac-85e9bf5d6fc0.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "稀罕南北通，卧室带阳台，上下楼方便，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室1厅|56.45平|低区/6层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇五村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "305万"
+}{
+  "singel_price": "单价62745元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755357.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170813/f0b79a34-85f6-47fc-acc2-e27a0a58230e.jpg_200x150.jpg",
+  "house_time": [
+    "1975年建"
+  ],
+  "house_title": "稀缺南北通，卧室全南，光线充足，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "2室0厅|38.25平|中区/5层|朝南北"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "化工一四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "240万"
+}{
+  "singel_price": "单价51304元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/xuhui",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4733250.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161006/1f477cb2-ba4f-4416-b892-1c0c30f98f45.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，视野开阔，简单装修",
+  "s_cate": "华东理工",
+  "house_desc": [
+    "1室1厅|44.83平|高区/6层|朝南"
+  ],
+  "district": "徐汇二手房",
+  "house_detail": "梅陇九村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/huadongligong",
+  "house_price": "230万"
+}

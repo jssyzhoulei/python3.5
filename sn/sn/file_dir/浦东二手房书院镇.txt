@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价21485元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4831339.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/8dd9e1ba-0487-433c-98a2-f56bdfda158f.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，客厅朝南，楼层好，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室2厅|80.52平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "173万"
+}{
+  "singel_price": "单价18430元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618283.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170505/1391d6ac-afc9-4f8e-8d95-8afb979043ce.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北户型，厨卫全明，黄金楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "4室2厅|124.25平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "229万"
+}{
+  "singel_price": "单价19922元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4838111.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170829/de83192f-65c6-4cdb-b82a-bb9fe5e61620.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，低楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室2厅|102.9平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "205万"
+}{
+  "singel_price": "单价23387元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815150.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/7f25edb5-eccf-4c9c-9729-b7bcbe09b317.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "房型正气，卧室全南，好楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "1室1厅|62.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "145万"
+}{
+  "singel_price": "单价24600元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4799326.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/113484d9-3483-4fb1-8dd4-1503bd79ea02.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，卧室全南，低区出入方便，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "1室1厅|50.0平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽兰馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "123万"
+}{
+  "singel_price": "单价25000元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4797084.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170921/ba3bf907-9c87-4b8e-b3b8-d0707264bc0f.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅朝南，光线充足，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|66.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "165万"
+}{
+  "singel_price": "单价23627元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4624780.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170506/a7ea8075-a735-427f-80f2-88045680dd2b.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，带飘窗，光线充足，省装修费",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|95.23平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "书院一号公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "225万"
+}{
+  "singel_price": "单价26229元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170207/a8b90c9e-5823-4ea7-9509-d45513af7ce2.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，低楼层，省装修费",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "1室1厅|57.95平|低区/13层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "书院一号公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "152万"
+}{
+  "singel_price": "单价20009元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4531338.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170517/f82a8812-becc-46e5-a5c8-3ca9736dee74.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "房型正气，厨卫全明，低楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室2厅|102.45平|低区/6层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽兰馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "205万"
+}{
+  "singel_price": "单价21633元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4404891.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/2b232ea9-9299-40e8-848d-467a69a0bc46.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，客厅朝南，采光好，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|82.28平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "178万"
+}{
+  "singel_price": "单价22839元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4865358.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170818/24c9b107-a700-4799-a9d9-df77261ac2d9.jpg_200x150.jpg",
+  "house_time": [
+    "2010年建"
+  ],
+  "house_title": "南北通，客厅带阳台，好楼层，拎包入住",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室2厅|81.0平|中区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽菊清苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "185万"
+}{
+  "singel_price": "单价25151元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4822149.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171015/6eab536a-a1d7-4773-b921-2b9511f2099d.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，高区阳光房，精装修",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|66.0平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "166万"
+}{
+  "singel_price": "单价24242元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813759.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/c519973c-4f3b-463f-985e-1fd0ce100c31.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北户型，厨卫全明，黄金楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|66.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "160万"
+}{
+  "singel_price": "单价24307元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4813642.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171010/f094c12c-0bfc-45fd-b5e7-add1dc23a86c.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，带飘窗，低区出入方便，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|65.0平|低区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "158万"
+}{
+  "singel_price": "单价23500元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4803395.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/a24b5d44-e8e4-4085-9a82-2f1c362dc246.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，客厅朝南，高区采光好，拎包入住",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|80.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "188万"
+}{
+  "singel_price": "单价21097元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4748257.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170808/b5b9c7ab-05b1-45a3-8668-a27ad2c94026.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北直通，厨卫全明，视野开阔，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|82.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽兰馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "173万"
+}{
+  "singel_price": "单价23627元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4618326.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170726/6278b1de-0f5d-4c28-925e-0a1f6d522868.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通透，客厅带阳台，好楼层，精装修",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|95.23平|中区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "书院一号公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "225万"
+}{
+  "singel_price": "单价26617元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4519061.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170504/7ed9356b-b24f-4411-a90e-7a87a00c72c4.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北直通，客厅朝南，高区采光好，装修精美",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室2厅|60.11平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "160万"
+}{
+  "singel_price": "单价22956元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4438882.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170403/77e133c5-a34f-4e7a-867f-d43c865dd81b.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，好楼层，简单装修",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "1室1厅|42.69平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东海三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "98万"
+}{
+  "singel_price": "单价19640元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4434585.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161007/7541b575-5cfb-4f8a-8f60-da53a484f6ec.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，客厅朝南，低楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室2厅|96.74平|低区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "190万"
+}{
+  "singel_price": "单价18738元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4342024.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161018/50c6b7ab-1f01-4d50-86df-49454a8324c7.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，低区出入方便，装修精致",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室2厅|122.74平|低区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "230万"
+}{
+  "singel_price": "单价20947元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814386.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/9d2aa40d-d499-403c-a958-97baf8586767.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "南北通，厨卫全明，好楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室1厅|80.2平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽荷亭苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "168万"
+}{
+  "singel_price": "单价22201元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4585379.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/1f1b927d-6753-4704-b5d9-a0d925500bc2.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，楼层好，钥匙在手",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "1室1厅|42.79平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东海二村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "95万"
+}{
+  "singel_price": "单价19125元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4512075.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/417f630d-1f78-4e91-9453-a7e7a3be431c.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，客厅朝南，低楼层，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室1厅|101.96平|低区/12层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽梅傲苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "195万"
+}{
+  "singel_price": "单价21174元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4742976.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170804/83549c9a-a011-4ecd-8841-6a77b1531d4f.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，带落地窗，光线充足，品味装修",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室2厅|103.9平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "220万"
+}{
+  "singel_price": "单价21234元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4737983.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/be88b8eb-26ea-416a-bf03-101365f1b93a.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通透，客厅朝南，楼层好，毛坯房",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "2室2厅|81.0平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "172万"
+}{
+  "singel_price": "单价20792元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4705534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170704/0951046d-2eba-445f-99a6-ee05c3936429.jpg_200x150.jpg",
+  "house_time": [
+    "2008年建"
+  ],
+  "house_title": "南北户型，卧室带卫，视野很好，装修精致",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室2厅|101.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽兰馨苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "210万"
+}{
+  "singel_price": "单价20961元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4514671.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170219/773f3076-4b3b-4334-8ac6-b733867054a2.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，高区阳光房，品味装修",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室2厅|104.0平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "新舒苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "218万"
+}{
+  "singel_price": "单价19565元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4717534.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161216/ac3e9fac-8dbf-4daa-b3a3-f21a2e1636f7.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "房型正气，光线充足，毛坯房，看房方便",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "3室2厅|115.0平|中区/12层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丽泽梅傲苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "225万"
+}{
+  "singel_price": "单价21129元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4804257.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170926/97f4f855-b6fb-494a-8972-ae6209a93c73.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "光线充足，满五减税，热门房源，高清摄影",
+  "s_cate": "书院镇",
+  "house_desc": [
+    "1室1厅|44.96平|中区/5层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东海三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/shuyuanzhen",
+  "house_price": "95万"
+}

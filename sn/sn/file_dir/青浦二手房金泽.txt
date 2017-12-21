@@ -1,0 +1,503 @@
+{
+  "singel_price": "单价20759元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4784690.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/75fa807f-8481-487d-9d40-981d993b4c9b.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "毛坯房，满5年，火爆热销，高清摄影",
+  "s_cate": "金泽",
+  "house_desc": [
+    "4室3厅|255.3平|地上1层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "530万"
+}{
+  "singel_price": "单价18382元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4819679.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/2e93fe28-60a8-491e-a413-cae3a4576a06.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，光线充足，房本满五年",
+  "s_cate": "金泽",
+  "house_desc": [
+    "2室1厅|68.0平|中区/4层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "125万"
+}{
+  "singel_price": "单价15526元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4755416.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170817/156825fc-984d-48c6-bc9a-a68e128739a3.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，视野很好，房本满五年",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室2厅|90.17平|高区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "商华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "140万"
+}{
+  "singel_price": "单价14021元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4706918.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/12e739e8-eed7-4bbd-8457-82cc89d23426.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "房型正气，高区采光好，装修精致，满五减税",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|129.8平|高区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "海图公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "182万"
+}{
+  "singel_price": "单价19285元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4661849.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/e79fd307-4b97-48f6-a62e-b0ad3242d44c.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "南北通透，厨卫全明，楼层好，品味装修",
+  "s_cate": "金泽",
+  "house_desc": [
+    "2室1厅|70.0平|中区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "135万"
+}{
+  "singel_price": "单价16815元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4630837.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/e3d49efd-85c0-4839-8a9e-431481af728a.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "卧室带卫，客厅带阳台，黄金楼层，满5年",
+  "s_cate": "金泽",
+  "house_desc": [
+    "2室2厅|95.15平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "160万"
+}{
+  "singel_price": "单价18571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4606641.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/04a47302-891d-42d7-8c9c-2c8d6e832b12.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，采光无遮挡，满五年",
+  "s_cate": "金泽",
+  "house_desc": [
+    "2室1厅|70.0平|高区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "130万"
+}{
+  "singel_price": "单价25460元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4703369.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/9e522085-d3ca-4d46-b9fa-5e9d4054846a.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "南北通，经典装修，房本满五年，抢手火热",
+  "s_cate": "金泽",
+  "house_desc": [
+    "5室2厅|255.3平|地上1层|(进门)南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "650万"
+}{
+  "singel_price": "单价23829元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4609091.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/6979aee0-b485-4b78-8cff-e43db17199ec.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "拎包入住，房本满五年，多次带看，上门实勘",
+  "s_cate": "金泽",
+  "house_desc": [
+    "4室2厅|180.45平|地上1层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "430万"
+}{
+  "singel_price": "单价23275元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4466268.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/c7dbfdc0-fdf4-4e07-8f4e-ce9c912343ea.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "威尼斯花园，满5年，热推好房，上门实勘",
+  "s_cate": "金泽",
+  "house_desc": [
+    "4室2厅|180.45平|地上1层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "420万"
+}{
+  "singel_price": "单价14911元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4690562.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/9815f7a6-13f8-41fc-8a3c-d9796baf1899.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，客厅带阳台，采光好，品味装修",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室2厅|118.03平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "海图公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "176万"
+}{
+  "singel_price": "单价33035元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4358641.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/9257df9d-8c22-47c7-bbb6-d8e38aaab12c.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "省装修费，满五年，热门房源，高清实拍",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室3厅|257.3平|地上1层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "850万"
+}{
+  "singel_price": "单价21843元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4286408.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160411/93759650-2d5d-44f2-a2e0-797b7a2a2457.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "简单装修，房本满五年，实地看房，上门实拍",
+  "s_cate": "金泽",
+  "house_desc": [
+    "5室2厅|293.0平|地上1层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "640万"
+}{
+  "singel_price": "单价26785元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4645241.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/c3a1b715-e948-4bdd-834d-d65e68af79d2.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "卧室带阳台，客厅朝南，好楼层，毛坯房",
+  "s_cate": "金泽",
+  "house_desc": [
+    "1室1厅|56.0平|中区/3层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "国际华城",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "150万"
+}{
+  "singel_price": "单价18340元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4832174.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/8f883807-d9cd-4737-baef-3f44b2679322.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，楼层好，满5年",
+  "s_cate": "金泽",
+  "house_desc": [
+    "2室1厅|70.88平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "130万"
+}{
+  "singel_price": "单价18585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4817258.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171116/85e29398-68bc-4239-b8f7-5ff50a6026c9.jpg_200x150.jpg",
+  "house_time": [
+    "2001年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，光线充足，简单装修",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|80.71平|中区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金溪三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "150万"
+}{
+  "singel_price": "单价16071元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4809773.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171012/d83e814a-491f-4e8b-a355-10b841262438.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，光线充足，房本满五年",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室2厅|112.0平|中区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "180万"
+}{
+  "singel_price": "单价17744元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4767066.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170526/a9f323ef-1416-4040-9118-ac38bda1899e.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "光线充足，简单装修，满5年，高清实拍",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|90.17平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "商华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "160万"
+}{
+  "singel_price": "单价18571元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4670609.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/a6da6187-0296-454d-8188-84bf23045279.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "稀缺南北通，卧室带卫，光线充足，装修精致",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|90.46平|中区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "商华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "168万"
+}{
+  "singel_price": "单价17086元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4578054.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/e69d028a-9278-4d4a-a11c-c242e8981265.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "厨卫全明，卧室带卫，好楼层，满五减税",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|128.76平|中区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "海图公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "220万"
+}{
+  "singel_price": "单价16858元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4567251.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170222/0ed9f2b3-1b53-4c0a-b357-de1240627a37.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，品味装修",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|90.16平|中区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "商华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "152万"
+}{
+  "singel_price": "单价26635元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783254.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/468cc262-785f-487b-b1f4-cedc8527353d.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "威尼斯花园，品味装修，火热出售，高清实拍",
+  "s_cate": "金泽",
+  "house_desc": [
+    "5室3厅|255.3平|地上3层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "680万"
+}{
+  "singel_price": "单价19633元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4778097.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170915/9ca8a43a-ffec-4f1f-8c76-36f592e43ab7.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，装修精致",
+  "s_cate": "金泽",
+  "house_desc": [
+    "2室1厅|67.74平|中区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "133万"
+}{
+  "singel_price": "单价16511元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761770.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170826/4355a037-2fcb-4234-b228-7ac009f9e141.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带阳台，光线非常好，房本满两年，人气房源",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|86.0平|高区/4层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "142万"
+}{
+  "singel_price": "单价31727元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4715092.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/e98d6e78-d5b6-46a4-9ea0-c33fc0a16279.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "精装修，满二减税，人气房源，高清摄影",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|255.3平|地上1层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "810万"
+}{
+  "singel_price": "单价16561元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4696832.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170706/f696442d-c138-47be-b4be-1944d348bd98.jpg_200x150.jpg",
+  "house_time": [
+    "2002年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，高区阳光房，装修精致",
+  "s_cate": "金泽",
+  "house_desc": [
+    "2室1厅|95.4平|高区/5层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "商华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "158万"
+}{
+  "singel_price": "单价17108元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4675019.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170608/28566a36-bee9-414a-84ce-6d3fefb6d486.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "高区采光好，省装修费，满二年，热门房源",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室1厅|85.92平|高区/4层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "金华新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "147万"
+}{
+  "singel_price": "单价16967元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4592457.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170416/8104f076-6726-40de-8f5e-266ecd3a4f2a.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，客厅朝南，高区阳光房，中等装修",
+  "s_cate": "金泽",
+  "house_desc": [
+    "6室2厅|90.17平|高区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "商华新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "153万"
+}{
+  "singel_price": "单价19962元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4221446.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161105/c79a484d-3f5e-46fe-80ca-0540902ecf73.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "毛坯房，满两年，人气房源，高清摄影",
+  "s_cate": "金泽",
+  "house_desc": [
+    "3室2厅|180.34平|地上3层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "淀滨宝岛别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "360万"
+}{
+  "singel_price": "单价43881元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4684660.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/017f6ca2-982a-4c1d-84c0-9fabefaf68eb.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "威尼斯花园，品味装修，实地看房，上门实勘",
+  "s_cate": "金泽",
+  "house_desc": [
+    "7室2厅|316.76平|地上1层|(进门)南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "威尼斯花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/jinze",
+  "house_price": "1390万"
+}

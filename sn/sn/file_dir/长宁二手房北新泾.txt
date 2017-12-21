@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价59673元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4868976.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171126/42fdbed6-7ff0-4f4e-8a2a-8c3a0344a2a1.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，交通便利，低楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室1厅|63.68平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "瑞冬小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "380万"
+}{
+  "singel_price": "单价63841元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4708294.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171123/55c5d731-23ed-41a1-8fc4-4e3974317116.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，黄金楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室2厅|93.2平|中区/12层|朝东南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "淞虹公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "595万"
+}{
+  "singel_price": "单价61617元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4839480.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171028/ef211522-2206-41f5-9c52-5dedb398d63a.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，光线非常好",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|44.63平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "瑞冬小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "275万"
+}{
+  "singel_price": "单价58729元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4758877.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/3e66c1c3-67b1-4fe7-a30d-9f95cb123a2e.jpg_200x150.jpg",
+  "house_time": [
+    "1995年建"
+  ],
+  "house_title": "卧室带卫，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|37.46平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "金钟小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "220万"
+}{
+  "singel_price": "单价62949元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735970.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170730/e0cdfdaa-2c19-4e51-bbef-c4f32af92d58.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，低区出入方便",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|38.92平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹园八村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "245万"
+}{
+  "singel_price": "单价69967元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685680.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170617/697a8bcf-05b5-4691-9b03-f3fe2afe4eef.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "交通方便，低楼层，简单装修，满5年",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "3室1厅|83.61平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "淞虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "585万"
+}{
+  "singel_price": "单价60017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4672616.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170607/88174edd-a59b-412f-ad02-dc4420d68801.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "地铁直达，高区景观房，中等装修，满五减税",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室0厅|34.99平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "210万"
+}{
+  "singel_price": "单价68017元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4623326.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170918/ab04b62e-665e-4f09-bcf5-7c0a4821b9c6.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁沿线，好楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|36.02平|中区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "紫竹小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "245万"
+}{
+  "singel_price": "单价59693元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4554039.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170326/f9f59db7-445b-4bf4-b39d-b01c42489d36.jpg_200x150.jpg",
+  "house_time": [
+    "1984年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通便利，上下楼方便",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室0厅|52.77平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "315万"
+}{
+  "singel_price": "单价65044元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4549469.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170315/0e878fa3-e6df-4c96-999e-9c95ba87083a.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，低区出入方便",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|40.28平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "262万"
+}{
+  "singel_price": "单价63681元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4506661.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170218/bce93346-d107-4127-acf0-7460213fe36e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，采光无遮挡",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室1厅|51.82平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "瑞冬小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "330万"
+}{
+  "singel_price": "单价58608元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4357963.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161112/1631a55c-bf62-4775-b251-8a8458223627.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "卧室带阳台，地铁直达，好楼层，满五减税",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室0厅|52.04平|中区/6层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾六村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "305万"
+}{
+  "singel_price": "单价67097元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4396032.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161119/9ec6cdad-266d-4aef-bad1-ca8c44bfae9e.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，出行方便，采光好",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "3室2厅|123.7平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "淞虹苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "830万"
+}{
+  "singel_price": "单价60483元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4507285.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170214/1feb6462-8bd6-4354-811a-6a87e5fb8cd1.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "房型正气，卧室带阳台，出行方便，采光无遮挡",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室0厅|46.79平|高区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "永馨小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "283万"
+}{
+  "singel_price": "单价64708元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4835891.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171025/de5716d7-5102-4b03-984c-12dcea7e3cb8.jpg_200x150.jpg",
+  "house_time": [
+    "1985年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，出行方便，高区阳光房",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|40.18平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾三村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "260万"
+}{
+  "singel_price": "单价72190元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4812763.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/8180c72d-4789-4d02-ae51-b54985a03f9f.jpg_200x150.jpg",
+  "house_time": [
+    "1990年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，交通方便，低楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室0厅|31.86平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "230万"
+}{
+  "singel_price": "单价62995元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4783250.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170909/6af29138-f9ed-447d-b8b9-d64a1d96e3a6.jpg_200x150.jpg",
+  "house_time": [
+    "1998年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，光线非常好",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|49.21平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "淞虹公寓",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "310万"
+}{
+  "singel_price": "单价66575元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4694337.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170510/1debaa9d-dd72-495d-b335-ddd65133da4e.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，地铁房，低区出入方便",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室1厅|58.58平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "390万"
+}{
+  "singel_price": "单价67670元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4729809.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171009/47098c5f-de36-47a4-8ac0-bc8657e52202.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁沿线，低楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室0厅|45.81平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "310万"
+}{
+  "singel_price": "单价65798元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712771.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170716/ae9d6c9d-a377-4ad4-8863-9f3f2eb16016.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，厨卫全明，出行方便，低楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室1厅|75.99平|低区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "通协小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "500万"
+}{
+  "singel_price": "单价68823元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4601892.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/412f4c58-1138-4cc3-a332-510027129edf.jpg_200x150.jpg",
+  "house_time": [
+    "2000年建"
+  ],
+  "house_title": "南北户型，带飘窗，地铁直达，楼层好",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "3室2厅|130.77平|中区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹康花苑(二期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "900万"
+}{
+  "singel_price": "单价73529元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4579602.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160925/21789435-2488-4783-a280-478d694a4b5d.jpg_200x150.jpg",
+  "house_time": [
+    "2003年建"
+  ],
+  "house_title": "南北通，厨卫全明，交通方便，上下楼方便",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室2厅|102.0平|低区/13层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "世纪之春花园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "750万"
+}{
+  "singel_price": "单价61362元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4874817.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171201/f79dea3a-9b11-4d08-b6d0-6b1b75e2cdaa.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，交通便利，高区采光好",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|48.89平|高区/6层"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "300万"
+}{
+  "singel_price": "单价64649元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4861582.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171118/b54db337-b373-44fd-a01f-78ca3a6652db.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "稀缺南北通，带飘窗，地铁房，黄金楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室2厅|81.98平|中区/13层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "通协小区",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "530万"
+}{
+  "singel_price": "单价66595元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4785272.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160821/e81d9d83-faea-4a9a-ab3c-68e5abd6e344.jpg_200x150.jpg",
+  "house_time": [
+    "1983年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，好楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室0厅|46.55平|中区/5层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "310万"
+}{
+  "singel_price": "单价57709元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4700916.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171110/656ac0cb-c55a-49de-96f6-9989b08c28e5.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "稀罕南北通，卧室带阳台，交通方便，上下楼方便",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室1厅|55.45平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价70953元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4464791.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170212/e8c2ce9b-6cf2-4765-a840-a256540cadce.jpg_200x150.jpg",
+  "house_time": [
+    "1992年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁房，上下楼方便",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "2室0厅|45.1平|低区/6层|朝南北"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾七村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "320万"
+}{
+  "singel_price": "单价71691元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4440556.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171001/48b9318c-631a-4bd0-9b75-da9610f2c7f4.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，交通便利，低楼层",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|54.4平|低区/13层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "北平家园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "390万"
+}{
+  "singel_price": "单价77258元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4264212.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170211/1913078c-978b-45fc-a6d0-d16b3836050b.jpg_200x150.jpg",
+  "house_time": [
+    "2005年建"
+  ],
+  "house_title": "地铁直达，视野开阔，拎包入住，满二减税",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室1厅|59.54平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "虹康花苑(三期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "460万"
+}{
+  "singel_price": "单价64421元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/changning",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4815668.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171007/6b0527a0-13e9-47a3-8dc2-a2471695a1e4.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，地铁房，高区采光好",
+  "s_cate": "北新泾",
+  "house_desc": [
+    "1室0厅|34.15平|高区/6层|朝南"
+  ],
+  "district": "长宁二手房",
+  "house_detail": "新泾四村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/beixinjing",
+  "house_price": "220万"
+}

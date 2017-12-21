@@ -1,0 +1,509 @@
+{
+  "singel_price": "单价36781元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4712841.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170715/5cf5bded-a53d-4989-80a2-35cc63a5f5dd.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，地铁直达，采光好",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室2厅|88.36平|高区/15层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富力桃园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "325万"
+}{
+  "singel_price": "单价35250元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4616922.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160224/c4d6c87e-761b-4dfa-bb41-1a457edbeeb1.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，带飘窗，交通方便，低楼层",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|89.36平|低区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "315万"
+}{
+  "singel_price": "单价36674元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4697385.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170627/ddf6245c-b4f4-4f59-9826-4b4bf1781b66.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通，带飘窗，出行方便，楼层好",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|89.98平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价32792元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4686913.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170105/0ba1d1ee-be25-4d95-8f41-ba5ec5afb0e8.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北通透，带飘窗，交通方便，低楼层",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|89.96平|低区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "295万"
+}{
+  "singel_price": "单价35335元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4507922.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170215/a90946ed-2777-44b8-aed9-dfac53074a83.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，客厅朝南，出行方便，上下楼方便",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室2厅|82.07平|低区/17层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富力桃园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "290万"
+}{
+  "singel_price": "单价37334元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4407912.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161125/2ffa8ff8-34d9-4194-a2c9-8ef5872daf05.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，客厅朝南，出行方便，高区景观好",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室2厅|87.05平|高区/17层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富力桃园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "325万"
+}{
+  "singel_price": "单价33552元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4781410.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20160424/9bb4e765-b2a1-4548-9d88-286f9c15b4a7.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，出行方便，高区景观房",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室2厅|80.47平|高区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "留水园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "270万"
+}{
+  "singel_price": "单价35714元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4589810.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170422/cdb8824a-1726-461b-8c55-d5cba2c4785b.jpg_200x150.jpg",
+  "house_time": [
+    "1987年建"
+  ],
+  "house_title": "卧室带阳台，采光好，中等装修，满五年",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室1厅|56.0平|高区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "盈中新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "200万"
+}{
+  "singel_price": "单价34333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4780942.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170105/de5850cc-2721-4927-b952-276eabfdedb7.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，厨卫全明，交通方便，黄金楼层",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|90.29平|中区/17层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富力桃园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "310万"
+}{
+  "singel_price": "单价35171元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574304.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170401/c4283c67-5ea9-4de6-8d9e-a434713faebe.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "南北通，卧室带阳台，地铁沿线，光线非常好",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室1厅|52.6平|高区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "海天苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "185万"
+}{
+  "singel_price": "单价38433元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4688957.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170624/e0652abc-ea3c-40c7-9d98-572048d1c007.jpg_200x150.jpg",
+  "house_time": [
+    "2006年建"
+  ],
+  "house_title": "南北通，带飘窗，地铁沿线，高区阳光房",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|67.65平|高区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "民乐佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "260万"
+}{
+  "singel_price": "单价32927元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4810376.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171002/5069b9f5-9540-4e84-be3f-be456ddc78e5.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，厨卫全明，地铁房，低区出入方便",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|89.59平|低区/14层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "295万"
+}{
+  "singel_price": "单价31880元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4860442.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171119/2ef05c7a-956c-4d1d-97cf-08d01019d558.jpg_200x150.jpg",
+  "house_time": [
+    "1986年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，黄金楼层，品味装修",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室0厅|47.05平|中区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "城北新村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "150万"
+}{
+  "singel_price": "单价33656元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4848362.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171106/62ef216d-89bc-4d83-bf08-05b966c441d6.jpg_200x150.jpg",
+  "house_time": [
+    "1999年建"
+  ],
+  "house_title": "厨卫全明，卧室全南，上下楼方便，简单装修",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室2厅|82.6平|低区/6层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "留水园别墅",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "278万"
+}{
+  "singel_price": "单价33585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4753399.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/b9672cad-3d07-48f8-a710-10d9ae1e9a7a.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "厨卫全明，卧室带阳台，好楼层，中等装修",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室1厅|66.1平|中区/6层"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "万寿新村（青浦）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "222万"
+}{
+  "singel_price": "单价36416元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4747520.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/8f0240e6-dc95-48dc-95cf-d0fb55c88e26.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "地铁沿线，低楼层，毛坯房，钥匙房",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|173.0平|低区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "630万"
+}{
+  "singel_price": "单价36512元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4568720.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170329/74d69ce7-fb0a-455d-89cf-1a3edf9cb11b.jpg_200x150.jpg",
+  "house_time": [],
+  "house_title": "交通便利，楼层好，毛坯房，看房方便",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|183.5平|中区/4层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "670万"
+}{
+  "singel_price": "单价34791元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800974.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170925/81ef94ec-4647-4592-b3d5-768e3831f005.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，光线充足",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室1厅|60.36平|中区/7层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "留水园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "210万"
+}{
+  "singel_price": "单价32852元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4779817.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170907/f444ead9-6a8b-4d1f-9847-bf919e8c68fc.jpg_200x150.jpg",
+  "house_time": [
+    "1997年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁直达，高区采光好",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室1厅|60.27平|高区/7层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "留水园",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "198万"
+}{
+  "singel_price": "单价34871元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4768486.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170824/327cfa80-1938-4523-9b6e-d5fb41a2cd04.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室全南，地铁直达，低区出入方便，精装修",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室2厅|66.53平|低区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "海天苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "232万"
+}{
+  "singel_price": "单价37455元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4722905.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170727/510b1635-dc7e-4966-8bd9-d07c28777f0b.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，客厅带阳台，交通方便，光线充足",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|90.24平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "338万"
+}{
+  "singel_price": "单价31034元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4574689.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170404/94bd8d32-c260-4a7c-bff5-2a8fb1b34644.jpg_200x150.jpg",
+  "house_time": [
+    "2004年建"
+  ],
+  "house_title": "南北直通，厨卫全明，出行方便，低区出入方便",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|116.0平|低区/6层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "民乐佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "360万"
+}{
+  "singel_price": "单价34252元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4719137.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170802/0827ad83-1b16-43d5-8ea5-ab6c47185d93.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁沿线，低区出入方便",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室1厅|55.47平|低区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "海天苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "190万"
+}{
+  "singel_price": "单价34400元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4279132.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161203/de9b1e22-0cc5-4da7-a6b1-12491d3d0ad2.jpg_200x150.jpg",
+  "house_time": [
+    "2009年建"
+  ],
+  "house_title": "地铁直达，毛坯房，满五减税，抢手火热",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "4室2厅|218.02平|地上3层|(进门)北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富力桃园（别墅）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "750万"
+}{
+  "singel_price": "单价37037元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4487440.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170117/b602749f-b7e7-4dbb-aa11-2bde3f742164.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，低区出入方便，毛坯房，满两年",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|117.45平|低区/5层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "新城忆华里（一期）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "435万"
+}{
+  "singel_price": "单价36121元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4814607.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171004/66568019-3c4a-4de8-9fcd-578250690676.jpg_200x150.jpg",
+  "house_time": [
+    "1993年建"
+  ],
+  "house_title": "卧室带阳台，卧室全南，地铁房，楼层好",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室1厅|52.6平|中区/5层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "海天苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "190万"
+}{
+  "singel_price": "单价35049元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761177.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170823/030b2293-6fdc-4134-a819-35e297877042.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "出行方便，黄金楼层，精装修，满两年",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "2室2厅|91.3平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉百合宫馆",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "320万"
+}{
+  "singel_price": "单价35019元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4704509.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170705/485ea993-e6ef-49c5-bbc2-366e9a572186.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，带落地窗，地铁沿线，低楼层",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|89.95平|低区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "315万"
+}{
+  "singel_price": "单价36654元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4551750.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/da9f184f-f4f6-47cd-8ce7-280df6abb57f.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "地铁沿线，楼层好，简单装修，满二减税",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室1厅|90.03平|中区/14层|朝南"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "旭辉玫瑰湾",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "330万"
+}{
+  "singel_price": "单价36400元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/qingpu",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4510734.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161027/2745500f-d803-4f52-a7d1-8893d03bbae8.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，客厅朝南，出行方便，低楼层",
+  "s_cate": "盈浦",
+  "house_desc": [
+    "3室2厅|87.91平|低区/12层|朝南北"
+  ],
+  "district": "青浦二手房",
+  "house_detail": "富力桃园（公寓）",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/yingpu",
+  "house_price": "320万"
+}

@@ -1,0 +1,511 @@
+{
+  "singel_price": "单价35123元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4759604.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171107/1b3ee410-c653-4ebc-9259-5cfd34360173.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北通，厨卫全明，黄金楼层，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室1厅|88.26平|中区/20层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "310万"
+}{
+  "singel_price": "单价28486元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4524964.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170228/d4866c3e-4a95-4486-9c24-6405edc31ef5.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通，好楼层，毛坯房，房本满两年",
+  "s_cate": "新场",
+  "house_desc": [
+    "4室2厅|182.54平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "520万"
+}{
+  "singel_price": "单价27064元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4761149.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170819/99ef4a07-8ecd-45ef-8bd8-823cdefd699d.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，采光好，简单装修",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室1厅|109.0平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方冠郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "295万"
+}{
+  "singel_price": "单价29732元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4595309.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170505/d4126ec0-fe22-4ce5-8af1-433307f73d8e.jpg_200x150.jpg",
+  "house_time": [
+    "1994年建"
+  ],
+  "house_title": "房型正气，厨卫全明，高区采光好，品味装修",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室1厅|70.63平|高区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "石笋一村",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "210万"
+}{
+  "singel_price": "单价28773元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4773490.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171125/4c5843bf-01af-4e18-8f51-8e6032f559c3.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅朝南，楼层好，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|106.0平|中区/6层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方冠郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "305万"
+}{
+  "singel_price": "单价35294元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4605955.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170430/84c270e2-af95-4f0f-8ccc-8e6626783302.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，低区出入方便，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|85.0平|低区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价32960元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4554109.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170325/a5422199-1859-4eb1-85dd-dae2a69736f1.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北通透，高区景观房，毛坯房，满5年",
+  "s_cate": "新场",
+  "house_desc": [
+    "4室2厅|175.97平|高区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "580万"
+}{
+  "singel_price": "单价29262元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4494182.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170323/972c92b7-abea-412e-b619-cee6cd6a1f09.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "稀缺南北通，黄金楼层，毛坯房，满5年",
+  "s_cate": "新场",
+  "house_desc": [
+    "4室2厅|182.83平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "535万"
+}{
+  "singel_price": "单价29950元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4808369.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170929/12996aeb-5de4-48e0-9621-c5c65b88efeb.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，带飘窗，光线充足，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "4室2厅|140.23平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "420万"
+}{
+  "singel_price": "单价34336元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4800129.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170920/db1361b7-40a2-4df7-b51b-69d6d1c2f68c.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "稀罕南北通，客厅带阳台，黄金楼层，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室1厅|89.7平|中区/20层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "308万"
+}{
+  "singel_price": "单价34556元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4775610.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170831/5340060b-dbc9-40fa-b448-d736b2146bbe.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "房型正气，客厅带阳台，低区出入方便，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室1厅|88.26平|低区/20层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "305万"
+}{
+  "singel_price": "单价34246元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4741134.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20171128/a96ef519-ddc0-4fbe-8240-0a5c97866165.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，采光好，简单装修",
+  "s_cate": "新场",
+  "house_desc": [
+    "1室1厅|73.0平|高区/20层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "250万"
+}{
+  "singel_price": "单价34454元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4735378.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170911/ef20db71-6e16-4e50-9cd8-9f2d39d2eaa8.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北户型，厨卫全明，视野很好，装修精美",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室1厅|84.17平|高区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "290万"
+}{
+  "singel_price": "单价35144元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4720400.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170806/768e5789-d0c4-478e-ad90-377247600151.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "房型正气，客厅朝南，低楼层，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|89.63平|低区/20层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "315万"
+}{
+  "singel_price": "单价30585元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4673491.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170729/cd9e9c94-0253-48d6-a3e5-63d6ca702791.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，楼层好，精装修，满2年",
+  "s_cate": "新场",
+  "house_desc": [
+    "4室2厅|140.59平|中区/15层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "430万"
+}{
+  "singel_price": "单价35176元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650469.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170621/d939fd80-de69-4144-a0b1-1713ddd076f6.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北通，光线充足，毛坯房，房本满两年",
+  "s_cate": "新场",
+  "house_desc": [
+    "3室2厅|90.97平|中区/17层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城三期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "320万"
+}{
+  "singel_price": "单价33799元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4641717.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170521/72fac115-e0c3-4b2a-9a79-ac664c0e4953.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，采光无遮挡，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|88.76平|高区/21层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价29884元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4600872.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170429/0c65901e-700e-4792-9d9b-d03c1501db99.jpg_200x150.jpg",
+  "house_time": [
+    "2011年建"
+  ],
+  "house_title": "南北直通，黄金楼层，毛坯房，满二年",
+  "s_cate": "新场",
+  "house_desc": [
+    "4室2厅|177.35平|中区/5层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城(一期)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "530万"
+}{
+  "singel_price": "单价38008元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4497548.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170221/e9d6424c-4a46-4223-a0cc-ab98698cdee5.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "带飘窗，客厅朝南，高区景观好，品质装修",
+  "s_cate": "新场",
+  "house_desc": [
+    "3室2厅|96.03平|高区/18层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "万科清林径",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价29670元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4749108.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170812/51b8ba10-8cb5-4239-a254-613b4b58e35a.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，厨卫全明，低楼层，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "3室1厅|91.0平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "270万"
+}{
+  "singel_price": "单价30416元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4685917.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20161124/bf677bc1-3fd7-4464-b474-55c11c4ca630.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通透，客厅朝南，低楼层，品质装修",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|96.0平|低区/11层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "古佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "292万"
+}{
+  "singel_price": "单价29849元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4788462.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170923/40dd9987-5f25-4605-9a19-3f08c770400c.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，低楼层，钥匙房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|88.78平|低区/20层"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "265万"
+}{
+  "singel_price": "单价33998元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4701724.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170717/6bb70862-47e4-4d16-97af-dc7b778b5da7.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，低楼层，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|88.24平|低区/21层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "300万"
+}{
+  "singel_price": "单价32101元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4650930.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170903/826f4d4e-7166-476c-a1a1-2d0c8bebba91.jpg_200x150.jpg",
+  "house_time": [
+    "2015年建"
+  ],
+  "house_title": "客厅朝南，客厅带阳台，低楼层，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|88.78平|低区/20层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "丝庐雅苑(公寓)",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "285万"
+}{
+  "singel_price": "单价33946元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4581036.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170410/17b3e392-f438-47c6-97de-9b66af326c94.jpg_200x150.jpg",
+  "house_time": [
+    "2013年建"
+  ],
+  "house_title": "南北直通，黄金楼层，毛坯房，钥匙房",
+  "s_cate": "新场",
+  "house_desc": [
+    "3室2厅|91.32平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "310万"
+}{
+  "singel_price": "单价35790元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4222386.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170917/1fa5958c-df3d-4536-94b8-246b75c7bb5c.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北户型，厨卫全明，楼层好，装修精美",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|89.41平|中区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "320万"
+}{
+  "singel_price": "单价30979元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4603292.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170719/21393b5c-a7f4-4fe0-8ed1-291e510e0b2a.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北直通，客厅带阳台，黄金楼层，拎包入住",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|85.54平|中区/5层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "古佳苑",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "265万"
+}{
+  "singel_price": "单价30414元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4524125.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170226/2dd3fdd3-c842-401e-aaa6-c5c23786b392.jpg_200x150.jpg",
+  "house_time": [
+    "2007年建"
+  ],
+  "house_title": "南北通，客厅朝南，上下楼方便，装修经典",
+  "s_cate": "新场",
+  "house_desc": [
+    "3室2厅|133.16平|低区/18层|朝西南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "东方冠郡",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "405万"
+}{
+  "singel_price": "单价37977元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4716564.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170816/7bf5b5b3-f4d1-4cb7-8bd1-94e01132e4f1.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "南北直通，带飘窗，上下楼方便，精装修",
+  "s_cate": "新场",
+  "house_desc": [
+    "3室2厅|96.11平|低区/18层|朝南北"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "万科清林径",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "365万"
+}{
+  "singel_price": "单价33333元/平",
+  "zone_href": "http://sh.lianjia.com/ershoufang/pudong",
+  "house_href": "http://sh.lianjia.com/ershoufang/sh4637222.html",
+  "house_img": "http://cdn1.dooioo.com/fetch/vp/fy/gi/20170514/e6641e5f-40d4-4eaa-9cf2-bd6923d35ead.jpg_200x150.jpg",
+  "house_time": [
+    "2012年建"
+  ],
+  "house_title": "厨卫全明，客厅朝南，光线充足，毛坯房",
+  "s_cate": "新场",
+  "house_desc": [
+    "2室2厅|84.0平|中区/16层|朝南"
+  ],
+  "district": "浦东二手房",
+  "house_detail": "汇锦城二期",
+  "s_cate_href": "http://sh.lianjia.com/ershoufang/xinchang",
+  "house_price": "280万"
+}
